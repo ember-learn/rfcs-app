@@ -7,6 +7,26 @@ module.exports = function (defaults) {
     rfcProcess: {
       textLocation: 'processed-rfcs',
     },
+
+    'ember-prism': {
+      theme: 'okaidia',
+
+      components: [
+        'apacheconf',
+        'bash',
+        'css',
+        'handlebars',
+        'http',
+        'javascript',
+        'json',
+        'markup-templating',
+        'ruby',
+        'scss',
+        'yaml',
+        'typescript',
+        'diff',
+      ],
+    },
   });
 
   // Use `app.import` to add additional libraries to the generated

@@ -85,7 +85,7 @@ proposal-pr: ${frontMatter['RFC PR']}
 tracking-link: ${frontMatter['tracking-link'] ?? ''}
 stage: ${kebabCase(frontMatter.Stage ?? 'accepted')}
 ---
-${frontMatter.__content}`);
+${frontMatter.__content.replaceAll('```patch', '```diff')}`);
 
 // Stage: 'Accepted',
 // 'Start Date': 2022-02-25T00:00:00.000Z,
