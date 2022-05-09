@@ -33,6 +33,7 @@ module.exports = {
         './config/**/*.js',
         './lib/*/index.js',
         './server/**/*.js',
+        './process-rfcs.js',
       ],
       parserOptions: {
         sourceType: 'script',

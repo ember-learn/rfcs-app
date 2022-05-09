@@ -4,7 +4,7 @@ const yamlFront = require('yaml-front-matter');
 const { kebabCase } = require('lodash');
 const { copySync } = require('fs-extra');
 
-mkdirSync('processed-rfcs/text', { recursive: true});
+mkdirSync('processed-rfcs/text', { recursive: true });
 
 function releaseVersions(versions) {
   let processedVersions = '';
@@ -74,7 +74,9 @@ for (let file of files) {
   let fileContents = readFileSync(join('rfcs', 'text', file), 'utf8');
   let frontMatter = yamlFront.loadFront(fileContents);
 
-  writeFileSync(join('processed-rfcs', 'text', file), `---
+  writeFileSync(
+    join('processed-rfcs', 'text', file),
+    `---
 start-date: ${frontMatter['Start Date']}
 release-date:
 release-versions:
@@ -85,12 +87,6 @@ proposal-pr: ${frontMatter['RFC PR']}
 tracking-link: ${frontMatter['tracking-link'] ?? ''}
 stage: ${kebabCase(frontMatter.Stage ?? 'accepted')}
 ---
-${frontMatter.__content.replaceAll('```patch', '```diff')}`);
-
-// Stage: 'Accepted',
-// 'Start Date': 2022-02-25T00:00:00.000Z,
-// 'Release Date': 'Unreleased',
-// 'Release Versions': { 'ember-source': 'vX.Y.Z', 'ember-data': 'vX.Y.Z' },
-// 'Relevant Team(s)': 'Ember CLI',
-// 'RFC PR': 'https://github.com/emberjs/rfcs/pull/801',
+${frontMatter.__content.replaceAll('```patch', '```diff')}`
+  );
 }
