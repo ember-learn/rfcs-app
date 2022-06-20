@@ -1,11 +1,21 @@
 'use strict';
 
 const EmberApp = require('ember-cli/lib/broccoli/ember-app');
+const mergeTrees = require('broccoli-merge-trees');
+const funnel = require('broccoli-funnel');
 
 module.exports = function (defaults) {
   let app = new EmberApp(defaults, {
     rfcProcess: {
       textLocation: 'processed-rfcs',
+    },
+    trees: {
+      public: mergeTrees([
+        'public',
+        funnel('rfcs/images', {
+          destDir: 'images',
+        }),
+      ]),
     },
   });
 
