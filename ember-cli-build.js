@@ -17,6 +17,9 @@ module.exports = function (defaults) {
         }),
       ]),
     },
+    fingerprint: {
+      extensions: ['js', 'css', 'map'],
+    },
   });
 
   // Use `app.import` to add additional libraries to the generated
