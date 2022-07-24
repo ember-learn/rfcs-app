@@ -6,6 +6,7 @@ module.exports = function (environment) {
     environment,
     rootURL: '/',
     locationType: 'auto',
+
     EmberENV: {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build
@@ -24,6 +25,12 @@ module.exports = function (environment) {
 
     showdown: {
       ghCompatibleHeaderId: true,
+    },
+
+    rfcs: {
+      title: 'Ember.js RFCs',
+      description:
+        'Ember.js helps developers be more productive out of the box. Designed with developer ergonomics in mind, its friendly APIs help you get your job done—fast.',
     },
   };
 
