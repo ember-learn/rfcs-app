@@ -11,6 +11,9 @@ function releaseVersions(versions) {
 
   for (let v in versions) {
     if (versions[v] && versions[v] !== 'vX.Y.Z') {
+      if (processedVersions.length === 0) {
+        processedVersions += '\n';
+      }
       processedVersions += `  ${v}: ${versions[v]}\n`;
     }
   }
@@ -39,7 +42,7 @@ const teamMap = {
 
 function teams(teams) {
   if (!teams) {
-    return '';
+    return '\n  - framework';
   }
 
   const processedTeams = teams
@@ -58,35 +61,39 @@ function teams(teams) {
     });
 
   let outputString = '';
-  processedTeams.forEach((t) => {
-    outputString += `  - ${t}\n`;
+  processedTeams.forEach((t, index) => {
+    if (outputString.length === 0) {
+      outputString += '\n';
+    }
+    outputString += `  - ${t}`;
+
+    if (index !== processedTeams.length - 1) {
+      outputString += '\n';
+    }
   });
   return outputString;
 }
 
-const files = readdirSync('rfcs/text');
+const files = readdirSync('text');
 
 copySync('stages', 'processed-rfcs/stages');
 copySync('teams', 'processed-rfcs/teams');
-copySync('rfcs/README.md', 'processed-rfcs/README.md');
+copySync('README.md', 'processed-rfcs/README.md');
 
 for (let file of files) {
-  let fileContents = readFileSync(join('rfcs', 'text', file), 'utf8');
+  let fileContents = readFileSync(join('text', file), 'utf8');
   let frontMatter = yamlFront.loadFront(fileContents);
 
   writeFileSync(
     join('processed-rfcs', 'text', file),
     `---
-start-date: ${frontMatter['Start Date']}
+start-date: ${frontMatter['Start Date']?.toISOString()}
 release-date:
-release-versions:
-${releaseVersions(frontMatter['Release Versions'])}
-teams:
-${teams(frontMatter['Relevant Team(s)'])}
+release-versions: ${releaseVersions(frontMatter['Release Versions'])}
+teams: ${teams(frontMatter['Relevant Team(s)'])}
 proposal-pr: ${frontMatter['RFC PR']}
 tracking-link: ${frontMatter['tracking-link'] ?? ''}
 stage: ${kebabCase(frontMatter.Stage ?? 'accepted')}
----
-${frontMatter.__content.replaceAll('```patch', '```diff')}`
+---${frontMatter.__content.replaceAll('```patch', '```diff')}`
   );
 }
