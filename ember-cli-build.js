@@ -7,7 +7,7 @@ const funnel = require('broccoli-funnel');
 module.exports = function (defaults) {
   let app = new EmberApp(defaults, {
     rfcProcess: {
-      textLocation: 'processed-rfcs',
+      textLocation: 'rfcs',
     },
     trees: {
       public: mergeTrees([

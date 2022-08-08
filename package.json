@@ -12,7 +12,7 @@
   },
   "scripts": {
     "build": "ember build --environment=production",
-    "clone": "rm -rf rfcs processed-rfcs && git clone https://github.com/emberjs/rfcs.git && node process-rfcs",
+    "clone": "rm -rf rfcs && git clone https://github.com/emberjs/rfcs.git",
     "lint": "npm-run-all --aggregate-output --continue-on-error --parallel \"lint:!(fix)\"",
     "lint:fix": "npm-run-all --aggregate-output --continue-on-error --parallel lint:*:fix",
     "lint:hbs": "ember-template-lint .",
