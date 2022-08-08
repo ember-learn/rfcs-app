@@ -23,6 +23,7 @@ function releaseVersions(versions) {
 
 const teamMap = {
   'Ember.js': 'framework',
+  'Rmber.js': 'framework',
   'Ember CLI': 'cli',
   'Ember Data': 'data',
   'Ember-CLI': 'cli',
@@ -38,16 +39,17 @@ const teamMap = {
   Ember: 'framework',
   CLI: 'cli',
   TypeScript: 'typescript',
+  FIXME: '# FIXME',
 };
 
 function teams(teams) {
   if (!teams) {
-    return '\n  - framework';
+    return '\n  - framework ## FIXME - added automatically as it was missing during migration';
   }
 
   const processedTeams = teams
     .replace(
-      /^(All teams|All)$/,
+      /^(All teams|All|All Teams)$/,
       'Ember.js, Ember Data, Ember CLI, Learning, TypeScript, Steering'
     )
     .split(',')
@@ -74,6 +76,23 @@ function teams(teams) {
   return outputString;
 }
 
+function issues(obj) {
+  if (!obj) {
+    return '';
+  }
+  let output = '\n';
+
+  Object.keys(obj).forEach((key, index) => {
+    output += `    ${key}: ${obj[key]}`;
+
+    if (index !== Object.keys(obj).length - 1) {
+      output += '\n';
+    }
+  });
+
+  return output;
+}
+
 const files = readdirSync('text');
 
 copySync('stages', 'processed-rfcs/stages');
@@ -82,18 +101,58 @@ copySync('README.md', 'processed-rfcs/README.md');
 
 for (let file of files) {
   let fileContents = readFileSync(join('text', file), 'utf8');
+  console.log(`loading file ${file}`);
   let frontMatter = yamlFront.loadFront(fileContents);
+
+  let processedFrontMatter = `start-date: ${frontMatter['Start Date']?.toISOString()}
+release-date:
+release-versions: ${releaseVersions(frontMatter['Release Versions'])}
+teams: ${teams(frontMatter['Relevant Team(s)'] ?? frontMatter['Relevant Teams'])}
+prs:
+  accepted: ${frontMatter['RFC PR']}
+project-link: ${frontMatter['tracking-link'] ?? ''}
+stage: ${kebabCase(frontMatter.Stage ?? 'accepted')}`;
+
+  if (
+    frontMatter['Ember Issue'] ||
+    frontMatter['Issues'] ||
+    frontMatter['Tracking'] ||
+    frontMatter['Authors'] ||
+    frontMatter['Heavily Revised']
+  ) {
+    processedFrontMatter += `
+meta:
+  ember-issue: ${frontMatter['Ember Issue'] ?? ''}
+  issues: ${issues(frontMatter.Issues)}
+  tracking: ${frontMatter.Tracking ?? ''}
+  authors: ${frontMatter.Authors ?? ''}
+  heavily-revised: ${frontMatter['Heavily Revised']?.toISOString() ?? ''}`;
+  }
 
   writeFileSync(
     join('processed-rfcs', 'text', file),
     `---
-start-date: ${frontMatter['Start Date']?.toISOString()}
-release-date:
-release-versions: ${releaseVersions(frontMatter['Release Versions'])}
-teams: ${teams(frontMatter['Relevant Team(s)'])}
-proposal-pr: ${frontMatter['RFC PR']}
-tracking-link: ${frontMatter['tracking-link'] ?? ''}
-stage: ${kebabCase(frontMatter.Stage ?? 'accepted')}
+${processedFrontMatter}
 ---${frontMatter.__content.replaceAll('```patch', '```diff')}`
   );
+
+  delete frontMatter['Start Date'];
+  delete frontMatter['Release Versions'];
+  delete frontMatter['Relevant Team(s)'];
+  delete frontMatter['Relevant Teams'];
+  delete frontMatter['RFC PR'];
+  delete frontMatter['tracking-link'];
+  delete frontMatter['Ember Issue'];
+  delete frontMatter['Release Date'];
+  delete frontMatter['Heavily Revised'];
+  delete frontMatter.Issues;
+  delete frontMatter.Stage;
+  delete frontMatter.Tracking;
+  delete frontMatter.Authors;
+  delete frontMatter.__content;
+
+  if (Object.keys(frontMatter).length !== 0) {
+    console.error(file, frontMatter);
+    // throw new Error('this file aint great');
+  }
 }
