@@ -3,6 +3,24 @@
 const EmberApp = require('ember-cli/lib/broccoli/ember-app');
 const mergeTrees = require('broccoli-merge-trees');
 const funnel = require('broccoli-funnel');
+const { readdirSync } = require('fs');
+
+function buildRedirects() {
+  const redirects = [];
+  const rfcs = readdirSync('rfcs/text');
+
+  for (let filename of rfcs) {
+    const match = filename.match(/(\d+)-.*/);
+
+    const number = parseInt(match[1]);
+
+    redirects.push(
+      `/number/${number} /id/${filename.replace(/\.md$/, '')} 301!`
+    );
+  }
+
+  return redirects;
+}
 
 module.exports = function (defaults) {
   let app = new EmberApp(defaults, {
@@ -19,6 +37,9 @@ module.exports = function (defaults) {
     },
     fingerprint: {
       extensions: ['js', 'css', 'map'],
+    },
+    'ember-cli-netlify': {
+      redirects: buildRedirects(),
     },
   });
 
