@@ -69,7 +69,7 @@
     "qunit": "^2.17.2",
     "qunit-dom": "^1.6.0",
     "rfc-process": "^1.0.0",
-    "rfc-process-mdbook-template": "^1.1.1",
+    "rfc-process-mdbook-template": "^2.0.0",
     "yaml-front-matter": "^4.1.1"
   },
   "engines": {
