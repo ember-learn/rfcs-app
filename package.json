@@ -92,7 +92,7 @@
     "vite": "^6.3.5",
     "vite-multiple-assets": "^2.2.5",
     "vitest": "^3.2.2",
-    "yaml-front-matter": "^4.1.1"
+    "yaml-front-matter": "github:mansona/js-yaml-front-matter#esm"
   },
   "engines": {
     "node": ">= 18"

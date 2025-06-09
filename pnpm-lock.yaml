@@ -186,8 +186,8 @@ importers:
         specifier: ^3.2.2
         version: 3.2.2(@types/node@22.13.4)(jsdom@25.0.1)(terser@5.39.0)
       yaml-front-matter:
-        specifier: ^4.1.1
-        version: 4.1.1
+        specifier: github:mansona/js-yaml-front-matter#esm
+        version: https://codeload.github.com/mansona/js-yaml-front-matter/tar.gz/3fe04f87db2c3fdece83708cbcb599bd687b0a84
 
 packages:
 
@@ -7464,8 +7464,9 @@ packages:
     resolution: {integrity: sha512-Hv9xxHtsJ9228wNhk03xnlDReUuWVvHwM4rIbjdAXYvHLs17xjuyF50N6XXFMN6N0omBaqgOok/MCK3At9fTAg==}
     engines: {node: ^4.5 || 6.* || >= 7.*}
 
-  yaml-front-matter@4.1.1:
-    resolution: {integrity: sha512-ULGbghCLsN8Hs8vfExlqrJIe8Hl2TUjD7/zsIGMP8U+dgRXEsDXk4yydxeZJgdGiimP1XB7zhmhOB4/HyfqOyQ==}
+  yaml-front-matter@https://codeload.github.com/mansona/js-yaml-front-matter/tar.gz/3fe04f87db2c3fdece83708cbcb599bd687b0a84:
+    resolution: {tarball: https://codeload.github.com/mansona/js-yaml-front-matter/tar.gz/3fe04f87db2c3fdece83708cbcb599bd687b0a84}
+    version: 4.1.1
     hasBin: true
 
   yargs-parser@21.1.1:
@@ -16703,7 +16704,7 @@ snapshots:
       fs-extra: 4.0.3
       lodash.merge: 4.6.2
 
-  yaml-front-matter@4.1.1:
+  yaml-front-matter@https://codeload.github.com/mansona/js-yaml-front-matter/tar.gz/3fe04f87db2c3fdece83708cbcb599bd687b0a84:
     dependencies:
       commander: 6.2.1
       js-yaml: 3.14.1
