@@ -1,20 +1,16 @@
 'use strict';
 
 module.exports = function (environment) {
-  let ENV = {
+  const ENV = {
     modulePrefix: 'rfcs-app',
     environment,
     rootURL: '/',
-    locationType: 'auto',
-
+    locationType: 'history',
     EmberENV: {
+      EXTEND_PROTOTYPES: false,
       FEATURES: {
         // Here you can enable experimental features on an ember canary build
         // e.g. EMBER_NATIVE_DECORATOR_SUPPORT: true
-      },
-      EXTEND_PROTOTYPES: {
-        // Prevent Ember Data from overriding Date.parse.
-        Date: false,
       },
     },
 
@@ -25,12 +21,7 @@ module.exports = function (environment) {
 
     showdown: {
       ghCompatibleHeaderId: true,
-    },
-
-    rfcs: {
-      title: 'Ember.js RFCs',
-      description:
-        'Ember.js helps developers be more productive out of the box. Designed with developer ergonomics in mind, its friendly APIs help you get your job done—fast.',
+      tables: true,
     },
   };
 
