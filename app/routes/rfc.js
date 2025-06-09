@@ -1,12 +1,9 @@
 import Route from '@ember/routing/route';
-import { inject as service } from '@ember/service';
 import { loadFront } from 'yaml-front-matter';
 
 const rfcs = import.meta.glob('rfcs/text/*.md', {query: '?raw', import: 'default'});
 
 export default class RfcsRoute extends Route {
-  @service store;
-
   async model(params) {
     const rfc = await rfcs[`/rfcs/text/${params.id}.md`]()
 
