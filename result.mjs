@@ -167,7 +167,9 @@ export default class Result {
     body = HTMLSerializer.serializeChildren(body);
 
     this._head = head;
-    this._body = body;
+
+    // Adding script boundary around the body
+    this._body = `<script type="x/boundary" id="fastboot-body-start"></script>${body}<script type="x/boundary" id="fastboot-body-end"></script>`;
   }
 }
 
