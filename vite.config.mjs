@@ -8,6 +8,15 @@ import buildRedirects from './lib/build-redirects';
 import {DynamicPublicDirectory} from "vite-multiple-assets";
 
 export default defineConfig({
+  build: {
+    ssr: process.env.BUILD_SSR ? 'app/app.js' : false,
+    outDir: process.env.BUILD_SSR ? 'dist-ssr' : 'dist',
+    minify: false,
+  },
+  ssr: {
+    noExternal: true,
+  },
+
   resolve: {
     alias: {
       'rfcs': resolve('./rfcs')

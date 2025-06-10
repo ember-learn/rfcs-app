@@ -10,8 +10,6 @@ export default class RFCRouteComponent extends Component {
 
   get previousRFC() {
     let currentRFCIndex = this.application.model.links.indexOf(this.args.model.id);
-
-    console.log({currentRFCIndex, applicationModel: this.application.model, currentId: this.args.model})
     if (currentRFCIndex <= 0) {
       return null;
     }

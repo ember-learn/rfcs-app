@@ -1,5 +1,6 @@
 # compiled output
 /dist/
+/dist-*/
 /declarations/
 /tmp/
 
@@ -23,6 +24,7 @@
 /yarn.lock.ember-try
 
 # rfcs text
+/rfcs
 /rfcs/
 /processed-rfcs/
 

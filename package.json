@@ -12,7 +12,7 @@
   },
   "scripts": {
     "clone": "rm -rf rfcs && git clone https://github.com/emberjs/rfcs.git",
-    "build": "vite build",
+    "build": "vite build && BUILD_SSR=true vite build && node prerender.mjs",
     "format": "prettier . --cache --write",
     "lint": "concurrently \"pnpm:lint:*(!fix)\" --names \"lint:\" --prefixColors auto",
     "lint:css": "stylelint \"**/*.css\"",
@@ -85,6 +85,7 @@
     "qunit": "^2.24.1",
     "qunit-dom": "^3.4.0",
     "rollup": "^4.42.0",
+    "simple-dom": "^1.4.0",
     "stylelint": "^16.19.1",
     "stylelint-config-standard": "^38.0.0",
     "testem": "^3.16.0",

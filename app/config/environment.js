@@ -1,7 +1,17 @@
 import loadConfigFromMeta from '@embroider/config-meta-loader';
 import { assert } from '@ember/debug';
 
-const config = loadConfigFromMeta('rfcs-app');
+let config;
+
+
+config = {
+  modulePrefix: 'rfcs-app',
+  rootURL: '/',
+  locationType: 'history',
+  APP: {},
+}
+
+
 
 assert(
   'config is not an object',
