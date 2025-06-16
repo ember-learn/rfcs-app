@@ -9,6 +9,24 @@ config = {
   rootURL: '/',
   locationType: 'history',
   APP: {},
+  'ember-showdown-shiki': {
+    theme: 'github-dark',
+    languages: [
+      'bash',
+      'css',
+      'http',
+      'javascript',
+      'json',
+      'json5',
+      'ruby',
+      'scss',
+      'yaml',
+      'typescript',
+      'glimmer-js',
+      'glimmer-ts',
+      'handlebars',
+    ],
+  },
 }
 
 
