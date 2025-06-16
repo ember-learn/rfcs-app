@@ -4,8 +4,10 @@ import { babel } from '@rollup/plugin-babel';
 import { resolve } from 'path';
 import tocBuilder from './lib/toc-builder';
 import buildRedirects from './lib/build-redirects';
+import { loadFront } from 'yaml-front-matter';
 
-import {DynamicPublicDirectory} from "vite-multiple-assets";
+import { DynamicPublicDirectory } from 'vite-multiple-assets';
+import { readFileSync } from 'fs';
 
 export default defineConfig({
   build: {
@@ -18,15 +20,38 @@ export default defineConfig({
 
   resolve: {
     alias: {
-      'rfcs': resolve('./rfcs')
-    }
+      rfcs: resolve('./rfcs'),
+    },
   },
   publicDir: false,
   plugins: [
-    DynamicPublicDirectory(["public/**", {
-      input: "rfcs/images/**",
-      output: "/images"
-    }]),
+    {
+      name: 'rfcs-app-parsed-markdown',
+      load(id) {
+        if (id.endsWith('.md')) {
+          const rfc = readFileSync(id, 'utf8');
+
+          const parsed = loadFront(rfc);
+
+          const contents = {
+            ...parsed,
+            startDate: parsed['start-date'],
+            releaseDate: parsed['release-date'],
+            releaseVersions: parsed['release-versions'],
+            content: parsed.__content,
+          };
+
+          return `export default ${JSON.stringify(contents)}`;
+        }
+      },
+    },
+    DynamicPublicDirectory([
+      'public/**',
+      {
+        input: 'rfcs/images/**',
+        output: '/images',
+      },
+    ]),
     buildRedirects(),
     tocBuilder('rfcs/text'),
     classicEmberSupport(),

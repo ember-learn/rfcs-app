@@ -4,7 +4,7 @@ export default function formatDate(date /*, positionalB, named*/) {
   }
 
   try {
-    return new Intl.DateTimeFormat().format(date, { dateStyle: 'full' });
+    return new Intl.DateTimeFormat().format(new Date(date), { dateStyle: 'full' });
   } catch (e) {
     console.error(`Error while formatting date '${date}': ${e.message}`);
   }
