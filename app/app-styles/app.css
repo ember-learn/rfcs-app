@@ -1,21 +1,21 @@
-@import "mdbook.css";
-@import "fonts.css";
-@import "variables.css";
-@import "chrome.css";
+@import 'mdbook.css';
+@import 'fonts.css';
+@import 'variables.css';
+@import 'chrome.css';
 
 button.reset {
   border: none;
-   margin: 0;
-   padding: 0;
-   width: auto;
-   overflow: visible;
-   background: transparent;
-   color: inherit;
-   font: inherit;
-   line-height: normal;
-   -webkit-font-smoothing: inherit;
-   -moz-osx-font-smoothing: inherit;
-   -webkit-appearance: none;
+  margin: 0;
+  padding: 0;
+  width: auto;
+  overflow: visible;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  line-height: normal;
+  -webkit-font-smoothing: inherit;
+  -moz-osx-font-smoothing: inherit;
+  -webkit-appearance: none;
 }
 
 .margin-auto {
@@ -23,7 +23,7 @@ button.reset {
 }
 
 .p1 {
-  padding: .5em;
+  padding: 0.5em;
 }
 
 .p2 {
@@ -31,7 +31,7 @@ button.reset {
 }
 
 .stage-title {
-  margin-top: .5rem;
+  margin-top: 0.5rem;
   margin-bottom: 0;
 }
 
@@ -44,7 +44,7 @@ ul.chapter {
 }
 
 .svg-inline--fa {
-    display: inline-block;
-    height: 1em;
-    vertical-align: -0.125em;
+  display: inline-block;
+  height: 1em;
+  vertical-align: -0.125em;
 }

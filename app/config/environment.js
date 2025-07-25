@@ -1,10 +1,6 @@
-import loadConfigFromMeta from '@embroider/config-meta-loader';
 import { assert } from '@ember/debug';
 
-let config;
-
-
-config = {
+let config = {
   modulePrefix: 'rfcs-app',
   rootURL: '/',
   locationType: 'history',
@@ -27,9 +23,10 @@ config = {
       'handlebars',
     ],
   },
-}
-
-
+  showdown: {
+    tables: true,
+  },
+};
 
 assert(
   'config is not an object',

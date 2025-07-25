@@ -2,17 +2,16 @@ import { LinkTo } from '@ember/routing';
 import Component from '@glimmer/component';
 
 const stageOrder = {
-  'proposed': 'Proposed',
-  'exploring': 'Exploring',
-  'accepted': 'Accepted',
+  proposed: 'Proposed',
+  exploring: 'Exploring',
+  accepted: 'Accepted',
   'ready-for-release': 'Ready for release',
-  'released': 'Released',
-  'recommended': 'Recommended',
-  'closed': 'Closed',
-  'dicontinued': 'Discontinued',
-  'no-stage': '[No Stage]'
-}
-
+  released: 'Released',
+  recommended: 'Recommended',
+  closed: 'Closed',
+  dicontinued: 'Discontinued',
+  'no-stage': '[No Stage]',
+};
 
 export default class GroupedTocComponent extends Component {
   <template>
@@ -35,15 +34,13 @@ export default class GroupedTocComponent extends Component {
   get sortedStages() {
     const result = [];
 
-    for(let stage in stageOrder) {
+    for (let stage in stageOrder) {
       result.push({
         name: stageOrder[stage],
-        links: this.args.model.stageLinks[stage]
-      })
+        links: this.args.model.stageLinks[stage],
+      });
     }
 
     return result;
   }
 }
-
-

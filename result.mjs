@@ -56,7 +56,7 @@ export default class Result {
       this._head,
       this._body,
       this._bodyAttributes,
-      this._bodyClass
+      this._bodyClass,
     );
   }
 
@@ -79,8 +79,8 @@ export default class Result {
       this._head,
       this._body,
       this._bodyAttributes,
-      this._bodyClass
-    ).then(html => {
+      this._bodyClass,
+    ).then((html) => {
       let docParts = html.match(HTML_HEAD_REGEX);
       if (!docParts || docParts.length === 1) {
         return [html];
@@ -90,14 +90,14 @@ export default class Result {
 
       if (!head || !body) {
         throw new Error(
-          'Could not idenfity head and body of the document! Make sure the document is well formed.'
+          'Could not idenfity head and body of the document! Make sure the document is well formed.',
         );
       }
 
       let [plainBody, ...shoeboxes] = body.split(SHOEBOX_TAG_PATTERN);
 
       let chunks = [head, plainBody].concat(
-        shoeboxes.map(shoebox => `${SHOEBOX_TAG_PATTERN}${shoebox}`)
+        shoeboxes.map((shoebox) => `${SHOEBOX_TAG_PATTERN}${shoebox}`),
       );
 
       return chunks;
@@ -152,11 +152,13 @@ export default class Result {
     let head = this._doc.head;
     let body = this._doc.body;
 
-    let { klass: htmlClass, attributes: htmlAttributes } = extractExtraAttributes(htmlElement);
+    let { klass: htmlClass, attributes: htmlAttributes } =
+      extractExtraAttributes(htmlElement);
     this._htmlClass = htmlClass;
     this._htmlAttributes = htmlAttributes;
 
-    let { klass: bodyClass, attributes: bodyAttributes } = extractExtraAttributes(body);
+    let { klass: bodyClass, attributes: bodyAttributes } =
+      extractExtraAttributes(body);
     this._bodyClass = bodyClass;
     this._bodyAttributes = bodyAttributes;
 
@@ -177,10 +179,12 @@ function extractExtraAttributes(element) {
   let klass;
   let attributes;
   if (element.attributes.length > 0) {
-    let elementClass = element.attributes.find(attr => attr.name === 'class');
+    let elementClass = element.attributes.find((attr) => attr.name === 'class');
     if (elementClass) {
       klass = elementClass;
-      let otherAttrs = element.attributes.filter(attr => attr.name !== 'class');
+      let otherAttrs = element.attributes.filter(
+        (attr) => attr.name !== 'class',
+      );
       if (otherAttrs.length > 0) {
         attributes = HTMLSerializer.attributes(otherAttrs);
       } else {
@@ -198,14 +202,14 @@ function extractExtraAttributes(element) {
 
 function missingTag(tag) {
   throw new Error(
-    `Fastboot was not able to find ${tag} in base HTML. It could not replace the contents.`
+    `Fastboot was not able to find ${tag} in base HTML. It could not replace the contents.`,
   );
 }
 
 function addClass(html, regex, newClass) {
-  return html.replace(regex, function(_, tag, attributes) {
+  return html.replace(regex, function (_, tag, attributes) {
     if (/class="([^"]*)"/i.test(attributes)) {
-      attributes = attributes.replace(/class="([^"]*)"/i, function(_, klass) {
+      attributes = attributes.replace(/class="([^"]*)"/i, function (_, klass) {
         return `class="${klass} ${newClass}"`;
       });
     } else {
@@ -222,7 +226,7 @@ async function insertIntoIndexHTML(
   head,
   body,
   bodyAttributes,
-  bodyClass
+  bodyClass,
 ) {
   if (!html) {
     return Promise.resolve(html);
@@ -230,22 +234,25 @@ async function insertIntoIndexHTML(
   let isBodyReplaced = false;
   let isHeadReplaced = false;
 
-  html = html.replace(/<!-- EMBER_CLI_FASTBOOT_(HEAD|BODY) -->/g, function(match, tag) {
-    if (tag === 'HEAD' && head && !isHeadReplaced) {
-      isHeadReplaced = true;
-      return head;
-    } else if (tag === 'BODY' && body && !isBodyReplaced) {
-      isBodyReplaced = true;
-      return body;
-    }
-    return '';
-  });
+  html = html.replace(
+    /<!-- EMBER_CLI_FASTBOOT_(HEAD|BODY) -->/g,
+    function (match, tag) {
+      if (tag === 'HEAD' && head && !isHeadReplaced) {
+        isHeadReplaced = true;
+        return head;
+      } else if (tag === 'BODY' && body && !isBodyReplaced) {
+        isBodyReplaced = true;
+        return body;
+      }
+      return '';
+    },
+  );
 
   if (htmlClass) {
     html = addClass(html, /<(html)(.*)>/i, htmlClass.value);
   }
   if (htmlAttributes) {
-    html = html.replace(/<html[^>]*/i, function(match) {
+    html = html.replace(/<html[^>]*/i, function (match) {
       return match + ' ' + htmlAttributes;
     });
   }
@@ -254,7 +261,7 @@ async function insertIntoIndexHTML(
     html = addClass(html, /<(body)(.*)>/i, bodyClass.value);
   }
   if (bodyAttributes) {
-    html = html.replace(/<body[^>]*/i, function(match) {
+    html = html.replace(/<body[^>]*/i, function (match) {
       return match + ' ' + bodyAttributes;
     });
   }

@@ -17,11 +17,13 @@ module('Integration | Component | grouped-toc', function (hooks) {
     assert.dom().hasText('');
 
     // Template block usage:
-    await render(<template>
-      <GroupedToc>
-        template block text
-      </GroupedToc>
-    </template>);
+    await render(
+      <template>
+        <GroupedToc>
+          template block text
+        </GroupedToc>
+      </template>
+    );
 
     assert.dom().hasText('template block text');
   });

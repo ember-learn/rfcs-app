@@ -1,16 +1,16 @@
 import { readFile, writeFile, mkdir } from 'fs/promises';
 import SimpleDOM from 'simple-dom/dist/commonjs/es5/index.js';
 import { join } from 'path';
-import Module from "node:module";
+import Module from 'node:module';
 import { globSync } from 'glob';
 
 const require = Module.createRequire(import.meta.url);
 
 global.FastBoot = {
   require(thing) {
-    require(thing)
-  }
-}
+    require(thing);
+  },
+};
 
 import Result from './result.mjs';
 
@@ -49,15 +49,17 @@ function buildBootOptions() {
 async function render(url, instance) {
   let bootOptions = buildBootOptions();
   await instance.visit(url, bootOptions);
-  return new Result(bootOptions.document, wrapperHTML, {})
+  return new Result(bootOptions.document, wrapperHTML, {});
 }
 
 const routesToPrerender = ['/'];
 
 const markdowns = globSync('./rfcs/text/*.md');
 
-for (let file of markdowns ) {
-  routesToPrerender.push(`/id/${file.replace(/^rfcs\/text\//, '').replace(/\.md$/, '')}`)
+for (let file of markdowns) {
+  routesToPrerender.push(
+    `/id/${file.replace(/^rfcs\/text\//, '').replace(/\.md$/, '')}`,
+  );
 }
 
 for (let path of routesToPrerender) {

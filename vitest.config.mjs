@@ -3,4 +3,4 @@ export default defineConfig({
   test: {
     include: ['node-tests/**/*.mjs'],
   },
-})
+});

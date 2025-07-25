@@ -1,9 +1,8 @@
-
 import { describe, beforeEach, it, expect } from 'vitest';
 import tocBuilder from '../lib/toc-builder';
 import { Project } from 'fixturify-project';
-import {rollup} from 'rollup';
-import {resolve} from 'path';
+import { rollup } from 'rollup';
+import { resolve } from 'path';
 import pluginJson from '@rollup/plugin-json';
 
 describe('Tag Generator', function () {
@@ -37,7 +36,7 @@ stage: approved
 ---
   hello world`,
       },
-'index.js': `import json from 'rfcs-app-toc-builder:toc.json';`,
+      'index.js': `import json from 'rfcs-app-toc-builder:toc.json';`,
     };
 
     await project.write();
@@ -45,7 +44,7 @@ stage: approved
     const bundle = await rollup({
       treeshake: false,
       input: resolve(project.baseDir, 'index.js'),
-      plugins: [tocBuilder(resolve(project.baseDir, 'content')), pluginJson()]
+      plugins: [tocBuilder(resolve(project.baseDir, 'content')), pluginJson()],
     });
 
     const { output } = await bundle.generate({ exports: 'auto' });
@@ -81,6 +80,6 @@ stage: approved
       	stageLinks: stageLinks
       };
       "
-    `)
+    `);
   });
 });
