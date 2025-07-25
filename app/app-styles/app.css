@@ -1,3 +1,4 @@
+/* stylelint-disable import-notation, property-no-vendor-prefix, selector-class-pattern */
 @import 'mdbook.css';
 @import 'fonts.css';
 @import 'variables.css';

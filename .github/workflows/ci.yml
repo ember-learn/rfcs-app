@@ -45,5 +45,7 @@ jobs:
           cache: pnpm
       - name: Install Dependencies
         run: pnpm install --frozen-lockfile
+      - name: Clone RFCs repo
+        run: pnpm clone
       - name: Run Tests
         run: pnpm test
