@@ -1,4 +1,5 @@
 /* stylelint-disable alpha-value-notation, at-rule-empty-line-before, color-function-alias-notation, color-function-notation, declaration-block-no-redundant-longhand-properties, declaration-empty-line-before, import-notation, length-zero-no-unit, media-feature-range-notation, no-descending-specificity, property-no-vendor-prefix, rule-empty-line-before, selector-not-notation, shorthand-property-no-redundant-values, value-no-vendor-prefix */
+
 /* CSS for UI elements (a.k.a. chrome) */
 
 @import 'variables.css';

@@ -10,12 +10,12 @@ module('Integration | Component | grouped-toc', function (hooks) {
     const testToc = {
       links: ['0001-first-post'],
       stageLinks: {
-        released: ['0001-first-post']
+        released: ['0001-first-post'],
       },
-      stages: ['released']
-    }
+      stages: ['released'],
+    };
 
-    await render(<template><GroupedToc @model={{testToc}}/></template>);
+    await render(<template><GroupedToc @model={{testToc}} /></template>);
 
     // TODO improve tests
     assert.dom().hasText('Released 0001-first-post');
