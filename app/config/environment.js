@@ -1,10 +1,18 @@
 import { assert } from '@ember/debug';
+import { isTesting } from '@embroider/macros';
 
 let config = {
   modulePrefix: 'rfcs-app',
   rootURL: '/',
-  locationType: 'history',
-  APP: {},
+  locationType: isTesting() ? 'none' : 'history',
+  APP: isTesting()
+    ? {
+        LOG_ACTIVE_GENERATION: false,
+        LOG_VIEW_LOOKUPS: false,
+        rootElement: '#ember-testing',
+        autoboot: false,
+      }
+    : {},
   'ember-showdown-shiki': {
     theme: 'github-dark',
     languages: [

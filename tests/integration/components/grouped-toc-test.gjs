@@ -7,24 +7,17 @@ module('Integration | Component | grouped-toc', function (hooks) {
   setupRenderingTest(hooks);
 
   test('it renders', async function (assert) {
-    // Updating values is achieved using autotracking, just like in app code. For example:
-    // class State { @tracked myProperty = 0; }; const state = new State();
-    // and update using state.myProperty = 1; await rerender();
-    // Handle any actions with function myAction(val) { ... };
+    const testToc = {
+      links: ['0001-first-post'],
+      stageLinks: {
+        released: ['0001-first-post']
+      },
+      stages: ['released']
+    }
 
-    await render(<template><GroupedToc /></template>);
+    await render(<template><GroupedToc @model={{testToc}}/></template>);
 
-    assert.dom().hasText('');
-
-    // Template block usage:
-    await render(
-      <template>
-        <GroupedToc>
-          template block text
-        </GroupedToc>
-      </template>
-    );
-
-    assert.dom().hasText('template block text');
+    // TODO improve tests
+    assert.dom().hasText('Released 0001-first-post');
   });
 });
