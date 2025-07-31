@@ -83,6 +83,7 @@
     "globals": "^16.1.0",
     "lint-to-the-future": "^2.6.3",
     "lint-to-the-future-stylelint": "^2.1.0",
+    "octokit": "^5.0.3",
     "prettier": "^3.5.3",
     "prettier-plugin-ember-template-tag": "^2.0.5",
     "qunit": "^2.24.1",
