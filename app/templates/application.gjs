@@ -2,6 +2,7 @@ import { pageTitle } from 'ember-page-title';
 import { LinkTo } from '@ember/routing';
 import EsHeader from 'ember-styleguide/components/es-header';
 import EsSidebar from 'ember-styleguide/components/es-sidebar';
+
 <template>
   {{pageTitle "Ember.js RFCs"}}
   <EsHeader><input placeholder="Search all RFCS" /></EsHeader>

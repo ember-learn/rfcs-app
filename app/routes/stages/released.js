@@ -1,3 +1,7 @@
 import Route from '@ember/routing/route';
-
-export default class StagesReleasedRoute extends Route {}
+import toc from 'rfcs-app-toc-builder:toc.json';
+export default class StagesReleasedRoute extends Route {
+  async model() {
+      return toc.stageLinks["released"];
+    }
+}

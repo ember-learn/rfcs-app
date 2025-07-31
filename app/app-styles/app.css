@@ -16,3 +16,35 @@
   height: 100px;
   border-radius: 50px;
 }
+
+.table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 2px solid var(--color-brand);
+  border-radius: var(--radius);
+}
+
+.table th,
+.table td {
+  padding: var(--spacing-1);
+  text-align: left;
+  border-left: none;
+  border-right: none;
+}
+
+/* Row borders */
+.table tr + tr td {
+  border-top: 1px solid var(--color-card-border);
+}
+
+/* Optional: top border for the header row */
+.table thead tr th {
+  background-color: var(--color-brand);
+  border-bottom: 1px solid var(--color-card-border);
+  color: var(--color-white);
+}
+
+/* Optional: remove the last row bottom border if needed */
+.table tr:last-child td {
+  border-bottom: none;
+}

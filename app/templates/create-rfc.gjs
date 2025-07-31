@@ -1,5 +1,7 @@
 import { pageTitle } from 'ember-page-title';
 import { LinkTo } from '@ember/routing';
+import EsNote from 'ember-styleguide/components/es-note';
+
 <template>
   {{pageTitle "Creating an RFC"}}
   <h1>Creating an RFC</h1>
@@ -37,97 +39,65 @@ import { LinkTo } from '@ember/routing';
     level of API design detail required for an RFC. You may open an issue on
     this repo to start a high-level discussion, with the goal of eventually
     formulating an RFC pull request with the specific implementation design. We
-    also highly recommend sharing drafts of RFCs in #dev-rfc on the Ember
-    Discord for early feedback.</p>
+    also highly recommend sharing drafts of RFCs in <a href="https://discord.com/channels/480462759797063690/500803406676492298">#dev-rfc channel</a> on the <a href="https://discord.gg/vH76gMKgqB">Ember.js Discord</a> for early feedback.</p>
 
   <p>For more on the RFC process and stages, check out the
     <LinkTo @route="stages">RFC stages guide</LinkTo></p>
+
+  <EsNote @mascot="zoey">The process may look daunting, however we invite
+    everyone to participate. You can propose the change you want to see!</EsNote>
   <h2>How to create a new RFC</h2>
   <ul>
-    <li> Fork the RFC repo http://github.com/emberjs/rfcs</li>
+    <li> Fork the <a href="http://github.com/emberjs/rfcs">RFC repo</a></li>
     <li>
       Copy the appropriate template. For most RFCs, this is 0000-template.md,
       for deprecation RFCs it is deprecation-template.md. Copy the template file
       to text/0000-my-feature.md, where 'my-feature' is descriptive.
-    </li><li> Don't assign an RFC number yet.</li>
+    </li>
+    <li> Don't assign an RFC number yet.</li>
     <li>
       Fill in the RFC. Put care into the details: RFCs that do not present
       convincing motivation, demonstrate understanding of the impact of the
       design, or are disingenuous about the drawbacks or alternatives tend to be
       poorly-received.</li>
     <li>
-      Fill in the relevant core teams. Use the table below to map from projects
-      to teams.</li>
+      Fill in the relevant core teams.
+    </li>
     <li>
       Submit a pull request. As a pull request the RFC will receive design
       feedback from the larger community, and the author should be prepared to
-      revise it in response. The RFC is now in the Proposed stage.</li>
+      revise it in response. The RFC is now in the
+      <a href="/stages#proposed">Proposed stage</a>.
+    </li>
     <li>
       Find a champion on the relevant core team. The champion is responsible for
       shepherding the RFC through the RFC process and representing it in core
-      team meetings.</li>
+      team meetings.
+    </li>
     <li>
       Update the pull request to add the number of the PR to the filename and
-      add a link to the PR in the header of the RFC.</li>
+      add a link to the PR in the header of the RFC.
+    </li>
     <li>
       Build consensus and integrate feedback. RFCs that have broad support are
       much more likely to make progress than those that don't receive any
-      comments.</li>
+      comments.
+    </li>
     <li>
-      From here, the RFC moves to the Exploring stage or Closed in the process
-      explained in Stages.</li>
+      From here, the RFC moves to the <a href="/stages#exploring">Exploring stage</a> or <a href="/stages#closed">Closed</a> in the process
+      explained in Stages.
+    </li>
   </ul>
 
-  <table>
-  <thead>
-    <tr>
-      <th>Core Team</th>
-      <th>Project/Topics</th>
-      <th>Github Team</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Ember.js</td>
-      <td>Ember.js</td>
-      <td><code>@emberjs/Framework</code></td>
-    </tr>
-    <tr>
-      <td>Ember Data</td>
-      <td>Ember Data</td>
-      <td><code>@emberjs/ember-data-core</code></td>
-    </tr>
-    <tr>
-      <td>Ember CLI</td>
-      <td>Ember CLI</td>
-      <td><code>@emberjs/cli</code></td>
-    </tr>
-    <tr>
-      <td>Learning</td>
-      <td>Documentation, Website, learning experiences</td>
-      <td><code>@emberjs/learning-core</code></td>
-    </tr>
-    <tr>
-      <td>TypeScript</td>
-      <td>TypeScript integration and design</td>
-      <td><code>@emberjs/typescript-core</code></td>
-    </tr>
-    <tr>
-      <td>Steering</td>
-      <td>Governance</td>
-      <td><code>@emberjs/steering</code></td>
-    </tr>
-  </tbody>
-  </table>
   <h3>RFC champion</h3>
   <p>For every RFC, you'll need to find a champion from the relevant core team.
     This person is responsible for representing the RFC in team meetings and
     guiding it through the various stages. Their responsibilities include
     helping the team reach consensus, ensuring the RFC adheres to the process,
     and supporting planning and implementation. A champion can step down before
-    the RFC is accepted and may also designate a replacement at any time.</p><p
-  >The best way to find a champion is by engaging in the #dev-rfc channel on the
-    Ember Discord, which is dedicated to RFC discussions. Sharing early drafts
+    the RFC is accepted and may also designate a replacement at any time.</p>
+    <p>The best way to find a champion is by engaging in the <a href="https://discord.com/channels/480462759797063690/500803406676492298">#dev-rfc channel</a> on the
+    <a href="https://discord.gg/vH76gMKgqB">Ember.js Discord</a>, which is dedicated to RFC discussions. Sharing early drafts
     there is highly encouraged as it's a great way to receive initial feedback
     and connect with potential champions. You can also request a champion by
     opening an issue or noting it directly in the RFC.</p>

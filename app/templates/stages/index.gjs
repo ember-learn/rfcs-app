@@ -18,7 +18,7 @@ import { pageTitle } from 'ember-page-title';
       </p>
       <p>For certain stage advancements, a final comment period (FCP) is required. This is a period lasting 7 days. The beginning of this period will be signaled with a comment and tag on the RFC's pull request. Furthermore, a message will be posted in #news-and-announcements on Ember Discord to attract the community's attention.</p>
       <p>An RFC can be modified based upon feedback from the core teams and community during the final comment period. Significant modifications may trigger a new final comment period. At the end of a successful FCP, the RFC moves into the next stage. An RFC may be closed or discontinued by the core teams after public discussion has settled and comments have been made summarizing the rationale for closing. The RFC will enter a "final comment period to close" lasting 7 days. At the end of the "FCP to close" period, the PR will be closed. An RFC author may withdraw their own RFC by closing it themselves.</p>
-      <table>
+      <table class="table">
         <thead>
           <tr>
             <th>Stage</th>
