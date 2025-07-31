@@ -3,7 +3,7 @@
 import { readdir, readFile, writeFile } from "fs/promises";
 import { join } from "path";
 
-const rfcsFiles = await readdir("./data");
+const rfcsFiles = await readdir("./data/raw");
 
 rfcsFiles.sort((a, b) => parseInt(a) - parseInt(b));
 
@@ -37,7 +37,6 @@ function findFirstStage(rfc) {
 }
 
 function getFirstStagesDuration(rfc) {
-  // console.log(rfc);
   if (!rfc.closed || rfc.merged) {
     let exploringLabels = rfc.timelineItems.filter(
       (item) => item.label == "S-Exploring",
@@ -77,7 +76,7 @@ function getFirstStagesDuration(rfc) {
 }
 
 for (let file of rfcsFiles) {
-  const rfc = JSON.parse(await readFile(join("data", file), "utf8"));
+  const rfc = JSON.parse(await readFile(join("data/raw", file), "utf8"));
 
   if (rfc.title.includes("Advance RFC")) {
     let advanceRFC = rfc.title.match(/[0-9]+/);
@@ -107,9 +106,8 @@ for (let file of rfcsFiles) {
 }
 
 for (let rfc in rfcMap) {
-  console.log(rfc);
   await writeFile(
-    join("rfc-data", `${rfc}.json`),
+    join("data", `${rfc}.json`),
     JSON.stringify(rfcMap[rfc], null, 2),
   );
 }

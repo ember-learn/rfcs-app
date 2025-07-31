@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import { Octokit } from "octokit";
-import { writeFile } from "node:fs/promises";
+import { mkdir, writeFile } from "node:fs/promises";
 import { join } from "path";
 
 // Create a personal access token at https://github.com/settings/tokens/new?scopes=repo
@@ -15,6 +15,8 @@ const iterator = octokit.paginate.iterator(octokit.rest.pulls.list, {
   state: "all",
   per_page: 100,
 });
+
+await mkdir('data/raw', {recursive: true});
 
 for await (const { data: pulls } of iterator) {
   for (const pull of pulls) {

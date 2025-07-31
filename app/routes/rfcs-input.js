@@ -2,6 +2,6 @@ import Route from '@ember/routing/route';
 import toc from 'rfcs-app-toc-builder:toc.json';
 export default class RfcsInputRoute extends Route {
   async model() {
-        return toc.stageLinks["exploring"];
-      }
+    return toc.stageLinks["exploring"];
+  }
 }
