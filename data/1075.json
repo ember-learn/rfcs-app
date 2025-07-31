@@ -1,0 +1,114 @@
+{
+  "number": 1075,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1075",
+  "title": "WarpDrive Package Unification",
+  "createdAt": "2025-02-13T12:02:58Z",
+  "closedAt": "2025-02-28T19:55:42Z",
+  "mergedAt": "2025-02-28T19:55:41Z",
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-02-13T12:02:59Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-02-13T12:02:59Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-02-13T12:02:59Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-02-13T12:02:59Z",
+      "label": "T-learning"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-02-13T12:02:59Z",
+      "label": "T-steering"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-02-13T12:02:59Z",
+      "label": "T-ember-cli"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-02-13T12:02:59Z",
+      "label": "T-TypeScript"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-02-13T12:03:17Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-02-21T19:38:00Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-02-21T19:38:04Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-02-21T19:38:10Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-02-21T19:38:00Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "stageDuration": {
+    "proposed": 9,
+    "exploring": 139,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 1082,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1082",
+      "title": "Advance RFC #1075 `\"WarpDrive Package Unification\"` to Stage Ready for Release",
+      "createdAt": "2025-03-14T18:50:23Z",
+      "closedAt": null,
+      "mergedAt": null,
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-03-14T18:50:24Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-03-14T18:50:24Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-03-21T18:33:03Z",
+          "label": "T-ember-data"
+        }
+      ]
+    }
+  ]
+}

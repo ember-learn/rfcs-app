@@ -1,0 +1,31 @@
+{
+  "number": 1092,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1092",
+  "title": "Advance RFC #0964 `\"EmberData | Deprecate Legacy Request Support\"` to Stage Ready for Release",
+  "createdAt": "2025-03-28T18:14:38Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-03-28T18:14:39Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-03-28T18:14:39Z",
+      "label": "S-Ready for Release"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-07-02T15:50:55Z",
+      "label": "T-ember-data"
+    }
+  ]
+}

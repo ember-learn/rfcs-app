@@ -1,0 +1,41 @@
+{
+  "number": 1055,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1055",
+  "title": "Vanilla Prettier Setup in Blueprints",
+  "createdAt": "2024-12-03T15:56:57Z",
+  "closedAt": "2024-12-20T19:12:57Z",
+  "mergedAt": "2024-12-20T19:12:57Z",
+  "assignees": [
+    {
+      "login": "bertdeblock",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7403183?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-12-03T15:56:57Z",
+      "label": "T-ember-cli"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-12-03T15:57:15Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-12-06T19:30:41Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-12-06T19:41:14Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-12-13T19:26:54Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

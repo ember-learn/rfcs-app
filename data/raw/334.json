@@ -1,0 +1,26 @@
+{
+  "number": 334,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/334",
+  "title": "Deprecate Ember Utils",
+  "createdAt": "2018-05-25T14:40:20Z",
+  "closedAt": "2022-07-08T18:42:12Z",
+  "mergedAt": "2022-07-08T18:42:12Z",
+  "assignees": [
+    {
+      "login": "snewcomer",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7374640?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-25T03:09:50Z",
+      "label": "Needs Champion"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-25T03:09:50Z",
+      "label": "T-framework"
+    }
+  ]
+}

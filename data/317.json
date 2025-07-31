@@ -1,0 +1,26 @@
+{
+  "number": 317,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/317",
+  "title": "Named block syntax",
+  "createdAt": "2018-03-23T23:26:25Z",
+  "closedAt": "2019-06-28T17:48:09Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-25T03:12:34Z",
+      "label": "T-templates"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2687,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

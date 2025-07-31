@@ -1,0 +1,20 @@
+{
+  "number": 345,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/345",
+  "title": "Discord",
+  "createdAt": "2018-07-11T20:54:20Z",
+  "closedAt": "2018-08-28T23:26:02Z",
+  "mergedAt": "2018-08-28T23:26:02Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2577,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

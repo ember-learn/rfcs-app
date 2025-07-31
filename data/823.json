@@ -1,0 +1,20 @@
+{
+  "number": 823,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/823",
+  "title": "Update ember to ember-addon in v2 package spec rfc",
+  "createdAt": "2022-06-06T21:17:47Z",
+  "closedAt": "2022-07-01T18:15:06Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 1151,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

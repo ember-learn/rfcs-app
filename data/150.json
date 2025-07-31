@@ -1,0 +1,20 @@
+{
+  "number": 150,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/150",
+  "title": "`factoryFor` as a public API replacing `_lookupFactory`",
+  "createdAt": "2016-07-01T20:30:37Z",
+  "closedAt": "2016-10-07T19:07:47Z",
+  "mergedAt": "2016-10-07T19:07:47Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3317,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

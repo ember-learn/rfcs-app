@@ -1,0 +1,20 @@
+{
+  "number": 646,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/646",
+  "title": "Update RFC section on inter-package dependencies",
+  "createdAt": "2020-07-08T09:41:10Z",
+  "closedAt": "2020-07-20T16:31:36Z",
+  "mergedAt": "2020-07-20T16:31:36Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 1850,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

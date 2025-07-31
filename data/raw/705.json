@@ -1,0 +1,35 @@
+{
+  "number": 705,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/705",
+  "title": "Deprecate jQuery Integration Optional Feature",
+  "createdAt": "2021-01-14T22:53:15Z",
+  "closedAt": "2021-01-22T19:14:59Z",
+  "mergedAt": "2021-01-22T19:14:59Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    },
+    {
+      "login": "pzuraq",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/685518?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-01-15T13:22:39Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-01-15T13:22:39Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-01-15T19:33:41Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

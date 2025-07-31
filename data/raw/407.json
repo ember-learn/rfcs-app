@@ -1,0 +1,26 @@
+{
+  "number": 407,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/407",
+  "title": "Component Boolean Arguments",
+  "createdAt": "2018-11-30T20:50:31Z",
+  "closedAt": "2022-07-23T17:35:39Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-25T03:05:34Z",
+      "label": "T-templates"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-25T03:05:34Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-25T03:05:42Z",
+      "label": "Needs Champion"
+    }
+  ]
+}

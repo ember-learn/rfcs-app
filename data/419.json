@@ -1,0 +1,20 @@
+{
+  "number": 419,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/419",
+  "title": "Update deprecation-template.md",
+  "createdAt": "2018-12-19T19:38:00Z",
+  "closedAt": "2018-12-19T21:04:28Z",
+  "mergedAt": "2018-12-19T21:04:28Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2416,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

@@ -1,0 +1,47 @@
+{
+  "number": 1099,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1099",
+  "title": " renderComponent()",
+  "createdAt": "2025-05-01T22:01:17Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-05-01T22:01:31Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-05-02T18:48:05Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-05-02T18:48:08Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-07-25T18:49:41Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-05-02T18:48:05Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "stageDuration": {
+    "proposed": 1,
+    "exploring": 90,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

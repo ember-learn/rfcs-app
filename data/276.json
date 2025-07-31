@@ -1,0 +1,31 @@
+{
+  "number": 276,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/276",
+  "title": "Named Arguments Syntax (`{{@foo}}`)",
+  "createdAt": "2017-12-10T16:42:36Z",
+  "closedAt": "2018-01-03T18:06:48Z",
+  "mergedAt": "2018-01-03T18:06:48Z",
+  "assignees": [
+    {
+      "login": "chancancode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55829?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-12-10T17:09:26Z",
+      "label": "T-components"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2791,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

@@ -1,0 +1,31 @@
+{
+  "number": 673,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/673",
+  "title": "deprecate tryinvoke",
+  "createdAt": "2020-10-05T16:36:29Z",
+  "closedAt": "2020-11-07T00:26:55Z",
+  "mergedAt": "2020-11-07T00:26:55Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2020-10-05T18:02:21Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2020-10-05T18:02:21Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2020-10-23T19:14:57Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

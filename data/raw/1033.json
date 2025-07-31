@@ -1,0 +1,21 @@
+{
+  "number": 1033,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1033",
+  "title": "Advance RFC #0997 `\"Make {{on}} a built in modifier\"` to Stage Ready for Release",
+  "createdAt": "2024-06-12T14:28:03Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-06-12T14:28:03Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-06-12T14:28:03Z",
+      "label": "S-Ready for Release"
+    }
+  ]
+}

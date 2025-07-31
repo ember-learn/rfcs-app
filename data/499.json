@@ -1,0 +1,20 @@
+{
+  "number": 499,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/499",
+  "title": "An alternative to Controllers",
+  "createdAt": "2019-06-10T16:37:33Z",
+  "closedAt": "2021-03-27T15:09:20Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2244,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

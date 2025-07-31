@@ -1,0 +1,26 @@
+{
+  "number": 793,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/793",
+  "title": "EmberData | Polymorphic Relationship Support",
+  "createdAt": "2022-02-11T12:13:08Z",
+  "closedAt": "2022-07-24T00:22:02Z",
+  "mergedAt": "2022-07-24T00:22:02Z",
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-02-20T20:50:48Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-04-13T23:01:51Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

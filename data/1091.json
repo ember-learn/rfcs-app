@@ -1,0 +1,20 @@
+{
+  "number": 1091,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1091",
+  "title": "Add chart of stages",
+  "createdAt": "2025-03-21T20:11:25Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 132,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

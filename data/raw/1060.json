@@ -1,0 +1,21 @@
+{
+  "number": 1060,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1060",
+  "title": "Built in tracking utilities for promises",
+  "createdAt": "2024-12-20T04:00:50Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-12-20T04:01:05Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-03-21T18:33:02Z",
+      "label": "T-ember-data"
+    }
+  ]
+}

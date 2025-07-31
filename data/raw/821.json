@@ -1,0 +1,31 @@
+{
+  "number": 821,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/821",
+  "title": "RFC: public types for Owner, Transition, RouteInfo",
+  "createdAt": "2022-05-24T03:02:48Z",
+  "closedAt": "2022-07-29T18:14:54Z",
+  "mergedAt": "2022-07-29T18:14:54Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-05-24T19:20:41Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-05-24T19:20:41Z",
+      "label": "T-learning"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-05-24T19:20:41Z",
+      "label": "T-TypeScript"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-07-23T01:36:48Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

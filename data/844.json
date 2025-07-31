@@ -1,0 +1,20 @@
+{
+  "number": 844,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/844",
+  "title": "Add a workflow to open a PR to the next stage when the stage of an RFC has been updated",
+  "createdAt": "2022-08-11T21:11:24Z",
+  "closedAt": "2022-11-22T19:18:07Z",
+  "mergedAt": "2022-11-22T19:18:07Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 1085,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

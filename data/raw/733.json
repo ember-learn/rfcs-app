@@ -1,0 +1,10 @@
+{
+  "number": 733,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/733",
+  "title": "Add public `intermediateTransitionTo` method on `RouterService`",
+  "createdAt": "2021-03-29T12:15:20Z",
+  "closedAt": "2022-02-08T20:32:40Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": []
+}

@@ -1,0 +1,31 @@
+{
+  "number": 1001,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1001",
+  "title": "Deprecate named `inject` export from `@ember/service`",
+  "createdAt": "2023-12-26T18:17:20Z",
+  "closedAt": "2024-03-08T20:06:28Z",
+  "mergedAt": "2024-03-08T20:06:28Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-26T18:17:35Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-01-19T19:59:37Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-02-09T20:03:48Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-03-01T20:01:17Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

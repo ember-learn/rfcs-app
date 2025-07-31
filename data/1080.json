@@ -1,0 +1,20 @@
+{
+  "number": 1080,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1080",
+  "title": "Update to upload-artifact@v4",
+  "createdAt": "2025-03-14T18:42:06Z",
+  "closedAt": "2025-03-14T18:43:38Z",
+  "mergedAt": "2025-03-14T18:43:38Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 139,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

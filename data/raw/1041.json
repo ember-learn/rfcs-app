@@ -1,0 +1,31 @@
+{
+  "number": 1041,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1041",
+  "title": "Deprecate target action support.",
+  "createdAt": "2024-08-07T18:50:49Z",
+  "closedAt": "2025-07-25T18:16:38Z",
+  "mergedAt": "2025-07-25T18:16:38Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-08-07T18:51:06Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-08-09T18:21:05Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-08-09T18:21:11Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-07-18T19:02:06Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "number": 311,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/311",
+  "title": "Introduce `<AngleBracketInvocationSyntax />`",
+  "createdAt": "2018-03-11T04:35:51Z",
+  "closedAt": "2018-05-04T18:15:31Z",
+  "mergedAt": "2018-05-04T18:15:31Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-04-06T18:57:43Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

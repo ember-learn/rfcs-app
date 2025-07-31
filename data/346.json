@@ -1,0 +1,20 @@
+{
+  "number": 346,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/346",
+  "title": "Rename RFCs to their numbers and update to add links to their PRs",
+  "createdAt": "2018-07-16T20:15:17Z",
+  "closedAt": "2018-07-16T20:25:14Z",
+  "mergedAt": "2018-07-16T20:25:14Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2572,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

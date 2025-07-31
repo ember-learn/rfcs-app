@@ -1,0 +1,26 @@
+{
+  "number": 996,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/996",
+  "title": "Interactive CLI by default",
+  "createdAt": "2023-12-21T21:57:52Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-21T21:58:11Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-01-19T20:00:08Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-02-09T20:03:44Z",
+      "label": "S-Proposed"
+    }
+  ]
+}

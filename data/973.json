@@ -1,0 +1,20 @@
+{
+  "number": 973,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/973",
+  "title": "Update asset importing spec to use `import.meta.resolve`",
+  "createdAt": "2023-09-26T14:50:10Z",
+  "closedAt": "2023-10-13T17:59:30Z",
+  "mergedAt": "2023-10-13T17:59:30Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 675,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

@@ -1,0 +1,20 @@
+{
+  "number": 139,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/139",
+  "title": "Ember.String.isHtmlSafe RFC",
+  "createdAt": "2016-04-18T14:47:14Z",
+  "closedAt": "2016-06-12T23:37:14Z",
+  "mergedAt": "2016-06-12T23:37:14Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3392,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

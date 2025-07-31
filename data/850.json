@@ -1,0 +1,20 @@
+{
+  "number": 850,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/850",
+  "title": "Fix RFC header",
+  "createdAt": "2022-08-31T22:38:03Z",
+  "closedAt": "2022-08-31T22:41:44Z",
+  "mergedAt": "2022-08-31T22:41:44Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 1065,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

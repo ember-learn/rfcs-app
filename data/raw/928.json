@@ -1,0 +1,21 @@
+{
+  "number": 928,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/928",
+  "title": "Advance RFC #0811 `\"Element Modifiers\"` to Stage Released",
+  "createdAt": "2023-04-07T18:48:36Z",
+  "closedAt": "2023-06-10T15:06:02Z",
+  "mergedAt": "2023-06-10T15:06:02Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-04-07T18:48:38Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-04-07T18:48:38Z",
+      "label": "S-Released"
+    }
+  ]
+}

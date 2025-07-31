@@ -1,0 +1,68 @@
+{
+  "number": 496,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/496",
+  "title": "Strict mode templates",
+  "createdAt": "2019-06-02T04:42:15Z",
+  "closedAt": "2020-04-24T22:09:45Z",
+  "mergedAt": "2020-04-24T22:09:45Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-06-02T04:42:15Z",
+      "label": "T-templates"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-06-02T04:42:15Z",
+      "label": "work in progress"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2020-04-10T18:07:49Z",
+      "label": "work in progress"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2020-04-17T18:50:36Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 10,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 1024,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1024",
+      "title": "Advance RFC #0496 `\"Handlebars Strict Mode\"` to Stage Recommended",
+      "createdAt": "2024-05-08T14:41:49Z",
+      "closedAt": "2024-05-17T18:08:17Z",
+      "mergedAt": "2024-05-17T18:08:17Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-05-08T14:41:50Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-05-08T14:41:50Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-05-10T18:24:07Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 774,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/774",
+  "title": "Deprecate implicit record loading in Ember Route",
+  "createdAt": "2021-11-14T13:31:13Z",
+  "closedAt": "2023-02-03T19:24:49Z",
+  "mergedAt": "2023-02-03T19:24:48Z",
+  "assignees": [
+    {
+      "login": "wagenet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-11-14T13:31:13Z",
+      "label": "T-routing"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-03-03T21:09:39Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:34:27Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-13T21:16:01Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-01-13T21:16:05Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-27T19:37:31Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

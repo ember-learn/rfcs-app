@@ -1,0 +1,26 @@
+{
+  "number": 173,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/173",
+  "title": "Add support for nested saves",
+  "createdAt": "2016-10-18T14:15:11Z",
+  "closedAt": "2019-06-19T23:17:37Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2016-10-18T14:21:51Z",
+      "label": "ember-data"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3209,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

@@ -1,0 +1,20 @@
+{
+  "number": 65,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/65",
+  "title": "Deprecation warning handlers",
+  "createdAt": "2015-06-14T21:16:54Z",
+  "closedAt": "2015-07-08T01:27:09Z",
+  "mergedAt": "2015-07-08T01:27:09Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3700,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

@@ -1,0 +1,41 @@
+{
+  "number": 446,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/446",
+  "title": "Contribution Guides",
+  "createdAt": "2019-02-14T15:25:37Z",
+  "closedAt": "2019-03-10T11:38:14Z",
+  "mergedAt": "2019-03-10T11:38:14Z",
+  "assignees": [
+    {
+      "login": "jayjayjpg",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8811742?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-02-14T15:26:53Z",
+      "label": "T-infrastructure"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-02-14T15:26:53Z",
+      "label": "T-learning"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-02-28T16:45:00Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2360,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

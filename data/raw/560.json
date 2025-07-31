@@ -1,0 +1,31 @@
+{
+  "number": 560,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/560",
+  "title": "Adding Equality Operators to Templates",
+  "createdAt": "2019-12-08T20:45:34Z",
+  "closedAt": "2021-01-29T19:17:29Z",
+  "mergedAt": "2021-01-29T19:17:29Z",
+  "assignees": [
+    {
+      "login": "locks",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32344?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-01-08T20:35:24Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2021-01-08T20:57:41Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-01-22T19:42:00Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

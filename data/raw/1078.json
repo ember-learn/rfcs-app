@@ -1,0 +1,16 @@
+{
+  "number": 1078,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1078",
+  "title": "Fix title comment",
+  "createdAt": "2025-03-06T19:29:07Z",
+  "closedAt": "2025-03-07T19:11:56Z",
+  "mergedAt": "2025-03-07T19:11:55Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-03-06T20:26:13Z",
+      "label": "bug"
+    }
+  ]
+}

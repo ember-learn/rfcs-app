@@ -1,0 +1,31 @@
+{
+  "number": 834,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/834",
+  "title": "Amend RFC 0821 given implementation tweaks",
+  "createdAt": "2022-08-02T15:10:01Z",
+  "closedAt": "2022-08-12T18:07:49Z",
+  "mergedAt": "2022-08-12T18:07:49Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-08-02T15:10:01Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-08-02T15:10:01Z",
+      "label": "T-learning"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-08-02T15:10:01Z",
+      "label": "T-TypeScript"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-08-05T18:10:34Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

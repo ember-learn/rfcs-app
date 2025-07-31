@@ -1,0 +1,25 @@
+{
+  "number": 275,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/275",
+  "title": "RFC: Yield link-to component state",
+  "createdAt": "2017-12-10T05:23:08Z",
+  "closedAt": "2018-01-07T05:23:43Z",
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2791,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

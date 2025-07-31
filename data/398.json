@@ -1,0 +1,31 @@
+{
+  "number": 398,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/398",
+  "title": "RouteInfo Metadata",
+  "createdAt": "2018-11-02T13:29:46Z",
+  "closedAt": "2018-11-30T19:39:29Z",
+  "mergedAt": "2018-11-30T19:39:29Z",
+  "assignees": [
+    {
+      "login": "chadhietala",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/183799?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-11-14T04:44:14Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2464,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

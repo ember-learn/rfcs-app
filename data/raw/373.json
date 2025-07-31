@@ -1,0 +1,36 @@
+{
+  "number": 373,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/373",
+  "title": "Modifier managers",
+  "createdAt": "2018-09-10T19:02:33Z",
+  "closedAt": "2018-10-19T18:21:35Z",
+  "mergedAt": "2018-10-19T18:21:35Z",
+  "assignees": [
+    {
+      "login": "chadhietala",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/183799?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-10-06T13:40:37Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-10-06T13:45:44Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-10-06T13:46:31Z",
+      "label": "T-templates"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-10-06T13:46:31Z",
+      "label": "T-components"
+    }
+  ]
+}

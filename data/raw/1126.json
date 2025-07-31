@@ -1,0 +1,21 @@
+{
+  "number": 1126,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1126",
+  "title": "Advance RFC #1041 `\"Deprecate TargetActionSupport\"` to Stage Ready for Release",
+  "createdAt": "2025-07-25T18:17:28Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-07-25T18:17:29Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-07-25T18:17:29Z",
+      "label": "S-Ready for Release"
+    }
+  ]
+}

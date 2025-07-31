@@ -1,0 +1,20 @@
+{
+  "number": 54,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/54",
+  "title": "Update 0000-stateful-helpers.md",
+  "createdAt": "2015-05-18T03:08:02Z",
+  "closedAt": "2015-05-18T03:09:54Z",
+  "mergedAt": "2015-05-18T03:09:54Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3728,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

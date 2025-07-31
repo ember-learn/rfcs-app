@@ -1,0 +1,31 @@
+{
+  "number": 441,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/441",
+  "title": "Deprecate `computed().meta()`",
+  "createdAt": "2019-02-07T16:59:16Z",
+  "closedAt": "2022-07-29T23:13:02Z",
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-02-14T19:17:15Z",
+      "label": "T-framework"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2366,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

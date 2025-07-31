@@ -1,0 +1,41 @@
+{
+  "number": 702,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/702",
+  "title": "Add eslint-plugin-qunit to ember-cli blueprint",
+  "createdAt": "2021-01-10T00:45:36Z",
+  "closedAt": "2021-02-26T19:14:14Z",
+  "mergedAt": "2021-02-26T19:14:14Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-02-17T18:16:23Z",
+      "label": "T-ember-cli"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-02-17T18:16:23Z",
+      "label": "T-testing"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-02-19T23:27:19Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 1664,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

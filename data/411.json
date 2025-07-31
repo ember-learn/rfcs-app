@@ -1,0 +1,20 @@
+{
+  "number": 411,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/411",
+  "title": "Add Ember.js PR link for emberjs#337",
+  "createdAt": "2018-12-08T03:58:26Z",
+  "closedAt": "2018-12-08T04:22:29Z",
+  "mergedAt": "2018-12-08T04:22:29Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2428,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

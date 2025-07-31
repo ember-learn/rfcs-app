@@ -1,0 +1,26 @@
+{
+  "number": 890,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/890",
+  "title": "Advance RFC #0889 to Stage Ready for Release",
+  "createdAt": "2022-12-29T18:42:55Z",
+  "closedAt": "2023-01-10T19:08:35Z",
+  "mergedAt": "2023-01-10T19:08:35Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-03T22:27:19Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-06T19:13:14Z",
+      "label": "S-Ready for Release"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-06T19:13:14Z",
+      "label": "RFC Advancement"
+    }
+  ]
+}

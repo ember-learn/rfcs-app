@@ -1,0 +1,26 @@
+{
+  "number": 160,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/160",
+  "title": "Links and meta improvements",
+  "createdAt": "2016-07-29T14:53:23Z",
+  "closedAt": "2018-10-12T14:42:50Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2016-07-29T14:53:23Z",
+      "label": "ember-data"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3290,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

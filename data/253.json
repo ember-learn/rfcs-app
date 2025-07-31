@@ -1,0 +1,20 @@
+{
+  "number": 253,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/253",
+  "title": "Update 0252-browser-support-changes.md",
+  "createdAt": "2017-09-25T16:20:24Z",
+  "closedAt": "2017-09-25T16:40:51Z",
+  "mergedAt": "2017-09-25T16:40:51Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2867,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

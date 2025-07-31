@@ -1,0 +1,26 @@
+{
+  "number": 300,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/300",
+  "title": "RFC Process Update",
+  "createdAt": "2018-02-04T17:23:10Z",
+  "closedAt": "2018-11-30T20:33:06Z",
+  "mergedAt": "2018-11-30T20:33:06Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-11-16T19:26:14Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2734,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

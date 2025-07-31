@@ -1,0 +1,40 @@
+{
+  "number": 995,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/995",
+  "title": "Deprecate non-colocated components.",
+  "createdAt": "2023-12-15T19:38:46Z",
+  "closedAt": "2024-03-08T20:05:24Z",
+  "mergedAt": "2024-03-08T20:05:24Z",
+  "assignees": [
+    {
+      "login": "NullVoxPopuli",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/199018?v=4"
+    },
+    {
+      "login": "mansona",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/594890?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-15T19:39:10Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-02-23T19:46:23Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-02-23T19:47:21Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-03-01T19:17:19Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

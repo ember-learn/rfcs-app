@@ -1,0 +1,37 @@
+{
+  "number": 883,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/883",
+  "title": "RFC: add new timing capabilities to modifier manager",
+  "createdAt": "2022-12-10T17:11:39Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-20T16:47:39Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-13T20:55:40Z",
+      "label": "Needs Champion"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-20T16:47:39Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "stageDuration": {
+    "proposed": 10,
+    "exploring": 954,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

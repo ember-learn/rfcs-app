@@ -1,0 +1,10 @@
+{
+  "number": 870,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/870",
+  "title": "Always run new RFC checks so CI can pass",
+  "createdAt": "2022-11-23T19:57:44Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": []
+}

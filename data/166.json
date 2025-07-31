@@ -1,0 +1,20 @@
+{
+  "number": 166,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/166",
+  "title": "Added the missing }}",
+  "createdAt": "2016-08-26T10:44:45Z",
+  "closedAt": "2016-08-26T11:24:16Z",
+  "mergedAt": "2016-08-26T11:24:16Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3262,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

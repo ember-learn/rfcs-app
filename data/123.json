@@ -1,0 +1,31 @@
+{
+  "number": 123,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/123",
+  "title": "Model Lifecycle Hooks",
+  "createdAt": "2016-03-04T19:26:38Z",
+  "closedAt": "2019-06-05T21:21:52Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2016-03-04T19:26:38Z",
+      "label": "ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-04-24T21:50:11Z",
+      "label": "FCP to close"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3436,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

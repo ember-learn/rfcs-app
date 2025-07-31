@@ -1,0 +1,20 @@
+{
+  "number": 378,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/378",
+  "title": "RFC to collocate tests in in-repo-addons",
+  "createdAt": "2018-09-18T16:14:24Z",
+  "closedAt": "2022-07-23T17:31:00Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2509,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

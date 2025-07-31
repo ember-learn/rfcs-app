@@ -1,0 +1,157 @@
+{
+  "number": 730,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/730",
+  "title": "RFC: Semantic Versioning for TypeScript Types",
+  "createdAt": "2021-03-23T19:42:16Z",
+  "closedAt": "2022-04-19T01:35:30Z",
+  "mergedAt": "2022-04-19T01:35:30Z",
+  "assignees": [
+    {
+      "login": "chriskrycho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+    },
+    {
+      "login": "wagenet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
+    },
+    {
+      "login": "chriskrycho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+    },
+    {
+      "login": "gitKrystan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14152574?v=4"
+    },
+    {
+      "login": "wagenet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
+    },
+    {
+      "login": "gitKrystan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14152574?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-04-08T18:09:01Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 23,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 875,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/875",
+      "title": "Advance RFC #0730 \"Semantic Versioning for TypeScript Types\" to Stage Ready for Release",
+      "createdAt": "2022-11-29T01:50:56Z",
+      "closedAt": "2023-08-24T18:00:19Z",
+      "mergedAt": "2023-08-24T18:00:19Z",
+      "assignees": [
+        {
+          "login": "wagenet",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
+        },
+        {
+          "login": "chriskrycho",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+        },
+        {
+          "login": "gitKrystan",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/14152574?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2022-11-29T01:50:57Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2022-11-29T01:50:57Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-03-23T18:46:04Z",
+          "label": "E-Polaris"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-08-18T18:34:16Z",
+          "label": "T-TypeScript"
+        }
+      ]
+    },
+    {
+      "number": 949,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/949",
+      "title": "Advance RFC #0730 `\"Semantic Versioning for TypeScript Types\"` to Stage Released",
+      "createdAt": "2023-08-24T18:01:16Z",
+      "closedAt": "2023-08-24T18:05:14Z",
+      "mergedAt": "2023-08-24T18:05:14Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-08-24T18:01:16Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-08-24T18:01:16Z",
+          "label": "S-Released"
+        }
+      ]
+    },
+    {
+      "number": 951,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/951",
+      "title": "Advance RFC #0730 `\"Semantic Versioning for TypeScript Types\"` to Stage Recommended",
+      "createdAt": "2023-08-24T18:06:09Z",
+      "closedAt": "2023-09-15T19:02:00Z",
+      "mergedAt": "2023-09-15T19:02:00Z",
+      "assignees": [
+        {
+          "login": "wagenet",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
+        },
+        {
+          "login": "gitKrystan",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/14152574?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-08-24T18:06:10Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-08-24T18:06:10Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-08-24T18:20:35Z",
+          "label": "T-TypeScript"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-07T16:22:30Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "number": 268,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/268",
+  "title": "Rethink Acceptance Testing",
+  "createdAt": "2017-11-06T00:26:06Z",
+  "closedAt": "2017-12-01T20:11:28Z",
+  "mergedAt": "2017-12-01T20:11:28Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-11-06T00:26:06Z",
+      "label": "T-testing"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2825,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

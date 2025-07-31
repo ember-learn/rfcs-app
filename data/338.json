@@ -1,0 +1,31 @@
+{
+  "number": 338,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/338",
+  "title": "Native Class Roadmap",
+  "createdAt": "2018-06-15T06:10:10Z",
+  "closedAt": "2019-01-26T21:18:11Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-11-28T04:30:00Z",
+      "label": "Octane"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2018-12-04T20:32:55Z",
+      "label": "Octane"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2604,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

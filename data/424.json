@@ -1,0 +1,20 @@
+{
+  "number": 424,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/424",
+  "title": "fix: typo",
+  "createdAt": "2018-12-21T20:41:25Z",
+  "closedAt": "2018-12-21T21:20:53Z",
+  "mergedAt": "2018-12-21T21:20:53Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2414,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

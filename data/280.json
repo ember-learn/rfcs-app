@@ -1,0 +1,31 @@
+{
+  "number": 280,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/280",
+  "title": "Remove Application wrapper div",
+  "createdAt": "2017-12-11T22:39:26Z",
+  "closedAt": "2018-01-03T18:07:48Z",
+  "mergedAt": "2018-01-03T18:07:48Z",
+  "assignees": [
+    {
+      "login": "chancancode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55829?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-12-16T20:43:17Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2789,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

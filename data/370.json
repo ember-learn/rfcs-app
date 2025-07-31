@@ -1,0 +1,31 @@
+{
+  "number": 370,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/370",
+  "title": "Deprecate `computed().volatile()`",
+  "createdAt": "2018-08-31T19:13:15Z",
+  "closedAt": "2018-10-05T18:43:33Z",
+  "mergedAt": "2018-10-05T18:43:33Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-09-14T20:01:14Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2526,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

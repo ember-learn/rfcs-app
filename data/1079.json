@@ -1,0 +1,26 @@
+{
+  "number": 1079,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1079",
+  "title": "Propose new reactivity utility: `reactive` from `@ember/reactive`",
+  "createdAt": "2025-03-06T21:09:08Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-03-06T21:09:20Z",
+      "label": "S-Proposed"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 147,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

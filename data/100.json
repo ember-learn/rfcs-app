@@ -1,0 +1,20 @@
+{
+  "number": 100,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/100",
+  "title": "Attribute Actions",
+  "createdAt": "2015-10-18T15:58:33Z",
+  "closedAt": "2016-01-18T05:12:41Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3575,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

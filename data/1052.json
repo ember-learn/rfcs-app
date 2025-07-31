@@ -1,0 +1,20 @@
+{
+  "number": 1052,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1052",
+  "title": "Update pull_request_template.md",
+  "createdAt": "2024-11-08T19:23:00Z",
+  "closedAt": "2024-11-08T19:23:11Z",
+  "mergedAt": "2024-11-08T19:23:11Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 265,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

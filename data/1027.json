@@ -1,0 +1,160 @@
+{
+  "number": 1027,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1027",
+  "title": "EmberData | SchemaService",
+  "createdAt": "2024-05-11T10:05:52Z",
+  "closedAt": "2024-06-07T17:09:39Z",
+  "mergedAt": "2024-06-07T17:09:39Z",
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    },
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-11T10:05:52Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-11T10:05:52Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-11T10:06:08Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-05-17T17:39:19Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-17T17:39:19Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-23T23:55:24Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-17T17:39:19Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "stageDuration": {
+    "proposed": 7,
+    "exploring": 48,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 1030,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1030",
+      "title": "Advance RFC #1027 `\"EmberData | SchemaService\"` to Stage Ready for Release",
+      "createdAt": "2024-06-07T17:10:19Z",
+      "closedAt": "2025-05-23T18:38:10Z",
+      "mergedAt": "2025-05-23T18:38:10Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-06-07T17:10:20Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-06-07T17:10:20Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-03-21T18:33:01Z",
+          "label": "T-ember-data"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-05-16T18:30:10Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 1106,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1106",
+      "title": "Advance RFC #1027 `\"EmberData | SchemaService\"` to Stage Released",
+      "createdAt": "2025-05-23T18:38:54Z",
+      "closedAt": "2025-06-13T18:17:50Z",
+      "mergedAt": "2025-06-13T18:17:50Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-05-23T18:38:55Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-05-23T18:38:55Z",
+          "label": "S-Released"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-05-23T18:38:56Z",
+          "label": "RFC Advancement"
+        }
+      ]
+    },
+    {
+      "number": 1109,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1109",
+      "title": "Advance RFC #1027 `\"EmberData | SchemaService\"` to Stage Recommended",
+      "createdAt": "2025-06-13T18:18:36Z",
+      "closedAt": null,
+      "mergedAt": null,
+      "assignees": [
+        {
+          "login": "runspired",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-06-13T18:18:37Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-06-13T18:18:37Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-06-13T18:18:38Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-07-02T15:52:45Z",
+          "label": "T-ember-data"
+        }
+      ]
+    }
+  ]
+}

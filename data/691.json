@@ -1,0 +1,26 @@
+{
+  "number": 691,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/691",
+  "title": "Deprecate passing `classBinding` and `classNameBindings` as arguments",
+  "createdAt": "2020-12-23T16:12:37Z",
+  "closedAt": "2021-01-15T19:13:55Z",
+  "mergedAt": "2021-01-15T19:13:55Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-01-08T19:20:54Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 1682,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

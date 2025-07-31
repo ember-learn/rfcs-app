@@ -1,0 +1,20 @@
+{
+  "number": 126,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/126",
+  "title": "RFC for Hook/Event for Transitioning During a Transition",
+  "createdAt": "2016-03-16T18:35:24Z",
+  "closedAt": "2016-09-16T23:19:42Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3424,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

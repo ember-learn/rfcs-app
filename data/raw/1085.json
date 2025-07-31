@@ -1,0 +1,21 @@
+{
+  "number": 1085,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1085",
+  "title": "Advance RFC #0931 `\"JS Representation of Template Tag\"` to Stage Released",
+  "createdAt": "2025-03-14T18:53:49Z",
+  "closedAt": "2025-05-23T18:35:42Z",
+  "mergedAt": "2025-05-23T18:35:42Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-03-14T18:53:50Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-03-14T18:53:50Z",
+      "label": "S-Released"
+    }
+  ]
+}

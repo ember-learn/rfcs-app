@@ -1,0 +1,20 @@
+{
+  "number": 989,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/989",
+  "title": "Add a Rendered link to the templates of advancing RFC PRs",
+  "createdAt": "2023-11-10T21:36:36Z",
+  "closedAt": "2023-11-12T16:34:41Z",
+  "mergedAt": "2023-11-12T16:34:41Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 629,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

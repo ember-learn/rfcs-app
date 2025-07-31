@@ -1,0 +1,36 @@
+{
+  "number": 384,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/384",
+  "title": "[DEPRECATION RFC ember-data] deprecate errors changing record state",
+  "createdAt": "2018-10-04T21:02:46Z",
+  "closedAt": "2019-01-04T23:12:43Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-10-04T21:02:46Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-10-16T15:16:01Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-10-25T01:48:37Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2018-11-28T01:07:23Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-12-03T20:29:45Z",
+      "label": "FCP to close"
+    }
+  ]
+}

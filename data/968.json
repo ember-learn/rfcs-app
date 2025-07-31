@@ -1,0 +1,20 @@
+{
+  "number": 968,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/968",
+  "title": "Fix title of RFC",
+  "createdAt": "2023-09-22T18:26:10Z",
+  "closedAt": "2023-09-23T01:39:07Z",
+  "mergedAt": "2023-09-23T01:39:07Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 678,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

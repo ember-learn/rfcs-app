@@ -1,0 +1,25 @@
+{
+  "number": 593,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/593",
+  "title": "Spreadable Arguments",
+  "createdAt": "2020-02-12T13:04:43Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "wycats",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4?v=4"
+    }
+  ],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 1997,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

@@ -1,0 +1,31 @@
+{
+  "number": 959,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/959",
+  "title": "Advance RFC #0831 `Standardize use of scripts in package.json for common tasks` to Stage Ready for Release",
+  "createdAt": "2023-09-15T18:58:04Z",
+  "closedAt": "2024-04-17T14:10:28Z",
+  "mergedAt": "2024-04-17T14:10:27Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-15T18:58:05Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-15T18:58:05Z",
+      "label": "S-Ready for Release"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-22T18:15:43Z",
+      "label": "Needs Champion"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-04-10T14:29:25Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

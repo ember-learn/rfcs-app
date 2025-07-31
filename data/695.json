@@ -1,0 +1,20 @@
+{
+  "number": 695,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/695",
+  "title": "Argument Default Primitives",
+  "createdAt": "2020-12-26T23:52:15Z",
+  "closedAt": "2022-07-23T23:07:09Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 1678,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

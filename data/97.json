@@ -1,0 +1,20 @@
+{
+  "number": 97,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/97",
+  "title": "[Route Prefetching] Allow routes to request data in parallel",
+  "createdAt": "2015-10-05T15:24:44Z",
+  "closedAt": "2016-08-19T16:27:45Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3588,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

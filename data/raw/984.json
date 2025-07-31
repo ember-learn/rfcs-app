@@ -1,0 +1,31 @@
+{
+  "number": 984,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/984",
+  "title": "Amend browser support policy for Safari",
+  "createdAt": "2023-11-02T19:39:32Z",
+  "closedAt": "2024-02-07T15:16:23Z",
+  "mergedAt": "2024-02-07T15:16:23Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-11-02T19:39:51Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-11-03T14:42:30Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-11-03T14:42:33Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-02-02T19:37:31Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "number": 809,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/809",
+  "title": "Add TypeScript team to teams list in README",
+  "createdAt": "2022-03-24T00:16:09Z",
+  "closedAt": "2022-03-24T00:18:25Z",
+  "mergedAt": "2022-03-24T00:18:25Z",
+  "assignees": [
+    {
+      "login": "chriskrycho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+    }
+  ],
+  "timelineItems": []
+}

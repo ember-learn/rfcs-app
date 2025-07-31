@@ -1,0 +1,16 @@
+{
+  "number": 462,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/462",
+  "title": "Configuring addon modules in Module Unification layout",
+  "createdAt": "2019-03-10T07:04:10Z",
+  "closedAt": "2020-11-20T19:41:33Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-10-21T12:17:53Z",
+      "label": "FCP to close"
+    }
+  ]
+}

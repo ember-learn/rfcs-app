@@ -1,0 +1,136 @@
+{
+  "number": 1026,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1026",
+  "title": "EmberData | deprecate Store extends EmberObject",
+  "createdAt": "2024-05-11T08:21:17Z",
+  "closedAt": "2024-06-14T18:30:51Z",
+  "mergedAt": "2024-06-14T18:30:51Z",
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-11T08:21:36Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-11T08:22:44Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-11T08:22:44Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-05-17T17:38:02Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-17T17:38:02Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-17T17:38:20Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-17T17:38:02Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "stageDuration": {
+    "proposed": 7,
+    "exploring": 196,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 1035,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1035",
+      "title": "Advance RFC #1026 `\"EmberData | Deprecate Store extending EmberObject\"` to Stage Ready for Release",
+      "createdAt": "2024-06-14T18:31:34Z",
+      "closedAt": "2024-10-04T18:23:02Z",
+      "mergedAt": "2024-10-04T18:23:02Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-06-14T18:31:35Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-06-14T18:31:35Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-09-27T18:33:00Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 1047,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1047",
+      "title": "Advance RFC #1026 `\"EmberData | Deprecate Store extending EmberObject\"` to Stage Released",
+      "createdAt": "2024-10-04T18:23:50Z",
+      "closedAt": "2024-11-08T19:09:12Z",
+      "mergedAt": "2024-11-08T19:09:12Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-10-04T18:23:50Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-10-04T18:23:50Z",
+          "label": "S-Released"
+        }
+      ]
+    },
+    {
+      "number": 1051,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1051",
+      "title": "Advance RFC #1026 `\"EmberData | Deprecate Store extending EmberObject\"` to Stage Recommended",
+      "createdAt": "2024-11-08T19:09:59Z",
+      "closedAt": "2025-05-23T18:48:18Z",
+      "mergedAt": "2025-05-23T18:48:17Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-11-08T19:10:00Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-11-08T19:10:00Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-05-16T18:18:24Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    }
+  ]
+}

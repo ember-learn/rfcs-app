@@ -1,0 +1,31 @@
+{
+  "number": 318,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/318",
+  "title": "`array` helper",
+  "createdAt": "2018-03-24T04:17:18Z",
+  "closedAt": "2018-04-06T18:17:24Z",
+  "mergedAt": "2018-04-06T18:17:24Z",
+  "assignees": [
+    {
+      "login": "mmun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1151810?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-03-30T21:24:58Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2687,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

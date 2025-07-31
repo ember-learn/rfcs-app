@@ -1,0 +1,16 @@
+{
+  "number": 966,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/966",
+  "title": "Remove ember-cli-dependency-checker",
+  "createdAt": "2023-09-22T16:16:55Z",
+  "closedAt": "2025-05-23T18:56:02Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-22T16:17:12Z",
+      "label": "S-Proposed"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "number": 223,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/223",
+  "title": "Add `isEqual` named export to`@ember/utils`",
+  "createdAt": "2017-04-21T01:39:08Z",
+  "closedAt": "2017-06-12T17:49:13Z",
+  "mergedAt": "2017-06-12T17:49:13Z",
+  "assignees": [],
+  "timelineItems": []
+}

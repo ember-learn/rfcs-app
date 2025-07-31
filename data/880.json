@@ -1,0 +1,20 @@
+{
+  "number": 880,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/880",
+  "title": "Refine some of the advancement PR templates",
+  "createdAt": "2022-12-02T22:20:15Z",
+  "closedAt": "2022-12-02T22:38:55Z",
+  "mergedAt": "2022-12-02T22:38:55Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 972,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

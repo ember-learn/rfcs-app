@@ -1,0 +1,62 @@
+{
+  "number": 975,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/975",
+  "title": "Add context API",
+  "createdAt": "2023-09-28T09:14:10Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-28T09:14:31Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-03-15T18:54:39Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-03-15T18:54:44Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-17T18:31:01Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-17T18:31:01Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-17T18:31:01Z",
+      "label": "T-learning"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-03-15T18:54:39Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "stageDuration": {
+    "proposed": 170,
+    "exploring": 503,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

@@ -1,0 +1,10 @@
+{
+  "number": 891,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/891",
+  "title": "@ember/string deprecation RFC should not be recommended",
+  "createdAt": "2023-01-03T22:55:59Z",
+  "closedAt": "2023-01-03T22:57:10Z",
+  "mergedAt": "2023-01-03T22:57:10Z",
+  "assignees": [],
+  "timelineItems": []
+}

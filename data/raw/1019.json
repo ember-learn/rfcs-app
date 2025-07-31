@@ -1,0 +1,26 @@
+{
+  "number": 1019,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1019",
+  "title": "Advance RFC #0831 `\"Standardize use of scripts in package.json for common tasks\"` to Stage Recommended",
+  "createdAt": "2024-04-19T18:14:24Z",
+  "closedAt": "2024-04-26T18:12:57Z",
+  "mergedAt": "2024-04-26T18:12:57Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-04-19T18:14:25Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-04-19T18:14:25Z",
+      "label": "S-Recommended"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-04-19T18:15:44Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

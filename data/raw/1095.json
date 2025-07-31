@@ -1,0 +1,21 @@
+{
+  "number": 1095,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1095",
+  "title": "Advance RFC #1070 `\"Default globals for strict mode\"` to Stage Released",
+  "createdAt": "2025-04-04T18:10:12Z",
+  "closedAt": "2025-04-04T18:41:35Z",
+  "mergedAt": "2025-04-04T18:41:35Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-04-04T18:10:13Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-04-04T18:10:13Z",
+      "label": "S-Released"
+    }
+  ]
+}

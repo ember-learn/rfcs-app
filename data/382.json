@@ -1,0 +1,20 @@
+{
+  "number": 382,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/382",
+  "title": "named dynamic segments",
+  "createdAt": "2018-10-03T18:42:41Z",
+  "closedAt": "2022-07-23T17:31:36Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2493,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

@@ -1,0 +1,57 @@
+{
+  "number": 993,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/993",
+  "title": "Let the app define Testem middleware in testem.js rather than implicitly import middleware only from v1 addons",
+  "createdAt": "2023-12-06T11:13:37Z",
+  "closedAt": "2025-05-30T18:23:28Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-06T11:13:56Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-08T19:36:57Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-02-09T20:03:43Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-05-23T18:41:20Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-05-23T18:41:25Z",
+      "label": "FCP to close"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-08T19:36:57Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-05-23T18:41:20Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "stageDuration": {
+    "proposed": 3,
+    "exploring": 601,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

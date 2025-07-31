@@ -1,0 +1,20 @@
+{
+  "number": 962,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/962",
+  "title": "Bugfix - release date format",
+  "createdAt": "2023-09-18T15:52:02Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 683,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

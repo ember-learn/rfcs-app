@@ -1,0 +1,46 @@
+{
+  "number": 388,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/388",
+  "title": "Add new basic helpers to Ember",
+  "createdAt": "2018-10-13T11:40:40Z",
+  "closedAt": "2020-01-14T18:24:08Z",
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-10-15T21:44:12Z",
+      "label": "Needs Champion"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-10-15T21:44:12Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2018-10-19T18:59:20Z",
+      "label": "Needs Champion"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-11-05T14:26:48Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2484,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

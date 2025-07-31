@@ -1,0 +1,16 @@
+{
+  "number": 242,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/242",
+  "title": "Ember.component support for aria-label, aria-labelledby, and aria-describedby",
+  "createdAt": "2017-07-31T22:37:23Z",
+  "closedAt": "2018-06-01T20:18:16Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-08-01T03:18:16Z",
+      "label": "T-components"
+    }
+  ]
+}

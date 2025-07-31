@@ -1,0 +1,31 @@
+{
+  "number": 909,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/909",
+  "title": "Advance RFC #0739 `\"EmberData | Deprecate Non Strict Relationships\"` to Stage Ready for Release",
+  "createdAt": "2023-03-13T16:31:51Z",
+  "closedAt": "2023-04-05T04:24:17Z",
+  "mergedAt": "2023-04-05T04:24:17Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-13T16:31:52Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-13T16:31:53Z",
+      "label": "S-Ready for Release"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-14T07:07:51Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-04-05T03:48:39Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

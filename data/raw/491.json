@@ -1,0 +1,16 @@
+{
+  "number": 491,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/491",
+  "title": "Deprecate disconnectOutlet",
+  "createdAt": "2019-05-20T13:54:26Z",
+  "closedAt": "2019-06-03T14:40:51Z",
+  "mergedAt": "2019-06-03T14:40:51Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-05-24T19:11:08Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

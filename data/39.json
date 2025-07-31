@@ -1,0 +1,26 @@
+{
+  "number": 39,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/39",
+  "title": "Changing top level dynamic segments while preserving others",
+  "createdAt": "2015-03-10T02:58:02Z",
+  "closedAt": "2022-07-23T17:26:28Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2015-03-27T19:05:27Z",
+      "label": "Needs Response"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3797,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

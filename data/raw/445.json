@@ -1,0 +1,26 @@
+{
+  "number": 445,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/445",
+  "title": "Deprecate {{with}}",
+  "createdAt": "2019-02-13T14:47:52Z",
+  "closedAt": "2019-03-16T22:57:16Z",
+  "mergedAt": "2019-03-16T22:57:16Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-02-14T19:17:40Z",
+      "label": "T-templates"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-02-14T19:17:40Z",
+      "label": "T-framework"
+    }
+  ]
+}

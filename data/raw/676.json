@@ -1,0 +1,26 @@
+{
+  "number": 676,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/676",
+  "title": "Return noop function from {{fn}} helper if invoked without arguments",
+  "createdAt": "2020-10-20T21:23:32Z",
+  "closedAt": "2022-07-23T23:00:47Z",
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2020-11-20T09:54:54Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2020-11-20T09:54:54Z",
+      "label": "T-templates"
+    }
+  ]
+}

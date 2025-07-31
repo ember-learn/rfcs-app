@@ -1,0 +1,31 @@
+{
+  "number": 860,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/860",
+  "title": "EmberData | Request Service",
+  "createdAt": "2022-11-11T02:06:40Z",
+  "closedAt": "2022-12-02T20:39:32Z",
+  "mergedAt": "2022-12-02T20:39:32Z",
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-11T02:06:40Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-24T05:40:45Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-24T05:40:45Z",
+      "label": "S-Exploring"
+    }
+  ]
+}

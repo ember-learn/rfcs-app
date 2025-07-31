@@ -1,0 +1,51 @@
+{
+  "number": 964,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/964",
+  "title": "EmberData | deprecate legacy finder support",
+  "createdAt": "2023-09-19T05:14:28Z",
+  "closedAt": "2025-03-28T18:13:52Z",
+  "mergedAt": "2025-03-28T18:13:52Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-19T05:14:28Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-19T05:14:28Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-19T19:08:49Z",
+      "label": "T-learning"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-09-22T18:39:06Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-22T18:39:06Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-11-08T18:41:18Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-12-20T18:37:56Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-03-21T18:35:05Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "number": 740,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/740",
+  "title": "rfc: ember-data | deprecate-non-strict-types",
+  "createdAt": "2021-04-24T05:52:07Z",
+  "closedAt": "2022-07-24T00:24:28Z",
+  "mergedAt": "2022-07-24T00:24:28Z",
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    },
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    },
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-04-24T05:52:15Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-04-24T06:01:30Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-04-13T23:26:40Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 454,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 910,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/910",
+      "title": "Advance RFC #0740 `\"EmberData | Deprecate Non Strict Types\"` to Stage Ready for Release",
+      "createdAt": "2023-03-13T16:31:51Z",
+      "closedAt": "2023-09-22T18:19:31Z",
+      "mergedAt": "2023-09-22T18:19:31Z",
+      "assignees": [
+        {
+          "login": "runspired",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-03-13T16:31:53Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-03-13T16:31:53Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-03-14T07:07:51Z",
+          "label": "T-ember-data"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-22T18:18:34Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 967,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/967",
+      "title": "Advance RFC #0740 `\"EmberData | Deprecate Non Strict Types\"` to Stage Released",
+      "createdAt": "2023-09-22T18:20:32Z",
+      "closedAt": "2023-09-24T10:19:45Z",
+      "mergedAt": "2023-09-24T10:19:45Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-22T18:20:33Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-22T18:20:33Z",
+          "label": "S-Released"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-22T18:42:47Z",
+          "label": "T-ember-data"
+        }
+      ]
+    },
+    {
+      "number": 972,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/972",
+      "title": "Advance RFC #0740 `\"EmberData | Deprecate Non Strict Types\"` to Stage Recommended",
+      "createdAt": "2023-09-24T10:20:40Z",
+      "closedAt": "2024-12-20T18:43:09Z",
+      "mergedAt": "2024-12-20T18:43:09Z",
+      "assignees": [
+        {
+          "login": "runspired",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-24T10:20:41Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-24T10:20:41Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-10-13T18:04:05Z",
+          "label": "T-ember-data"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-12-06T19:09:43Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    }
+  ]
+}

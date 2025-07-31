@@ -1,0 +1,21 @@
+{
+  "number": 1062,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1062",
+  "title": "Advance RFC #0977 `\"v2 App Format\"` to Stage Ready for Release",
+  "createdAt": "2024-12-20T19:12:43Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-12-20T19:12:44Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-12-20T19:12:44Z",
+      "label": "S-Ready for Release"
+    }
+  ]
+}

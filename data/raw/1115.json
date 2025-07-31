@@ -1,0 +1,26 @@
+{
+  "number": 1115,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1115",
+  "title": "Deprecate Observers",
+  "createdAt": "2025-06-16T17:34:17Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-16T17:34:31Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-20T18:11:29Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-06-20T18:11:32Z",
+      "label": "S-Proposed"
+    }
+  ]
+}

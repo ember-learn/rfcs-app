@@ -1,0 +1,26 @@
+{
+  "number": 950,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/950",
+  "title": "Advance RFC #0800 `\"TypeScript Adoption Plan\"` to Stage Released",
+  "createdAt": "2023-08-24T18:03:27Z",
+  "closedAt": "2023-08-24T18:21:16Z",
+  "mergedAt": "2023-08-24T18:21:16Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-24T18:03:28Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-24T18:03:28Z",
+      "label": "S-Released"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-24T18:20:40Z",
+      "label": "T-TypeScript"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "number": 432,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/432",
+  "title": "Contextual Helpers and Modifiers (a.k.a. \"first-class helpers/modifiers\")",
+  "createdAt": "2019-01-14T22:57:20Z",
+  "closedAt": "2019-02-05T13:22:14Z",
+  "mergedAt": "2019-02-05T13:22:14Z",
+  "assignees": [
+    {
+      "login": "chancancode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55829?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-19T15:43:54Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-25T21:48:31Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2390,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

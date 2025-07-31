@@ -1,0 +1,30 @@
+{
+  "number": 724,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/724",
+  "title": "RFC: Official TypeScript support",
+  "createdAt": "2021-03-11T20:50:43Z",
+  "closedAt": "2022-03-04T19:11:16Z",
+  "mergedAt": "2022-03-04T19:11:16Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    },
+    {
+      "login": "pzuraq",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/685518?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-03-11T21:33:50Z",
+      "label": "T-infrastructure"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-03-11T21:33:50Z",
+      "label": "T-Tooling"
+    }
+  ]
+}

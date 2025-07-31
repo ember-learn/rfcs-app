@@ -1,0 +1,26 @@
+{
+  "number": 1112,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1112",
+  "title": "Deprecate Ember Proxies",
+  "createdAt": "2025-06-13T19:45:33Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-13T19:45:46Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-20T18:19:05Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-06-20T18:19:16Z",
+      "label": "S-Proposed"
+    }
+  ]
+}

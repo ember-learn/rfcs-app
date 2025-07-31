@@ -1,0 +1,31 @@
+{
+  "number": 562,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/562",
+  "title": "Adding Logical Operators to Templates",
+  "createdAt": "2019-12-08T22:31:50Z",
+  "closedAt": "2021-01-15T19:24:55Z",
+  "mergedAt": "2021-01-15T19:24:55Z",
+  "assignees": [
+    {
+      "login": "locks",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32344?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-01-08T20:56:21Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2021-01-08T20:56:31Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-01-08T20:57:20Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "number": 154,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/154",
+  "title": "RFC for router enhancements",
+  "createdAt": "2016-07-19T00:10:49Z",
+  "closedAt": "2022-07-23T17:30:10Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3300,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

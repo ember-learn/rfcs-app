@@ -1,0 +1,40 @@
+{
+  "number": 871,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/871",
+  "title": "Advance RFC #0779 \"First-Class Component Templates\" to Stage Ready for Release",
+  "createdAt": "2022-11-23T21:15:23Z",
+  "closedAt": "2024-11-01T18:07:52Z",
+  "mergedAt": "2024-11-01T18:07:52Z",
+  "assignees": [
+    {
+      "login": "NullVoxPopuli",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/199018?v=4"
+    },
+    {
+      "login": "chriskrycho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-23T21:15:24Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-23T21:15:24Z",
+      "label": "S-Ready for Release"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-23T18:46:03Z",
+      "label": "E-Polaris"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-10-29T15:58:08Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

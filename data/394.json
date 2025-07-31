@@ -1,0 +1,26 @@
+{
+  "number": 394,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/394",
+  "title": "Route actions",
+  "createdAt": "2018-10-29T08:25:20Z",
+  "closedAt": "2019-01-04T20:45:44Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-11-09T17:10:34Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2468,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

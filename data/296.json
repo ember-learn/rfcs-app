@@ -1,0 +1,20 @@
+{
+  "number": 296,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/296",
+  "title": "fix syntax error on is-active helper",
+  "createdAt": "2018-01-16T16:53:37Z",
+  "closedAt": "2018-01-17T01:36:41Z",
+  "mergedAt": "2018-01-17T01:36:41Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2753,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

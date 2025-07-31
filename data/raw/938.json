@@ -1,0 +1,36 @@
+{
+  "number": 938,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/938",
+  "title": "Strict ES Module Support",
+  "createdAt": "2023-07-26T23:02:09Z",
+  "closedAt": "2025-04-01T21:54:18Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-07-26T23:02:29Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-04T15:03:25Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-08-04T15:03:32Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-06-12T14:31:56Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-06-14T18:07:59Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

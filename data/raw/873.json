@@ -1,0 +1,26 @@
+{
+  "number": 873,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/873",
+  "title": "Advance RFC #0776 \"Author built-in blueprints in Typescript\" to Stage Ready for Release",
+  "createdAt": "2022-11-28T22:18:37Z",
+  "closedAt": "2023-03-13T19:43:43Z",
+  "mergedAt": "2023-03-13T19:43:43Z",
+  "assignees": [
+    {
+      "login": "chriskrycho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-28T22:18:38Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-28T22:18:38Z",
+      "label": "S-Ready for Release"
+    }
+  ]
+}

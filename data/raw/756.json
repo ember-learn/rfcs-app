@@ -1,0 +1,26 @@
+{
+  "number": 756,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/756",
+  "title": "Default Helper Manager",
+  "createdAt": "2021-07-18T17:45:41Z",
+  "closedAt": "2021-10-15T18:46:08Z",
+  "mergedAt": "2021-10-15T18:46:08Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-10-08T19:02:19Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-10-08T19:02:19Z",
+      "label": "T-templates"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-10-08T19:02:27Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}
