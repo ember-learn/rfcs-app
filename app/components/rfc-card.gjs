@@ -1,29 +1,22 @@
 import Component from '@glimmer/component';
+import { LinkTo } from '@ember/routing';
 
 export default class RfcCard extends Component {
 <template>
   <div class="rfc-card">
-    <a href={{this.getURL}}><h2>{{this.getTitle}}</h2></a>
-    <p class="summary">{{this.getSummary}}</p>
+    <LinkTo @route="rfc" @model={{@rfc.rfcFile}}><h2>#{{@rfc.number}} {{@rfc.title}}</h2></LinkTo>
+    <p class="summary">{{@rfc.summary}}...</p>
     {{#unless @compact}}
     <div class="rfc-champions">
-      <img width="100" height="100" class="eri-fixed team-image" loading="lazy" decoding="async" alt="" role="presentation" data-eri-bh="U9GkwhBJ9?=~OgNORQ^k_Ns+WBx^%hoHs:tQ" data-eri-bh-w="4" data-eri-bh-h="4" style="" src="https://avatars.githubusercontent.com/u/594890?v=4">
-      <img src="https://avatars.githubusercontent.com/u/5811560?v=4" />
+      {{#each @rfc.assignees as |assignee|}}
+        <img title={{assignee.login}} src={{assignee.avatarUrl}} />
+      {{/each}}
     </div>
     {{/unless}}
   </div>
 </template>
 
-get getURL() {
-    return `id/${this.args.title}`;
-  }
-
-  get getTitle() {
-    const [number, ...title] = this.args.title.split('-');
-    return `#${Number(number)} ${title.join(' ')}`
-  }
-
-  get getSummary() {
-    return this.args.compact ? "Identifiers provides infrastructure for handling identity within ember-data to satisfy requirements around improved caching, serializability, replication, and handling of remote data..." : "Identifiers provides infrastructure for handling identity within ember-data to satisfy requirements around improved caching, serializability, replication, and handling of remote data.This concept would parallel a similar structure proposed for json-api resource identifier lid property drafted for version 1.2 of the json-api spec.In doing so we provide a framework for future RFCs and/or addons to address many common feature requests."
+  get getURL() {
+    return `/id/${this.args.rfc.rfcFile}`;
   }
 }

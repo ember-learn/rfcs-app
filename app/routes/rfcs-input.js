@@ -1,7 +1,11 @@
 import Route from '@ember/routing/route';
-import toc from 'rfcs-app-toc-builder:toc.json';
+
 export default class RfcsInputRoute extends Route {
   async model() {
-    return toc.stageLinks["exploring"];
+    // doing it this way makes sure we request both files at the same time
+    return (await Promise.all([
+      import('rfcs-app-toc-builder:stage-proposed.json'),
+      import('rfcs-app-toc-builder:stage-exploring.json')])
+    ).map(item => item.default).flat();
   }
 }

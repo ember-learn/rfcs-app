@@ -74,6 +74,9 @@ importers:
       decorator-transforms:
         specifier: ^2.3.0
         version: 2.3.0(@babel/core@7.27.4)
+      downsize-cjs:
+        specifier: ^1.1.2
+        version: 1.1.2
       ember-auto-import:
         specifier: ^2.10.0
         version: 2.10.0(webpack@4.47.0)
@@ -176,6 +179,9 @@ importers:
       rollup:
         specifier: ^4.42.0
         version: 4.42.0
+      showdown:
+        specifier: ^2.1.0
+        version: 2.1.0
       simple-dom:
         specifier: ^1.4.0
         version: 1.4.0
@@ -3665,6 +3671,9 @@ packages:
   dot-prop@5.3.0:
     resolution: {integrity: sha512-QM8q3zDe58hqUqjraQOmzZ1LIH9SWQJTlEKCH4kJ2oQvLZk7RbQXvtDM2XEq3fwkV9CCvvH4LA0AV+ogFsBM2Q==}
     engines: {node: '>=8'}
+
+  downsize-cjs@1.1.2:
+    resolution: {integrity: sha512-WfytyidccC61hSKwiWeMXTO4WwWxjOHhl70cH+nbFEy8tkUyEBdz70FI2xc94uS5GL3cyPG3h5r4HH5cpFsUvw==}
 
   dunder-proto@1.0.1:
     resolution: {integrity: sha512-KIN/nDJBQRcXw0MLVhZE9iQHmG68qAVIBg9CqmUYjmQIhgij9U5MFvrqkUL5FbtyyzZuOeOt0zdeRe4UY7ct+A==}
@@ -12399,6 +12408,8 @@ snapshots:
   dot-prop@5.3.0:
     dependencies:
       is-obj: 2.0.0
+
+  downsize-cjs@1.1.2: {}
 
   dunder-proto@1.0.1:
     dependencies:
