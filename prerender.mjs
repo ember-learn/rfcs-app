@@ -52,7 +52,22 @@ async function render(url, instance) {
   return new Result(bootOptions.document, wrapperHTML, {});
 }
 
-const routesToPrerender = ['/'];
+const routesToPrerender = [
+  '/',
+  '/rfcs-input/',
+  '/rfcs-help/',
+  '/stages/',
+  '/create-rfc/',
+  '/role-core-team/',
+  '/stages/proposed/',
+  '/stages/exploring/',
+  '/stages/accepted/',
+  '/stages/ready-for-release/',
+  '/stages/released/',
+  '/stages/recommended/',
+  '/stages/discontinued/',
+  '/stages/closed/',
+];
 
 const markdowns = globSync('./rfcs/text/*.md');
 
