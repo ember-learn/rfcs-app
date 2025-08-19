@@ -1,5 +1,4 @@
 import { pageTitle } from 'ember-page-title';
-import { LinkTo } from '@ember/routing';
 import formatDate from 'rfcs-app/helpers/format-date';
 import MarkdownToHtml from 'ember-cli-showdown/components/markdown-to-html';
 import Component from '@glimmer/component';
@@ -7,28 +6,6 @@ import { inject as controller } from '@ember/controller';
 
 export default class RFCRouteComponent extends Component {
   @controller application;
-
-  get previousRFC() {
-    let currentRFCIndex = this.application.model.links.indexOf(
-      this.args.model.id
-    );
-    if (currentRFCIndex <= 0) {
-      return null;
-    }
-
-    return this.application.model.links[currentRFCIndex - 1];
-  }
-
-  get nextRFC() {
-    let currentRFCIndex = this.application.model.links.indexOf(
-      this.args.model.id
-    );
-    if (currentRFCIndex >= this.application.model.links.length) {
-      return null;
-    }
-
-    return this.application.model.links[currentRFCIndex + 1];
-  }
 
   toggleSidebar() {
     document.body.classList.toggle('sidebar-hidden');

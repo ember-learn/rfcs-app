@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
-import { Octokit } from "octokit";
-import { mkdir, writeFile } from "node:fs/promises";
-import { join } from "path";
+import { Octokit } from 'octokit';
+import { mkdir, writeFile } from 'node:fs/promises';
+import { join } from 'path';
 
 // Create a personal access token at https://github.com/settings/tokens/new?scopes=repo
 const octokit = new Octokit({
@@ -10,28 +10,28 @@ const octokit = new Octokit({
 });
 
 const iterator = octokit.paginate.iterator(octokit.rest.pulls.list, {
-  owner: "emberjs",
-  repo: "rfcs",
-  state: "all",
+  owner: 'emberjs',
+  repo: 'rfcs',
+  state: 'all',
   per_page: 100,
 });
 
-await mkdir('data/raw', {recursive: true});
+await mkdir('data/raw', { recursive: true });
 
 for await (const { data: pulls } of iterator) {
   for (const pull of pulls) {
     let { data: issueEvents } = await octokit.rest.issues.listEvents({
-      owner: "emberjs",
-      repo: "rfcs",
+      owner: 'emberjs',
+      repo: 'rfcs',
       issue_number: pull.number,
     });
 
     issueEvents = issueEvents.filter((item) =>
-      ["labeled", "unlabeled"].includes(item.event),
+      ['labeled', 'unlabeled'].includes(item.event),
     );
 
     await writeFile(
-      join("data", `${pull.number}.json`),
+      join('data', `${pull.number}.json`),
       JSON.stringify(
         {
           number: pull.number,
@@ -46,7 +46,7 @@ for await (const { data: pulls } of iterator) {
             login: item.login,
             avatarUrl: item.avatar_url,
           })),
-          timelineItems: issueEvents.map(item => ({
+          timelineItems: issueEvents.map((item) => ({
             event: item.event,
             createdAt: item.created_at,
             label: item.label.name,
@@ -55,7 +55,7 @@ for await (const { data: pulls } of iterator) {
         null,
         2,
       ),
-      "utf8",
+      'utf8',
     );
   }
 }

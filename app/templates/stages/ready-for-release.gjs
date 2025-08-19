@@ -10,7 +10,7 @@ import RfcCard from 'rfcs-app/components/rfc-card';
     an official release. See the list of RFCs ready for release below.</p>
 
   <div class="rfc-grid">
-    {{#each @model as | rfc | }}
+    {{#each @model as |rfc|}}
       <RfcCard @rfc={{rfc}} />
     {{/each}}
   </div>
