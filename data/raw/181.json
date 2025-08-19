@@ -1,0 +1,21 @@
+{
+  "number": 181,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/181",
+  "title": "Add RFC for deprecation Ember Data initializers",
+  "createdAt": "2016-11-22T21:46:46Z",
+  "closedAt": "2017-01-25T19:32:54Z",
+  "mergedAt": "2017-01-25T19:32:54Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-01-05T15:08:50Z",
+      "label": "ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2017-01-09T03:42:38Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

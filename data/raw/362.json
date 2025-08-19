@@ -1,0 +1,26 @@
+{
+  "number": 362,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/362",
+  "title": "Ember Data: Return Promise from DS.Model.save()",
+  "createdAt": "2018-08-22T21:05:34Z",
+  "closedAt": "2022-02-14T03:37:09Z",
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-08-22T21:06:59Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-08-21T21:22:32Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

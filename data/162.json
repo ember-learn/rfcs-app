@@ -1,0 +1,20 @@
+{
+  "number": 162,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/162",
+  "title": "Update 0000-router-service.md",
+  "createdAt": "2016-08-02T23:26:23Z",
+  "closedAt": "2016-08-12T17:55:36Z",
+  "mergedAt": "2016-08-12T17:55:36Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3285,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

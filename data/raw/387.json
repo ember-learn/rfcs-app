@@ -1,0 +1,16 @@
+{
+  "number": 387,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/387",
+  "title": "[Ember Data] Improve findHasMany/findBelongsTo decision making",
+  "createdAt": "2018-10-08T10:02:43Z",
+  "closedAt": "2018-10-31T21:09:56Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-10-08T18:18:58Z",
+      "label": "T-ember-data"
+    }
+  ]
+}

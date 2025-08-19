@@ -1,0 +1,31 @@
+{
+  "number": 874,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/874",
+  "title": "Advance RFC #0821 to Stage Ready for Release",
+  "createdAt": "2022-11-29T01:43:49Z",
+  "closedAt": "2022-12-13T00:35:30Z",
+  "mergedAt": "2022-12-13T00:35:30Z",
+  "assignees": [
+    {
+      "login": "chriskrycho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-29T01:43:50Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-29T01:43:50Z",
+      "label": "S-Ready for Release"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T19:48:46Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

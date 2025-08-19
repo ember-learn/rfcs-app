@@ -5,7 +5,10 @@ import EsSidebar from 'ember-styleguide/components/es-sidebar';
 
 <template>
   {{pageTitle "Ember.js RFCs"}}
-  <EsHeader><input placeholder="Search all RFCS" /></EsHeader>
+  <EsHeader><input
+      aria-label="RFCs Search Input"
+      placeholder="Search all RFCS"
+    /></EsHeader>
   <main class="sidebar-container sidebar-container--full-width">
     <EsSidebar>
       <ul class="table-of-contents">
@@ -35,7 +38,7 @@ import EsSidebar from 'ember-styleguide/components/es-sidebar';
             </li>
           </ul>
         </li>
-         <li class="toc-heading">RFC library</li>
+        <li class="toc-heading">RFC library</li>
         <li class="toc-item">
           <ul class="table-of-contents sub-table-of-contents">
             <li class="toc-item">

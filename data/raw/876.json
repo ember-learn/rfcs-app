@@ -1,0 +1,36 @@
+{
+  "number": 876,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/876",
+  "title": "RFC: Support for ES `accessor` Decorators",
+  "createdAt": "2022-11-29T16:47:34Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "ef4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/319282?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-29T16:48:00Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-01T15:05:27Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2022-12-01T15:05:27Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-23T18:49:23Z",
+      "label": "E-Polaris"
+    }
+  ]
+}

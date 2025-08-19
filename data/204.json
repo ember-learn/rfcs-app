@@ -1,0 +1,20 @@
+{
+  "number": 204,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/204",
+  "title": "RFC: Template import directives",
+  "createdAt": "2017-01-24T20:30:08Z",
+  "closedAt": "2019-05-31T17:41:32Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3110,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

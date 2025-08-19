@@ -1,0 +1,42 @@
+{
+  "number": 1117,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1117",
+  "title": "Deprecate Classic Classes",
+  "createdAt": "2025-06-20T13:12:37Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-20T13:12:52Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-20T18:22:05Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-06-20T18:22:11Z",
+      "label": "S-Proposed"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-20T18:22:05Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "stageDuration": {
+    "proposed": 1,
+    "exploring": 41,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

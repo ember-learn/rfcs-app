@@ -39,7 +39,13 @@ import EsNote from 'ember-styleguide/components/es-note';
     level of API design detail required for an RFC. You may open an issue on
     this repo to start a high-level discussion, with the goal of eventually
     formulating an RFC pull request with the specific implementation design. We
-    also highly recommend sharing drafts of RFCs in <a href="https://discord.com/channels/480462759797063690/500803406676492298">#dev-rfc channel</a> on the <a href="https://discord.gg/vH76gMKgqB">Ember.js Discord</a> for early feedback.</p>
+    also highly recommend sharing drafts of RFCs in
+    <a
+      href="https://discord.com/channels/480462759797063690/500803406676492298"
+    >#dev-rfc channel</a>
+    on the
+    <a href="https://discord.gg/vH76gMKgqB">Ember.js Discord</a>
+    for early feedback.</p>
 
   <p>For more on the RFC process and stages, check out the
     <LinkTo @route="stages">RFC stages guide</LinkTo></p>
@@ -84,8 +90,11 @@ import EsNote from 'ember-styleguide/components/es-note';
       comments.
     </li>
     <li>
-      From here, the RFC moves to the <a href="/stages#exploring">Exploring stage</a> or <a href="/stages#closed">Closed</a> in the process
-      explained in Stages.
+      From here, the RFC moves to the
+      <a href="/stages#exploring">Exploring stage</a>
+      or
+      <a href="/stages#closed">Closed</a>
+      in the process explained in Stages.
     </li>
   </ul>
 
@@ -96,9 +105,14 @@ import EsNote from 'ember-styleguide/components/es-note';
     helping the team reach consensus, ensuring the RFC adheres to the process,
     and supporting planning and implementation. A champion can step down before
     the RFC is accepted and may also designate a replacement at any time.</p>
-    <p>The best way to find a champion is by engaging in the <a href="https://discord.com/channels/480462759797063690/500803406676492298">#dev-rfc channel</a> on the
-    <a href="https://discord.gg/vH76gMKgqB">Ember.js Discord</a>, which is dedicated to RFC discussions. Sharing early drafts
-    there is highly encouraged as it's a great way to receive initial feedback
-    and connect with potential champions. You can also request a champion by
-    opening an issue or noting it directly in the RFC.</p>
+  <p>The best way to find a champion is by engaging in the
+    <a
+      href="https://discord.com/channels/480462759797063690/500803406676492298"
+    >#dev-rfc channel</a>
+    on the
+    <a href="https://discord.gg/vH76gMKgqB">Ember.js Discord</a>, which is
+    dedicated to RFC discussions. Sharing early drafts there is highly
+    encouraged as it's a great way to receive initial feedback and connect with
+    potential champions. You can also request a champion by opening an issue or
+    noting it directly in the RFC.</p>
 </template>

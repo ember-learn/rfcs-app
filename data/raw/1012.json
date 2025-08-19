@@ -1,0 +1,26 @@
+{
+  "number": 1012,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1012",
+  "title": "Advance RFC #0995 `\"Deprecate non-co-located components.\"` to Stage Ready for Release",
+  "createdAt": "2024-03-08T20:06:04Z",
+  "closedAt": "2024-05-03T18:04:54Z",
+  "mergedAt": "2024-05-03T18:04:54Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-03-08T20:06:05Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-03-08T20:06:05Z",
+      "label": "S-Ready for Release"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-04-26T18:33:21Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

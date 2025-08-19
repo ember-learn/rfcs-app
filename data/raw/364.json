@@ -1,0 +1,21 @@
+{
+  "number": 364,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/364",
+  "title": "RFC: Ember 2018 Roadmap",
+  "createdAt": "2018-08-24T17:00:06Z",
+  "closedAt": "2018-11-01T23:18:55Z",
+  "mergedAt": "2018-11-01T23:18:55Z",
+  "assignees": [
+    {
+      "login": "tomdale",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/90888?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-10-04T04:01:12Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

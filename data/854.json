@@ -1,0 +1,129 @@
+{
+  "number": 854,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/854",
+  "title": "EmberData | Cache v2.1",
+  "createdAt": "2022-09-24T04:58:45Z",
+  "closedAt": "2023-04-05T04:12:33Z",
+  "mergedAt": "2023-04-05T04:12:33Z",
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    },
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-09-24T04:58:45Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-24T05:36:16Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-24T05:36:38Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2022-11-24T05:39:52Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-27T06:42:17Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-24T05:36:16Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "stageDuration": {
+    "proposed": 62,
+    "exploring": 115,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 923,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/923",
+      "title": "Advance RFC #0854 `\"EmberData Cache V2.1\"` to Stage Ready for Release",
+      "createdAt": "2023-04-05T04:13:37Z",
+      "closedAt": "2023-04-05T04:35:48Z",
+      "mergedAt": "2023-04-05T04:35:48Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-04-05T04:13:38Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-04-05T04:13:38Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-04-05T04:30:20Z",
+          "label": "Final Comment Period"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-04-05T04:34:15Z",
+          "label": "T-ember-data"
+        }
+      ]
+    },
+    {
+      "number": 926,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/926",
+      "title": "Advance RFC #0854 `\"EmberData Cache V2.1\"` to Stage Recommended",
+      "createdAt": "2023-04-05T04:36:44Z",
+      "closedAt": "2023-07-28T18:21:17Z",
+      "mergedAt": "2023-07-28T18:21:17Z",
+      "assignees": [
+        {
+          "login": "runspired",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-04-05T04:36:45Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-04-05T04:36:45Z",
+          "label": "S-Released"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-04-05T04:37:36Z",
+          "label": "T-ember-data"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-07-28T18:09:50Z",
+          "label": "S-Recommended"
+        }
+      ]
+    }
+  ]
+}

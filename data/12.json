@@ -1,0 +1,25 @@
+{
+  "number": 12,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/12",
+  "title": "RFC: Getter CP readOnly by default",
+  "createdAt": "2014-10-31T03:41:07Z",
+  "closedAt": "2015-06-07T18:28:41Z",
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "wycats",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4?v=4"
+    }
+  ],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3927,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

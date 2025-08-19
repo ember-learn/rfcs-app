@@ -1,0 +1,20 @@
+{
+  "number": 482,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/482",
+  "title": "Deprecate hash helper",
+  "createdAt": "2019-04-23T20:27:29Z",
+  "closedAt": "2022-03-02T15:43:25Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2291,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

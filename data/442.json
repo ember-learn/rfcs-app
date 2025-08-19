@@ -1,0 +1,31 @@
+{
+  "number": 442,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/442",
+  "title": "Add `descriptor()`",
+  "createdAt": "2019-02-07T17:00:22Z",
+  "closedAt": "2019-03-27T15:24:33Z",
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-02-14T19:26:25Z",
+      "label": "T-framework"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2366,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

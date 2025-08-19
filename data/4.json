@@ -1,0 +1,26 @@
+{
+  "number": 4,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/4",
+  "title": "RFC: Ember Data url templates",
+  "createdAt": "2014-08-20T21:38:09Z",
+  "closedAt": "2019-08-21T21:18:42Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2014-08-22T18:30:31Z",
+      "label": "ember-data"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3998,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

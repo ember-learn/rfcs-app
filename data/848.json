@@ -1,0 +1,131 @@
+{
+  "number": 848,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/848",
+  "title": "RFC: Deprecate array prototype extensions",
+  "createdAt": "2022-08-30T18:02:40Z",
+  "closedAt": "2022-09-30T21:37:21Z",
+  "mergedAt": "2022-09-30T21:37:21Z",
+  "assignees": [
+    {
+      "login": "chriskrycho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-08-30T18:17:04Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-08-30T18:17:26Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-08-30T18:17:26Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-09-03T06:38:35Z",
+      "label": "T-ember-cli"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-09-09T18:25:54Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-08-30T18:17:26Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "stageDuration": {
+    "proposed": 1,
+    "exploring": 49,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 1020,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1020",
+      "title": "Advance RFC #0848 `\"Deprecate array prototype extensions\"` to Stage Ready for Release",
+      "createdAt": "2024-04-24T15:46:49Z",
+      "closedAt": "2024-08-09T18:07:04Z",
+      "mergedAt": "2024-08-09T18:07:04Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-04-24T15:46:49Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-04-24T15:46:49Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-08-02T18:36:30Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 1042,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1042",
+      "title": "Advance RFC #0848 `\"Deprecate array prototype extensions\"` to Stage Released",
+      "createdAt": "2024-08-09T18:07:59Z",
+      "closedAt": "2024-08-09T18:19:06Z",
+      "mergedAt": "2024-08-09T18:19:06Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-08-09T18:07:59Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-08-09T18:07:59Z",
+          "label": "S-Released"
+        }
+      ]
+    },
+    {
+      "number": 1043,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1043",
+      "title": "Advance RFC #0848 `\"Deprecate array prototype extensions\"` to Stage Recommended",
+      "createdAt": "2024-08-09T18:19:49Z",
+      "closedAt": "2024-09-27T18:12:39Z",
+      "mergedAt": "2024-09-27T18:12:39Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-08-09T18:19:50Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-08-09T18:19:50Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-09-20T18:09:45Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    }
+  ]
+}

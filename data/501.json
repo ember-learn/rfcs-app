@@ -1,0 +1,20 @@
+{
+  "number": 501,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/501",
+  "title": "Deprecate inline link-to",
+  "createdAt": "2019-06-12T16:56:41Z",
+  "closedAt": "2022-05-01T19:04:16Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2241,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

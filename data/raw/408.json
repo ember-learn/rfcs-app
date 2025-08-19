@@ -1,0 +1,31 @@
+{
+  "number": 408,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/408",
+  "title": "Decorators",
+  "createdAt": "2018-12-04T02:18:42Z",
+  "closedAt": "2019-01-11T20:54:50Z",
+  "mergedAt": "2019-01-11T20:54:50Z",
+  "assignees": [
+    {
+      "login": "tomdale",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/90888?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-12-04T14:56:14Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-12-04T14:56:14Z",
+      "label": "Octane"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-04T20:49:31Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

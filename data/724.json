@@ -1,0 +1,166 @@
+{
+  "number": 724,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/724",
+  "title": "RFC: Official TypeScript support",
+  "createdAt": "2021-03-11T20:50:43Z",
+  "closedAt": "2022-03-04T19:11:16Z",
+  "mergedAt": "2022-03-04T19:11:16Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    },
+    {
+      "login": "pzuraq",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/685518?v=4"
+    },
+    {
+      "login": "wagenet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
+    },
+    {
+      "login": "chriskrycho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+    },
+    {
+      "login": "gitKrystan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14152574?v=4"
+    },
+    {
+      "login": "wagenet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
+    },
+    {
+      "login": "gitKrystan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14152574?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-03-11T21:33:50Z",
+      "label": "T-infrastructure"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-03-11T21:33:50Z",
+      "label": "T-Tooling"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 548,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 869,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/869",
+      "title": "Advance RFC #0724 \"Official TypeScript support\" to Stage Ready for Release",
+      "createdAt": "2022-11-23T18:33:31Z",
+      "closedAt": "2023-08-24T17:46:31Z",
+      "mergedAt": "2023-08-24T17:46:31Z",
+      "assignees": [
+        {
+          "login": "wagenet",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
+        },
+        {
+          "login": "chriskrycho",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+        },
+        {
+          "login": "gitKrystan",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/14152574?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2022-11-23T18:33:32Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2022-11-23T18:33:32Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-03-23T18:46:02Z",
+          "label": "E-Polaris"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-08-18T18:34:26Z",
+          "label": "T-TypeScript"
+        }
+      ]
+    },
+    {
+      "number": 948,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/948",
+      "title": "Advance RFC #0724 `\"Official TypeScript Support\"` to Stage Released",
+      "createdAt": "2023-08-24T17:47:30Z",
+      "closedAt": "2023-08-24T18:19:50Z",
+      "mergedAt": "2023-08-24T18:19:49Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-08-24T17:47:31Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-08-24T17:47:31Z",
+          "label": "S-Released"
+        }
+      ]
+    },
+    {
+      "number": 952,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/952",
+      "title": "Advance RFC #0724 `\"Official TypeScript Support\"` to Stage Recommended",
+      "createdAt": "2023-08-24T18:20:49Z",
+      "closedAt": "2025-02-21T19:11:12Z",
+      "mergedAt": "2025-02-21T19:11:12Z",
+      "assignees": [
+        {
+          "login": "wagenet",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
+        },
+        {
+          "login": "gitKrystan",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/14152574?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-08-24T18:20:50Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-08-24T18:20:50Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-08-24T18:21:28Z",
+          "label": "T-TypeScript"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-02-14T20:05:39Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    }
+  ]
+}

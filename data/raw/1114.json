@@ -1,0 +1,26 @@
+{
+  "number": 1114,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1114",
+  "title": "Deprecate Ember Array",
+  "createdAt": "2025-06-13T20:09:01Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-13T20:09:18Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-20T18:15:51Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-06-20T18:44:16Z",
+      "label": "S-Proposed"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "number": 738,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/738",
+  "title": "rfc: ember-data | deprecate-model-reopen",
+  "createdAt": "2021-04-24T04:33:55Z",
+  "closedAt": "2021-05-06T00:52:05Z",
+  "mergedAt": "2021-05-06T00:52:05Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-04-24T04:33:55Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-04-24T04:33:55Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-04-28T21:49:20Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 1560,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

@@ -1,0 +1,36 @@
+{
+  "number": 1109,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1109",
+  "title": "Advance RFC #1027 `\"EmberData | SchemaService\"` to Stage Recommended",
+  "createdAt": "2025-06-13T18:18:36Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-13T18:18:37Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-13T18:18:37Z",
+      "label": "S-Recommended"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-13T18:18:38Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-07-02T15:52:45Z",
+      "label": "T-ember-data"
+    }
+  ]
+}

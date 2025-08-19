@@ -14,6 +14,20 @@ describe('Tag Generator', function () {
 
   it('should automatically create a new tag for the most recent 4 posts', async function () {
     project.files = {
+      data: {
+        '1.json': JSON.stringify({
+          number: 1,
+        }),
+        '2.json': JSON.stringify({
+          number: 2,
+        }),
+        '5.json': JSON.stringify({
+          number: 5,
+        }),
+        '11.json': JSON.stringify({
+          number: 11,
+        }),
+      },
       content: {
         '0001-transform.md': `---
 startDate: 2001
@@ -44,7 +58,13 @@ stage: approved
     const bundle = await rollup({
       treeshake: false,
       input: resolve(project.baseDir, 'index.js'),
-      plugins: [tocBuilder(resolve(project.baseDir, 'content')), pluginJson()],
+      plugins: [
+        tocBuilder(
+          resolve(project.baseDir, 'content'),
+          resolve(project.baseDir, 'data'),
+        ),
+        pluginJson(),
+      ],
     });
 
     const { output } = await bundle.generate({ exports: 'auto' });

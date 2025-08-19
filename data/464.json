@@ -1,0 +1,31 @@
+{
+  "number": 464,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/464",
+  "title": "Include ember-cli-dependency-lint in the default app blueprint [Revived]",
+  "createdAt": "2019-03-14T07:24:59Z",
+  "closedAt": "2022-12-14T18:08:04Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:34:17Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-07T18:39:08Z",
+      "label": "FCP to close"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2332,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

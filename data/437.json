@@ -1,0 +1,20 @@
+{
+  "number": 437,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/437",
+  "title": "Add 'Relevant Team(s)' frontmatter to CLI RFCs",
+  "createdAt": "2019-01-19T23:06:16Z",
+  "closedAt": "2019-01-20T03:28:38Z",
+  "mergedAt": "2019-01-20T03:28:38Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2385,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

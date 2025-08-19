@@ -1,0 +1,79 @@
+{
+  "number": 939,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/939",
+  "title": "Introduce import.meta.glob",
+  "createdAt": "2023-07-26T23:03:04Z",
+  "closedAt": "2023-11-10T15:10:13Z",
+  "mergedAt": "2023-11-10T15:10:12Z",
+  "assignees": [
+    {
+      "login": "NullVoxPopuli",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/199018?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-07-26T23:03:24Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-04T15:02:39Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-08-04T15:02:45Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-11-03T18:33:47Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-04T15:02:39Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "stageDuration": {
+    "proposed": 9,
+    "exploring": 630,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 988,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/988",
+      "title": "Advance RFC #0939 `\"Introduce a Wildcard Module Import API\"` to Stage Ready for Release",
+      "createdAt": "2023-11-10T15:11:09Z",
+      "closedAt": null,
+      "mergedAt": null,
+      "assignees": [
+        {
+          "login": "NullVoxPopuli",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/199018?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-11-10T15:11:11Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-11-10T15:11:11Z",
+          "label": "S-Ready for Release"
+        }
+      ]
+    }
+  ]
+}

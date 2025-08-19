@@ -1,0 +1,36 @@
+{
+  "number": 700,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/700",
+  "title": "Clarify and amend import paths in RFC #496 and #671",
+  "createdAt": "2021-01-07T07:14:59Z",
+  "closedAt": "2021-01-08T19:40:56Z",
+  "mergedAt": "2021-01-08T19:40:55Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-01-07T07:15:18Z",
+      "label": "T-components"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-01-07T07:15:18Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-01-07T07:15:18Z",
+      "label": "T-templates"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 1667,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

@@ -1,0 +1,20 @@
+{
+  "number": 929,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/929",
+  "title": "Update FCP guidance to include Discord",
+  "createdAt": "2023-04-19T18:12:48Z",
+  "closedAt": "2023-04-19T18:20:31Z",
+  "mergedAt": "2023-04-19T18:20:30Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 834,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

@@ -1,0 +1,21 @@
+{
+  "number": 324,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/324",
+  "title": "Deprecate Component#isVisible",
+  "createdAt": "2018-04-03T09:19:11Z",
+  "closedAt": "2018-06-22T18:59:02Z",
+  "mergedAt": "2018-06-22T18:59:02Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-06-01T20:36:53Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

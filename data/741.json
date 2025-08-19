@@ -1,0 +1,36 @@
+{
+  "number": 741,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/741",
+  "title": "rfc: ember-data | Deprecate Accessing Static Fields On Model Prior To Lookup",
+  "createdAt": "2021-04-24T06:23:52Z",
+  "closedAt": "2022-07-24T00:23:01Z",
+  "mergedAt": "2022-07-24T00:23:01Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-04-24T06:23:52Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-04-24T06:23:52Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-04-13T23:34:42Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 1560,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

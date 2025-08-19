@@ -1,0 +1,41 @@
+{
+  "number": 711,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/711",
+  "title": "Deprecate Auto Location",
+  "createdAt": "2021-01-23T08:41:00Z",
+  "closedAt": "2021-02-26T18:58:22Z",
+  "mergedAt": "2021-02-26T18:58:22Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-02-04T16:16:10Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-02-04T16:16:10Z",
+      "label": "T-routing"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-02-05T21:44:08Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 1651,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

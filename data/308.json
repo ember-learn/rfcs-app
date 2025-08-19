@@ -1,0 +1,25 @@
+{
+  "number": 308,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/308",
+  "title": "Transition Away From Property Fallback Behavior",
+  "createdAt": "2018-02-16T20:18:55Z",
+  "closedAt": "2018-06-22T19:00:56Z",
+  "mergedAt": "2018-06-22T19:00:56Z",
+  "assignees": [
+    {
+      "login": "wycats",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4?v=4"
+    }
+  ],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2722,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

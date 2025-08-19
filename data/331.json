@@ -1,0 +1,41 @@
+{
+  "number": 331,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/331",
+  "title": "Deprecate Globals Resolver",
+  "createdAt": "2018-05-08T16:57:33Z",
+  "closedAt": "2018-09-07T19:09:32Z",
+  "mergedAt": "2018-09-07T19:09:32Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-06-01T20:44:04Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2018-06-26T18:00:01Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-08-31T21:55:11Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2641,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

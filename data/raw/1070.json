@@ -1,0 +1,31 @@
+{
+  "number": 1070,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1070",
+  "title": "Default globals for strict mode",
+  "createdAt": "2025-01-18T17:05:07Z",
+  "closedAt": "2025-02-28T19:57:40Z",
+  "mergedAt": "2025-02-28T19:57:40Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-01-18T17:05:25Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-01-24T19:31:31Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-01-24T19:31:36Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-02-21T19:15:30Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

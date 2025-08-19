@@ -1,0 +1,16 @@
+{
+  "number": 750,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/750",
+  "title": "RFC: Deprecate Ember.assign",
+  "createdAt": "2021-05-26T18:09:45Z",
+  "closedAt": "2021-07-09T18:06:39Z",
+  "mergedAt": "2021-07-09T18:06:39Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-06-25T18:59:28Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

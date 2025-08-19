@@ -1,0 +1,26 @@
+{
+  "number": 1097,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1097",
+  "title": "Advance RFC #1055 `\"Vanilla Prettier Setup in Blueprints\"` to Stage Recommended",
+  "createdAt": "2025-04-04T18:44:15Z",
+  "closedAt": "2025-05-23T18:34:19Z",
+  "mergedAt": "2025-05-23T18:34:19Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-04-04T18:44:15Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-04-04T18:44:15Z",
+      "label": "S-Recommended"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-05-16T18:09:25Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "number": 1111,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1111",
+  "title": "Deprecate Evented Mixin",
+  "createdAt": "2025-06-13T19:00:25Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-13T19:00:39Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-20T18:45:55Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-06-20T18:45:58Z",
+      "label": "S-Proposed"
+    }
+  ]
+}

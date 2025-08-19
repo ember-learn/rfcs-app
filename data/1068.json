@@ -1,0 +1,79 @@
+{
+  "number": 1068,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1068",
+  "title": "tracked-built-ins built-in",
+  "createdAt": "2025-01-12T16:59:29Z",
+  "closedAt": "2025-03-21T18:22:03Z",
+  "mergedAt": "2025-03-21T18:22:03Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-01-12T16:59:45Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-02-21T19:44:42Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-02-21T19:44:42Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-02-21T19:44:42Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-02-28T19:53:48Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-03-14T18:50:43Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-02-21T19:44:42Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "stageDuration": {
+    "proposed": 41,
+    "exploring": 132,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 1088,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1088",
+      "title": "Advance RFC #1068 `\"Built in tracking utilities for common collections\"` (tracked-built-ins, built-in) to Stage Ready for Release",
+      "createdAt": "2025-03-21T18:22:51Z",
+      "closedAt": null,
+      "mergedAt": null,
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-03-21T18:22:52Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-03-21T18:22:52Z",
+          "label": "S-Ready for Release"
+        }
+      ]
+    }
+  ]
+}

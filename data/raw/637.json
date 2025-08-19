@@ -1,0 +1,35 @@
+{
+  "number": 637,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/637",
+  "title": "Facilitate customization of setupTest* functions",
+  "createdAt": "2020-06-05T21:57:52Z",
+  "closedAt": "2020-07-17T19:14:02Z",
+  "mergedAt": "2020-07-17T19:14:02Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    },
+    {
+      "login": "kategengler",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/444218?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2020-06-06T00:09:44Z",
+      "label": "T-ember-cli"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2020-06-06T00:09:51Z",
+      "label": "T-testing"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2020-06-26T18:10:02Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

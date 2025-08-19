@@ -1,0 +1,45 @@
+{
+  "number": 680,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/680",
+  "title": "Deprecate Implicit Injection on arbitrary Ember Framework objects",
+  "createdAt": "2020-11-02T03:56:06Z",
+  "closedAt": "2021-01-08T19:10:22Z",
+  "mergedAt": "2021-01-08T19:10:22Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    },
+    {
+      "login": "snewcomer",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7374640?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2020-11-02T03:56:06Z",
+      "label": "work in progress"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2020-11-04T14:53:30Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2020-11-04T14:53:30Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2020-12-18T20:29:48Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2020-12-18T20:29:50Z",
+      "label": "work in progress"
+    }
+  ]
+}

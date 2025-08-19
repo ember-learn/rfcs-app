@@ -1,0 +1,26 @@
+{
+  "number": 178,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/178",
+  "title": "Deprecate Ember.K",
+  "createdAt": "2016-11-18T20:02:47Z",
+  "closedAt": "2016-12-21T01:57:16Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2016-12-10T15:42:27Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3177,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

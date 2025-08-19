@@ -1,0 +1,36 @@
+{
+  "number": 461,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/461",
+  "title": "[DATA] Singleton RecordData",
+  "createdAt": "2019-03-07T04:06:27Z",
+  "closedAt": "2019-06-26T21:56:54Z",
+  "mergedAt": "2019-06-26T21:56:54Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-03-07T04:06:27Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-03-07T04:06:27Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-05-29T23:20:08Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2339,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

@@ -1,0 +1,21 @@
+{
+  "number": 1050,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1050",
+  "title": "Advance RFC #0779 `\"First-Class Component Templates\"` to Stage Released",
+  "createdAt": "2024-11-01T18:08:44Z",
+  "closedAt": "2024-12-13T19:17:26Z",
+  "mergedAt": "2024-12-13T19:17:26Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-11-01T18:08:45Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-11-01T18:08:45Z",
+      "label": "S-Released"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "number": 451,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/451",
+  "title": "Injection Parameter Normalization",
+  "createdAt": "2019-02-20T15:55:35Z",
+  "closedAt": "2019-04-12T18:50:47Z",
+  "mergedAt": "2019-04-12T18:50:47Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    },
+    {
+      "login": "pzuraq",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/685518?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-02-20T20:49:01Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-03-08T19:39:12Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2019-03-15T22:50:54Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-04-02T17:51:36Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2354,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

@@ -1,0 +1,25 @@
+{
+  "number": 512,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/512",
+  "title": "Release a major version when any deprecations are removed",
+  "createdAt": "2019-07-08T20:14:14Z",
+  "closedAt": "2022-09-09T18:45:46Z",
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "chriskrycho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+    }
+  ],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2215,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

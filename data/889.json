@@ -1,0 +1,121 @@
+{
+  "number": 889,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/889",
+  "title": "Deprecate @ember/error",
+  "createdAt": "2022-12-15T23:40:58Z",
+  "closedAt": "2022-12-29T18:41:59Z",
+  "mergedAt": "2022-12-29T18:41:59Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-15T23:41:17Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2022-12-15T23:42:03Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-15T23:42:03Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-16T19:19:42Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-15T23:42:03Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "stageDuration": {
+    "proposed": 1,
+    "exploring": 49,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 890,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/890",
+      "title": "Advance RFC #0889 to Stage Ready for Release",
+      "createdAt": "2022-12-29T18:42:55Z",
+      "closedAt": "2023-01-10T19:08:35Z",
+      "mergedAt": "2023-01-10T19:08:35Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-01-03T22:27:19Z",
+          "label": "Final Comment Period"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-01-06T19:13:14Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-01-06T19:13:14Z",
+          "label": "RFC Advancement"
+        }
+      ]
+    },
+    {
+      "number": 895,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/895",
+      "title": "Advance RFC #0889 to Stage Released",
+      "createdAt": "2023-01-10T19:09:48Z",
+      "closedAt": "2023-01-14T00:17:16Z",
+      "mergedAt": "2023-01-14T00:17:16Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-01-10T19:09:50Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-01-10T19:09:50Z",
+          "label": "S-Released"
+        }
+      ]
+    },
+    {
+      "number": 899,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/899",
+      "title": "Advance RFC #0889 \"Deprecate @ember/error\" to Stage Recommended",
+      "createdAt": "2023-01-14T00:18:12Z",
+      "closedAt": "2023-03-03T19:20:01Z",
+      "mergedAt": "2023-03-03T19:20:01Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-01-14T00:18:13Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-01-14T00:18:13Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-02-17T16:12:21Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    }
+  ]
+}

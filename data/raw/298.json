@@ -1,0 +1,35 @@
+{
+  "number": 298,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/298",
+  "title": "Lint Component Lifecycle Events",
+  "createdAt": "2018-01-19T14:02:00Z",
+  "closedAt": "2019-08-16T14:32:24Z",
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    },
+    {
+      "login": "locks",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32344?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-01-19T22:41:59Z",
+      "label": "Needs Champion"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-01-19T22:41:59Z",
+      "label": "T-core"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2018-02-05T13:53:40Z",
+      "label": "Needs Champion"
+    }
+  ]
+}

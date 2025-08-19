@@ -1,0 +1,35 @@
+{
+  "number": 435,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/435",
+  "title": "Forwarding Element Modifiers with \"Splattributes\"",
+  "createdAt": "2019-01-19T06:31:13Z",
+  "closedAt": "2019-01-28T21:05:37Z",
+  "mergedAt": "2019-01-28T21:05:37Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    },
+    {
+      "login": "chancancode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55829?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-19T07:01:08Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2386,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

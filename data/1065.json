@@ -1,0 +1,136 @@
+{
+  "number": 1065,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1065",
+  "title": "Deprecate ember-fetch",
+  "createdAt": "2025-01-11T01:39:34Z",
+  "closedAt": "2025-02-28T20:00:28Z",
+  "mergedAt": "2025-02-28T20:00:28Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-01-11T01:39:50Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-01-17T20:01:07Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-01-24T19:28:17Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-02-21T19:19:20Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-01-17T20:01:07Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "stageDuration": {
+    "proposed": 7,
+    "exploring": 20,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 1081,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1081",
+      "title": "Advance RFC #1065 `\"Deprecate and Remove ember-fetch\"` to Stage Ready for Release",
+      "createdAt": "2025-03-14T18:46:08Z",
+      "closedAt": "2025-05-23T18:27:36Z",
+      "mergedAt": "2025-05-23T18:27:36Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-03-14T18:46:09Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-03-14T18:46:09Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-05-16T18:36:51Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 1104,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1104",
+      "title": "Advance RFC #1065 `\"Deprecate and Remove ember-fetch\"` to Stage Released",
+      "createdAt": "2025-05-23T18:28:19Z",
+      "closedAt": "2025-07-11T18:16:35Z",
+      "mergedAt": "2025-07-11T18:16:35Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-05-23T18:28:19Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-05-23T18:28:20Z",
+          "label": "S-Released"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-05-23T18:28:20Z",
+          "label": "RFC Advancement"
+        }
+      ]
+    },
+    {
+      "number": 1123,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1123",
+      "title": "Advance RFC #1065 `\"Deprecate and Remove ember-fetch\"` to Stage Recommended",
+      "createdAt": "2025-07-11T18:17:27Z",
+      "closedAt": null,
+      "mergedAt": null,
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-07-11T18:17:28Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-07-11T18:17:28Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-07-11T18:17:29Z",
+          "label": "RFC Advancement"
+        }
+      ]
+    },
+    {
+      "number": 1124,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1124",
+      "title": "Revert \"Advance RFC #1065 `\"Deprecate and Remove ember-fetch\"` to Stage Released\"",
+      "createdAt": "2025-07-11T18:18:20Z",
+      "closedAt": "2025-07-11T18:18:41Z",
+      "mergedAt": null,
+      "assignees": [],
+      "timelineItems": []
+    }
+  ]
+}

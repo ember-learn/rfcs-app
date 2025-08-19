@@ -1,0 +1,146 @@
+{
+  "number": 931,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/931",
+  "title": "JS Representation of Template Tag",
+  "createdAt": "2023-05-23T14:58:57Z",
+  "closedAt": "2023-06-09T18:29:09Z",
+  "mergedAt": "2023-06-09T18:29:09Z",
+  "assignees": [
+    {
+      "login": "ef4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/319282?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-05-23T14:59:25Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-05-31T15:58:58Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-05-31T15:59:20Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-06-02T18:44:58Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-06-02T18:45:01Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-06-02T18:45:12Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-05-31T15:58:58Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-05-31T15:59:20Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-06-02T18:44:58Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "stageDuration": {
+    "proposed": 69,
+    "exploring": 793,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 933,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/933",
+      "title": "Advance RFC #0931 `\"JS Representation of Template Tag\"` to Stage Ready for Release",
+      "createdAt": "2023-06-09T18:30:04Z",
+      "closedAt": "2025-02-14T19:26:50Z",
+      "mergedAt": "2025-02-14T19:26:50Z",
+      "assignees": [
+        {
+          "login": "ef4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/319282?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-06-09T18:30:05Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-06-09T18:30:05Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-02-07T19:32:56Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 1085,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1085",
+      "title": "Advance RFC #0931 `\"JS Representation of Template Tag\"` to Stage Released",
+      "createdAt": "2025-03-14T18:53:49Z",
+      "closedAt": "2025-05-23T18:35:42Z",
+      "mergedAt": "2025-05-23T18:35:42Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-03-14T18:53:50Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-03-14T18:53:50Z",
+          "label": "S-Released"
+        }
+      ]
+    },
+    {
+      "number": 1105,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1105",
+      "title": "Advance RFC #0931 `\"JS Representation of Template Tag\"` to Stage Recommended",
+      "createdAt": "2025-05-23T18:36:22Z",
+      "closedAt": null,
+      "mergedAt": null,
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-05-23T18:36:23Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-05-23T18:36:23Z",
+          "label": "S-Recommended"
+        }
+      ]
+    }
+  ]
+}

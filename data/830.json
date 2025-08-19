@@ -1,0 +1,123 @@
+{
+  "number": 830,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/830",
+  "title": "RFC: Evolving Ember's Major Version Process",
+  "createdAt": "2022-07-12T14:47:21Z",
+  "closedAt": "2022-09-06T20:32:52Z",
+  "mergedAt": "2022-09-06T20:32:52Z",
+  "assignees": [
+    {
+      "login": "kategengler",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/444218?v=4"
+    },
+    {
+      "login": "chriskrycho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-07-12T14:48:37Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-07-12T14:48:37Z",
+      "label": "T-learning"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-07-12T14:48:37Z",
+      "label": "T-steering"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 237,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 878,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/878",
+      "title": "Advance RFC #0830 \"Evolving Ember's Major Version Process\" to Stage Ready for Release",
+      "createdAt": "2022-12-01T15:03:26Z",
+      "closedAt": "2024-12-06T19:06:27Z",
+      "mergedAt": "2024-12-06T19:06:27Z",
+      "assignees": [
+        {
+          "login": "kategengler",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/444218?v=4"
+        },
+        {
+          "login": "chriskrycho",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2022-12-01T15:03:27Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2022-12-01T15:03:27Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-11-22T20:13:38Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 1057,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1057",
+      "title": "Advance RFC #0830 `\"Evolving Ember's Major Version Process\"` to Stage Released",
+      "createdAt": "2024-12-06T19:07:24Z",
+      "closedAt": "2024-12-06T19:16:14Z",
+      "mergedAt": "2024-12-06T19:16:14Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-12-06T19:07:24Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-12-06T19:07:24Z",
+          "label": "S-Released"
+        }
+      ]
+    },
+    {
+      "number": 1058,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1058",
+      "title": "Advance RFC #0830 `\"Evolving Ember's Major Version Process\"` to Stage Recommended",
+      "createdAt": "2024-12-06T19:17:17Z",
+      "closedAt": null,
+      "mergedAt": null,
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-12-06T19:17:18Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-12-06T19:17:18Z",
+          "label": "S-Recommended"
+        }
+      ]
+    }
+  ]
+}

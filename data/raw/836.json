@@ -1,0 +1,21 @@
+{
+  "number": 836,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/836",
+  "title": "Advance RFC #0617 to Stage Ready for Release",
+  "createdAt": "2022-08-03T21:29:11Z",
+  "closedAt": "2022-11-22T19:24:27Z",
+  "mergedAt": "2022-11-22T19:24:27Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-08-31T19:34:45Z",
+      "label": "S-Ready for Release"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-16T00:05:27Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

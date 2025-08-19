@@ -1,0 +1,69 @@
+{
+  "number": 1000,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1000",
+  "title": "Make array built-in in strict-mode",
+  "createdAt": "2023-12-22T19:04:19Z",
+  "closedAt": "2024-06-12T14:36:10Z",
+  "mergedAt": "2024-06-12T14:36:10Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-22T19:04:34Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-01-19T19:59:09Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-02-09T20:03:47Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-17T18:41:01Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-01-19T19:59:09Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "stageDuration": {
+    "proposed": 29,
+    "exploring": 415,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 1034,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1034",
+      "title": "Advance RFC #1000 `\"Make (array) a built in helper\"` to Stage Ready for Release",
+      "createdAt": "2024-06-12T14:37:25Z",
+      "closedAt": null,
+      "mergedAt": null,
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-06-12T14:37:27Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-06-12T14:37:27Z",
+          "label": "S-Ready for Release"
+        }
+      ]
+    }
+  ]
+}

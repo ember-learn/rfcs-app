@@ -1,0 +1,20 @@
+{
+  "number": 262,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/262",
+  "title": "Non-context-shifting partials",
+  "createdAt": "2017-10-27T23:11:53Z",
+  "closedAt": "2018-01-03T21:34:39Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2834,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

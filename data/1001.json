@@ -1,0 +1,131 @@
+{
+  "number": 1001,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1001",
+  "title": "Deprecate named `inject` export from `@ember/service`",
+  "createdAt": "2023-12-26T18:17:20Z",
+  "closedAt": "2024-03-08T20:06:28Z",
+  "mergedAt": "2024-03-08T20:06:28Z",
+  "assignees": [
+    {
+      "login": "NullVoxPopuli",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/199018?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-26T18:17:35Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-01-19T19:59:37Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-02-09T20:03:48Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-03-01T20:01:17Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-01-19T19:59:37Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "stageDuration": {
+    "proposed": 25,
+    "exploring": 14,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 1013,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1013",
+      "title": "Advance RFC #1001 `\"Deprecate named inject export from @ember/service\"` to Stage Ready for Release",
+      "createdAt": "2024-03-08T20:07:06Z",
+      "closedAt": "2024-12-20T19:10:47Z",
+      "mergedAt": "2024-12-20T19:10:47Z",
+      "assignees": [
+        {
+          "login": "NullVoxPopuli",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/199018?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-03-08T20:07:07Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-03-08T20:07:07Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-12-13T20:12:00Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 1061,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1061",
+      "title": "Advance RFC #1001 `\"Deprecate named inject export from @ember/service\"` to Stage Released",
+      "createdAt": "2024-12-20T19:11:32Z",
+      "closedAt": "2025-03-21T18:23:05Z",
+      "mergedAt": "2025-03-21T18:23:05Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-12-20T19:11:32Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-12-20T19:11:32Z",
+          "label": "S-Released"
+        }
+      ]
+    },
+    {
+      "number": 1089,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1089",
+      "title": "Advance RFC #1001 `\"Deprecate named inject export from @ember/service\"` to Stage Recommended",
+      "createdAt": "2025-03-21T18:23:54Z",
+      "closedAt": "2025-04-04T18:17:44Z",
+      "mergedAt": "2025-04-04T18:17:44Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-03-21T18:23:55Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-03-21T18:23:55Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-03-28T18:16:27Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    }
+  ]
+}

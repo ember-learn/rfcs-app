@@ -1,0 +1,16 @@
+{
+  "number": 1066,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1066",
+  "title": "Deprecate v1 addon blueprint discovery",
+  "createdAt": "2025-01-11T10:00:52Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-01-11T10:01:10Z",
+      "label": "S-Proposed"
+    }
+  ]
+}

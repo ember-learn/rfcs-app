@@ -1,0 +1,16 @@
+{
+  "number": 566,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/566",
+  "title": "@cached",
+  "createdAt": "2019-12-23T03:20:00Z",
+  "closedAt": "2021-02-26T19:15:22Z",
+  "mergedAt": "2021-02-26T19:15:22Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2020-05-18T22:50:42Z",
+      "label": "T-framework"
+    }
+  ]
+}

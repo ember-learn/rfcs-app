@@ -1,0 +1,51 @@
+{
+  "number": 976,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/976",
+  "title": "Enable Glint by Default",
+  "createdAt": "2023-09-29T17:34:19Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "wagenet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
+    },
+    {
+      "login": "gitKrystan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14152574?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-29T17:34:37Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-10-27T18:14:36Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-11-02T16:35:03Z",
+      "label": "S-Proposed"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-10-27T18:14:36Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "stageDuration": {
+    "proposed": 29,
+    "exploring": 643,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

@@ -1,0 +1,46 @@
+{
+  "number": 1029,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1029",
+  "title": "Deprecate app-prefix et al",
+  "createdAt": "2024-05-20T13:00:41Z",
+  "closedAt": "2024-08-30T18:08:00Z",
+  "mergedAt": "2024-08-30T18:08:00Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-20T13:00:56Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-06-28T18:54:21Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-06-28T18:54:21Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-08-09T18:21:31Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-08-23T18:46:24Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-08-23T18:46:43Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-08-23T18:47:24Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

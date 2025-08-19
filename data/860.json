@@ -1,0 +1,154 @@
+{
+  "number": 860,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/860",
+  "title": "EmberData | Request Service",
+  "createdAt": "2022-11-11T02:06:40Z",
+  "closedAt": "2022-12-02T20:39:32Z",
+  "mergedAt": "2022-12-02T20:39:32Z",
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    },
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    },
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-11T02:06:40Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-24T05:40:45Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-24T05:40:45Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-24T05:40:45Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "stageDuration": {
+    "proposed": 14,
+    "exploring": 734,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 879,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/879",
+      "title": "Advance RFC #0860 \"EmberData | Request Service\" to Stage Ready for Release",
+      "createdAt": "2022-12-02T20:40:24Z",
+      "closedAt": "2023-04-05T04:29:26Z",
+      "mergedAt": "2023-04-05T04:29:26Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2022-12-02T20:40:25Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2022-12-02T20:40:25Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-03-14T07:08:52Z",
+          "label": "T-ember-data"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-04-05T03:49:41Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 925,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/925",
+      "title": "Advance RFC #0860 `\"EmberData | Request Service\"` to Stage Released",
+      "createdAt": "2023-04-05T04:30:14Z",
+      "closedAt": "2023-07-28T17:53:32Z",
+      "mergedAt": "2023-07-28T17:53:32Z",
+      "assignees": [
+        {
+          "login": "runspired",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-04-05T04:30:15Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-04-05T04:30:15Z",
+          "label": "S-Released"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-04-05T04:34:31Z",
+          "label": "T-ember-data"
+        }
+      ]
+    },
+    {
+      "number": 942,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/942",
+      "title": "Advance RFC #0860 `\"EmberData | Request Service\"` to Stage Recommended",
+      "createdAt": "2023-07-28T17:54:25Z",
+      "closedAt": null,
+      "mergedAt": null,
+      "assignees": [
+        {
+          "login": "runspired",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-07-28T17:54:26Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-07-28T17:54:26Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-07-28T18:22:30Z",
+          "label": "T-ember-data"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-07-28T18:33:26Z",
+          "label": "T-learning"
+        }
+      ]
+    }
+  ]
+}

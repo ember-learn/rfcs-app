@@ -1,0 +1,45 @@
+{
+  "number": 416,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/416",
+  "title": "Glimmer Components",
+  "createdAt": "2018-12-14T02:10:06Z",
+  "closedAt": "2019-01-22T16:22:04Z",
+  "mergedAt": "2019-01-22T16:22:04Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    },
+    {
+      "login": "tomdale",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/90888?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-12-14T23:55:02Z",
+      "label": "Octane"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-12-15T01:18:07Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-11T20:49:42Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2422,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

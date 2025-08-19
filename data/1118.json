@@ -1,0 +1,42 @@
+{
+  "number": 1118,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1118",
+  "title": "Make @service able to be used in templates",
+  "createdAt": "2025-06-23T19:18:29Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-23T19:18:44Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-07-11T18:40:29Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-07-11T18:40:29Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-07-11T18:40:29Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "stageDuration": {
+    "proposed": 18,
+    "exploring": 20,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

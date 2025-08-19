@@ -1,0 +1,20 @@
+{
+  "number": 599,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/599",
+  "title": "Test Co-Location",
+  "createdAt": "2020-03-02T17:52:04Z",
+  "closedAt": "2022-07-23T23:34:35Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 1977,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

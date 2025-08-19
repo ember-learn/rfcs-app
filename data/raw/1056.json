@@ -1,0 +1,21 @@
+{
+  "number": 1056,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1056",
+  "title": "Advance RFC #0334 `\"Deprecate Ember Utils & dependent Computed Properties\"` to Stage Ready for Release",
+  "createdAt": "2024-12-04T18:46:50Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-12-04T18:46:51Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-12-04T18:46:51Z",
+      "label": "S-Ready for Release"
+    }
+  ]
+}

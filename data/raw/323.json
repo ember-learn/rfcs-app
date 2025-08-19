@@ -1,0 +1,21 @@
+{
+  "number": 323,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/323",
+  "title": "Array functions",
+  "createdAt": "2018-03-25T05:23:14Z",
+  "closedAt": "2022-01-31T15:40:04Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-10-01T08:32:11Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-25T03:10:31Z",
+      "label": "Needs Champion"
+    }
+  ]
+}

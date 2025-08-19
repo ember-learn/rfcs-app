@@ -9,7 +9,7 @@ import RfcCard from '../../components/rfc-card';
     implemented. See the list of discontinued RFCs below.</p>
   <div class="rfc-grid">
     {{#each @model as |rfc|}}
-      <RfcCard @title={{rfc}} />
+      <RfcCard @rfc={{rfc}} />
     {{/each}}
   </div>
 </template>

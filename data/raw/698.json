@@ -1,0 +1,26 @@
+{
+  "number": 698,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/698",
+  "title": "Deprecate `<LinkTo>` Component Positional Arguments",
+  "createdAt": "2021-01-06T09:35:07Z",
+  "closedAt": "2021-01-15T19:11:30Z",
+  "mergedAt": "2021-01-15T19:11:30Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-01-06T09:47:09Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-01-06T09:47:09Z",
+      "label": "T-components"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-01-08T19:33:08Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

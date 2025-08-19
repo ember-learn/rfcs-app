@@ -1,0 +1,31 @@
+{
+  "number": 1009,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1009",
+  "title": "Make deprecation workflow built in",
+  "createdAt": "2024-02-22T17:46:40Z",
+  "closedAt": "2024-10-18T18:04:40Z",
+  "mergedAt": "2024-10-18T18:04:40Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-02-22T17:46:57Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-03-01T19:12:04Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-03-01T19:12:04Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-09-27T18:37:29Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

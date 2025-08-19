@@ -1,0 +1,31 @@
+{
+  "number": 1065,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1065",
+  "title": "Deprecate ember-fetch",
+  "createdAt": "2025-01-11T01:39:34Z",
+  "closedAt": "2025-02-28T20:00:28Z",
+  "mergedAt": "2025-02-28T20:00:28Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-01-11T01:39:50Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-01-17T20:01:07Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-01-24T19:28:17Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-02-21T19:19:20Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

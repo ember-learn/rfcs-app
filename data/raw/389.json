@@ -1,0 +1,26 @@
+{
+  "number": 389,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/389",
+  "title": "Dynamic tags in glimmer templates",
+  "createdAt": "2018-10-14T11:53:02Z",
+  "closedAt": "2019-04-12T18:43:16Z",
+  "mergedAt": "2019-04-12T18:43:16Z",
+  "assignees": [
+    {
+      "login": "chancancode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55829?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-10-24T21:27:03Z",
+      "label": "T-templates"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-10-24T21:27:03Z",
+      "label": "T-framework"
+    }
+  ]
+}

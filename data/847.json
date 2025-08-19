@@ -1,0 +1,51 @@
+{
+  "number": 847,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/847",
+  "title": "Deprecate support for `ember-cli-qunit` and `ember-cli-mocha` when generating test blueprints",
+  "createdAt": "2022-08-26T19:37:43Z",
+  "closedAt": "2022-09-09T18:57:35Z",
+  "mergedAt": "2022-09-09T18:57:35Z",
+  "assignees": [
+    {
+      "login": "bertdeblock",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7403183?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-08-28T17:05:14Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-08-28T17:05:14Z",
+      "label": "T-ember-cli"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-08-28T17:05:49Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-08-28T17:05:49Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-08-31T17:36:18Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 1070,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

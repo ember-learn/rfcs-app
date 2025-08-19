@@ -1,0 +1,16 @@
+{
+  "number": 1098,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1098",
+  "title": "Existing Glimmer Details, Goals, etc",
+  "createdAt": "2025-04-21T04:06:20Z",
+  "closedAt": "2025-05-04T13:01:21Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-04-21T04:06:34Z",
+      "label": "S-Proposed"
+    }
+  ]
+}

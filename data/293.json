@@ -1,0 +1,36 @@
+{
+  "number": 293,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/293",
+  "title": "Ember Data Record Data RFC",
+  "createdAt": "2018-01-10T10:47:04Z",
+  "closedAt": "2018-08-28T17:33:12Z",
+  "mergedAt": "2018-08-28T17:33:12Z",
+  "assignees": [
+    {
+      "login": "igorT",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/715175?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-01-15T10:11:36Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-02-08T03:00:31Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2760,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

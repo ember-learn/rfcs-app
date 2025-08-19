@@ -1,0 +1,16 @@
+{
+  "number": 1067,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1067",
+  "title": "Propose `link` from `@ember/lifetime` to remove the boilerplate of setOwner + associateDestroyableChild",
+  "createdAt": "2025-01-11T16:32:37Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-01-11T16:32:53Z",
+      "label": "S-Proposed"
+    }
+  ]
+}

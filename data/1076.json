@@ -1,0 +1,20 @@
+{
+  "number": 1076,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1076",
+  "title": "Update README to fix stages table - workaround a bug in markdown parser",
+  "createdAt": "2025-02-18T12:13:59Z",
+  "closedAt": "2025-02-18T15:34:10Z",
+  "mergedAt": "2025-02-18T15:34:10Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 164,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

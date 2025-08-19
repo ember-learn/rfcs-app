@@ -1,0 +1,21 @@
+{
+  "number": 161,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/161",
+  "title": "Overhaul store.push and store.pushPayload",
+  "createdAt": "2016-08-01T16:26:10Z",
+  "closedAt": "2019-08-21T21:20:09Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2016-08-01T16:26:10Z",
+      "label": "ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-06-19T21:58:05Z",
+      "label": "FCP to close"
+    }
+  ]
+}

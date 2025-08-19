@@ -1,0 +1,26 @@
+{
+  "number": 1103,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1103",
+  "title": "How autotracking works",
+  "createdAt": "2025-05-23T16:04:04Z",
+  "closedAt": "2025-05-28T16:39:57Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-05-23T16:04:17Z",
+      "label": "S-Proposed"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 70,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

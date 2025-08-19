@@ -1,0 +1,51 @@
+{
+  "number": 912,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/912",
+  "title": "Advance RFC #0776 `\"Author Built-In Blueprints in TypeScript\"` to Stage Recommended",
+  "createdAt": "2023-03-13T19:55:08Z",
+  "closedAt": "2023-12-15T19:08:35Z",
+  "mergedAt": "2023-12-15T19:08:35Z",
+  "assignees": [
+    {
+      "login": "gitKrystan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14152574?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-13T19:55:10Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-13T19:55:10Z",
+      "label": "S-Recommended"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-23T18:46:05Z",
+      "label": "E-Polaris"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-06-23T18:25:14Z",
+      "label": "Needs Champion"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-08-11T18:10:00Z",
+      "label": "Needs Champion"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-18T18:34:45Z",
+      "label": "T-TypeScript"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-08T15:53:29Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

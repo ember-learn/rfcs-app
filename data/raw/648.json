@@ -1,0 +1,16 @@
+{
+  "number": 648,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/648",
+  "title": "Extend the supported asset file types to include commonly used formats svg and webp",
+  "createdAt": "2020-07-15T09:03:57Z",
+  "closedAt": "2020-10-09T18:44:49Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2020-09-16T15:14:00Z",
+      "label": "FCP to close"
+    }
+  ]
+}

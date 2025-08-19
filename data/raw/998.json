@@ -1,0 +1,31 @@
+{
+  "number": 998,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/998",
+  "title": "Make fn built-in in strict-mode",
+  "createdAt": "2023-12-22T19:02:22Z",
+  "closedAt": "2024-06-12T14:20:19Z",
+  "mergedAt": "2024-06-12T14:20:19Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-22T19:02:38Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-01-19T19:59:15Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-02-09T20:03:46Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-17T18:40:15Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

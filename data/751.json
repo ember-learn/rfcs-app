@@ -1,0 +1,20 @@
+{
+  "number": 751,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/751",
+  "title": "Change transition deprecations to 5.0",
+  "createdAt": "2021-05-28T21:21:12Z",
+  "closedAt": "2021-05-28T21:29:22Z",
+  "mergedAt": "2021-05-28T21:29:21Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 1525,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

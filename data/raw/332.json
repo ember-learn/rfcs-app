@@ -1,0 +1,26 @@
+{
+  "number": 332,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/332",
+  "title": "[EMBER DATA] record links & meta",
+  "createdAt": "2018-05-11T00:37:19Z",
+  "closedAt": "2018-10-19T02:23:14Z",
+  "mergedAt": "2018-10-19T02:23:13Z",
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-06-27T16:47:42Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-08-17T01:04:19Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "number": 371,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/371",
+  "title": "Editions",
+  "createdAt": "2018-09-04T14:59:13Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "tomdale",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/90888?v=4"
+    }
+  ],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2523,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

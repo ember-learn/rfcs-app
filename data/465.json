@@ -1,0 +1,31 @@
+{
+  "number": 465,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/465",
+  "title": "Record Data Errors RFC",
+  "createdAt": "2019-03-14T23:18:20Z",
+  "closedAt": "2019-05-15T15:36:58Z",
+  "mergedAt": "2019-05-15T15:36:57Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-03-15T01:29:54Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-04-25T11:15:14Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2331,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

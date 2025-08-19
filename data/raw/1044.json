@@ -1,0 +1,31 @@
+{
+  "number": 1044,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1044",
+  "title": "Advance RFC #1029 `\"Deprecate app-prefix, app-suffix, tests-prefix, and tests-suffix\"` to Stage Ready for Release",
+  "createdAt": "2024-08-30T18:08:47Z",
+  "closedAt": "2025-01-24T19:11:28Z",
+  "mergedAt": "2025-01-24T19:11:28Z",
+  "assignees": [
+    {
+      "login": "bertdeblock",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7403183?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-08-30T18:08:47Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-08-30T18:08:48Z",
+      "label": "S-Ready for Release"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-01-17T19:22:34Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

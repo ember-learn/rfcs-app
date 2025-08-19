@@ -1,0 +1,31 @@
+{
+  "number": 864,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/864",
+  "title": "Deprecate Ember.A",
+  "createdAt": "2022-11-22T23:15:20Z",
+  "closedAt": "2025-07-18T18:29:05Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-22T23:28:30Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-01-27T19:50:36Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-27T19:50:36Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-07-11T18:30:59Z",
+      "label": "FCP to close"
+    }
+  ]
+}

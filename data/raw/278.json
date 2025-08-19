@@ -1,0 +1,26 @@
+{
+  "number": 278,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/278",
+  "title": "Template-only Components",
+  "createdAt": "2017-12-11T14:53:03Z",
+  "closedAt": "2018-01-03T18:07:16Z",
+  "mergedAt": "2018-01-03T18:07:16Z",
+  "assignees": [
+    {
+      "login": "chancancode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55829?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-12-11T14:58:17Z",
+      "label": "T-components"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2017-12-16T20:38:24Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "number": 554,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/554",
+  "title": "Deprecate getWithDefault",
+  "createdAt": "2019-11-08T21:58:46Z",
+  "closedAt": "2020-01-31T18:09:52Z",
+  "mergedAt": "2020-01-31T18:09:52Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2020-01-03T20:35:45Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "number": 548,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/548",
+  "title": "Add link to Component Templates Co-location RFC PR",
+  "createdAt": "2019-10-22T23:57:00Z",
+  "closedAt": "2019-10-25T04:05:49Z",
+  "mergedAt": "2019-10-25T04:05:49Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2109,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

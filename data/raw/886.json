@@ -1,0 +1,26 @@
+{
+  "number": 886,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/886",
+  "title": "Advance RFC #0812 \"Add tracked-built-ins dependency\" to Stage Ready for Release",
+  "createdAt": "2022-12-13T00:40:00Z",
+  "closedAt": "2023-07-07T18:13:22Z",
+  "mergedAt": "2023-07-07T18:13:21Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-13T00:40:03Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-13T00:40:03Z",
+      "label": "S-Ready for Release"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-23T20:11:27Z",
+      "label": "E-Polaris"
+    }
+  ]
+}

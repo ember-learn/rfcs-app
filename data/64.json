@@ -1,0 +1,20 @@
+{
+  "number": 64,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/64",
+  "title": "Contextual components RFC",
+  "createdAt": "2015-06-12T18:48:54Z",
+  "closedAt": "2015-08-26T02:42:58Z",
+  "mergedAt": "2015-08-26T02:42:58Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3702,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

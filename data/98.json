@@ -1,0 +1,20 @@
+{
+  "number": 98,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/98",
+  "title": "Service methods and method injection",
+  "createdAt": "2015-10-08T15:56:20Z",
+  "closedAt": "2017-07-25T02:06:06Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3585,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

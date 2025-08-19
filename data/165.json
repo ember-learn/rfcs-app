@@ -1,0 +1,20 @@
+{
+  "number": 165,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/165",
+  "title": "typos",
+  "createdAt": "2016-08-23T14:02:54Z",
+  "closedAt": "2016-08-23T14:07:17Z",
+  "mergedAt": "2016-08-23T14:07:17Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3265,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

@@ -1,0 +1,25 @@
+{
+  "number": 485,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/485",
+  "title": "Set up CI with Azure Pipelines",
+  "createdAt": "2019-04-26T20:08:15Z",
+  "closedAt": "2020-05-18T22:49:26Z",
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "locks",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32344?v=4"
+    }
+  ],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2288,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

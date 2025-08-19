@@ -1,0 +1,21 @@
+{
+  "number": 919,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/919",
+  "title": "EmberData | updates to rfc#860 - request service",
+  "createdAt": "2023-03-27T07:22:06Z",
+  "closedAt": "2023-04-05T03:41:24Z",
+  "mergedAt": "2023-04-05T03:41:23Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-27T07:22:06Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-27T07:22:37Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

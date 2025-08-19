@@ -1,0 +1,20 @@
+{
+  "number": 277,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/277",
+  "title": "Fixed typos in RFC 276",
+  "createdAt": "2017-12-11T06:03:42Z",
+  "closedAt": "2017-12-11T09:26:23Z",
+  "mergedAt": "2017-12-11T09:26:23Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2790,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

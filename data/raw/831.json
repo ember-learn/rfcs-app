@@ -1,0 +1,50 @@
+{
+  "number": 831,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/831",
+  "title": "Standardize use of scripts in package.json for common tasks",
+  "createdAt": "2022-07-22T13:30:12Z",
+  "closedAt": "2023-09-15T18:57:17Z",
+  "mergedAt": "2023-09-15T18:57:17Z",
+  "assignees": [
+    {
+      "login": "locks",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32344?v=4"
+    },
+    {
+      "login": "jenweber",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16627268?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-08-04T03:10:22Z",
+      "label": "T-learning"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-08-04T03:10:45Z",
+      "label": "T-ember-cli"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:31:28Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-01-27T19:55:46Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-27T19:55:46Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-01T18:35:01Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "number": 990,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/990",
+  "title": "Add a default PR template that will be used for newly opened PRs / RFC",
+  "createdAt": "2023-11-10T22:05:01Z",
+  "closedAt": "2023-11-11T06:18:02Z",
+  "mergedAt": "2023-11-11T06:18:02Z",
+  "assignees": [],
+  "timelineItems": []
+}

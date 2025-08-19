@@ -1,0 +1,31 @@
+{
+  "number": 621,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/621",
+  "title": "Introduce array and object literal syntax in templates",
+  "createdAt": "2020-05-01T23:44:17Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2020-11-23T10:40:23Z",
+      "label": "T-templates"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:34:22Z",
+      "label": "S-Proposed"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 1917,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

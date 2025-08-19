@@ -1,0 +1,20 @@
+{
+  "number": 91,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/91",
+  "title": "WeakMap RFC",
+  "createdAt": "2015-09-12T01:13:15Z",
+  "closedAt": "2016-06-14T20:20:46Z",
+  "mergedAt": "2016-06-14T20:20:46Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3611,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

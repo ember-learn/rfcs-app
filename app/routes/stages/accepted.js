@@ -1,8 +1,9 @@
 import Route from '@ember/routing/route';
-import toc from 'rfcs-app-toc-builder:toc.json';
 
 export default class StagesAcceptedRoute extends Route {
-async model() {
-    return toc.stageLinks["accepted"];
+  async model() {
+    const result = (await import('rfcs-app-toc-builder:stage-accepted.json'))
+      .default;
+    return result;
   }
 }

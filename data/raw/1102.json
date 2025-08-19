@@ -1,0 +1,26 @@
+{
+  "number": 1102,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1102",
+  "title": "Remove the global event dispatcher",
+  "createdAt": "2025-05-19T17:10:12Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-05-19T17:10:24Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-05-23T18:53:58Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-05-23T18:53:58Z",
+      "label": "S-Proposed"
+    }
+  ]
+}

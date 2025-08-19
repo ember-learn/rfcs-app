@@ -1,0 +1,26 @@
+{
+  "number": 410,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/410",
+  "title": "Tracked Properties",
+  "createdAt": "2018-12-05T23:56:19Z",
+  "closedAt": "2019-02-05T13:24:01Z",
+  "mergedAt": "2019-02-05T13:24:01Z",
+  "assignees": [
+    {
+      "login": "tomdale",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/90888?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-12-06T13:26:16Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-12-06T13:26:16Z",
+      "label": "Octane"
+    }
+  ]
+}

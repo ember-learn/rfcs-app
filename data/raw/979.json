@@ -1,0 +1,31 @@
+{
+  "number": 979,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/979",
+  "title": "Advance RFC #0743 `\"EmberData | Deprecate Legacy Imports\"` to Stage Recommended",
+  "createdAt": "2023-10-13T18:09:05Z",
+  "closedAt": "2024-09-27T18:36:33Z",
+  "mergedAt": "2024-09-27T18:36:33Z",
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-10-13T18:09:06Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-10-13T18:09:06Z",
+      "label": "S-Recommended"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-06-28T18:22:26Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

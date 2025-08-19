@@ -1,0 +1,21 @@
+{
+  "number": 1105,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1105",
+  "title": "Advance RFC #0931 `\"JS Representation of Template Tag\"` to Stage Recommended",
+  "createdAt": "2025-05-23T18:36:22Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-05-23T18:36:23Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-05-23T18:36:23Z",
+      "label": "S-Recommended"
+    }
+  ]
+}

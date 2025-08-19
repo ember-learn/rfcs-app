@@ -1,0 +1,21 @@
+{
+  "number": 1057,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1057",
+  "title": "Advance RFC #0830 `\"Evolving Ember's Major Version Process\"` to Stage Released",
+  "createdAt": "2024-12-06T19:07:24Z",
+  "closedAt": "2024-12-06T19:16:14Z",
+  "mergedAt": "2024-12-06T19:16:14Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-12-06T19:07:24Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-12-06T19:07:24Z",
+      "label": "S-Released"
+    }
+  ]
+}

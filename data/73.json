@@ -1,0 +1,20 @@
+{
+  "number": 73,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/73",
+  "title": "Make jQuery Optional",
+  "createdAt": "2015-07-06T12:46:22Z",
+  "closedAt": "2018-01-18T09:59:17Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3679,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

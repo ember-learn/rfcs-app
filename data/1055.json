@@ -1,0 +1,140 @@
+{
+  "number": 1055,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1055",
+  "title": "Vanilla Prettier Setup in Blueprints",
+  "createdAt": "2024-12-03T15:56:57Z",
+  "closedAt": "2024-12-20T19:12:57Z",
+  "mergedAt": "2024-12-20T19:12:57Z",
+  "assignees": [
+    {
+      "login": "bertdeblock",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7403183?v=4"
+    },
+    {
+      "login": "bertdeblock",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7403183?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-12-03T15:56:57Z",
+      "label": "T-ember-cli"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-12-03T15:57:15Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-12-06T19:30:41Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-12-06T19:41:14Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-12-13T19:26:54Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-12-06T19:30:41Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "stageDuration": {
+    "proposed": 4,
+    "exploring": 49,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 1063,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1063",
+      "title": "Advance RFC #1055 `\"Vanilla Prettier Setup in Blueprints\"` to Stage Ready for Release",
+      "createdAt": "2024-12-20T19:13:40Z",
+      "closedAt": "2025-01-24T19:12:35Z",
+      "mergedAt": "2025-01-24T19:12:35Z",
+      "assignees": [
+        {
+          "login": "bertdeblock",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/7403183?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-12-20T19:13:41Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-12-20T19:13:41Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-01-17T19:19:57Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 1073,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1073",
+      "title": "Advance RFC #1055 `\"Vanilla Prettier Setup in Blueprints\"` to Stage Released",
+      "createdAt": "2025-01-24T19:13:22Z",
+      "closedAt": "2025-04-04T18:43:34Z",
+      "mergedAt": "2025-04-04T18:43:34Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-01-24T19:13:23Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-01-24T19:13:23Z",
+          "label": "S-Released"
+        }
+      ]
+    },
+    {
+      "number": 1097,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1097",
+      "title": "Advance RFC #1055 `\"Vanilla Prettier Setup in Blueprints\"` to Stage Recommended",
+      "createdAt": "2025-04-04T18:44:15Z",
+      "closedAt": "2025-05-23T18:34:19Z",
+      "mergedAt": "2025-05-23T18:34:19Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-04-04T18:44:15Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-04-04T18:44:15Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-05-16T18:09:25Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    }
+  ]
+}

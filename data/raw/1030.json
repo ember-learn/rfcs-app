@@ -1,0 +1,31 @@
+{
+  "number": 1030,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1030",
+  "title": "Advance RFC #1027 `\"EmberData | SchemaService\"` to Stage Ready for Release",
+  "createdAt": "2024-06-07T17:10:19Z",
+  "closedAt": "2025-05-23T18:38:10Z",
+  "mergedAt": "2025-05-23T18:38:10Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-06-07T17:10:20Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-06-07T17:10:20Z",
+      "label": "S-Ready for Release"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-03-21T18:33:01Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-05-16T18:30:10Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "number": 785,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/785",
+  "title": " Introduce new test helpers for rendering (and re-rendering) that obviate the need for `get` and `set`",
+  "createdAt": "2022-01-07T19:42:46Z",
+  "closedAt": "2022-04-15T18:24:23Z",
+  "mergedAt": "2022-04-15T18:24:23Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-02-15T17:13:42Z",
+      "label": "T-ember-cli"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-02-15T17:13:42Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-02-15T17:13:42Z",
+      "label": "T-testing"
+    }
+  ]
+}

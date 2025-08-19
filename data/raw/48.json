@@ -1,0 +1,10 @@
+{
+  "number": 48,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/48",
+  "title": "Query params that reloadModel should not trigger loading route.",
+  "createdAt": "2015-04-14T02:25:35Z",
+  "closedAt": "2022-07-23T17:24:36Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": []
+}

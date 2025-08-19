@@ -1,0 +1,26 @@
+{
+  "number": 171,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/171",
+  "title": "Improved ajax",
+  "createdAt": "2016-10-11T11:50:03Z",
+  "closedAt": "2018-06-27T16:45:37Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2016-10-11T11:50:03Z",
+      "label": "ember-data"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3216,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

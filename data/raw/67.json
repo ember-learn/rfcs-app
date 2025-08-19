@@ -1,0 +1,21 @@
+{
+  "number": 67,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/67",
+  "title": "Better record polymorphism",
+  "createdAt": "2015-06-19T17:08:35Z",
+  "closedAt": "2022-07-25T18:13:25Z",
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "igorT",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/715175?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2015-07-13T01:15:26Z",
+      "label": "ember-data"
+    }
+  ]
+}

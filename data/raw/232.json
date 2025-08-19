@@ -1,0 +1,16 @@
+{
+  "number": 232,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/232",
+  "title": "Add new QUnit testing API.",
+  "createdAt": "2017-06-14T03:49:12Z",
+  "closedAt": "2017-07-29T14:11:51Z",
+  "mergedAt": "2017-07-29T14:11:51Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-07-01T10:14:17Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

@@ -53,7 +53,7 @@ export default defineConfig({
       },
     ]),
     buildRedirects(),
-    tocBuilder('rfcs/text'),
+    tocBuilder('rfcs/text', 'data'),
     classicEmberSupport(),
     ember(),
     // extra plugins here

@@ -1,0 +1,42 @@
+{
+  "number": 728,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/728",
+  "title": "Deprecate using tracked in classic classes",
+  "createdAt": "2021-03-18T20:38:30Z",
+  "closedAt": "2022-12-09T19:39:21Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-03-03T21:07:32Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-01T16:10:37Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T19:18:25Z",
+      "label": "FCP to close"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-01T16:10:37Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "stageDuration": {
+    "proposed": 623,
+    "exploring": 974,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

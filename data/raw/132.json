@@ -1,0 +1,10 @@
+{
+  "number": 132,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/132",
+  "title": "Ember CLI: Strip some framework function invocations from production builds",
+  "createdAt": "2016-04-06T15:43:49Z",
+  "closedAt": "2016-04-06T15:59:21Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": []
+}

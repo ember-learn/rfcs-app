@@ -1,0 +1,16 @@
+{
+  "number": 1038,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1038",
+  "title": "Deprecate Windows support",
+  "createdAt": "2024-07-09T21:59:49Z",
+  "closedAt": "2024-07-10T17:54:09Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-07-09T22:00:08Z",
+      "label": "S-Proposed"
+    }
+  ]
+}

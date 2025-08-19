@@ -1,0 +1,20 @@
+{
+  "number": 279,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/279",
+  "title": "Fixed typos/grammar in RFC 278",
+  "createdAt": "2017-12-11T19:20:03Z",
+  "closedAt": "2017-12-11T20:49:28Z",
+  "mergedAt": "2017-12-11T20:49:28Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2789,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

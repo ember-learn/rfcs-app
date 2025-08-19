@@ -4,10 +4,12 @@ import RfcCard from '../components/rfc-card';
 <template>
   {{pageTitle "RFCs that need your help"}}
   <h1>RFCs that need your help</h1>
-  <p>The list below consists of RFCs that need active development to move them to the next phase. This could be technical development of the feature or writing documentation.</p>
+  <p>The list below consists of RFCs that need active development to move them
+    to the next phase. This could be technical development of the feature or
+    writing documentation.</p>
   <div class="rfc-grid">
-  {{#each @model as | rfc | }}
-    <RfcCard @title={{rfc}}></RfcCard>
-  {{/each}}
+    {{#each @model as |rfc|}}
+      <RfcCard @rfc={{rfc}} />
+    {{/each}}
   </div>
 </template>

@@ -1,0 +1,26 @@
+{
+  "number": 994,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/994",
+  "title": "Advance RFC #0918 `\"Deprecate Support for Travis CI\"` to Stage Recommended",
+  "createdAt": "2023-12-15T19:21:13Z",
+  "closedAt": "2024-01-05T19:07:30Z",
+  "mergedAt": "2024-01-05T19:07:30Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-15T19:21:14Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-15T19:21:14Z",
+      "label": "S-Recommended"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-15T19:22:41Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

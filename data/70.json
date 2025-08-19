@@ -1,0 +1,20 @@
+{
+  "number": 70,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/70",
+  "title": "Namespaced components & helpers lookup",
+  "createdAt": "2015-06-29T09:46:43Z",
+  "closedAt": "2019-01-18T18:34:52Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 3686,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

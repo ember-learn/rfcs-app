@@ -1,0 +1,31 @@
+{
+  "number": 314,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/314",
+  "title": "HTML Attribute and Property Rationalization",
+  "createdAt": "2018-03-22T00:28:02Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-25T03:12:48Z",
+      "label": "T-templates"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:35:49Z",
+      "label": "S-Proposed"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 2689,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

@@ -1,0 +1,21 @@
+{
+  "number": 1084,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1084",
+  "title": "Advance RFC #1003 `\"Deprecate `import Ember from 'ember';\"` to Stage Released",
+  "createdAt": "2025-03-14T18:53:05Z",
+  "closedAt": "2025-06-13T18:19:03Z",
+  "mergedAt": "2025-06-13T18:19:03Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-03-14T18:53:06Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-03-14T18:53:06Z",
+      "label": "S-Released"
+    }
+  ]
+}

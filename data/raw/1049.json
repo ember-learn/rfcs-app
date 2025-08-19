@@ -1,0 +1,21 @@
+{
+  "number": 1049,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1049",
+  "title": "Advance RFC #0389 `\"Dynamic tag names in glimmer templates.\"` (ember-element-helper) to Stage Ready for Release",
+  "createdAt": "2024-10-28T14:25:13Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-10-28T14:25:14Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-10-28T14:25:14Z",
+      "label": "S-Ready for Release"
+    }
+  ]
+}

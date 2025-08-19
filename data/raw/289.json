@@ -1,0 +1,10 @@
+{
+  "number": 289,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/289",
+  "title": "Consume node_modules with Ember-CLI",
+  "createdAt": "2017-12-28T01:43:45Z",
+  "closedAt": "2017-12-30T01:37:55Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": []
+}

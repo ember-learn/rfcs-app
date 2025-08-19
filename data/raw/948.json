@@ -1,0 +1,21 @@
+{
+  "number": 948,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/948",
+  "title": "Advance RFC #0724 `\"Official TypeScript Support\"` to Stage Released",
+  "createdAt": "2023-08-24T17:47:30Z",
+  "closedAt": "2023-08-24T18:19:50Z",
+  "mergedAt": "2023-08-24T18:19:49Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-24T17:47:31Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-24T17:47:31Z",
+      "label": "S-Released"
+    }
+  ]
+}

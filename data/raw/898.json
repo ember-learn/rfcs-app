@@ -1,0 +1,26 @@
+{
+  "number": 898,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/898",
+  "title": "Advance RFC #0236 \"Ember.String deprecation RFC\" to Stage Recommended",
+  "createdAt": "2023-01-14T00:02:40Z",
+  "closedAt": "2023-04-07T18:40:49Z",
+  "mergedAt": "2023-04-07T18:40:49Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-14T00:02:41Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-14T00:02:41Z",
+      "label": "S-Recommended"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-13T21:05:11Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "number": 942,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/942",
+  "title": "Advance RFC #0860 `\"EmberData | Request Service\"` to Stage Recommended",
+  "createdAt": "2023-07-28T17:54:25Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-07-28T17:54:26Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-07-28T17:54:26Z",
+      "label": "S-Recommended"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-07-28T18:22:30Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-07-28T18:33:26Z",
+      "label": "T-learning"
+    }
+  ]
+}

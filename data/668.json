@@ -1,0 +1,20 @@
+{
+  "number": 668,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/668",
+  "title": "Additional changes to Readme for stages RFC",
+  "createdAt": "2020-09-30T00:14:16Z",
+  "closedAt": "2020-09-30T00:21:53Z",
+  "mergedAt": "2020-09-30T00:21:53Z",
+  "assignees": [],
+  "timelineItems": [],
+  "currentStage": "proposed",
+  "labels": [],
+  "stageDuration": {
+    "proposed": 1766,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

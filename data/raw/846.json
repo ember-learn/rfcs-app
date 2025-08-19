@@ -1,0 +1,31 @@
+{
+  "number": 846,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/846",
+  "title": "feat: deprecate proxies in ember-data",
+  "createdAt": "2022-08-18T21:09:52Z",
+  "closedAt": "2022-08-31T22:28:44Z",
+  "mergedAt": "2022-08-31T22:28:44Z",
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-08-18T21:09:52Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-08-18T21:09:52Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-08-24T18:48:25Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}
