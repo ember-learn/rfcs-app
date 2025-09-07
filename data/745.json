@@ -30,8 +30,9 @@
   ],
   "currentStage": "proposed",
   "labels": [],
+  "fcp": true,
   "stageDuration": {
-    "proposed": 1548,
+    "proposed": 1586,
     "exploring": null,
     "accepted": null,
     "release": null,

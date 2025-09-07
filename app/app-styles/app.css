@@ -1,20 +1,40 @@
-.rfc-grid {
-  display: flex;
-  flex-flow: row wrap;
-  gap: var(--spacing-2);
+.rfc-card {
+  display: grid;
+  grid-template-columns: 100px 1fr 200px;
+  grid-template-rows: min-content 1fr;
+  grid-gap: 0;
+  width: 100%;
+  margin-bottom: var(--spacing-2);
 }
 
-.rfc-card {
-  background-color: white;
-  border-radius: var(--radius);
-  width: 25%;
-  padding: var(--spacing-2);
+.card-number { grid-area: 1 / 1 / 2 / 2; }
+.card-title { grid-area: 1 / 2 / 2 / 3; }
+.card-summary { grid-area: 2 / 2 / 3 / 3; }
+.card-champion { grid-area: 1 / 3 / 3 / 4; }
+
+.card-champion li {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-1);
+  margin-top: var(--spacing-1);
+}
+
+.card-fcp {
+  width: 160px;
+  height: 20px;
+  border-radius: 24px;
+  color: var(--color-white);
+  background-color: var(--color-brand-hc-dark);
+  display: block;
+  font-size: 12px;
+  font-weight: 700;
+  text-align: center;
 }
 
 .rfc-card img {
-  width: 100px;
-  height: 100px;
-  border-radius: 50px;
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
 }
 
 .table {
@@ -47,4 +67,24 @@
 /* Optional: remove the last row bottom border if needed */
 .table tr:last-child td {
   border-bottom: none;
+}
+
+@media screen and (width <= 1024px) {
+  .rfc-card {
+    grid-template-columns: 100px 1fr;
+    grid-template-rows: min-content 1fr min-content;
+    grid-gap: 0;
+    width: 100%;
+    margin-bottom: var(--spacing-2);
+  }
+
+  .card-number { grid-area: 1 / 1 / 2 / 2; }
+  .card-title { grid-area: 1 / 2 / 2 / 4; }
+  .card-summary { grid-area: 2 / 1 / 2 / 4; }
+
+  .card-champion {
+    grid-area: 3 / 1 / 3 / 4;
+    padding-left: 0;
+  }
+
 }

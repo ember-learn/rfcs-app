@@ -9,8 +9,9 @@
   "timelineItems": [],
   "currentStage": "proposed",
   "labels": [],
+  "fcp": false,
   "stageDuration": {
-    "proposed": 1693,
+    "proposed": 1731,
     "exploring": null,
     "accepted": null,
     "release": null,

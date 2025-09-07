@@ -46,9 +46,10 @@
       "label": "S-Exploring"
     }
   ],
+  "fcp": false,
   "stageDuration": {
     "proposed": 3,
-    "exploring": 601,
+    "exploring": 639,
     "accepted": null,
     "release": null,
     "released": null

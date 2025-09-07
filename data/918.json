@@ -59,6 +59,7 @@
       "label": "S-Exploring"
     }
   ],
+  "fcp": true,
   "stageDuration": {
     "proposed": 14,
     "exploring": 21,

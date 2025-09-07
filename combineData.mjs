@@ -36,6 +36,12 @@ function findFirstStage(rfc) {
   }
 }
 
+function isFCP(rfc) {
+  return rfc.timelineItems.filter(
+      (item) => item.label == 'Final Comment Period',
+    ).length % 2 == 1
+}
+
 function getFirstStagesDuration(rfc) {
   if (!rfc.closed || rfc.merged) {
     let exploringLabels = rfc.timelineItems.filter(
@@ -92,12 +98,14 @@ for (let file of rfcsFiles) {
     if (rfc.assignees.length > 0) {
       rfcMap[num].assignees.push(...rfc.assignees);
     }
+    rfcMap[num].fcp = isFCP(rfc);
     rfcMap[num].connected.push(rfc);
   } else {
     rfcMap[rfc.number] = {
       ...rfc,
       currentStage: findFirstStage(rfc),
       labels: rfc.timelineItems.filter((item) => item.label == 'S-Exploring'),
+      fcp: isFCP(rfc),
       stageDuration: getFirstStagesDuration(rfc),
       connected: [],
       assignees: rfc.assignees,
