@@ -1,0 +1,16 @@
+{
+  "number": 1137,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1137",
+  "title": "Propose moving the built-in built-ins' public import path",
+  "createdAt": "2025-08-16T23:03:59Z",
+  "closedAt": "2025-08-22T18:53:48Z",
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-16T23:04:12Z",
+      "label": "S-Proposed"
+    }
+  ]
+}

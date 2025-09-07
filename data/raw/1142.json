@@ -1,0 +1,21 @@
+{
+  "number": 1142,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1142",
+  "title": "Advance RFC #1132 `\"Default Strict Resolver\"` to Stage Ready for Release",
+  "createdAt": "2025-09-05T18:09:24Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-09-05T18:09:24Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-09-05T18:09:24Z",
+      "label": "S-Ready for Release"
+    }
+  ]
+}

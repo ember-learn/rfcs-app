@@ -1,0 +1,26 @@
+{
+  "number": 1129,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1129",
+  "title": "Deprecate Computed",
+  "createdAt": "2025-08-12T17:21:20Z",
+  "closedAt": null,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-12T17:21:36Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-15T18:40:02Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-08-15T18:40:09Z",
+      "label": "S-Proposed"
+    }
+  ]
+}

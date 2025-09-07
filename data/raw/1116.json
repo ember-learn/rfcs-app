@@ -3,8 +3,8 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1116",
   "title": "Deprecate Mixin Support",
   "createdAt": "2025-06-20T13:04:24Z",
-  "closedAt": null,
-  "mergedAt": null,
+  "closedAt": "2025-09-05T18:09:38Z",
+  "mergedAt": "2025-09-05T18:09:38Z",
   "assignees": [],
   "timelineItems": [
     {
@@ -21,6 +21,11 @@
       "event": "unlabeled",
       "createdAt": "2025-06-20T18:17:48Z",
       "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-29T18:28:48Z",
+      "label": "Final Comment Period"
     }
   ]
 }

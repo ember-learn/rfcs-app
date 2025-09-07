@@ -3,8 +3,8 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1099",
   "title": " renderComponent()",
   "createdAt": "2025-05-01T22:01:17Z",
-  "closedAt": null,
-  "mergedAt": null,
+  "closedAt": "2025-08-08T18:14:43Z",
+  "mergedAt": "2025-08-08T18:14:43Z",
   "assignees": [],
   "timelineItems": [
     {

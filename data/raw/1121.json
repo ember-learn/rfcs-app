@@ -3,8 +3,8 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1121",
   "title": "Strip <template> indentation by default",
   "createdAt": "2025-07-09T14:21:50Z",
-  "closedAt": null,
-  "mergedAt": null,
+  "closedAt": "2025-08-08T18:11:52Z",
+  "mergedAt": "2025-08-08T18:11:52Z",
   "assignees": [],
   "timelineItems": [
     {
