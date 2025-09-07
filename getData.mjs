@@ -31,7 +31,7 @@ for await (const { data: pulls } of iterator) {
     );
 
     await writeFile(
-      join('data', `${pull.number}.json`),
+      join('data/raw', `${pull.number}.json`),
       JSON.stringify(
         {
           number: pull.number,
