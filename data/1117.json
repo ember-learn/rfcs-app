@@ -3,8 +3,8 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1117",
   "title": "Deprecate Classic Classes",
   "createdAt": "2025-06-20T13:12:37Z",
-  "closedAt": null,
-  "mergedAt": null,
+  "closedAt": "2025-08-29T18:14:21Z",
+  "mergedAt": "2025-08-29T18:14:21Z",
   "assignees": [],
   "timelineItems": [
     {
@@ -21,6 +21,11 @@
       "event": "unlabeled",
       "createdAt": "2025-06-20T18:22:11Z",
       "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-22T18:50:09Z",
+      "label": "Final Comment Period"
     }
   ],
   "currentStage": "exploring",
@@ -34,10 +39,37 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 1,
-    "exploring": 80,
+    "exploring": 10,
     "accepted": null,
     "release": null,
     "released": null
   },
-  "connected": []
+  "connected": [
+    {
+      "number": 1141,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1141",
+      "title": "Advance RFC #1117 `\"Deprecate Classic Classes\"` to Stage Ready for Release",
+      "createdAt": "2025-08-29T18:15:01Z",
+      "closedAt": null,
+      "mergedAt": null,
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-08-29T18:15:02Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-08-29T18:15:02Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-08-29T18:15:03Z",
+          "label": "RFC Advancement"
+        }
+      ]
+    }
+  ]
 }

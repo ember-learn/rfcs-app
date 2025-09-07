@@ -1,23 +1,23 @@
 {
-  "number": 458,
-  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/458",
-  "title": "[DATA] RecordData Operations",
-  "createdAt": "2019-03-06T19:45:09Z",
-  "closedAt": "2019-04-24T21:39:52Z",
+  "number": 1131,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1131",
+  "title": "Add a `skipCopy` option to tracked-collections",
+  "createdAt": "2025-08-13T11:10:43Z",
+  "closedAt": null,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
     {
       "event": "labeled",
-      "createdAt": "2019-03-06T19:45:09Z",
-      "label": "T-ember-data"
+      "createdAt": "2025-08-13T11:10:59Z",
+      "label": "S-Proposed"
     }
   ],
   "currentStage": "proposed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2378,
+    "proposed": 26,
     "exploring": null,
     "accepted": null,
     "release": null,

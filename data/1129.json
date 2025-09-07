@@ -1,25 +1,25 @@
 {
-  "number": 1054,
-  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1054",
-  "title": "External default blueprints in ember-cli",
-  "createdAt": "2024-12-01T04:17:06Z",
-  "closedAt": "2024-12-16T16:58:11Z",
+  "number": 1129,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1129",
+  "title": "Deprecate Computed",
+  "createdAt": "2025-08-12T17:21:20Z",
+  "closedAt": null,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
     {
       "event": "labeled",
-      "createdAt": "2024-12-01T04:17:23Z",
+      "createdAt": "2025-08-12T17:21:36Z",
       "label": "S-Proposed"
     },
     {
       "event": "labeled",
-      "createdAt": "2024-12-06T19:40:54Z",
+      "createdAt": "2025-08-15T18:40:02Z",
       "label": "S-Exploring"
     },
     {
       "event": "unlabeled",
-      "createdAt": "2024-12-06T19:41:00Z",
+      "createdAt": "2025-08-15T18:40:09Z",
       "label": "S-Proposed"
     }
   ],
@@ -27,14 +27,14 @@
   "labels": [
     {
       "event": "labeled",
-      "createdAt": "2024-12-06T19:40:54Z",
+      "createdAt": "2025-08-15T18:40:02Z",
       "label": "S-Exploring"
     }
   ],
   "fcp": false,
   "stageDuration": {
-    "proposed": 6,
-    "exploring": 276,
+    "proposed": 4,
+    "exploring": 24,
     "accepted": null,
     "release": null,
     "released": null

@@ -1,23 +1,23 @@
 {
-  "number": 458,
-  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/458",
-  "title": "[DATA] RecordData Operations",
-  "createdAt": "2019-03-06T19:45:09Z",
-  "closedAt": "2019-04-24T21:39:52Z",
+  "number": 1136,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1136",
+  "title": "lowLevel.subtle.sync",
+  "createdAt": "2025-08-15T23:06:09Z",
+  "closedAt": null,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
     {
       "event": "labeled",
-      "createdAt": "2019-03-06T19:45:09Z",
-      "label": "T-ember-data"
+      "createdAt": "2025-08-15T23:06:21Z",
+      "label": "S-Proposed"
     }
   ],
   "currentStage": "proposed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2378,
+    "proposed": 23,
     "exploring": null,
     "accepted": null,
     "release": null,

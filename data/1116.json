@@ -3,8 +3,8 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1116",
   "title": "Deprecate Mixin Support",
   "createdAt": "2025-06-20T13:04:24Z",
-  "closedAt": null,
-  "mergedAt": null,
+  "closedAt": "2025-09-05T18:09:38Z",
+  "mergedAt": "2025-09-05T18:09:38Z",
   "assignees": [],
   "timelineItems": [
     {
@@ -21,6 +21,11 @@
       "event": "unlabeled",
       "createdAt": "2025-06-20T18:17:48Z",
       "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-29T18:28:48Z",
+      "label": "Final Comment Period"
     }
   ],
   "currentStage": "exploring",
@@ -34,10 +39,37 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 1,
-    "exploring": 80,
+    "exploring": 3,
     "accepted": null,
     "release": null,
     "released": null
   },
-  "connected": []
+  "connected": [
+    {
+      "number": 1143,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1143",
+      "title": "Advance RFC #1116 `\"Deprecating Mixin Support\"` to Stage Ready for Release",
+      "createdAt": "2025-09-05T18:10:24Z",
+      "closedAt": null,
+      "mergedAt": null,
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-09-05T18:10:25Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-09-05T18:10:25Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-09-05T18:10:25Z",
+          "label": "RFC Advancement"
+        }
+      ]
+    }
+  ]
 }

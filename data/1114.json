@@ -3,8 +3,8 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1114",
   "title": "Deprecate Ember Array",
   "createdAt": "2025-06-13T20:09:01Z",
-  "closedAt": null,
-  "mergedAt": null,
+  "closedAt": "2025-08-29T18:12:00Z",
+  "mergedAt": "2025-08-29T18:12:00Z",
   "assignees": [],
   "timelineItems": [
     {
@@ -21,6 +21,11 @@
       "event": "unlabeled",
       "createdAt": "2025-06-20T18:44:16Z",
       "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-22T18:45:56Z",
+      "label": "Final Comment Period"
     }
   ],
   "currentStage": "exploring",
@@ -34,10 +39,32 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 7,
-    "exploring": 80,
+    "exploring": 10,
     "accepted": null,
     "release": null,
     "released": null
   },
-  "connected": []
+  "connected": [
+    {
+      "number": 1140,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1140",
+      "title": "Advance RFC #1114 `\"Deprecating Ember Array\"` to Stage Ready for Release",
+      "createdAt": "2025-08-29T18:12:38Z",
+      "closedAt": null,
+      "mergedAt": null,
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-08-29T18:12:39Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-08-29T18:12:39Z",
+          "label": "S-Ready for Release"
+        }
+      ]
+    }
+  ]
 }

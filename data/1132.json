@@ -1,30 +1,30 @@
 {
-  "number": 1112,
-  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1112",
-  "title": "Deprecate Ember Proxies",
-  "createdAt": "2025-06-13T19:45:33Z",
-  "closedAt": "2025-08-15T18:55:24Z",
-  "mergedAt": "2025-08-15T18:55:24Z",
+  "number": 1132,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1132",
+  "title": "Strict resolver",
+  "createdAt": "2025-08-13T22:45:18Z",
+  "closedAt": "2025-09-05T18:08:38Z",
+  "mergedAt": "2025-09-05T18:08:38Z",
   "assignees": [],
   "timelineItems": [
     {
       "event": "labeled",
-      "createdAt": "2025-06-13T19:45:46Z",
+      "createdAt": "2025-08-13T22:45:34Z",
       "label": "S-Proposed"
     },
     {
       "event": "labeled",
-      "createdAt": "2025-06-20T18:19:05Z",
+      "createdAt": "2025-08-22T19:04:19Z",
       "label": "S-Exploring"
     },
     {
       "event": "unlabeled",
-      "createdAt": "2025-06-20T18:19:16Z",
+      "createdAt": "2025-08-22T19:04:22Z",
       "label": "S-Proposed"
     },
     {
       "event": "labeled",
-      "createdAt": "2025-08-08T18:59:56Z",
+      "createdAt": "2025-08-29T18:58:09Z",
       "label": "Final Comment Period"
     }
   ],
@@ -32,36 +32,36 @@
   "labels": [
     {
       "event": "labeled",
-      "createdAt": "2025-06-20T18:19:05Z",
+      "createdAt": "2025-08-22T19:04:19Z",
       "label": "S-Exploring"
     }
   ],
   "fcp": false,
   "stageDuration": {
-    "proposed": 7,
-    "exploring": 24,
+    "proposed": 9,
+    "exploring": 3,
     "accepted": null,
     "release": null,
     "released": null
   },
   "connected": [
     {
-      "number": 1135,
-      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1135",
-      "title": "Advance RFC #1112 `\"Deprecating Ember Proxies\"` to Stage Ready for Release",
-      "createdAt": "2025-08-15T18:56:03Z",
+      "number": 1142,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1142",
+      "title": "Advance RFC #1132 `\"Default Strict Resolver\"` to Stage Ready for Release",
+      "createdAt": "2025-09-05T18:09:24Z",
       "closedAt": null,
       "mergedAt": null,
       "assignees": [],
       "timelineItems": [
         {
           "event": "labeled",
-          "createdAt": "2025-08-15T18:56:04Z",
+          "createdAt": "2025-09-05T18:09:24Z",
           "label": "RFC Advancement"
         },
         {
           "event": "labeled",
-          "createdAt": "2025-08-15T18:56:04Z",
+          "createdAt": "2025-09-05T18:09:24Z",
           "label": "S-Ready for Release"
         }
       ]
