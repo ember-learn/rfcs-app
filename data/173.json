@@ -4,20 +4,21 @@
   "title": "Add support for nested saves",
   "createdAt": "2016-10-18T14:15:11Z",
   "closedAt": "2019-06-19T23:17:37Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
     {
       "event": "labeled",
       "createdAt": "2016-10-18T14:21:51Z",
-      "label": "ember-data"
+      "label": "T-ember-data"
     }
   ],
   "currentStage": "proposed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3247,
+    "proposed": 3248,
     "exploring": null,
     "accepted": null,
     "release": null,

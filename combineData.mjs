@@ -87,9 +87,6 @@ function getFirstStagesDuration(rfc) {
 
 for (let file of rfcsFiles) {
   const rfc = JSON.parse(await readFile(join('data/raw', file), 'utf8'));
-  if (rfc.timelineItems.length == 0 && rfc.labels.length == 0) {
-    console.log(rfc.number, rfc.title);
-  }
   if (rfc.title.includes('Advance RFC')) {
     let advanceRFC = rfc.title.match(/[0-9]+/);
     let num = parseInt(advanceRFC, 10);

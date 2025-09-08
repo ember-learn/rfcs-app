@@ -4,20 +4,21 @@
   "title": "Array#findIndex and Array#findIndexBy",
   "createdAt": "2017-08-25T12:11:22Z",
   "closedAt": "2018-03-01T23:53:39Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
     {
       "event": "labeled",
       "createdAt": "2017-09-01T14:33:59Z",
-      "label": "T-core"
+      "label": "T-framework"
     }
   ],
   "currentStage": "proposed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2936,
+    "proposed": 2937,
     "exploring": null,
     "accepted": null,
     "release": null,

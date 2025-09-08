@@ -4,20 +4,21 @@
   "title": "Links and meta improvements",
   "createdAt": "2016-07-29T14:53:23Z",
   "closedAt": "2018-10-12T14:42:50Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
     {
       "event": "labeled",
       "createdAt": "2016-07-29T14:53:23Z",
-      "label": "ember-data"
+      "label": "T-ember-data"
     }
   ],
   "currentStage": "proposed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3328,
+    "proposed": 3329,
     "exploring": null,
     "accepted": null,
     "release": null,

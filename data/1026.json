@@ -4,6 +4,7 @@
   "title": "EmberData | deprecate Store extends EmberObject",
   "createdAt": "2024-05-11T08:21:17Z",
   "closedAt": "2024-06-14T18:30:51Z",
+  "merged": true,
   "mergedAt": "2024-06-14T18:30:51Z",
   "assignees": [
     {
@@ -66,6 +67,7 @@
       "title": "Advance RFC #1026 `\"EmberData | Deprecate Store extending EmberObject\"` to Stage Ready for Release",
       "createdAt": "2024-06-14T18:31:34Z",
       "closedAt": "2024-10-04T18:23:02Z",
+      "merged": true,
       "mergedAt": "2024-10-04T18:23:02Z",
       "assignees": [],
       "timelineItems": [
@@ -92,6 +94,7 @@
       "title": "Advance RFC #1026 `\"EmberData | Deprecate Store extending EmberObject\"` to Stage Released",
       "createdAt": "2024-10-04T18:23:50Z",
       "closedAt": "2024-11-08T19:09:12Z",
+      "merged": true,
       "mergedAt": "2024-11-08T19:09:12Z",
       "assignees": [],
       "timelineItems": [
@@ -113,6 +116,7 @@
       "title": "Advance RFC #1026 `\"EmberData | Deprecate Store extending EmberObject\"` to Stage Recommended",
       "createdAt": "2024-11-08T19:09:59Z",
       "closedAt": "2025-05-23T18:48:18Z",
+      "merged": true,
       "mergedAt": "2025-05-23T18:48:17Z",
       "assignees": [],
       "timelineItems": [

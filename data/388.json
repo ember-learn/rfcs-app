@@ -4,6 +4,7 @@
   "title": "Add new basic helpers to Ember",
   "createdAt": "2018-10-13T11:40:40Z",
   "closedAt": "2020-01-14T18:24:08Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [
     {
@@ -31,13 +32,23 @@
       "event": "labeled",
       "createdAt": "2018-11-05T14:26:48Z",
       "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2018-11-08T04:08:15Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-12-20T19:46:09Z",
+      "label": "FCP to close"
     }
   ],
   "currentStage": "proposed",
   "labels": [],
-  "fcp": true,
+  "fcp": false,
   "stageDuration": {
-    "proposed": 2522,
+    "proposed": 2523,
     "exploring": null,
     "accepted": null,
     "release": null,

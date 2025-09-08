@@ -4,6 +4,7 @@
   "title": "How autotracking works",
   "createdAt": "2025-05-23T16:04:04Z",
   "closedAt": "2025-05-28T16:39:57Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
@@ -17,7 +18,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 108,
+    "proposed": 109,
     "exploring": null,
     "accepted": null,
     "release": null,

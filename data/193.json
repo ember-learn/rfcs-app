@@ -4,6 +4,7 @@
   "title": "Yet another named blocks/yields RFC",
   "createdAt": "2016-12-19T10:02:08Z",
   "closedAt": "2017-07-30T14:44:17Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3185,
+    "proposed": 3186,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -4,6 +4,7 @@
   "title": "Deprecate Ember Proxies",
   "createdAt": "2025-06-13T19:45:33Z",
   "closedAt": "2025-08-15T18:55:24Z",
+  "merged": true,
   "mergedAt": "2025-08-15T18:55:24Z",
   "assignees": [],
   "timelineItems": [
@@ -40,7 +41,7 @@
   "stageDuration": {
     "proposed": 7,
     "exploring": 57,
-    "accepted": 24,
+    "accepted": 25,
     "release": null,
     "released": null
   },
@@ -51,6 +52,7 @@
       "title": "Advance RFC #1112 `\"Deprecating Ember Proxies\"` to Stage Ready for Release",
       "createdAt": "2025-08-15T18:56:03Z",
       "closedAt": null,
+      "merged": false,
       "mergedAt": null,
       "assignees": [],
       "timelineItems": [

@@ -4,6 +4,7 @@
   "title": "Deprecate jQuery Integration Optional Feature",
   "createdAt": "2021-01-14T22:53:15Z",
   "closedAt": "2021-01-22T19:14:59Z",
+  "merged": true,
   "mergedAt": "2021-01-22T19:14:59Z",
   "assignees": [
     {

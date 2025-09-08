@@ -4,6 +4,7 @@
   "title": "`@use` and Resources",
   "createdAt": "2019-12-23T16:03:39Z",
   "closedAt": "2020-10-29T03:48:54Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2086,
+    "proposed": 2087,
     "exploring": null,
     "accepted": null,
     "release": null,

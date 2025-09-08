@@ -4,6 +4,7 @@
   "title": "Standardize use of scripts in package.json for common tasks",
   "createdAt": "2022-07-22T13:30:12Z",
   "closedAt": "2023-09-15T18:57:17Z",
+  "merged": true,
   "mergedAt": "2023-09-15T18:57:17Z",
   "assignees": [
     {
@@ -70,6 +71,7 @@
       "title": "Advance RFC #0831 `Standardize use of scripts in package.json for common tasks` to Stage Ready for Release",
       "createdAt": "2023-09-15T18:58:04Z",
       "closedAt": "2024-04-17T14:10:28Z",
+      "merged": true,
       "mergedAt": "2024-04-17T14:10:27Z",
       "assignees": [],
       "timelineItems": [
@@ -101,6 +103,7 @@
       "title": "Advance RFC #0831 `\"Standardize use of scripts in package.json for common tasks\"` to Stage Released",
       "createdAt": "2024-04-17T14:11:10Z",
       "closedAt": "2024-04-19T18:13:44Z",
+      "merged": true,
       "mergedAt": "2024-04-19T18:13:44Z",
       "assignees": [],
       "timelineItems": [
@@ -122,6 +125,7 @@
       "title": "Advance RFC #0831 `\"Standardize use of scripts in package.json for common tasks\"` to Stage Recommended",
       "createdAt": "2024-04-19T18:14:24Z",
       "closedAt": "2024-04-26T18:12:57Z",
+      "merged": true,
       "mergedAt": "2024-04-26T18:12:57Z",
       "assignees": [],
       "timelineItems": [

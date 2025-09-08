@@ -4,6 +4,7 @@
   "title": "Engine Router Helpers",
   "createdAt": "2022-03-11T17:42:29Z",
   "closedAt": "2022-03-17T19:41:29Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [
     {
@@ -27,7 +28,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1277,
+    "proposed": 1278,
     "exploring": null,
     "accepted": null,
     "release": null,

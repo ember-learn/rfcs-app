@@ -4,6 +4,7 @@
   "title": "Deprecate Comparable",
   "createdAt": "2025-06-13T19:54:42Z",
   "closedAt": "2025-06-20T20:34:56Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
@@ -34,7 +35,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 7,
-    "exploring": 80,
+    "exploring": 81,
     "accepted": null,
     "release": null,
     "released": null

@@ -4,6 +4,7 @@
   "title": "Public router service",
   "createdAt": "2022-05-12T20:00:08Z",
   "closedAt": null,
+  "merged": false,
   "mergedAt": null,
   "assignees": [
     {
@@ -64,7 +65,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 498,
-    "exploring": 717,
+    "exploring": 718,
     "accepted": null,
     "release": null,
     "released": null

@@ -4,6 +4,7 @@
   "title": "Adds Logging and Debugging Context API",
   "createdAt": "2021-06-15T23:42:35Z",
   "closedAt": null,
+  "merged": false,
   "mergedAt": null,
   "assignees": [
     {
@@ -29,7 +30,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 534,
-    "exploring": 1012,
+    "exploring": 1013,
     "accepted": null,
     "release": null,
     "released": null

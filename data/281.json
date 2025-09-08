@@ -4,6 +4,7 @@
   "title": "ES5 Getters",
   "createdAt": "2017-12-12T16:36:29Z",
   "closedAt": "2018-01-03T18:08:16Z",
+  "merged": true,
   "mergedAt": "2018-01-03T18:08:16Z",
   "assignees": [
     {
@@ -15,7 +16,7 @@
     {
       "event": "labeled",
       "createdAt": "2017-12-13T18:38:34Z",
-      "label": "T-core"
+      "label": "T-framework"
     },
     {
       "event": "labeled",
@@ -27,7 +28,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2827,
+    "proposed": 2828,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -4,6 +4,7 @@
   "title": "Add context API",
   "createdAt": "2023-09-28T09:14:10Z",
   "closedAt": null,
+  "merged": false,
   "mergedAt": null,
   "assignees": [
     {
@@ -54,7 +55,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 170,
-    "exploring": 542,
+    "exploring": 543,
     "accepted": null,
     "release": null,
     "released": null

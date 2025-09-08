@@ -4,6 +4,7 @@
   "title": "Deprecate Mixin Support",
   "createdAt": "2025-06-20T13:04:24Z",
   "closedAt": "2025-09-05T18:09:38Z",
+  "merged": true,
   "mergedAt": "2025-09-05T18:09:38Z",
   "assignees": [],
   "timelineItems": [
@@ -40,7 +41,7 @@
   "stageDuration": {
     "proposed": 1,
     "exploring": 77,
-    "accepted": 3,
+    "accepted": 4,
     "release": null,
     "released": null
   },
@@ -51,6 +52,7 @@
       "title": "Advance RFC #1116 `\"Deprecating Mixin Support\"` to Stage Ready for Release",
       "createdAt": "2025-09-05T18:10:24Z",
       "closedAt": null,
+      "merged": false,
       "mergedAt": null,
       "assignees": [],
       "timelineItems": [

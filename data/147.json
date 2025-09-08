@@ -4,6 +4,7 @@
   "title": "Tweak weakmap template.",
   "createdAt": "2016-06-16T18:18:48Z",
   "closedAt": "2016-06-16T18:18:59Z",
+  "merged": true,
   "mergedAt": "2016-06-16T18:18:59Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3371,
+    "proposed": 3372,
     "exploring": null,
     "accepted": null,
     "release": null,

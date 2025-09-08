@@ -4,6 +4,7 @@
   "title": "An alternative to Controllers",
   "createdAt": "2019-06-10T16:37:33Z",
   "closedAt": "2021-03-27T15:09:20Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2282,
+    "proposed": 2283,
     "exploring": null,
     "accepted": null,
     "release": null,

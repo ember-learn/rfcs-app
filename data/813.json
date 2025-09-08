@@ -4,6 +4,7 @@
   "title": "<template> layering proposal",
   "createdAt": "2022-04-16T22:00:45Z",
   "closedAt": "2023-06-30T18:23:34Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [
     {
@@ -46,6 +47,16 @@
       "event": "labeled",
       "createdAt": "2023-01-27T20:02:10Z",
       "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-23T18:50:04Z",
+      "label": "E-Polaris"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-06-23T19:06:13Z",
+      "label": "FCP to close"
     }
   ],
   "currentStage": "exploring",

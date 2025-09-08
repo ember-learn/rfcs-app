@@ -4,6 +4,7 @@
   "title": "Add eslint-plugin-import to ember-cli blueprint",
   "createdAt": "2023-01-07T18:58:55Z",
   "closedAt": null,
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
@@ -39,7 +40,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 139,
-    "exploring": 836,
+    "exploring": 837,
     "accepted": null,
     "release": null,
     "released": null

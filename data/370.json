@@ -4,6 +4,7 @@
   "title": "Deprecate `computed().volatile()`",
   "createdAt": "2018-08-31T19:13:15Z",
   "closedAt": "2018-10-05T18:43:33Z",
+  "merged": true,
   "mergedAt": "2018-10-05T18:43:33Z",
   "assignees": [
     {
@@ -22,7 +23,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2565,
+    "proposed": 2566,
     "exploring": null,
     "accepted": null,
     "release": null,

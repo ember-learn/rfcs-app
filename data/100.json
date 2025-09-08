@@ -4,6 +4,7 @@
   "title": "Attribute Actions",
   "createdAt": "2015-10-18T15:58:33Z",
   "closedAt": "2016-01-18T05:12:41Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3613,
+    "proposed": 3614,
     "exploring": null,
     "accepted": null,
     "release": null,

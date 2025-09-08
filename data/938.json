@@ -4,6 +4,7 @@
   "title": "Strict ES Module Support",
   "createdAt": "2023-07-26T23:02:09Z",
   "closedAt": "2025-04-01T21:54:18Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
@@ -44,7 +45,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 9,
-    "exploring": 766,
+    "exploring": 767,
     "accepted": null,
     "release": null,
     "released": null

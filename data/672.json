@@ -4,6 +4,7 @@
   "title": "Updates the HelperManager RFC based on changes in implementation",
   "createdAt": "2020-10-03T15:06:59Z",
   "closedAt": "2020-10-14T17:23:37Z",
+  "merged": true,
   "mergedAt": "2020-10-14T17:23:37Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1801,
+    "proposed": 1802,
     "exploring": null,
     "accepted": null,
     "release": null,

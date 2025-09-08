@@ -4,6 +4,7 @@
   "title": "Template Tag In Routes",
   "createdAt": "2024-10-04T16:51:20Z",
   "closedAt": "2024-11-22T19:53:25Z",
+  "merged": true,
   "mergedAt": "2024-11-22T19:53:24Z",
   "assignees": [],
   "timelineItems": [
@@ -42,7 +43,7 @@
     "exploring": 50,
     "accepted": 56,
     "release": 63,
-    "released": 171
+    "released": 172
   },
   "connected": [
     {
@@ -51,6 +52,7 @@
       "title": "Advance RFC #1046 `\"Allow Use of Template Tag in Routes\"` to Stage Ready for Release",
       "createdAt": "2024-11-22T19:55:05Z",
       "closedAt": "2025-01-17T19:06:44Z",
+      "merged": true,
       "mergedAt": "2025-01-17T19:06:44Z",
       "assignees": [],
       "timelineItems": [
@@ -77,6 +79,7 @@
       "title": "Advance RFC #1046 `\"Use Template Tag in Routes\"` to Stage Released",
       "createdAt": "2025-01-17T19:07:32Z",
       "closedAt": "2025-03-21T18:24:03Z",
+      "merged": true,
       "mergedAt": "2025-03-21T18:24:03Z",
       "assignees": [],
       "timelineItems": [
@@ -98,6 +101,7 @@
       "title": "Advance RFC #1046 `\"Use Template Tag in Routes\"` to Stage Recommended",
       "createdAt": "2025-03-21T18:24:52Z",
       "closedAt": null,
+      "merged": false,
       "mergedAt": null,
       "assignees": [],
       "timelineItems": [

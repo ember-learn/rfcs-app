@@ -4,6 +4,7 @@
   "title": "Deprecate `{{attrs}}` in templates",
   "createdAt": "2020-12-23T03:13:24Z",
   "closedAt": "2021-01-15T19:15:21Z",
+  "merged": true,
   "mergedAt": "2021-01-15T19:15:21Z",
   "assignees": [
     {

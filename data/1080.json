@@ -4,6 +4,7 @@
   "title": "Update to upload-artifact@v4",
   "createdAt": "2025-03-14T18:42:06Z",
   "closedAt": "2025-03-14T18:43:38Z",
+  "merged": true,
   "mergedAt": "2025-03-14T18:43:38Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 178,
+    "proposed": 179,
     "exploring": null,
     "accepted": null,
     "release": null,

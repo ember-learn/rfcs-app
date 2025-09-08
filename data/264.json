@@ -4,6 +4,7 @@
   "title": "Fixing typos",
   "createdAt": "2017-10-28T09:08:25Z",
   "closedAt": "2017-10-28T12:23:42Z",
+  "merged": true,
   "mergedAt": "2017-10-28T12:23:42Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2872,
+    "proposed": 2873,
     "exploring": null,
     "accepted": null,
     "release": null,

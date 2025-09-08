@@ -4,6 +4,7 @@
   "title": "TrackedList",
   "createdAt": "2020-01-03T18:07:19Z",
   "closedAt": "2022-07-23T17:51:42Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2075,
+    "proposed": 2076,
     "exploring": null,
     "accepted": null,
     "release": null,

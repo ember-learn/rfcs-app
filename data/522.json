@@ -4,6 +4,7 @@
   "title": "RFC - deprecate default serializers and adapters",
   "createdAt": "2019-07-30T02:12:25Z",
   "closedAt": "2019-08-22T00:00:36Z",
+  "merged": true,
   "mergedAt": "2019-08-22T00:00:36Z",
   "assignees": [
     {

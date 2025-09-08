@@ -4,6 +4,7 @@
   "title": "Automation",
   "createdAt": "2022-08-09T17:09:35Z",
   "closedAt": "2022-08-19T21:10:36Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1126,
+    "proposed": 1127,
     "exploring": null,
     "accepted": null,
     "release": null,

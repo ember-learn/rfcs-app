@@ -4,6 +4,7 @@
   "title": "Test Co-Location",
   "createdAt": "2020-03-02T17:52:04Z",
   "closedAt": "2022-07-23T23:34:35Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2016,
+    "proposed": 2017,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -4,6 +4,7 @@
   "title": "Registry APIs: deprecate micro-syntax; introduce replacement API",
   "createdAt": "2020-01-27T16:13:35Z",
   "closedAt": "2020-02-21T19:58:22Z",
+  "merged": true,
   "mergedAt": "2020-02-21T19:58:22Z",
   "assignees": [
     {
@@ -27,7 +28,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2051,
+    "proposed": 2052,
     "exploring": null,
     "accepted": null,
     "release": null,

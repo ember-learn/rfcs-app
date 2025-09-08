@@ -4,6 +4,7 @@
   "title": "Make hash built-in in strict-mode",
   "createdAt": "2023-12-22T19:03:34Z",
   "closedAt": "2024-06-12T14:18:46Z",
+  "merged": true,
   "mergedAt": "2024-06-12T14:18:45Z",
   "assignees": [],
   "timelineItems": [
@@ -40,7 +41,7 @@
   "stageDuration": {
     "proposed": 29,
     "exploring": 145,
-    "accepted": 453,
+    "accepted": 454,
     "release": null,
     "released": null
   },
@@ -51,6 +52,7 @@
       "title": "Advance RFC #0999 `\"Make (hash) a built in helper\"` to Stage Ready for Release",
       "createdAt": "2024-06-12T14:19:45Z",
       "closedAt": null,
+      "merged": false,
       "mergedAt": null,
       "assignees": [],
       "timelineItems": [

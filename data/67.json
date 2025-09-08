@@ -4,6 +4,7 @@
   "title": "Better record polymorphism",
   "createdAt": "2015-06-19T17:08:35Z",
   "closedAt": "2022-07-25T18:13:25Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [
     {
@@ -15,14 +16,14 @@
     {
       "event": "labeled",
       "createdAt": "2015-07-13T01:15:26Z",
-      "label": "ember-data"
+      "label": "T-ember-data"
     }
   ],
   "currentStage": "proposed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3734,
+    "proposed": 3735,
     "exploring": null,
     "accepted": null,
     "release": null,

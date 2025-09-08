@@ -4,6 +4,7 @@
   "title": "Strict resolver",
   "createdAt": "2025-08-13T22:45:18Z",
   "closedAt": "2025-09-05T18:08:38Z",
+  "merged": true,
   "mergedAt": "2025-09-05T18:08:38Z",
   "assignees": [],
   "timelineItems": [
@@ -40,7 +41,7 @@
   "stageDuration": {
     "proposed": 9,
     "exploring": 14,
-    "accepted": 3,
+    "accepted": 4,
     "release": null,
     "released": null
   },
@@ -51,6 +52,7 @@
       "title": "Advance RFC #1132 `\"Default Strict Resolver\"` to Stage Ready for Release",
       "createdAt": "2025-09-05T18:09:24Z",
       "closedAt": null,
+      "merged": false,
       "mergedAt": null,
       "assignees": [],
       "timelineItems": [

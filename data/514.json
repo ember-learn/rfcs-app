@@ -4,6 +4,7 @@
   "title": "Update tracking and filenames for 486 and 468",
   "createdAt": "2019-07-19T18:58:34Z",
   "closedAt": "2019-07-19T20:14:03Z",
+  "merged": true,
   "mergedAt": "2019-07-19T20:14:03Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2243,
+    "proposed": 2244,
     "exploring": null,
     "accepted": null,
     "release": null,

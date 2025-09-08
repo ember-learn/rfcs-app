@@ -4,6 +4,7 @@
   "title": "Restructuring the Guides Table of Contents",
   "createdAt": "2019-01-13T17:23:25Z",
   "closedAt": "2019-02-16T04:43:54Z",
+  "merged": true,
   "mergedAt": "2019-02-16T04:43:54Z",
   "assignees": [
     {
@@ -16,13 +17,28 @@
       "event": "labeled",
       "createdAt": "2019-01-19T15:44:15Z",
       "label": "T-learning"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-31T17:30:00Z",
+      "label": "FCP to close"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-31T17:31:55Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2019-01-31T17:31:55Z",
+      "label": "FCP to close"
     }
   ],
   "currentStage": "accepted",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2430,
+    "proposed": 2431,
     "exploring": null,
     "accepted": null,
     "release": null,

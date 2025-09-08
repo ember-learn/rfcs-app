@@ -4,6 +4,7 @@
   "title": "Introduce external redirects",
   "createdAt": "2017-04-10T16:03:59Z",
   "closedAt": "2022-07-23T17:52:15Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
@@ -17,7 +18,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3073,
+    "proposed": 3074,
     "exploring": null,
     "accepted": null,
     "release": null,

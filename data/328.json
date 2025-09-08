@@ -4,9 +4,16 @@
   "title": "Include `ember-cli-build-notifications` by default",
   "createdAt": "2018-04-27T20:46:07Z",
   "closedAt": "2020-11-20T19:41:36Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
-  "timelineItems": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2020-11-13T22:52:28Z",
+      "label": "FCP to close"
+    }
+  ],
   "currentStage": "proposed",
   "labels": [],
   "fcp": false,

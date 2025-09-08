@@ -4,6 +4,7 @@
   "title": "Named Arguments Syntax (`{{@foo}}`)",
   "createdAt": "2017-12-10T16:42:36Z",
   "closedAt": "2018-01-03T18:06:48Z",
+  "merged": true,
   "mergedAt": "2018-01-03T18:06:48Z",
   "assignees": [
     {
@@ -16,13 +17,18 @@
       "event": "labeled",
       "createdAt": "2017-12-10T17:09:26Z",
       "label": "T-components"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2017-12-20T17:36:58Z",
+      "label": "Final Comment Period"
     }
   ],
   "currentStage": "accepted",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2829,
+    "proposed": 2830,
     "exploring": null,
     "accepted": null,
     "release": null,

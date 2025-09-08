@@ -4,6 +4,7 @@
   "title": "Fix frontmatter for two RFCs",
   "createdAt": "2022-09-01T17:05:19Z",
   "closedAt": "2022-09-01T21:06:45Z",
+  "merged": true,
   "mergedAt": "2022-09-01T21:06:45Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1103,
+    "proposed": 1104,
     "exploring": null,
     "accepted": null,
     "release": null,

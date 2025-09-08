@@ -4,6 +4,7 @@
   "title": "RFC: Semantic Versioning for TypeScript Types",
   "createdAt": "2021-03-23T19:42:16Z",
   "closedAt": "2022-04-19T01:35:30Z",
+  "merged": true,
   "mergedAt": "2022-04-19T01:35:30Z",
   "assignees": [
     {
@@ -55,6 +56,7 @@
       "title": "Advance RFC #0730 \"Semantic Versioning for TypeScript Types\" to Stage Ready for Release",
       "createdAt": "2022-11-29T01:50:56Z",
       "closedAt": "2023-08-24T18:00:19Z",
+      "merged": true,
       "mergedAt": "2023-08-24T18:00:19Z",
       "assignees": [
         {
@@ -99,6 +101,7 @@
       "title": "Advance RFC #0730 `\"Semantic Versioning for TypeScript Types\"` to Stage Released",
       "createdAt": "2023-08-24T18:01:16Z",
       "closedAt": "2023-08-24T18:05:14Z",
+      "merged": true,
       "mergedAt": "2023-08-24T18:05:14Z",
       "assignees": [],
       "timelineItems": [
@@ -120,6 +123,7 @@
       "title": "Advance RFC #0730 `\"Semantic Versioning for TypeScript Types\"` to Stage Recommended",
       "createdAt": "2023-08-24T18:06:09Z",
       "closedAt": "2023-09-15T19:02:00Z",
+      "merged": true,
       "mergedAt": "2023-09-15T19:02:00Z",
       "assignees": [
         {

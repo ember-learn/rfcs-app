@@ -4,20 +4,21 @@
   "title": "Release Channel Names",
   "createdAt": "2017-07-12T12:37:20Z",
   "closedAt": "2017-09-01T13:58:10Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
     {
       "event": "labeled",
       "createdAt": "2017-08-01T03:02:19Z",
-      "label": "infrastructure"
+      "label": "T-infrastructure"
     }
   ],
   "currentStage": "proposed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2980,
+    "proposed": 2981,
     "exploring": null,
     "accepted": null,
     "release": null,

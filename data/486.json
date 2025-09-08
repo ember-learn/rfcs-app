@@ -4,6 +4,7 @@
   "title": "Deprecate mouseEnter/Leave/Move Ember events",
   "createdAt": "2019-04-27T23:48:02Z",
   "closedAt": "2019-07-19T18:52:20Z",
+  "merged": true,
   "mergedAt": "2019-07-19T18:52:20Z",
   "assignees": [
     {

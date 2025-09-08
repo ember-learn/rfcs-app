@@ -4,6 +4,7 @@
   "title": "fix invalid date",
   "createdAt": "2025-06-10T14:20:29Z",
   "closedAt": "2025-06-10T15:59:05Z",
+  "merged": true,
   "mergedAt": "2025-06-10T15:59:05Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 90,
+    "proposed": 91,
     "exploring": null,
     "accepted": null,
     "release": null,

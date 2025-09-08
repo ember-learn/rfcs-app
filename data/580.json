@@ -4,6 +4,7 @@
   "title": "Destroyables",
   "createdAt": "2020-01-11T00:26:29Z",
   "closedAt": "2020-04-21T18:48:04Z",
+  "merged": true,
   "mergedAt": "2020-04-21T18:48:04Z",
   "assignees": [
     {
@@ -44,6 +45,7 @@
       "title": "Advance RFC #0580 `\"Destroyables\"` to Stage Recommended",
       "createdAt": "2023-03-13T21:25:12Z",
       "closedAt": "2023-08-04T14:25:15Z",
+      "merged": true,
       "mergedAt": "2023-08-04T14:25:15Z",
       "assignees": [],
       "timelineItems": [

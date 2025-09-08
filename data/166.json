@@ -4,6 +4,7 @@
   "title": "Added the missing }}",
   "createdAt": "2016-08-26T10:44:45Z",
   "closedAt": "2016-08-26T11:24:16Z",
+  "merged": true,
   "mergedAt": "2016-08-26T11:24:16Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3300,
+    "proposed": 3301,
     "exploring": null,
     "accepted": null,
     "release": null,

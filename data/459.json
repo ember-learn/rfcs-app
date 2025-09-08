@@ -4,6 +4,7 @@
   "title": "Angle Bracket Invocations For Built-in Components",
   "createdAt": "2019-03-06T20:35:59Z",
   "closedAt": "2019-03-15T23:49:26Z",
+  "merged": true,
   "mergedAt": "2019-03-15T23:49:26Z",
   "assignees": [
     {
@@ -31,6 +32,11 @@
       "event": "labeled",
       "createdAt": "2019-03-06T21:18:25Z",
       "label": "Octane"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-03-09T00:35:43Z",
+      "label": "Final Comment Period"
     }
   ],
   "currentStage": "accepted",

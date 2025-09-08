@@ -4,6 +4,7 @@
   "title": " deprecate controller mixin",
   "createdAt": "2023-10-17T13:04:07Z",
   "closedAt": "2023-11-03T14:48:54Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
@@ -17,7 +18,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 692,
+    "proposed": 693,
     "exploring": null,
     "accepted": null,
     "release": null,

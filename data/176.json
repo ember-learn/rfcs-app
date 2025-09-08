@@ -4,9 +4,21 @@
   "title": "RFC: JavaScript Modules API",
   "createdAt": "2016-11-06T01:55:03Z",
   "closedAt": "2017-01-13T22:40:32Z",
+  "merged": true,
   "mergedAt": "2017-01-13T22:40:32Z",
   "assignees": [],
-  "timelineItems": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2016-12-14T01:16:05Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2017-04-05T14:41:39Z",
+      "label": "Final Comment Period"
+    }
+  ],
   "currentStage": "accepted",
   "labels": [],
   "fcp": false,

@@ -4,6 +4,7 @@
   "title": "rfc: Ember Learn | Add Ember cookbook ",
   "createdAt": "2022-01-11T07:03:13Z",
   "closedAt": "2022-03-16T03:22:02Z",
+  "merged": true,
   "mergedAt": "2022-03-16T03:22:02Z",
   "assignees": [],
   "timelineItems": [
@@ -17,7 +18,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1336,
+    "proposed": 1337,
     "exploring": null,
     "accepted": null,
     "release": null,

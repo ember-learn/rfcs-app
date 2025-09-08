@@ -4,6 +4,7 @@
   "title": "Deprecate v1 addon blueprint discovery",
   "createdAt": "2025-01-11T10:00:52Z",
   "closedAt": null,
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
@@ -17,7 +18,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 240,
+    "proposed": 241,
     "exploring": null,
     "accepted": null,
     "release": null,

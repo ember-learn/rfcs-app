@@ -4,6 +4,7 @@
   "title": "Update 0774-implicit-record-route-loading to include optional feature",
   "createdAt": "2024-02-28T15:20:31Z",
   "closedAt": "2024-02-28T15:21:46Z",
+  "merged": true,
   "mergedAt": "2024-02-28T15:21:46Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 558,
+    "proposed": 559,
     "exploring": null,
     "accepted": null,
     "release": null,

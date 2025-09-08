@@ -4,6 +4,7 @@
   "title": "Add `load` hook to Route",
   "createdAt": "2019-07-01T15:08:56Z",
   "closedAt": "2022-07-23T02:01:30Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2261,
+    "proposed": 2262,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -4,6 +4,7 @@
   "title": "Update 1046-template-tag-in-routes.md",
   "createdAt": "2025-03-03T16:43:41Z",
   "closedAt": "2025-03-03T16:49:43Z",
+  "merged": true,
   "mergedAt": "2025-03-03T16:49:43Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 189,
+    "proposed": 190,
     "exploring": null,
     "accepted": null,
     "release": null,

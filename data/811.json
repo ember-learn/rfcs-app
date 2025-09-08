@@ -4,6 +4,7 @@
   "title": "Element Modifiers",
   "createdAt": "2022-03-29T20:17:58Z",
   "closedAt": "2022-12-13T00:37:00Z",
+  "merged": true,
   "mergedAt": "2022-12-13T00:37:00Z",
   "assignees": [
     {
@@ -24,14 +25,40 @@
       "event": "labeled",
       "createdAt": "2022-03-31T14:09:50Z",
       "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:31:25Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2022-12-02T19:07:07Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T19:07:07Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T20:28:12Z",
+      "label": "Final Comment Period"
     }
   ],
   "currentStage": "recommended",
-  "labels": [],
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T19:07:07Z",
+      "label": "S-Exploring"
+    }
+  ],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1259,
-    "exploring": null,
+    "proposed": 248,
+    "exploring": 11,
     "accepted": 116,
     "release": 64,
     "released": 224
@@ -43,6 +70,7 @@
       "title": "Advance RFC #0811 \"Element Modifiers\" to Stage Ready for Release",
       "createdAt": "2022-12-13T00:38:17Z",
       "closedAt": "2023-04-07T18:47:41Z",
+      "merged": true,
       "mergedAt": "2023-04-07T18:47:41Z",
       "assignees": [],
       "timelineItems": [
@@ -64,6 +92,7 @@
       "title": "Advance RFC #0811 `\"Element Modifiers\"` to Stage Released",
       "createdAt": "2023-04-07T18:48:36Z",
       "closedAt": "2023-06-10T15:06:02Z",
+      "merged": true,
       "mergedAt": "2023-06-10T15:06:02Z",
       "assignees": [],
       "timelineItems": [
@@ -85,6 +114,7 @@
       "title": "Advance RFC #0811 `\"Element Modifiers\"` to Stage Recommended",
       "createdAt": "2023-06-10T15:07:24Z",
       "closedAt": "2024-01-19T19:27:40Z",
+      "merged": true,
       "mergedAt": "2024-01-19T19:27:40Z",
       "assignees": [
         {

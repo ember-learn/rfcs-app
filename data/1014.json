@@ -4,6 +4,7 @@
   "title": "Introduce \"Ember Language Tooling Roadmap\" RFC",
   "createdAt": "2024-03-17T01:26:28Z",
   "closedAt": "2024-12-13T19:36:06Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
@@ -34,7 +35,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 6,
-    "exploring": 535,
+    "exploring": 536,
     "accepted": null,
     "release": null,
     "released": null

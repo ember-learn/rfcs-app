@@ -4,6 +4,7 @@
   "title": "Asset Import Spec",
   "createdAt": "2021-08-13T20:23:58Z",
   "closedAt": "2023-10-27T18:16:12Z",
+  "merged": true,
   "mergedAt": "2023-10-27T18:16:12Z",
   "assignees": [
     {
@@ -43,7 +44,7 @@
   "stageDuration": {
     "proposed": 475,
     "exploring": 331,
-    "accepted": 682,
+    "accepted": 683,
     "release": null,
     "released": null
   },
@@ -54,6 +55,7 @@
       "title": "Advance RFC #0763 `\"Asset Import Spec\"` to Stage Ready for Release",
       "createdAt": "2023-10-27T18:17:07Z",
       "closedAt": null,
+      "merged": false,
       "mergedAt": null,
       "assignees": [
         {

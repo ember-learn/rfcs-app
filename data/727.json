@@ -4,6 +4,7 @@
   "title": "Deprecate `{{unbound}}` helper",
   "createdAt": "2021-03-16T17:57:59Z",
   "closedAt": "2022-03-30T09:06:53Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [
     {
@@ -27,7 +28,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1637,
+    "proposed": 1638,
     "exploring": null,
     "accepted": null,
     "release": null,

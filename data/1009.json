@@ -4,6 +4,7 @@
   "title": "Make deprecation workflow built in",
   "createdAt": "2024-02-22T17:46:40Z",
   "closedAt": "2024-10-18T18:04:40Z",
+  "merged": true,
   "mergedAt": "2024-10-18T18:04:40Z",
   "assignees": [],
   "timelineItems": [
@@ -42,7 +43,7 @@
     "exploring": 231,
     "accepted": 120,
     "release": 14,
-    "released": 164
+    "released": 165
   },
   "connected": [
     {
@@ -51,6 +52,7 @@
       "title": "Advance RFC #1009 `\"Move the deprecation workflow library to be installed in apps by default\"` to Stage Ready for Release",
       "createdAt": "2024-10-18T18:05:34Z",
       "closedAt": "2025-02-14T19:25:41Z",
+      "merged": true,
       "mergedAt": "2025-02-14T19:25:41Z",
       "assignees": [],
       "timelineItems": [
@@ -77,6 +79,7 @@
       "title": "Advance RFC #1009 `\"Move the deprecation workflow library to be installed in apps by default\"` to Stage Released",
       "createdAt": "2025-03-14T18:54:21Z",
       "closedAt": "2025-03-28T18:24:29Z",
+      "merged": true,
       "mergedAt": "2025-03-28T18:24:29Z",
       "assignees": [],
       "timelineItems": [
@@ -98,6 +101,7 @@
       "title": "Advance RFC #1009 `\"Move the deprecation workflow library to be installed in apps by default\"` to Stage Recommended",
       "createdAt": "2025-03-28T18:25:16Z",
       "closedAt": null,
+      "merged": false,
       "mergedAt": null,
       "assignees": [],
       "timelineItems": [

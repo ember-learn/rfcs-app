@@ -4,6 +4,7 @@
   "title": " renderComponent()",
   "createdAt": "2025-05-01T22:01:17Z",
   "closedAt": "2025-08-08T18:14:43Z",
+  "merged": true,
   "mergedAt": "2025-08-08T18:14:43Z",
   "assignees": [],
   "timelineItems": [
@@ -40,7 +41,7 @@
   "stageDuration": {
     "proposed": 1,
     "exploring": 98,
-    "accepted": 31,
+    "accepted": 32,
     "release": null,
     "released": null
   },
@@ -51,6 +52,7 @@
       "title": "Advance RFC #1099 `\"renderComponent\"` to Stage Ready for Release",
       "createdAt": "2025-08-08T18:15:29Z",
       "closedAt": null,
+      "merged": false,
       "mergedAt": null,
       "assignees": [],
       "timelineItems": [

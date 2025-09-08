@@ -4,6 +4,7 @@
   "title": "rfc: ember-data | Deprecate Legacy Imports",
   "createdAt": "2021-04-24T06:55:16Z",
   "closedAt": "2022-08-31T22:30:20Z",
+  "merged": true,
   "mergedAt": "2022-08-31T22:30:20Z",
   "assignees": [
     {
@@ -36,7 +37,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1598,
+    "proposed": 1599,
     "exploring": null,
     "accepted": 32,
     "release": 21,
@@ -49,6 +50,7 @@
       "title": "Advance RFC #0743 `\"EmberData | Deprecate Legacy Imports\"` to Stage Ready for Release",
       "createdAt": "2023-08-21T22:20:27Z",
       "closedAt": "2023-09-22T18:42:28Z",
+      "merged": true,
       "mergedAt": "2023-09-22T18:42:28Z",
       "assignees": [
         {
@@ -85,6 +87,7 @@
       "title": "Advance RFC #0743 `\"EmberData | Deprecate Legacy Imports\"` to Stage Released",
       "createdAt": "2023-09-22T18:43:19Z",
       "closedAt": "2023-10-13T18:08:16Z",
+      "merged": true,
       "mergedAt": "2023-10-13T18:08:16Z",
       "assignees": [],
       "timelineItems": [
@@ -111,6 +114,7 @@
       "title": "Advance RFC #0743 `\"EmberData | Deprecate Legacy Imports\"` to Stage Recommended",
       "createdAt": "2023-10-13T18:09:05Z",
       "closedAt": "2024-09-27T18:36:33Z",
+      "merged": true,
       "mergedAt": "2024-09-27T18:36:33Z",
       "assignees": [
         {

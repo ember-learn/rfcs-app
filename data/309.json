@@ -4,6 +4,7 @@
   "title": "Module Unification Namespaces",
   "createdAt": "2018-03-02T18:07:50Z",
   "closedAt": "2018-08-27T14:38:16Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2747,
+    "proposed": 2748,
     "exploring": null,
     "accepted": null,
     "release": null,

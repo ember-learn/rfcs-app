@@ -4,6 +4,7 @@
   "title": "Update 0460-yieldable-named-blocks.md",
   "createdAt": "2021-02-26T18:01:07Z",
   "closedAt": "2021-02-27T01:50:55Z",
+  "merged": true,
   "mergedAt": "2021-02-27T01:50:55Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1655,
+    "proposed": 1656,
     "exploring": null,
     "accepted": null,
     "release": null,

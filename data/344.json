@@ -4,6 +4,7 @@
   "title": "Spelling correction",
   "createdAt": "2018-07-06T11:53:05Z",
   "closedAt": "2018-07-09T11:24:16Z",
+  "merged": true,
   "mergedAt": "2018-07-09T11:24:16Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2621,
+    "proposed": 2622,
     "exploring": null,
     "accepted": null,
     "release": null,

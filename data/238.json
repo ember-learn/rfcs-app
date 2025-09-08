@@ -4,6 +4,7 @@
   "title": "Ember Data JavaScript Modules API",
   "createdAt": "2017-07-25T13:34:56Z",
   "closedAt": "2018-02-15T00:09:53Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
@@ -17,7 +18,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2967,
+    "proposed": 2968,
     "exploring": null,
     "accepted": null,
     "release": null,

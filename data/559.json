@@ -4,6 +4,7 @@
   "title": "Fix typo's and incorrect verbiage",
   "createdAt": "2019-12-07T18:41:49Z",
   "closedAt": "2019-12-07T22:41:28Z",
+  "merged": true,
   "mergedAt": "2019-12-07T22:41:27Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2102,
+    "proposed": 2103,
     "exploring": null,
     "accepted": null,
     "release": null,

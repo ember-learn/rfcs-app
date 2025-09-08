@@ -4,6 +4,7 @@
   "title": "fix some typos",
   "createdAt": "2019-07-05T18:02:56Z",
   "closedAt": "2019-07-06T01:54:10Z",
+  "merged": true,
   "mergedAt": "2019-07-06T01:54:10Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2257,
+    "proposed": 2258,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -4,20 +4,21 @@
   "title": "Friendly Errors",
   "createdAt": "2015-10-23T14:58:37Z",
   "closedAt": "2016-01-06T00:45:21Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
     {
       "event": "labeled",
       "createdAt": "2015-10-23T20:17:45Z",
-      "label": "ember-data"
+      "label": "T-ember-data"
     }
   ],
   "currentStage": "proposed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3608,
+    "proposed": 3609,
     "exploring": null,
     "accepted": null,
     "release": null,

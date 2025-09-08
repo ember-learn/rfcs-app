@@ -4,6 +4,7 @@
   "title": "RFC: Glimmer component `Signature` type",
   "createdAt": "2021-05-13T13:32:02Z",
   "closedAt": "2022-03-25T18:26:15Z",
+  "merged": true,
   "mergedAt": "2022-03-25T18:26:15Z",
   "assignees": [
     {
@@ -16,13 +17,18 @@
       "event": "labeled",
       "createdAt": "2022-02-26T22:41:12Z",
       "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-03-18T18:42:43Z",
+      "label": "Final Comment Period"
     }
   ],
   "currentStage": "accepted",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1579,
+    "proposed": 1580,
     "exploring": null,
     "accepted": null,
     "release": null,

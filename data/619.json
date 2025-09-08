@@ -4,6 +4,7 @@
   "title": "Better environment handling",
   "createdAt": "2020-04-23T14:54:14Z",
   "closedAt": "2020-11-24T14:09:09Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [
     {
@@ -27,7 +28,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1964,
+    "proposed": 1965,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -4,6 +4,7 @@
   "title": "Update 0391-router-helpers.md",
   "createdAt": "2019-06-12T09:22:13Z",
   "closedAt": "2019-06-12T16:30:18Z",
+  "merged": true,
   "mergedAt": "2019-06-12T16:30:18Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2280,
+    "proposed": 2281,
     "exploring": null,
     "accepted": null,
     "release": null,

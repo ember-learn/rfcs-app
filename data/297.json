@@ -4,6 +4,7 @@
   "title": "Deprecating Ember.Logger",
   "createdAt": "2018-01-19T01:32:34Z",
   "closedAt": "2018-03-02T14:52:21Z",
+  "merged": true,
   "mergedAt": "2018-03-02T14:52:21Z",
   "assignees": [
     {
@@ -15,7 +16,7 @@
     {
       "event": "labeled",
       "createdAt": "2018-01-19T19:40:03Z",
-      "label": "T-core"
+      "label": "T-framework"
     },
     {
       "event": "labeled",

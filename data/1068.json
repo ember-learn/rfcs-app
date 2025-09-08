@@ -4,6 +4,7 @@
   "title": "tracked-built-ins built-in",
   "createdAt": "2025-01-12T16:59:29Z",
   "closedAt": "2025-03-21T18:22:03Z",
+  "merged": true,
   "mergedAt": "2025-03-21T18:22:03Z",
   "assignees": [],
   "timelineItems": [
@@ -50,7 +51,7 @@
   "stageDuration": {
     "proposed": 41,
     "exploring": 28,
-    "accepted": 171,
+    "accepted": 172,
     "release": null,
     "released": null
   },
@@ -61,6 +62,7 @@
       "title": "Advance RFC #1068 `\"Built in tracking utilities for common collections\"` (tracked-built-ins, built-in) to Stage Ready for Release",
       "createdAt": "2025-03-21T18:22:51Z",
       "closedAt": null,
+      "merged": false,
       "mergedAt": null,
       "assignees": [],
       "timelineItems": [

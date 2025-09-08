@@ -4,6 +4,7 @@
   "title": "Align the mount and route APIs",
   "createdAt": "2021-02-12T08:27:20Z",
   "closedAt": "2023-09-29T18:06:40Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [
     {
@@ -37,7 +38,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1669,
+    "proposed": 1670,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -4,6 +4,7 @@
   "title": "DOM Element descriptor interface for test helpers",
   "createdAt": "2021-03-15T18:47:15Z",
   "closedAt": "2023-12-01T19:29:12Z",
+  "merged": true,
   "mergedAt": "2023-12-01T19:29:12Z",
   "assignees": [
     {
@@ -40,6 +41,21 @@
       "event": "labeled",
       "createdAt": "2023-01-13T21:19:10Z",
       "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-11-17T19:41:38Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-11-17T19:41:38Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-01T19:11:23Z",
+      "label": "S-Exploring"
     }
   ],
   "currentStage": "recommended",
@@ -47,6 +63,16 @@
     {
       "event": "labeled",
       "createdAt": "2023-01-13T21:19:10Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-11-17T19:41:38Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-01T19:11:23Z",
       "label": "S-Exploring"
     }
   ],
@@ -65,6 +91,7 @@
       "title": "Advance RFC #0726 `\"DOM Element descriptor interface for test helpers\"` to Stage Ready for Release",
       "createdAt": "2023-12-01T19:29:56Z",
       "closedAt": "2024-01-26T15:11:19Z",
+      "merged": true,
       "mergedAt": "2024-01-26T15:11:19Z",
       "assignees": [],
       "timelineItems": [
@@ -91,6 +118,7 @@
       "title": "Advance RFC #0726 `\"DOM Element descriptor interface for test helpers\"` to Stage Released",
       "createdAt": "2024-01-26T15:12:05Z",
       "closedAt": "2024-07-12T18:15:58Z",
+      "merged": true,
       "mergedAt": "2024-07-12T18:15:58Z",
       "assignees": [
         {
@@ -117,6 +145,7 @@
       "title": "Advance RFC #0726 `\"DOM Element descriptor interface for test helpers\"` to Stage Recommended",
       "createdAt": "2024-07-12T18:16:49Z",
       "closedAt": "2024-08-09T18:11:21Z",
+      "merged": true,
       "mergedAt": "2024-08-09T18:11:21Z",
       "assignees": [],
       "timelineItems": [

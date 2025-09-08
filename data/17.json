@@ -4,13 +4,14 @@
   "title": "ember data testing helpers",
   "createdAt": "2014-11-04T03:20:57Z",
   "closedAt": "2016-11-08T14:43:27Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
     {
       "event": "labeled",
       "createdAt": "2015-02-05T08:08:57Z",
-      "label": "ember-data"
+      "label": "T-ember-data"
     },
     {
       "event": "labeled",

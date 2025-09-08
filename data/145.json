@@ -4,6 +4,7 @@
   "title": "typo",
   "createdAt": "2016-05-30T15:42:05Z",
   "closedAt": "2016-05-30T15:45:15Z",
+  "merged": true,
   "mergedAt": "2016-05-30T15:45:15Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3388,
+    "proposed": 3389,
     "exploring": null,
     "accepted": null,
     "release": null,

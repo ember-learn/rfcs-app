@@ -4,6 +4,7 @@
   "title": "Deprecate Auto Location",
   "createdAt": "2021-01-23T08:41:00Z",
   "closedAt": "2021-02-26T18:58:22Z",
+  "merged": true,
   "mergedAt": "2021-02-26T18:58:22Z",
   "assignees": [
     {
@@ -32,7 +33,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1689,
+    "proposed": 1690,
     "exploring": null,
     "accepted": null,
     "release": null,

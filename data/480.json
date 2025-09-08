@@ -4,6 +4,7 @@
   "title": "Update Merged RFCs to point to tracking issues",
   "createdAt": "2019-04-19T18:57:41Z",
   "closedAt": "2019-04-19T19:14:40Z",
+  "merged": true,
   "mergedAt": "2019-04-19T19:14:40Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2334,
+    "proposed": 2335,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -4,6 +4,7 @@
   "title": "rfc-1068 - Update the collections to be under the /collections path",
   "createdAt": "2025-08-17T17:32:42Z",
   "closedAt": "2025-08-22T18:53:29Z",
+  "merged": true,
   "mergedAt": "2025-08-22T18:53:29Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 22,
+    "proposed": 23,
     "exploring": null,
     "accepted": null,
     "release": null,

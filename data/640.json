@@ -4,6 +4,7 @@
   "title": "fix example typo",
   "createdAt": "2020-06-18T16:51:13Z",
   "closedAt": "2020-06-19T17:59:34Z",
+  "merged": true,
   "mergedAt": "2020-06-19T17:59:34Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1908,
+    "proposed": 1909,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -4,6 +4,7 @@
   "title": "Deprecate Ember.merge",
   "createdAt": "2018-06-19T18:32:38Z",
   "closedAt": "2018-08-31T21:02:09Z",
+  "merged": true,
   "mergedAt": "2018-08-31T21:02:09Z",
   "assignees": [
     {
@@ -22,7 +23,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2638,
+    "proposed": 2639,
     "exploring": null,
     "accepted": null,
     "release": null,

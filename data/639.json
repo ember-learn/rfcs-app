@@ -4,6 +4,7 @@
   "title": "Replace terms blacklist & whitelist",
   "createdAt": "2020-06-15T11:17:47Z",
   "closedAt": "2020-07-24T19:51:12Z",
+  "merged": true,
   "mergedAt": "2020-07-24T19:51:12Z",
   "assignees": [
     {
@@ -11,12 +12,18 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/4587451?v=4"
     }
   ],
-  "timelineItems": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2020-07-17T19:05:08Z",
+      "label": "Final Comment Period"
+    }
+  ],
   "currentStage": "accepted",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1911,
+    "proposed": 1912,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -4,6 +4,7 @@
   "title": "RFC for Hook/Event for Transitioning During a Transition",
   "createdAt": "2016-03-16T18:35:24Z",
   "closedAt": "2016-09-16T23:19:42Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3463,
+    "proposed": 3464,
     "exploring": null,
     "accepted": null,
     "release": null,

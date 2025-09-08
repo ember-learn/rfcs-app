@@ -4,9 +4,16 @@
   "title": "Create Router Service",
   "createdAt": "2015-09-24T22:35:33Z",
   "closedAt": "2016-10-27T02:20:54Z",
+  "merged": true,
   "mergedAt": "2016-10-27T02:20:54Z",
   "assignees": [],
-  "timelineItems": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2016-09-30T20:04:43Z",
+      "label": "Final Comment Period"
+    }
+  ],
   "currentStage": "accepted",
   "labels": [],
   "fcp": false,

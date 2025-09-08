@@ -4,6 +4,7 @@
   "title": "The Road to Ember 2.0 RFC",
   "createdAt": "2014-11-03T17:03:17Z",
   "closedAt": "2015-06-07T18:47:10Z",
+  "merged": true,
   "mergedAt": "2015-06-07T18:47:10Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3962,
+    "proposed": 3963,
     "exploring": null,
     "accepted": null,
     "release": null,

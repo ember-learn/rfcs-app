@@ -4,6 +4,7 @@
   "title": "Update 0000-find-polymorphism.md",
   "createdAt": "2017-08-16T10:13:36Z",
   "closedAt": "2023-03-27T05:44:15Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
@@ -22,7 +23,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2945,
+    "proposed": 2946,
     "exploring": null,
     "accepted": null,
     "release": null,

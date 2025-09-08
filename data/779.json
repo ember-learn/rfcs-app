@@ -4,6 +4,7 @@
   "title": "First-Class Component Templates",
   "createdAt": "2021-12-03T17:54:56Z",
   "closedAt": "2022-03-04T19:10:36Z",
+  "merged": true,
   "mergedAt": "2022-03-04T19:10:35Z",
   "assignees": [
     {
@@ -15,12 +16,28 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
     }
   ],
-  "timelineItems": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-02-15T17:15:28Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-02-15T17:15:28Z",
+      "label": "T-templates"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-02-15T18:13:13Z",
+      "label": "Final Comment Period"
+    }
+  ],
   "currentStage": "released",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1375,
+    "proposed": 1376,
     "exploring": null,
     "accepted": 709,
     "release": 43,
@@ -33,6 +50,7 @@
       "title": "Advance RFC #0779 \"First-Class Component Templates\" to Stage Ready for Release",
       "createdAt": "2022-11-23T21:15:23Z",
       "closedAt": "2024-11-01T18:07:52Z",
+      "merged": true,
       "mergedAt": "2024-11-01T18:07:52Z",
       "assignees": [
         {
@@ -73,6 +91,7 @@
       "title": "Advance RFC #0779 `\"First-Class Component Templates\"` to Stage Released",
       "createdAt": "2024-11-01T18:08:44Z",
       "closedAt": "2024-12-13T19:17:26Z",
+      "merged": true,
       "mergedAt": "2024-12-13T19:17:26Z",
       "assignees": [],
       "timelineItems": [
@@ -94,6 +113,7 @@
       "title": "Advance RFC #0779 `\"First-Class Component Templates\"` to Stage Recommended",
       "createdAt": "2024-12-13T19:18:28Z",
       "closedAt": null,
+      "merged": false,
       "mergedAt": null,
       "assignees": [],
       "timelineItems": [

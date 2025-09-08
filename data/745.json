@@ -4,6 +4,7 @@
   "title": "rfc: ember-data | Modernize PromiseManyArray",
   "createdAt": "2021-05-06T00:45:45Z",
   "closedAt": "2022-08-05T22:13:06Z",
+  "merged": true,
   "mergedAt": "2022-08-05T22:13:06Z",
   "assignees": [
     {

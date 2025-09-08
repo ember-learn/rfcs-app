@@ -4,6 +4,7 @@
   "title": "[Ember Data] Improve findHasMany/findBelongsTo decision making",
   "createdAt": "2018-10-08T10:02:43Z",
   "closedAt": "2018-10-31T21:09:56Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
@@ -17,7 +18,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2527,
+    "proposed": 2528,
     "exploring": null,
     "accepted": null,
     "release": null,

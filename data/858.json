@@ -4,6 +4,7 @@
   "title": "Deprecate `ember-mocha`",
   "createdAt": "2022-11-08T19:27:18Z",
   "closedAt": "2023-03-10T19:53:37Z",
+  "merged": true,
   "mergedAt": "2023-03-10T19:53:37Z",
   "assignees": [
     {
@@ -36,14 +37,40 @@
       "event": "unlabeled",
       "createdAt": "2023-01-27T19:45:34Z",
       "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-27T19:45:34Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-27T19:45:34Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-01-27T19:46:32Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-03T19:05:17Z",
+      "label": "Final Comment Period"
     }
   ],
   "currentStage": "recommended",
-  "labels": [],
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-27T19:45:34Z",
+      "label": "S-Exploring"
+    }
+  ],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1035,
-    "exploring": null,
+    "proposed": 81,
+    "exploring": 43,
     "accepted": 182,
     "release": 8,
     "released": 28
@@ -55,6 +82,7 @@
       "title": "Advance RFC #0858 `\"Deprecate ember-mocha\"` to Stage Ready for Release",
       "createdAt": "2023-03-10T19:54:33Z",
       "closedAt": "2023-09-08T18:32:37Z",
+      "merged": true,
       "mergedAt": "2023-09-08T18:32:37Z",
       "assignees": [],
       "timelineItems": [
@@ -86,6 +114,7 @@
       "title": "Advance RFC #0858 `\"Deprecate ember-mocha\"` to Stage Released",
       "createdAt": "2023-09-08T18:33:29Z",
       "closedAt": "2023-09-15T19:08:43Z",
+      "merged": true,
       "mergedAt": "2023-09-15T19:08:43Z",
       "assignees": [],
       "timelineItems": [
@@ -107,6 +136,7 @@
       "title": "Advance RFC #0858 `\"Deprecate ember-mocha\"` to Stage Recommended",
       "createdAt": "2023-09-15T19:09:29Z",
       "closedAt": "2023-10-13T18:05:51Z",
+      "merged": true,
       "mergedAt": "2023-10-13T18:05:51Z",
       "assignees": [],
       "timelineItems": [

@@ -4,6 +4,7 @@
   "title": "Allow the `with` helper accept named arguments",
   "createdAt": "2017-01-17T12:53:47Z",
   "closedAt": "2020-11-03T18:44:05Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [
     {
@@ -27,7 +28,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3156,
+    "proposed": 3157,
     "exploring": null,
     "accepted": null,
     "release": null,

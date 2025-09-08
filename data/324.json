@@ -4,6 +4,7 @@
   "title": "Deprecate Component#isVisible",
   "createdAt": "2018-04-03T09:19:11Z",
   "closedAt": "2018-06-22T18:59:02Z",
+  "merged": true,
   "mergedAt": "2018-06-22T18:59:02Z",
   "assignees": [
     {
@@ -22,7 +23,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2715,
+    "proposed": 2716,
     "exploring": null,
     "accepted": null,
     "release": null,

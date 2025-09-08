@@ -4,6 +4,7 @@
   "title": "Instrumentation using Debug-Render-Tree",
   "createdAt": "2021-12-03T09:02:42Z",
   "closedAt": "2022-08-24T06:09:11Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1375,
+    "proposed": 1376,
     "exploring": null,
     "accepted": null,
     "release": null,

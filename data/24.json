@@ -4,6 +4,7 @@
   "title": "HTMLBars Bound Attributes",
   "createdAt": "2014-11-27T15:10:19Z",
   "closedAt": "2015-05-07T00:14:16Z",
+  "merged": true,
   "mergedAt": "2015-05-07T00:14:16Z",
   "assignees": [
     {
@@ -16,7 +17,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3938,
+    "proposed": 3939,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -4,13 +4,14 @@
   "title": "Add base model",
   "createdAt": "2016-07-26T20:23:01Z",
   "closedAt": "2019-06-05T21:19:38Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
     {
       "event": "labeled",
       "createdAt": "2016-07-26T20:23:01Z",
-      "label": "ember-data"
+      "label": "T-ember-data"
     },
     {
       "event": "labeled",

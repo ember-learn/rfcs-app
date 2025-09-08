@@ -4,6 +4,7 @@
   "title": "RFC: Evolving Ember's Major Version Process",
   "createdAt": "2022-07-12T14:47:21Z",
   "closedAt": "2022-09-06T20:32:52Z",
+  "merged": true,
   "mergedAt": "2022-09-06T20:32:52Z",
   "assignees": [
     {
@@ -30,17 +31,22 @@
       "event": "labeled",
       "createdAt": "2022-07-12T14:48:37Z",
       "label": "T-steering"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-08-22T17:16:25Z",
+      "label": "Final Comment Period"
     }
   ],
   "currentStage": "released",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1154,
+    "proposed": 1155,
     "exploring": null,
     "accepted": 737,
     "release": 1,
-    "released": 276
+    "released": 277
   },
   "connected": [
     {
@@ -49,6 +55,7 @@
       "title": "Advance RFC #0830 \"Evolving Ember's Major Version Process\" to Stage Ready for Release",
       "createdAt": "2022-12-01T15:03:26Z",
       "closedAt": "2024-12-06T19:06:27Z",
+      "merged": true,
       "mergedAt": "2024-12-06T19:06:27Z",
       "assignees": [
         {
@@ -84,6 +91,7 @@
       "title": "Advance RFC #0830 `\"Evolving Ember's Major Version Process\"` to Stage Released",
       "createdAt": "2024-12-06T19:07:24Z",
       "closedAt": "2024-12-06T19:16:14Z",
+      "merged": true,
       "mergedAt": "2024-12-06T19:16:14Z",
       "assignees": [],
       "timelineItems": [
@@ -105,6 +113,7 @@
       "title": "Advance RFC #0830 `\"Evolving Ember's Major Version Process\"` to Stage Recommended",
       "createdAt": "2024-12-06T19:17:17Z",
       "closedAt": null,
+      "merged": false,
       "mergedAt": null,
       "assignees": [],
       "timelineItems": [

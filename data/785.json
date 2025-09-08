@@ -4,6 +4,7 @@
   "title": " Introduce new test helpers for rendering (and re-rendering) that obviate the need for `get` and `set`",
   "createdAt": "2022-01-07T19:42:46Z",
   "closedAt": "2022-04-15T18:24:23Z",
+  "merged": true,
   "mergedAt": "2022-04-15T18:24:23Z",
   "assignees": [
     {
@@ -26,6 +27,16 @@
       "event": "labeled",
       "createdAt": "2022-02-15T17:13:42Z",
       "label": "T-testing"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-04-08T18:09:36Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-04-08T18:09:51Z",
+      "label": "T-TypeScript"
     }
   ],
   "currentStage": "accepted",
@@ -45,6 +56,7 @@
       "title": "Advance RFC #0785 `\"Introduce new test helpers for rendering (and re-rendering) that obviate the need for get and set\"` to Stage Recommended",
       "createdAt": "2023-11-29T19:55:37Z",
       "closedAt": null,
+      "merged": false,
       "mergedAt": null,
       "assignees": [],
       "timelineItems": [

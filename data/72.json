@@ -4,6 +4,7 @@
   "title": "Named yields for components",
   "createdAt": "2015-07-04T10:17:36Z",
   "closedAt": "2017-07-30T14:43:30Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3719,
+    "proposed": 3720,
     "exploring": null,
     "accepted": null,
     "release": null,

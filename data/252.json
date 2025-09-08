@@ -4,14 +4,21 @@
   "title": "Browser Support Changes",
   "createdAt": "2017-09-25T15:45:17Z",
   "closedAt": "2017-10-13T18:41:35Z",
+  "merged": true,
   "mergedAt": "2017-10-13T18:41:35Z",
   "assignees": [],
-  "timelineItems": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-10-01T15:41:35Z",
+      "label": "Final Comment Period"
+    }
+  ],
   "currentStage": "accepted",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2905,
+    "proposed": 2906,
     "exploring": null,
     "accepted": null,
     "release": null,

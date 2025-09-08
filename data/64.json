@@ -4,6 +4,7 @@
   "title": "Contextual components RFC",
   "createdAt": "2015-06-12T18:48:54Z",
   "closedAt": "2015-08-26T02:42:58Z",
+  "merged": true,
   "mergedAt": "2015-08-26T02:42:58Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3741,
+    "proposed": 3742,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -4,6 +4,7 @@
   "title": "Bugfix - date format on RFC 831",
   "createdAt": "2023-09-18T14:25:07Z",
   "closedAt": "2023-09-18T14:54:53Z",
+  "merged": true,
   "mergedAt": "2023-09-18T14:54:53Z",
   "assignees": [],
   "timelineItems": [
@@ -17,7 +18,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 721,
+    "proposed": 722,
     "exploring": null,
     "accepted": null,
     "release": null,

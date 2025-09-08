@@ -4,6 +4,7 @@
   "title": "Deprecate non-colocated components.",
   "createdAt": "2023-12-15T19:38:46Z",
   "closedAt": "2024-03-08T20:05:24Z",
+  "merged": true,
   "mergedAt": "2024-03-08T20:05:24Z",
   "assignees": [
     {
@@ -60,6 +61,7 @@
       "title": "Advance RFC #0995 `\"Deprecate non-co-located components.\"` to Stage Ready for Release",
       "createdAt": "2024-03-08T20:06:04Z",
       "closedAt": "2024-05-03T18:04:54Z",
+      "merged": true,
       "mergedAt": "2024-05-03T18:04:54Z",
       "assignees": [],
       "timelineItems": [
@@ -86,6 +88,7 @@
       "title": "Advance RFC #0995 `\"Deprecate non-co-located components.\"` to Stage Released",
       "createdAt": "2024-05-03T18:05:43Z",
       "closedAt": "2024-07-12T18:19:47Z",
+      "merged": true,
       "mergedAt": "2024-07-12T18:19:47Z",
       "assignees": [],
       "timelineItems": [
@@ -107,6 +110,7 @@
       "title": "Advance RFC #0995 `\"Deprecate non-co-located components.\"` to Stage Recommended",
       "createdAt": "2024-07-12T18:20:28Z",
       "closedAt": "2024-10-25T18:04:41Z",
+      "merged": true,
       "mergedAt": "2024-10-25T18:04:41Z",
       "assignees": [],
       "timelineItems": [

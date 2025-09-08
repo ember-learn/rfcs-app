@@ -4,6 +4,7 @@
   "title": "Fix is-active helper example in router-service",
   "createdAt": "2018-01-16T08:48:01Z",
   "closedAt": "2018-01-16T13:23:35Z",
+  "merged": true,
   "mergedAt": "2018-01-16T13:23:35Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2792,
+    "proposed": 2793,
     "exploring": null,
     "accepted": null,
     "release": null,

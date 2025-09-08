@@ -4,6 +4,7 @@
   "title": "invokeHelper argument-based thunks",
   "createdAt": "2021-08-11T15:59:12Z",
   "closedAt": "2021-10-22T19:55:11Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
@@ -17,7 +18,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1489,
+    "proposed": 1490,
     "exploring": null,
     "accepted": null,
     "release": null,

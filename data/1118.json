@@ -4,6 +4,7 @@
   "title": "Make @service able to be used in templates",
   "createdAt": "2025-06-23T19:18:29Z",
   "closedAt": null,
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
@@ -34,7 +35,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 18,
-    "exploring": 59,
+    "exploring": 60,
     "accepted": null,
     "release": null,
     "released": null

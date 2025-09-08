@@ -4,6 +4,7 @@
   "title": "RFC: Optional Segments in Routing",
   "createdAt": "2015-02-24T01:39:22Z",
   "closedAt": "2022-07-23T18:08:39Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
@@ -16,6 +17,16 @@
       "event": "labeled",
       "createdAt": "2015-04-13T20:16:54Z",
       "label": "Needs Champion"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2015-04-13T20:16:54Z",
+      "label": "Needs Response"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2020-11-03T19:10:34Z",
+      "label": "T-routing"
     }
   ],
   "currentStage": "proposed",

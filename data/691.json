@@ -4,6 +4,7 @@
   "title": "Deprecate passing `classBinding` and `classNameBindings` as arguments",
   "createdAt": "2020-12-23T16:12:37Z",
   "closedAt": "2021-01-15T19:13:55Z",
+  "merged": true,
   "mergedAt": "2021-01-15T19:13:55Z",
   "assignees": [],
   "timelineItems": [
@@ -17,7 +18,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1720,
+    "proposed": 1721,
     "exploring": null,
     "accepted": null,
     "release": null,

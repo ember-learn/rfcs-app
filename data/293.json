@@ -4,6 +4,7 @@
   "title": "Ember Data Record Data RFC",
   "createdAt": "2018-01-10T10:47:04Z",
   "closedAt": "2018-08-28T17:33:12Z",
+  "merged": true,
   "mergedAt": "2018-08-28T17:33:12Z",
   "assignees": [
     {
@@ -21,13 +22,23 @@
       "event": "labeled",
       "createdAt": "2018-02-08T03:00:31Z",
       "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2018-06-20T21:33:06Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-06-20T21:34:34Z",
+      "label": "Final Comment Period"
     }
   ],
   "currentStage": "accepted",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2798,
+    "proposed": 2799,
     "exploring": null,
     "accepted": null,
     "release": null,

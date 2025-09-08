@@ -4,6 +4,7 @@
   "title": "Amend browser support policy for Safari",
   "createdAt": "2023-11-02T19:39:32Z",
   "closedAt": "2024-02-07T15:16:23Z",
+  "merged": true,
   "mergedAt": "2024-02-07T15:16:23Z",
   "assignees": [],
   "timelineItems": [
@@ -51,6 +52,7 @@
       "title": "Advance RFC #0984 `\"Treat Safari as an Evergreen Browser\"` to Stage Ready for Release",
       "createdAt": "2024-02-07T15:17:13Z",
       "closedAt": "2024-04-26T18:11:44Z",
+      "merged": true,
       "mergedAt": "2024-04-26T18:11:44Z",
       "assignees": [],
       "timelineItems": [
@@ -77,6 +79,7 @@
       "title": "Advance RFC #0984 `\"Treat Safari as an Evergreen Browser\"` to Stage Released",
       "createdAt": "2024-04-26T18:12:30Z",
       "closedAt": "2024-05-10T18:40:20Z",
+      "merged": true,
       "mergedAt": "2024-05-10T18:40:20Z",
       "assignees": [],
       "timelineItems": [
@@ -98,6 +101,7 @@
       "title": "Advance RFC #0984 `\"Treat Safari as an Evergreen Browser\"` to Stage Recommended",
       "createdAt": "2024-05-10T18:41:02Z",
       "closedAt": "2024-05-17T18:09:53Z",
+      "merged": true,
       "mergedAt": "2024-05-17T18:09:53Z",
       "assignees": [],
       "timelineItems": [

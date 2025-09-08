@@ -4,6 +4,7 @@
   "title": "Splitting Ember into packages",
   "createdAt": "2017-12-13T18:39:23Z",
   "closedAt": "2022-12-07T18:56:00Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [
     {
@@ -11,12 +12,33 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/319282?v=4"
     }
   ],
-  "timelineItems": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-01-19T19:40:26Z",
+      "label": "T-infrastructure"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-01-24T02:09:36Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2018-03-09T22:16:32Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:35:48Z",
+      "label": "S-Proposed"
+    }
+  ],
   "currentStage": "proposed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2826,
+    "proposed": 2827,
     "exploring": null,
     "accepted": null,
     "release": null,

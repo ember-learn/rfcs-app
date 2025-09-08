@@ -4,6 +4,7 @@
   "title": "Deprecate Computed",
   "createdAt": "2025-08-12T17:21:20Z",
   "closedAt": null,
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
@@ -34,7 +35,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 4,
-    "exploring": 24,
+    "exploring": 25,
     "accepted": null,
     "release": null,
     "released": null

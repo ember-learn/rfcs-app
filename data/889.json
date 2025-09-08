@@ -4,6 +4,7 @@
   "title": "Deprecate @ember/error",
   "createdAt": "2022-12-15T23:40:58Z",
   "closedAt": "2022-12-29T18:41:59Z",
+  "merged": true,
   "mergedAt": "2022-12-29T18:41:59Z",
   "assignees": [],
   "timelineItems": [
@@ -51,6 +52,7 @@
       "title": "Advance RFC #0889 to Stage Ready for Release",
       "createdAt": "2022-12-29T18:42:55Z",
       "closedAt": "2023-01-10T19:08:35Z",
+      "merged": true,
       "mergedAt": "2023-01-10T19:08:35Z",
       "assignees": [],
       "timelineItems": [
@@ -77,6 +79,7 @@
       "title": "Advance RFC #0889 to Stage Released",
       "createdAt": "2023-01-10T19:09:48Z",
       "closedAt": "2023-01-14T00:17:16Z",
+      "merged": true,
       "mergedAt": "2023-01-14T00:17:16Z",
       "assignees": [],
       "timelineItems": [
@@ -98,6 +101,7 @@
       "title": "Advance RFC #0889 \"Deprecate @ember/error\" to Stage Recommended",
       "createdAt": "2023-01-14T00:18:12Z",
       "closedAt": "2023-03-03T19:20:01Z",
+      "merged": true,
       "mergedAt": "2023-03-03T19:20:01Z",
       "assignees": [],
       "timelineItems": [

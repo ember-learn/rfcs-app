@@ -4,6 +4,7 @@
   "title": "ES Classes",
   "createdAt": "2017-07-29T04:54:54Z",
   "closedAt": "2017-08-25T19:11:05Z",
+  "merged": true,
   "mergedAt": "2017-08-25T19:11:05Z",
   "assignees": [
     {
@@ -11,7 +12,18 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
     }
   ],
-  "timelineItems": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-08-01T03:14:56Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2017-08-11T21:58:03Z",
+      "label": "Final Comment Period"
+    }
+  ],
   "currentStage": "accepted",
   "labels": [],
   "fcp": false,

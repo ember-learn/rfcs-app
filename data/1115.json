@@ -4,6 +4,7 @@
   "title": "Deprecate Observers",
   "createdAt": "2025-06-16T17:34:17Z",
   "closedAt": null,
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
@@ -34,7 +35,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 5,
-    "exploring": 80,
+    "exploring": 81,
     "accepted": null,
     "release": null,
     "released": null

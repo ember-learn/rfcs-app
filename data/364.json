@@ -4,6 +4,7 @@
   "title": "RFC: Ember 2018 Roadmap",
   "createdAt": "2018-08-24T17:00:06Z",
   "closedAt": "2018-11-01T23:18:55Z",
+  "merged": true,
   "mergedAt": "2018-11-01T23:18:55Z",
   "assignees": [
     {
@@ -22,7 +23,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2572,
+    "proposed": 2573,
     "exploring": null,
     "accepted": null,
     "release": null,

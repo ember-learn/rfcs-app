@@ -4,6 +4,7 @@
   "title": "Update RFC section on inter-package dependencies",
   "createdAt": "2020-07-08T09:41:10Z",
   "closedAt": "2020-07-20T16:31:36Z",
+  "merged": true,
   "mergedAt": "2020-07-20T16:31:36Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1888,
+    "proposed": 1889,
     "exploring": null,
     "accepted": null,
     "release": null,

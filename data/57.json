@@ -4,9 +4,16 @@
   "title": "RFC for reference unification",
   "createdAt": "2015-05-23T01:10:45Z",
   "closedAt": "2016-01-11T18:22:49Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
-  "timelineItems": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2016-01-25T19:09:33Z",
+      "label": "T-ember-data"
+    }
+  ],
   "currentStage": "proposed",
   "labels": [],
   "fcp": false,

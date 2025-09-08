@@ -4,6 +4,7 @@
   "title": "Fix order of items in RFC 0821",
   "createdAt": "2022-11-09T00:31:06Z",
   "closedAt": "2022-11-09T00:33:43Z",
+  "merged": true,
   "mergedAt": "2022-11-09T00:33:43Z",
   "assignees": [],
   "timelineItems": [],

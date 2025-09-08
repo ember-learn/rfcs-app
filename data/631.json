@@ -4,6 +4,7 @@
   "title": "add refresh method to router service",
   "createdAt": "2020-05-23T17:49:14Z",
   "closedAt": "2020-10-09T13:46:18Z",
+  "merged": true,
   "mergedAt": "2020-10-09T13:46:18Z",
   "assignees": [
     {
@@ -22,7 +23,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1934,
+    "proposed": 1935,
     "exploring": null,
     "accepted": 144,
     "release": null,
@@ -35,6 +36,7 @@
       "title": "Advance RFC #0631 `\"RouterService#refresh\"` to Stage Recommended",
       "createdAt": "2023-03-13T21:12:14Z",
       "closedAt": "2023-08-04T14:31:59Z",
+      "merged": true,
       "mergedAt": "2023-08-04T14:31:59Z",
       "assignees": [],
       "timelineItems": [

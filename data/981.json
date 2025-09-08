@@ -4,6 +4,7 @@
   "title": "Update runtime details for #931",
   "createdAt": "2023-10-24T17:28:28Z",
   "closedAt": "2023-10-27T18:42:57Z",
+  "merged": true,
   "mergedAt": "2023-10-27T18:42:57Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 685,
+    "proposed": 686,
     "exploring": null,
     "accepted": null,
     "release": null,

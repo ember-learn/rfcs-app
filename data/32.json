@@ -4,13 +4,14 @@
   "title": "Ember-Data and non-CRUD endpoints",
   "createdAt": "2015-02-05T03:33:27Z",
   "closedAt": "2016-04-15T14:48:49Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
     {
       "event": "labeled",
       "createdAt": "2015-02-05T08:12:40Z",
-      "label": "ember-data"
+      "label": "T-ember-data"
     },
     {
       "event": "labeled",

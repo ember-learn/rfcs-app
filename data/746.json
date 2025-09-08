@@ -4,6 +4,7 @@
   "title": "Enable Embroider",
   "createdAt": "2021-05-07T19:21:01Z",
   "closedAt": "2024-12-13T19:39:16Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [
     {
@@ -34,7 +35,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 573,
-    "exploring": 1012,
+    "exploring": 1013,
     "accepted": null,
     "release": null,
     "released": null

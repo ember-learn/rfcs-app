@@ -4,6 +4,7 @@
   "title": "Improve CPs ergonomics by changing caching strategy",
   "createdAt": "2015-07-31T08:57:09Z",
   "closedAt": "2020-05-22T19:27:56Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
@@ -17,7 +18,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3692,
+    "proposed": 3693,
     "exploring": null,
     "accepted": null,
     "release": null,

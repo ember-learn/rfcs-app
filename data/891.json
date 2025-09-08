@@ -4,6 +4,7 @@
   "title": "@ember/string deprecation RFC should not be recommended",
   "createdAt": "2023-01-03T22:55:59Z",
   "closedAt": "2023-01-03T22:57:10Z",
+  "merged": true,
   "mergedAt": "2023-01-03T22:57:10Z",
   "assignees": [],
   "timelineItems": [],

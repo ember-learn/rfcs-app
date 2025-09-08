@@ -4,9 +4,16 @@
   "title": "Discord",
   "createdAt": "2018-07-11T20:54:20Z",
   "closedAt": "2018-08-28T23:26:02Z",
+  "merged": true,
   "mergedAt": "2018-08-28T23:26:02Z",
   "assignees": [],
-  "timelineItems": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-08-11T12:34:52Z",
+      "label": "Final Comment Period"
+    }
+  ],
   "currentStage": "accepted",
   "labels": [],
   "fcp": false,

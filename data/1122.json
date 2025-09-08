@@ -4,6 +4,7 @@
   "title": "Resources",
   "createdAt": "2025-07-11T17:55:06Z",
   "closedAt": null,
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
@@ -17,7 +18,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 59,
+    "proposed": 60,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -4,6 +4,7 @@
   "title": "RFC to deprecate `resetNamespace`",
   "createdAt": "2017-04-18T13:37:26Z",
   "closedAt": "2018-01-22T15:29:56Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
@@ -22,7 +23,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3065,
+    "proposed": 3066,
     "exploring": null,
     "accepted": null,
     "release": null,

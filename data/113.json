@@ -4,6 +4,7 @@
   "title": "Expose query param defaults",
   "createdAt": "2016-01-27T14:37:21Z",
   "closedAt": "2022-12-16T19:36:00Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
@@ -27,7 +28,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3512,
+    "proposed": 3513,
     "exploring": null,
     "accepted": null,
     "release": null,

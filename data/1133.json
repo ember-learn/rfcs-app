@@ -4,6 +4,7 @@
   "title": "Introduce Template-only Class Components",
   "createdAt": "2025-08-14T16:37:26Z",
   "closedAt": null,
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
@@ -17,7 +18,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 25,
+    "proposed": 26,
     "exploring": null,
     "accepted": null,
     "release": null,

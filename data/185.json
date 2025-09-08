@@ -4,9 +4,16 @@
   "title": "RFC: POST to Fastboot",
   "createdAt": "2016-12-05T00:02:22Z",
   "closedAt": "2019-01-18T18:36:28Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
-  "timelineItems": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-08-01T03:33:01Z",
+      "label": "T-fastboot"
+    }
+  ],
   "currentStage": "proposed",
   "labels": [],
   "fcp": false,

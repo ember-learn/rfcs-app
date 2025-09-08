@@ -4,6 +4,7 @@
   "title": "Add `tracked-built-ins` dependency",
   "createdAt": "2022-03-29T20:53:51Z",
   "closedAt": "2022-12-13T00:39:00Z",
+  "merged": true,
   "mergedAt": "2022-12-13T00:39:00Z",
   "assignees": [
     {
@@ -73,6 +74,7 @@
       "title": "Advance RFC #0812 \"Add tracked-built-ins dependency\" to Stage Ready for Release",
       "createdAt": "2022-12-13T00:40:00Z",
       "closedAt": "2023-07-07T18:13:22Z",
+      "merged": true,
       "mergedAt": "2023-07-07T18:13:21Z",
       "assignees": [],
       "timelineItems": [
@@ -99,6 +101,7 @@
       "title": "Advance RFC #0812 `\"Add tracked-built-ins\"` to Stage Released",
       "createdAt": "2023-07-07T18:14:17Z",
       "closedAt": "2023-08-04T15:08:37Z",
+      "merged": true,
       "mergedAt": "2023-08-04T15:08:37Z",
       "assignees": [
         {
@@ -125,6 +128,7 @@
       "title": "Advance RFC #0812 `\"Add tracked-built-ins\"` to Stage Recommended",
       "createdAt": "2023-08-04T15:09:32Z",
       "closedAt": "2024-09-27T18:10:39Z",
+      "merged": true,
       "mergedAt": "2024-09-27T18:10:39Z",
       "assignees": [
         {

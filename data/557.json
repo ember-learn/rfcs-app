@@ -4,6 +4,7 @@
   "title": "Deprecate implicit record loading in routes",
   "createdAt": "2019-11-27T14:51:04Z",
   "closedAt": "2022-07-24T00:16:41Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [
     {
@@ -22,7 +23,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2112,
+    "proposed": 2113,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -4,6 +4,7 @@
   "title": "Deprecate Fallback Lookup Paths in ember-resolver",
   "createdAt": "2020-11-23T21:38:44Z",
   "closedAt": null,
+  "merged": false,
   "mergedAt": null,
   "assignees": [
     {

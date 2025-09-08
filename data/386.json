@@ -4,6 +4,7 @@
   "title": "Remove jQuery by default",
   "createdAt": "2018-10-07T13:27:28Z",
   "closedAt": "2019-01-11T20:53:14Z",
+  "merged": true,
   "mergedAt": "2019-01-11T20:53:14Z",
   "assignees": [
     {
@@ -27,7 +28,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2528,
+    "proposed": 2529,
     "exploring": null,
     "accepted": null,
     "release": null,

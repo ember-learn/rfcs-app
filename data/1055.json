@@ -4,6 +4,7 @@
   "title": "Vanilla Prettier Setup in Blueprints",
   "createdAt": "2024-12-03T15:56:57Z",
   "closedAt": "2024-12-20T19:12:57Z",
+  "merged": true,
   "mergedAt": "2024-12-20T19:12:57Z",
   "assignees": [
     {
@@ -65,6 +66,7 @@
       "title": "Advance RFC #1055 `\"Vanilla Prettier Setup in Blueprints\"` to Stage Ready for Release",
       "createdAt": "2024-12-20T19:13:40Z",
       "closedAt": "2025-01-24T19:12:35Z",
+      "merged": true,
       "mergedAt": "2025-01-24T19:12:35Z",
       "assignees": [
         {
@@ -96,6 +98,7 @@
       "title": "Advance RFC #1055 `\"Vanilla Prettier Setup in Blueprints\"` to Stage Released",
       "createdAt": "2025-01-24T19:13:22Z",
       "closedAt": "2025-04-04T18:43:34Z",
+      "merged": true,
       "mergedAt": "2025-04-04T18:43:34Z",
       "assignees": [],
       "timelineItems": [
@@ -117,6 +120,7 @@
       "title": "Advance RFC #1055 `\"Vanilla Prettier Setup in Blueprints\"` to Stage Recommended",
       "createdAt": "2025-04-04T18:44:15Z",
       "closedAt": "2025-05-23T18:34:19Z",
+      "merged": true,
       "mergedAt": "2025-05-23T18:34:19Z",
       "assignees": [],
       "timelineItems": [

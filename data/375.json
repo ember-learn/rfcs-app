@@ -4,6 +4,7 @@
   "title": "Deprecate Computed `.property()` Modifier",
   "createdAt": "2018-09-14T17:49:00Z",
   "closedAt": "2018-10-26T15:38:47Z",
+  "merged": true,
   "mergedAt": "2018-10-26T15:38:46Z",
   "assignees": [
     {
@@ -27,7 +28,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2551,
+    "proposed": 2552,
     "exploring": null,
     "accepted": null,
     "release": null,

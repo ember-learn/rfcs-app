@@ -4,20 +4,21 @@
   "title": "buildQuery RFC",
   "createdAt": "2016-04-15T17:32:33Z",
   "closedAt": "2018-11-13T16:05:09Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
     {
       "event": "labeled",
       "createdAt": "2016-04-15T17:41:15Z",
-      "label": "ember-data"
+      "label": "T-ember-data"
     }
   ],
   "currentStage": "proposed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3433,
+    "proposed": 3434,
     "exploring": null,
     "accepted": null,
     "release": null,

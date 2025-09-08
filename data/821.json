@@ -4,6 +4,7 @@
   "title": "RFC: public types for Owner, Transition, RouteInfo",
   "createdAt": "2022-05-24T03:02:48Z",
   "closedAt": "2022-07-29T18:14:54Z",
+  "merged": true,
   "mergedAt": "2022-07-29T18:14:54Z",
   "assignees": [
     {
@@ -54,6 +55,7 @@
       "title": "Advance RFC #0821 to Stage Ready for Release",
       "createdAt": "2022-11-29T01:43:49Z",
       "closedAt": "2022-12-13T00:35:30Z",
+      "merged": true,
       "mergedAt": "2022-12-13T00:35:30Z",
       "assignees": [
         {
@@ -85,6 +87,7 @@
       "title": "Advance RFC #0821 to Stage Released",
       "createdAt": "2022-12-13T00:36:25Z",
       "closedAt": "2023-01-06T20:21:40Z",
+      "merged": true,
       "mergedAt": "2023-01-06T20:21:40Z",
       "assignees": [],
       "timelineItems": [
@@ -106,6 +109,7 @@
       "title": "Advance RFC #0821 \"RFC: public types for Owner, Transition, RouteInfo\" to Stage Recommended",
       "createdAt": "2023-01-06T20:22:40Z",
       "closedAt": "2023-03-03T19:17:15Z",
+      "merged": true,
       "mergedAt": "2023-03-03T19:17:15Z",
       "assignees": [
         {

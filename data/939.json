@@ -4,6 +4,7 @@
   "title": "Introduce import.meta.glob",
   "createdAt": "2023-07-26T23:03:04Z",
   "closedAt": "2023-11-10T15:10:13Z",
+  "merged": true,
   "mergedAt": "2023-11-10T15:10:12Z",
   "assignees": [
     {
@@ -45,7 +46,7 @@
   "stageDuration": {
     "proposed": 9,
     "exploring": 99,
-    "accepted": 668,
+    "accepted": 669,
     "release": null,
     "released": null
   },
@@ -56,6 +57,7 @@
       "title": "Advance RFC #0939 `\"Introduce a Wildcard Module Import API\"` to Stage Ready for Release",
       "createdAt": "2023-11-10T15:11:09Z",
       "closedAt": null,
+      "merged": false,
       "mergedAt": null,
       "assignees": [
         {

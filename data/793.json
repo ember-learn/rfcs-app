@@ -4,6 +4,7 @@
   "title": "EmberData | Polymorphic Relationship Support",
   "createdAt": "2022-02-11T12:13:08Z",
   "closedAt": "2022-07-24T00:22:02Z",
+  "merged": true,
   "mergedAt": "2022-07-24T00:22:02Z",
   "assignees": [
     {
@@ -27,7 +28,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1305,
+    "proposed": 1306,
     "exploring": null,
     "accepted": null,
     "release": null,

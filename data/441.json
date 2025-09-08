@@ -4,6 +4,7 @@
   "title": "Deprecate `computed().meta()`",
   "createdAt": "2019-02-07T16:59:16Z",
   "closedAt": "2022-07-29T23:13:02Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [
     {
@@ -22,7 +23,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2405,
+    "proposed": 2406,
     "exploring": null,
     "accepted": null,
     "release": null,

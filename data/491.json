@@ -4,6 +4,7 @@
   "title": "Deprecate disconnectOutlet",
   "createdAt": "2019-05-20T13:54:26Z",
   "closedAt": "2019-06-03T14:40:51Z",
+  "merged": true,
   "mergedAt": "2019-06-03T14:40:51Z",
   "assignees": [],
   "timelineItems": [
@@ -17,7 +18,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2303,
+    "proposed": 2304,
     "exploring": null,
     "accepted": null,
     "release": null,

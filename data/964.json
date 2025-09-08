@@ -4,6 +4,7 @@
   "title": "EmberData | deprecate legacy finder support",
   "createdAt": "2023-09-19T05:14:28Z",
   "closedAt": "2025-03-28T18:13:52Z",
+  "merged": true,
   "mergedAt": "2025-03-28T18:13:52Z",
   "assignees": [
     {
@@ -65,7 +66,7 @@
   "stageDuration": {
     "proposed": 4,
     "exploring": 553,
-    "accepted": 164,
+    "accepted": 165,
     "release": null,
     "released": null
   },
@@ -76,6 +77,7 @@
       "title": "Advance RFC #0964 `\"EmberData | Deprecate Legacy Request Support\"` to Stage Ready for Release",
       "createdAt": "2025-03-28T18:14:38Z",
       "closedAt": null,
+      "merged": false,
       "mergedAt": null,
       "assignees": [
         {

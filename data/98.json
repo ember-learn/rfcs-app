@@ -4,6 +4,7 @@
   "title": "Service methods and method injection",
   "createdAt": "2015-10-08T15:56:20Z",
   "closedAt": "2017-07-25T02:06:06Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3623,
+    "proposed": 3624,
     "exploring": null,
     "accepted": null,
     "release": null,

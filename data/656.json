@@ -4,14 +4,26 @@
   "title": "@cacheFor decorator to read last-cached value on a @cached decorator - RFC",
   "createdAt": "2020-08-18T17:43:03Z",
   "closedAt": "2025-06-20T18:54:48Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
-  "timelineItems": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:34:24Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-20T18:50:47Z",
+      "label": "FCP to close"
+    }
+  ],
   "currentStage": "proposed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1847,
+    "proposed": 1848,
     "exploring": null,
     "accepted": null,
     "release": null,

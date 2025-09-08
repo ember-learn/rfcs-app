@@ -4,6 +4,7 @@
   "title": "RFC Stages",
   "createdAt": "2020-04-22T17:49:02Z",
   "closedAt": "2020-09-18T19:08:36Z",
+  "merged": true,
   "mergedAt": "2020-09-18T19:08:36Z",
   "assignees": [
     {
@@ -22,7 +23,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1965,
+    "proposed": 1966,
     "exploring": null,
     "accepted": 111,
     "release": 1,
@@ -35,6 +36,7 @@
       "title": "Advance RFC #0617 to Stage Ready for Release",
       "createdAt": "2022-08-03T21:29:11Z",
       "closedAt": "2022-11-22T19:24:27Z",
+      "merged": true,
       "mergedAt": "2022-11-22T19:24:27Z",
       "assignees": [],
       "timelineItems": [
@@ -56,6 +58,7 @@
       "title": "Advance RFC #0617 to Stage Released",
       "createdAt": "2022-11-22T19:25:18Z",
       "closedAt": "2022-11-22T19:47:10Z",
+      "merged": true,
       "mergedAt": "2022-11-22T19:47:10Z",
       "assignees": [],
       "timelineItems": [
@@ -77,6 +80,7 @@
       "title": "Advance RFC #0617 \"RFC Stages\" to Stage Recommended",
       "createdAt": "2022-11-22T19:47:54Z",
       "closedAt": null,
+      "merged": false,
       "mergedAt": null,
       "assignees": [
         {

@@ -4,6 +4,7 @@
   "title": "Ember.String deprecation RFC",
   "createdAt": "2017-07-19T21:07:40Z",
   "closedAt": "2017-09-26T08:21:15Z",
+  "merged": true,
   "mergedAt": "2017-09-26T08:21:15Z",
   "assignees": [
     {
@@ -15,7 +16,7 @@
     {
       "event": "labeled",
       "createdAt": "2017-08-01T03:14:55Z",
-      "label": "core"
+      "label": "T-framework"
     },
     {
       "event": "labeled",
@@ -45,6 +46,7 @@
       "title": "Advance RFC #0236 to Stage Ready for Release",
       "createdAt": "2023-01-03T22:57:58Z",
       "closedAt": "2023-01-13T19:31:42Z",
+      "merged": true,
       "mergedAt": "2023-01-13T19:31:42Z",
       "assignees": [
         {
@@ -76,6 +78,7 @@
       "title": "Advance RFC #0236 to Stage Released",
       "createdAt": "2023-01-13T19:32:41Z",
       "closedAt": "2023-01-14T00:01:54Z",
+      "merged": true,
       "mergedAt": "2023-01-14T00:01:54Z",
       "assignees": [],
       "timelineItems": [
@@ -97,6 +100,7 @@
       "title": "Advance RFC #0236 \"Ember.String deprecation RFC\" to Stage Recommended",
       "createdAt": "2023-01-14T00:02:40Z",
       "closedAt": "2023-04-07T18:40:49Z",
+      "merged": true,
       "mergedAt": "2023-04-07T18:40:49Z",
       "assignees": [],
       "timelineItems": [

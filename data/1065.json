@@ -4,6 +4,7 @@
   "title": "Deprecate ember-fetch",
   "createdAt": "2025-01-11T01:39:34Z",
   "closedAt": "2025-02-28T20:00:28Z",
+  "merged": true,
   "mergedAt": "2025-02-28T20:00:28Z",
   "assignees": [],
   "timelineItems": [
@@ -42,7 +43,7 @@
     "exploring": 42,
     "accepted": 70,
     "release": 49,
-    "released": 59
+    "released": 60
   },
   "connected": [
     {
@@ -51,6 +52,7 @@
       "title": "Advance RFC #1065 `\"Deprecate and Remove ember-fetch\"` to Stage Ready for Release",
       "createdAt": "2025-03-14T18:46:08Z",
       "closedAt": "2025-05-23T18:27:36Z",
+      "merged": true,
       "mergedAt": "2025-05-23T18:27:36Z",
       "assignees": [],
       "timelineItems": [
@@ -77,6 +79,7 @@
       "title": "Advance RFC #1065 `\"Deprecate and Remove ember-fetch\"` to Stage Released",
       "createdAt": "2025-05-23T18:28:19Z",
       "closedAt": "2025-07-11T18:16:35Z",
+      "merged": true,
       "mergedAt": "2025-07-11T18:16:35Z",
       "assignees": [],
       "timelineItems": [
@@ -103,6 +106,7 @@
       "title": "Advance RFC #1065 `\"Deprecate and Remove ember-fetch\"` to Stage Recommended",
       "createdAt": "2025-07-11T18:17:27Z",
       "closedAt": null,
+      "merged": false,
       "mergedAt": null,
       "assignees": [],
       "timelineItems": [
@@ -129,6 +133,7 @@
       "title": "Revert \"Advance RFC #1065 `\"Deprecate and Remove ember-fetch\"` to Stage Released\"",
       "createdAt": "2025-07-11T18:18:20Z",
       "closedAt": "2025-07-11T18:18:41Z",
+      "merged": false,
       "mergedAt": null,
       "assignees": [],
       "timelineItems": []

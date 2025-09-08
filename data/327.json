@@ -4,6 +4,7 @@
   "title": "Semantic Test Selectors",
   "createdAt": "2018-04-19T14:39:05Z",
   "closedAt": "2020-11-04T09:37:50Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [
     {
@@ -11,12 +12,18 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/4587451?v=4"
     }
   ],
-  "timelineItems": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-02-14T19:27:00Z",
+      "label": "T-testing"
+    }
+  ],
   "currentStage": "proposed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2699,
+    "proposed": 2700,
     "exploring": null,
     "accepted": null,
     "release": null,

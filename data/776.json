@@ -4,6 +4,7 @@
   "title": "Author Built-In Blueprints in TypeScript",
   "createdAt": "2021-11-16T22:21:23Z",
   "closedAt": "2022-01-05T18:13:41Z",
+  "merged": true,
   "mergedAt": "2022-01-05T18:13:41Z",
   "assignees": [
     {
@@ -44,6 +45,7 @@
       "title": "Advance RFC #0776 \"Author built-in blueprints in Typescript\" to Stage Ready for Release",
       "createdAt": "2022-11-28T22:18:37Z",
       "closedAt": "2023-03-13T19:43:43Z",
+      "merged": true,
       "mergedAt": "2023-03-13T19:43:43Z",
       "assignees": [
         {
@@ -70,6 +72,7 @@
       "title": "Advance RFC #0776 `\"Author Built-In Blueprints in TypeScript\"` to Stage Released",
       "createdAt": "2023-03-13T19:44:39Z",
       "closedAt": "2023-03-13T19:54:08Z",
+      "merged": true,
       "mergedAt": "2023-03-13T19:54:08Z",
       "assignees": [],
       "timelineItems": [
@@ -91,6 +94,7 @@
       "title": "Advance RFC #0776 `\"Author Built-In Blueprints in TypeScript\"` to Stage Recommended",
       "createdAt": "2023-03-13T19:55:08Z",
       "closedAt": "2023-12-15T19:08:35Z",
+      "merged": true,
       "mergedAt": "2023-12-15T19:08:35Z",
       "assignees": [
         {

@@ -4,6 +4,7 @@
   "title": "Deprecate `blacklist` and `whitelist` build options",
   "createdAt": "2022-02-25T16:55:13Z",
   "closedAt": "2022-03-16T17:07:50Z",
+  "merged": true,
   "mergedAt": "2022-03-16T17:07:50Z",
   "assignees": [],
   "timelineItems": [
@@ -27,7 +28,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1291,
+    "proposed": 1292,
     "exploring": null,
     "accepted": null,
     "release": null,

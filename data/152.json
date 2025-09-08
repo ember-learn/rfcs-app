@@ -4,6 +4,7 @@
   "title": "Introduce basic logic HBS helpers",
   "createdAt": "2016-07-16T11:30:06Z",
   "closedAt": "2019-01-25T02:49:49Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3341,
+    "proposed": 3342,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -4,6 +4,7 @@
   "title": "Custom Model Classes",
   "createdAt": "2019-05-09T18:30:34Z",
   "closedAt": "2019-06-29T04:04:07Z",
+  "merged": true,
   "mergedAt": "2019-06-29T04:04:07Z",
   "assignees": [],
   "timelineItems": [
@@ -22,7 +23,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2314,
+    "proposed": 2315,
     "exploring": null,
     "accepted": null,
     "release": null,

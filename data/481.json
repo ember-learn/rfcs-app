@@ -4,6 +4,7 @@
   "title": "Component Templates Co-location",
   "createdAt": "2019-04-23T06:39:33Z",
   "closedAt": "2019-05-31T20:32:15Z",
+  "merged": true,
   "mergedAt": "2019-05-31T20:32:15Z",
   "assignees": [
     {
@@ -35,6 +36,16 @@
       "event": "labeled",
       "createdAt": "2019-04-23T06:47:16Z",
       "label": "T-Tooling"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-05-06T12:48:52Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2019-05-08T15:16:01Z",
+      "label": "Octane"
     }
   ],
   "currentStage": "accepted",

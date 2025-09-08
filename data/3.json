@@ -4,6 +4,7 @@
   "title": "RFC: Block params",
   "createdAt": "2014-08-18T17:39:26Z",
   "closedAt": "2014-11-20T14:51:27Z",
+  "merged": true,
   "mergedAt": "2014-11-20T14:51:27Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 4039,
+    "proposed": 4040,
     "exploring": null,
     "accepted": null,
     "release": null,

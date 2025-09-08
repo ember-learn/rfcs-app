@@ -4,6 +4,7 @@
   "title": "Deprecate `<LinkTo>` Component Positional Arguments",
   "createdAt": "2021-01-06T09:35:07Z",
   "closedAt": "2021-01-15T19:11:30Z",
+  "merged": true,
   "mergedAt": "2021-01-15T19:11:30Z",
   "assignees": [],
   "timelineItems": [
@@ -27,7 +28,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1706,
+    "proposed": 1707,
     "exploring": null,
     "accepted": null,
     "release": null,

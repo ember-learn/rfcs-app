@@ -4,6 +4,7 @@
   "title": "Update and rename 0000-isHtmlSafe.md to 0139-isHtmlSafe.md",
   "createdAt": "2016-06-19T15:43:06Z",
   "closedAt": "2016-06-19T15:43:10Z",
+  "merged": true,
   "mergedAt": "2016-06-19T15:43:10Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3368,
+    "proposed": 3369,
     "exploring": null,
     "accepted": null,
     "release": null,

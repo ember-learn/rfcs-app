@@ -4,6 +4,7 @@
   "title": "Add `descriptor()`",
   "createdAt": "2019-02-07T17:00:22Z",
   "closedAt": "2019-03-27T15:24:33Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [
     {
@@ -22,7 +23,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2405,
+    "proposed": 2406,
     "exploring": null,
     "accepted": null,
     "release": null,

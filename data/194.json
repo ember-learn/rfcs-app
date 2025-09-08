@@ -4,6 +4,7 @@
   "title": "Deprecate component `eventManager`",
   "createdAt": "2016-12-26T12:42:39Z",
   "closedAt": "2017-03-26T06:36:44Z",
+  "merged": true,
   "mergedAt": "2017-03-26T06:36:44Z",
   "assignees": [],
   "timelineItems": [
@@ -17,7 +18,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3178,
+    "proposed": 3179,
     "exploring": null,
     "accepted": null,
     "release": null,

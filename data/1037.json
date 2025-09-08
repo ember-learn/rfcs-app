@@ -4,6 +4,7 @@
   "title": "Make scoped CSS the default in 'template-tags'",
   "createdAt": "2024-07-09T10:08:53Z",
   "closedAt": "2025-05-10T19:22:12Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
@@ -54,7 +55,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 4,
-    "exploring": 423,
+    "exploring": 424,
     "accepted": null,
     "release": null,
     "released": null

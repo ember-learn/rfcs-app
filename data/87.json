@@ -4,6 +4,7 @@
   "title": "Ember.computed.sortBy",
   "createdAt": "2015-08-26T12:52:30Z",
   "closedAt": "2016-01-29T21:12:57Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3666,
+    "proposed": 3667,
     "exploring": null,
     "accepted": null,
     "release": null,

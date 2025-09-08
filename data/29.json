@@ -4,6 +4,7 @@
   "title": "HTMLBars Component Attribute Types",
   "createdAt": "2015-01-18T14:12:47Z",
   "closedAt": "2015-04-21T22:21:49Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [
     {
@@ -22,7 +23,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3886,
+    "proposed": 3887,
     "exploring": null,
     "accepted": null,
     "release": null,

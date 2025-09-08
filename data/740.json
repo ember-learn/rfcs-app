@@ -4,6 +4,7 @@
   "title": "rfc: ember-data | deprecate-non-strict-types",
   "createdAt": "2021-04-24T05:52:07Z",
   "closedAt": "2022-07-24T00:24:28Z",
+  "merged": true,
   "mergedAt": "2022-07-24T00:24:28Z",
   "assignees": [
     {
@@ -53,6 +54,7 @@
       "title": "Advance RFC #0740 `\"EmberData | Deprecate Non Strict Types\"` to Stage Ready for Release",
       "createdAt": "2023-03-13T16:31:51Z",
       "closedAt": "2023-09-22T18:19:31Z",
+      "merged": true,
       "mergedAt": "2023-09-22T18:19:31Z",
       "assignees": [
         {
@@ -89,6 +91,7 @@
       "title": "Advance RFC #0740 `\"EmberData | Deprecate Non Strict Types\"` to Stage Released",
       "createdAt": "2023-09-22T18:20:32Z",
       "closedAt": "2023-09-24T10:19:45Z",
+      "merged": true,
       "mergedAt": "2023-09-24T10:19:45Z",
       "assignees": [],
       "timelineItems": [
@@ -115,6 +118,7 @@
       "title": "Advance RFC #0740 `\"EmberData | Deprecate Non Strict Types\"` to Stage Recommended",
       "createdAt": "2023-09-24T10:20:40Z",
       "closedAt": "2024-12-20T18:43:09Z",
+      "merged": true,
       "mergedAt": "2024-12-20T18:43:09Z",
       "assignees": [
         {

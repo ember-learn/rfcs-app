@@ -4,6 +4,7 @@
   "title": "Router Helpers",
   "createdAt": "2018-10-22T13:49:01Z",
   "closedAt": "2018-11-13T18:15:40Z",
+  "merged": true,
   "mergedAt": "2018-11-13T18:15:40Z",
   "assignees": [
     {
@@ -21,13 +22,18 @@
       "event": "labeled",
       "createdAt": "2018-10-24T21:25:14Z",
       "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-11-05T14:07:14Z",
+      "label": "Final Comment Period"
     }
   ],
   "currentStage": "accepted",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2513,
+    "proposed": 2514,
     "exploring": null,
     "accepted": null,
     "release": null,

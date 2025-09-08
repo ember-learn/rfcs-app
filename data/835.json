@@ -4,6 +4,7 @@
   "title": "Add missing frontmatter, including stages",
   "createdAt": "2022-08-03T19:04:50Z",
   "closedAt": "2022-08-09T04:03:53Z",
+  "merged": true,
   "mergedAt": "2022-08-09T04:03:53Z",
   "assignees": [],
   "timelineItems": [],
@@ -11,7 +12,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1132,
+    "proposed": 1133,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -4,6 +4,7 @@
   "title": "Module Unification",
   "createdAt": "2016-05-09T18:11:26Z",
   "closedAt": "2016-10-18T15:06:41Z",
+  "merged": true,
   "mergedAt": "2016-10-18T15:06:41Z",
   "assignees": [
     {
@@ -11,12 +12,23 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/8752?v=4"
     }
   ],
-  "timelineItems": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2016-06-29T20:05:41Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2016-10-18T16:48:51Z",
+      "label": "Final Comment Period"
+    }
+  ],
   "currentStage": "accepted",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3409,
+    "proposed": 3410,
     "exploring": null,
     "accepted": null,
     "release": null,

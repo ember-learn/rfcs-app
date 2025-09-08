@@ -4,6 +4,7 @@
   "title": "Deprecate `--yarn` support for `ember new`",
   "createdAt": "2025-01-30T22:20:38Z",
   "closedAt": null,
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [
