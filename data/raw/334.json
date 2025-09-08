@@ -22,6 +22,16 @@
       "event": "labeled",
       "createdAt": "2019-01-25T03:09:50Z",
       "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-03-03T21:09:37Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-07-01T18:53:17Z",
+      "label": "Final Comment Period"
     }
   ]
 }

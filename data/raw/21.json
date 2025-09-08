@@ -7,5 +7,26 @@
   "merged": false,
   "mergedAt": null,
   "assignees": [],
-  "timelineItems": []
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2015-02-05T08:11:15Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2015-03-27T18:44:57Z",
+      "label": "Needs Response"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2019-08-21T21:29:03Z",
+      "label": "Needs Response"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-08-21T21:29:03Z",
+      "label": "FCP to close"
+    }
+  ]
 }

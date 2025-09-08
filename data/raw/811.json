@@ -17,6 +17,26 @@
       "event": "labeled",
       "createdAt": "2022-03-31T14:09:50Z",
       "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:31:25Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2022-12-02T19:07:07Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T19:07:07Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T20:28:12Z",
+      "label": "Final Comment Period"
     }
   ]
 }

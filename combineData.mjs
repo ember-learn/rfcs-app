@@ -20,7 +20,7 @@ function getDays(date1, date2) {
 }
 
 function findFirstStage(rfc) {
-  if (rfc.mergedAt) {
+  if (rfc.merged) {
     return 'accepted';
   } else if (!rfc.closed) {
     if (
@@ -37,7 +37,7 @@ function findFirstStage(rfc) {
 }
 
 function isFCP(rfc) {
-  if (rfc.mergedAt !== null) {
+  if (rfc.merged) {
     return false;
   } else {
     return rfc.timelineItems.filter(
@@ -47,12 +47,12 @@ function isFCP(rfc) {
 }
 
 function getFirstStagesDuration(rfc) {
-  if (!rfc.closed || rfc.mergedAt) {
+  if (!rfc.closed || rfc.merged) {
     let exploringLabels = rfc.timelineItems.filter(
       (item) => item.label == 'S-Exploring',
     );
     if (exploringLabels.length > 0) {
-      if (rfc.mergedAt) {
+      if (rfc.merged) {
         return {
           proposed: getDays(exploringLabels[0].createdAt, rfc.createdAt),
           exploring: getDays(rfc.mergedAt, exploringLabels[0].createdAt),
@@ -98,7 +98,7 @@ for (let file of rfcsFiles) {
       rfc.mergedAt,
       rfc.createdAt,
     );
-    if (rfc.mergedAt) {
+    if (rfc.merged) {
       rfcMap[num].currentStage = stage;
     }
     if (rfc.assignees.length > 0) {

@@ -12,6 +12,11 @@
       "event": "labeled",
       "createdAt": "2018-04-06T18:57:43Z",
       "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2018-07-09T01:41:26Z",
+      "label": "Final Comment Period"
     }
   ]
 }

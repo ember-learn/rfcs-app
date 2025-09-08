@@ -12,6 +12,16 @@
       "event": "labeled",
       "createdAt": "2014-08-22T18:30:31Z",
       "label": "ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2015-03-27T18:42:59Z",
+      "label": "Needs Champion"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-06-26T21:11:30Z",
+      "label": "FCP to close"
     }
   ]
 }

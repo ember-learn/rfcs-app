@@ -17,6 +17,21 @@
       "event": "labeled",
       "createdAt": "2019-01-19T15:44:15Z",
       "label": "T-learning"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-31T17:30:00Z",
+      "label": "FCP to close"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-31T17:31:55Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2019-01-31T17:31:55Z",
+      "label": "FCP to close"
     }
   ]
 }

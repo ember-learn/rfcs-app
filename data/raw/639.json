@@ -12,5 +12,11 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/4587451?v=4"
     }
   ],
-  "timelineItems": []
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2020-07-17T19:05:08Z",
+      "label": "Final Comment Period"
+    }
+  ]
 }

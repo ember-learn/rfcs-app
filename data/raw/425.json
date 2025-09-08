@@ -12,5 +12,26 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/25433?v=4"
     }
   ],
-  "timelineItems": []
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-25T03:03:30Z",
+      "label": "T-infrastructure"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-25T03:03:30Z",
+      "label": "T-learning"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-25T03:03:30Z",
+      "label": "T-steering"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-03-11T17:22:20Z",
+      "label": "Final Comment Period"
+    }
+  ]
 }

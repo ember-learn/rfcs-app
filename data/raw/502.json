@@ -12,5 +12,21 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/4?v=4"
     }
   ],
-  "timelineItems": []
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:34:18Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-02-10T20:01:22Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-02-10T20:01:25Z",
+      "label": "S-Proposed"
+    }
+  ]
 }

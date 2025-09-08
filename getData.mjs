@@ -16,19 +16,51 @@ const iterator = octokit.paginate.iterator(octokit.rest.pulls.list, {
   per_page: 100,
 });
 
+const query = `
+  query($owner: String!, $repo: String!, $number: Int!) {
+    repository(owner: $owner, name: $repo) {
+      pullRequest(number: $number) {
+        number
+        title
+        timelineItems(first: 20, itemTypes: [LABELED_EVENT, UNLABELED_EVENT]) {
+          nodes {
+            __typename
+            ... on LabeledEvent {
+              createdAt
+              actor { login }
+              label { name }
+            }
+            ... on UnlabeledEvent {
+              createdAt
+              actor { login }
+              label { name }
+            }
+          }
+        }
+      }
+    }
+  }
+`;
+
 await mkdir('data/raw', { recursive: true });
 
 for await (const { data: pulls } of iterator) {
   for (const pull of pulls) {
-    let { data: issueEvents } = await octokit.rest.issues.listEvents({
-      owner: 'emberjs',
-      repo: 'rfcs',
-      issue_number: pull.number,
+    const data = await octokit.graphql(query, {
+      owner: "emberjs",
+      repo: "rfcs",
+      number: pull.number,
     });
 
-    issueEvents = issueEvents.filter((item) =>
-      ['labeled', 'unlabeled'].includes(item.event),
-    );
+    const timeLineEvents = data.repository.pullRequest.timelineItems.nodes.map((n) => ({
+      event: n.__typename === "LabeledEvent"
+      ? "labeled"
+      : n.__typename === "UnlabeledEvent"
+      ? "unlabeled"
+      : null,
+      createdAt: n.createdAt,
+      label: n.label?.name ?? null,
+    }));
 
     await writeFile(
       join('data/raw', `${pull.number}.json`),
@@ -40,17 +72,13 @@ for await (const { data: pulls } of iterator) {
           createdAt: pull.created_at,
           closed: pull.closed,
           closedAt: pull.closed_at,
-          merged: pull.merged,
+          merged: Boolean(pull.merged_at),
           mergedAt: pull.merged_at,
           assignees: pull.assignees.map((item) => ({
             login: item.login,
             avatarUrl: item.avatar_url,
           })),
-          timelineItems: issueEvents.map((item) => ({
-            event: item.event,
-            createdAt: item.created_at,
-            label: item.label.name,
-          })),
+          timelineItems: timeLineEvents,
         },
         null,
         2,

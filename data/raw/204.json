@@ -7,5 +7,11 @@
   "merged": false,
   "mergedAt": null,
   "assignees": [],
-  "timelineItems": []
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-08-01T03:23:28Z",
+      "label": "T-templates"
+    }
+  ]
 }

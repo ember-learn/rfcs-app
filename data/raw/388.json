@@ -32,6 +32,16 @@
       "event": "labeled",
       "createdAt": "2018-11-05T14:26:48Z",
       "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2018-11-08T04:08:15Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-12-20T19:46:09Z",
+      "label": "FCP to close"
     }
   ]
 }

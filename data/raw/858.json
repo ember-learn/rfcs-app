@@ -37,6 +37,26 @@
       "event": "unlabeled",
       "createdAt": "2023-01-27T19:45:34Z",
       "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-27T19:45:34Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-27T19:45:34Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-01-27T19:46:32Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-03T19:05:17Z",
+      "label": "Final Comment Period"
     }
   ]
 }

@@ -7,5 +7,16 @@
   "merged": false,
   "mergedAt": null,
   "assignees": [],
-  "timelineItems": []
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2015-03-27T19:05:45Z",
+      "label": "Needs Champion"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2015-03-27T19:05:45Z",
+      "label": "Needs Implementer"
+    }
+  ]
 }

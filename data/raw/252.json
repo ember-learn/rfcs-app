@@ -7,5 +7,11 @@
   "merged": true,
   "mergedAt": "2017-10-13T18:41:35Z",
   "assignees": [],
-  "timelineItems": []
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-10-01T15:41:35Z",
+      "label": "Final Comment Period"
+    }
+  ]
 }

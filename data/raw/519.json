@@ -7,5 +7,16 @@
   "merged": true,
   "mergedAt": "2020-05-01T18:57:15Z",
   "assignees": [],
-  "timelineItems": []
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2020-04-03T16:40:37Z",
+      "label": "T-steering"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2020-04-17T17:39:11Z",
+      "label": "Final Comment Period"
+    }
+  ]
 }

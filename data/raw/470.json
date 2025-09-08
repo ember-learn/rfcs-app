@@ -12,5 +12,26 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/685518?v=4"
     }
   ],
-  "timelineItems": []
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-04-02T15:08:21Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-04-02T15:08:52Z",
+      "label": "T-templates"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2019-04-02T15:08:56Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-04-05T20:57:53Z",
+      "label": "Final Comment Period"
+    }
+  ]
 }

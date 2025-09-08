@@ -17,6 +17,11 @@
       "event": "labeled",
       "createdAt": "2017-11-06T00:26:06Z",
       "label": "T-testing"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2017-11-10T20:28:38Z",
+      "label": "Final Comment Period"
     }
   ]
 }
