@@ -4,6 +4,7 @@
   "title": "Deprecate Implicit Injection on arbitrary Ember Framework objects",
   "createdAt": "2020-11-02T03:56:06Z",
   "closedAt": "2021-01-08T19:10:22Z",
+  "merged": true,
   "mergedAt": "2021-01-08T19:10:22Z",
   "assignees": [
     {

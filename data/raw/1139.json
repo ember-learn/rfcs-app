@@ -4,6 +4,7 @@
   "title": "Advance RFC #1111 `\"Deprecating Ember.Evented and @ember/object/events\"` to Stage Ready for Release",
   "createdAt": "2025-08-22T18:14:26Z",
   "closedAt": null,
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [

@@ -4,6 +4,7 @@
   "title": "Deprecate `import Ember from 'ember'`",
   "createdAt": "2024-01-22T19:56:02Z",
   "closedAt": "2024-03-22T18:12:08Z",
+  "merged": true,
   "mergedAt": "2024-03-22T18:12:08Z",
   "assignees": [],
   "timelineItems": [

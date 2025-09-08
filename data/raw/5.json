@@ -4,6 +4,7 @@
   "title": "RFC: JSON Patch support for Ember Data",
   "createdAt": "2014-08-23T00:32:07Z",
   "closedAt": "2016-01-09T00:03:24Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [

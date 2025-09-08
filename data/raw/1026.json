@@ -4,6 +4,7 @@
   "title": "EmberData | deprecate Store extends EmberObject",
   "createdAt": "2024-05-11T08:21:17Z",
   "closedAt": "2024-06-14T18:30:51Z",
+  "merged": true,
   "mergedAt": "2024-06-14T18:30:51Z",
   "assignees": [
     {

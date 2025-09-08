@@ -4,6 +4,7 @@
   "title": "Deprecate getWithDefault",
   "createdAt": "2019-11-08T21:58:46Z",
   "closedAt": "2020-01-31T18:09:52Z",
+  "merged": true,
   "mergedAt": "2020-01-31T18:09:52Z",
   "assignees": [
     {

@@ -4,6 +4,7 @@
   "title": "Deprecate @ember/error",
   "createdAt": "2022-12-15T23:40:58Z",
   "closedAt": "2022-12-29T18:41:59Z",
+  "merged": true,
   "mergedAt": "2022-12-29T18:41:59Z",
   "assignees": [],
   "timelineItems": [

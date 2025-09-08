@@ -4,6 +4,7 @@
   "title": "Advance RFC #0730 \"Semantic Versioning for TypeScript Types\" to Stage Ready for Release",
   "createdAt": "2022-11-29T01:50:56Z",
   "closedAt": "2023-08-24T18:00:19Z",
+  "merged": true,
   "mergedAt": "2023-08-24T18:00:19Z",
   "assignees": [
     {

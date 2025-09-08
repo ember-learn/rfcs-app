@@ -4,6 +4,7 @@
   "title": "Advance RFC #1029 `\"Deprecate app-prefix, app-suffix, tests-prefix, and tests-suffix\"` to Stage Ready for Release",
   "createdAt": "2024-08-30T18:08:47Z",
   "closedAt": "2025-01-24T19:11:28Z",
+  "merged": true,
   "mergedAt": "2025-01-24T19:11:28Z",
   "assignees": [
     {

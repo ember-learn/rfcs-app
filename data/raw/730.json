@@ -4,6 +4,7 @@
   "title": "RFC: Semantic Versioning for TypeScript Types",
   "createdAt": "2021-03-23T19:42:16Z",
   "closedAt": "2022-04-19T01:35:30Z",
+  "merged": true,
   "mergedAt": "2022-04-19T01:35:30Z",
   "assignees": [
     {

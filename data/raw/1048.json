@@ -4,6 +4,7 @@
   "title": "Advance RFC #1009 `\"Move the deprecation workflow library to be installed in apps by default\"` to Stage Ready for Release",
   "createdAt": "2024-10-18T18:05:34Z",
   "closedAt": "2025-02-14T19:25:41Z",
+  "merged": true,
   "mergedAt": "2025-02-14T19:25:41Z",
   "assignees": [],
   "timelineItems": [

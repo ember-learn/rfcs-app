@@ -4,6 +4,7 @@
   "title": "Deprecate {{hasBlock}} and {{hasBlockParams}} in templates",
   "createdAt": "2020-12-23T01:54:30Z",
   "closedAt": "2021-01-22T19:32:06Z",
+  "merged": true,
   "mergedAt": "2021-01-22T19:32:06Z",
   "assignees": [],
   "timelineItems": [

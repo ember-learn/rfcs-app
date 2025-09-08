@@ -4,6 +4,7 @@
   "title": "Deprecate Function.prototype.on, Function.prototype.property, Function.prototype.observes",
   "createdAt": "2017-11-20T13:51:54Z",
   "closedAt": "2019-01-11T22:19:33Z",
+  "merged": true,
   "mergedAt": "2019-01-11T22:19:33Z",
   "assignees": [
     {

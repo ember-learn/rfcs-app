@@ -4,6 +4,7 @@
   "title": "Deprecate setupComponentManager String Lookup",
   "createdAt": "2018-10-23T14:32:16Z",
   "closedAt": "2018-11-02T18:43:35Z",
+  "merged": true,
   "mergedAt": "2018-11-02T18:43:35Z",
   "assignees": [
     {

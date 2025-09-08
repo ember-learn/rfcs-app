@@ -4,6 +4,7 @@
   "title": "RFC: Support for ES `accessor` Decorators",
   "createdAt": "2022-11-29T16:47:34Z",
   "closedAt": null,
+  "merged": false,
   "mergedAt": null,
   "assignees": [
     {

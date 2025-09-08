@@ -4,6 +4,7 @@
   "title": "Correct 0669 `isEqual` arguments",
   "createdAt": "2021-06-30T22:59:40Z",
   "closedAt": "2021-06-30T23:36:46Z",
+  "merged": true,
   "mergedAt": "2021-06-30T23:36:46Z",
   "assignees": [],
   "timelineItems": []

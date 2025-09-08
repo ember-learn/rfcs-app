@@ -4,6 +4,7 @@
   "title": "Release a major version when any deprecations are removed",
   "createdAt": "2019-07-08T20:14:14Z",
   "closedAt": "2022-09-09T18:45:46Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [
     {

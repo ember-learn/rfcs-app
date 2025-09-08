@@ -4,6 +4,7 @@
   "title": "Add RFC for deprecation Ember Data initializers",
   "createdAt": "2016-11-22T21:46:46Z",
   "closedAt": "2017-01-25T19:32:54Z",
+  "merged": true,
   "mergedAt": "2017-01-25T19:32:54Z",
   "assignees": [],
   "timelineItems": [

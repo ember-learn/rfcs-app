@@ -4,6 +4,7 @@
   "title": "RFC: Deprecate array prototype extensions",
   "createdAt": "2022-08-30T18:02:40Z",
   "closedAt": "2022-09-30T21:37:21Z",
+  "merged": true,
   "mergedAt": "2022-09-30T21:37:21Z",
   "assignees": [
     {

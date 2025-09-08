@@ -4,6 +4,7 @@
   "title": "Replace Travis CI with GitHub Actions in generated Ember CLI projects",
   "createdAt": "2021-01-04T10:50:26Z",
   "closedAt": "2021-12-17T18:25:12Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": []

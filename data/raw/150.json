@@ -4,6 +4,7 @@
   "title": "`factoryFor` as a public API replacing `_lookupFactory`",
   "createdAt": "2016-07-01T20:30:37Z",
   "closedAt": "2016-10-07T19:07:47Z",
+  "merged": true,
   "mergedAt": "2016-10-07T19:07:47Z",
   "assignees": [],
   "timelineItems": []

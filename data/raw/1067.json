@@ -4,6 +4,7 @@
   "title": "Propose `link` from `@ember/lifetime` to remove the boilerplate of setOwner + associateDestroyableChild",
   "createdAt": "2025-01-11T16:32:37Z",
   "closedAt": null,
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [

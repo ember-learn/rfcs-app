@@ -4,6 +4,7 @@
   "title": "Advance RFC #1006 `\"Deprecate (action) template helper and {{action}} modifier.\"` to Stage Recommended",
   "createdAt": "2024-06-14T18:32:27Z",
   "closedAt": "2024-08-30T18:12:39Z",
+  "merged": true,
   "mergedAt": "2024-08-30T18:12:38Z",
   "assignees": [],
   "timelineItems": [

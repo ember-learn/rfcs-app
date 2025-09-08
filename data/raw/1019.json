@@ -4,6 +4,7 @@
   "title": "Advance RFC #0831 `\"Standardize use of scripts in package.json for common tasks\"` to Stage Recommended",
   "createdAt": "2024-04-19T18:14:24Z",
   "closedAt": "2024-04-26T18:12:57Z",
+  "merged": true,
   "mergedAt": "2024-04-26T18:12:57Z",
   "assignees": [],
   "timelineItems": [

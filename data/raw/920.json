@@ -4,6 +4,7 @@
   "title": "Update RFC 496, typos, use correct field name (strict => strictMode)",
   "createdAt": "2023-03-28T18:17:31Z",
   "closedAt": "2023-04-07T18:57:13Z",
+  "merged": true,
   "mergedAt": "2023-04-07T18:57:13Z",
   "assignees": [],
   "timelineItems": []

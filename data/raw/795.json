@@ -4,6 +4,7 @@
   "title": "ember-data: Return a Promise from Model.save()",
   "createdAt": "2022-02-14T03:36:41Z",
   "closedAt": "2022-03-10T03:16:36Z",
+  "merged": true,
   "mergedAt": "2022-03-10T03:16:36Z",
   "assignees": [
     {

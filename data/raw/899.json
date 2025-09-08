@@ -4,6 +4,7 @@
   "title": "Advance RFC #0889 \"Deprecate @ember/error\" to Stage Recommended",
   "createdAt": "2023-01-14T00:18:12Z",
   "closedAt": "2023-03-03T19:20:01Z",
+  "merged": true,
   "mergedAt": "2023-03-03T19:20:01Z",
   "assignees": [],
   "timelineItems": [

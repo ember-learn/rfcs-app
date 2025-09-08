@@ -4,6 +4,7 @@
   "title": "maybe, maybe not better on syntax - this RFC accidentally found some decision trees around when to use {{on}} vs on*",
   "createdAt": "2024-02-16T23:19:00Z",
   "closedAt": "2024-02-23T19:09:35Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [

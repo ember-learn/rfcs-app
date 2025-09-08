@@ -4,6 +4,7 @@
   "title": "Ember CLI: Strip some framework function invocations from production builds",
   "createdAt": "2016-04-06T15:43:49Z",
   "closedAt": "2016-04-06T15:59:21Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": []

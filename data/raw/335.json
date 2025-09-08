@@ -4,6 +4,7 @@
   "title": "RFC to deprecate `component#sendAction`",
   "createdAt": "2018-05-29T09:50:32Z",
   "closedAt": "2018-06-22T18:54:51Z",
+  "merged": true,
   "mergedAt": "2018-06-22T18:54:51Z",
   "assignees": [
     {

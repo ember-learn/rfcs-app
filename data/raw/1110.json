@@ -4,6 +4,7 @@
   "title": "Advance RFC #1003 `\"Deprecate `import Ember from 'ember';\"` to Stage Recommended",
   "createdAt": "2025-06-13T18:19:57Z",
   "closedAt": null,
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [

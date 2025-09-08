@@ -4,6 +4,7 @@
   "title": "Advance RFC #0389 `\"Dynamic tag names in glimmer templates.\"` (ember-element-helper) to Stage Ready for Release",
   "createdAt": "2024-10-28T14:25:13Z",
   "closedAt": null,
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [

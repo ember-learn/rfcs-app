@@ -4,6 +4,7 @@
   "title": "Provide access to template invocation stack in debug builds",
   "createdAt": "2020-06-27T11:06:25Z",
   "closedAt": null,
+  "merged": false,
   "mergedAt": null,
   "assignees": [
     {

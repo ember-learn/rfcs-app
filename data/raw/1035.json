@@ -4,6 +4,7 @@
   "title": "Advance RFC #1026 `\"EmberData | Deprecate Store extending EmberObject\"` to Stage Ready for Release",
   "createdAt": "2024-06-14T18:31:34Z",
   "closedAt": "2024-10-04T18:23:02Z",
+  "merged": true,
   "mergedAt": "2024-10-04T18:23:02Z",
   "assignees": [],
   "timelineItems": [

@@ -4,6 +4,7 @@
   "title": "Advance RFC #0821 \"RFC: public types for Owner, Transition, RouteInfo\" to Stage Recommended",
   "createdAt": "2023-01-06T20:22:40Z",
   "closedAt": "2023-03-03T19:17:15Z",
+  "merged": true,
   "mergedAt": "2023-03-03T19:17:15Z",
   "assignees": [
     {

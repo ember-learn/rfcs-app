@@ -4,6 +4,7 @@
   "title": "Add eslint-plugin-qunit to ember-cli blueprint",
   "createdAt": "2021-01-10T00:45:36Z",
   "closedAt": "2021-02-26T19:14:14Z",
+  "merged": true,
   "mergedAt": "2021-02-26T19:14:14Z",
   "assignees": [
     {

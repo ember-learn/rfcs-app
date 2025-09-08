@@ -4,6 +4,7 @@
   "title": "Advance RFC #0785 `\"Introduce new test helpers for rendering (and re-rendering) that obviate the need for get and set\"` to Stage Recommended",
   "createdAt": "2023-11-29T19:55:37Z",
   "closedAt": null,
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [

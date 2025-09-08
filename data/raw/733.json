@@ -4,6 +4,7 @@
   "title": "Add public `intermediateTransitionTo` method on `RouterService`",
   "createdAt": "2021-03-29T12:15:20Z",
   "closedAt": "2022-02-08T20:32:40Z",
+  "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": []

@@ -4,6 +4,7 @@
   "title": "Fix missing macroGetOwnConfig description",
   "createdAt": "2020-05-02T12:11:18Z",
   "closedAt": "2020-05-08T17:35:32Z",
+  "merged": true,
   "mergedAt": "2020-05-08T17:35:32Z",
   "assignees": [],
   "timelineItems": []

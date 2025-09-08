@@ -4,6 +4,7 @@
   "title": "rfc: ember-data | deprecate-non-strict-types",
   "createdAt": "2021-04-24T05:52:07Z",
   "closedAt": "2022-07-24T00:24:28Z",
+  "merged": true,
   "mergedAt": "2022-07-24T00:24:28Z",
   "assignees": [
     {

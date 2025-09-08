@@ -4,6 +4,7 @@
   "title": "Update README to fix stages table - workaround a bug in markdown parser",
   "createdAt": "2025-02-18T12:13:59Z",
   "closedAt": "2025-02-18T15:34:10Z",
+  "merged": true,
   "mergedAt": "2025-02-18T15:34:10Z",
   "assignees": [],
   "timelineItems": []
