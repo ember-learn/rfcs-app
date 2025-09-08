@@ -23,13 +23,13 @@
       "label": "T-framework"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "accepted",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 278,
+    "proposed": 2663,
     "exploring": null,
-    "accepted": null,
+    "accepted": 278,
     "release": null,
     "released": null
   },

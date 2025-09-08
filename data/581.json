@@ -23,9 +23,9 @@
       "label": "T-testing"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "accepted",
   "labels": [],
-  "fcp": true,
+  "fcp": false,
   "stageDuration": {
     "proposed": 2064,
     "exploring": null,

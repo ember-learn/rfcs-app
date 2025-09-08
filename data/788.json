@@ -18,11 +18,11 @@
       "label": "S-Proposed"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "accepted",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1333,
+    "proposed": 1334,
     "exploring": null,
     "accepted": null,
     "release": null,

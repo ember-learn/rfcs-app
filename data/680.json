@@ -42,11 +42,11 @@
       "label": "work in progress"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "accepted",
   "labels": [],
-  "fcp": true,
+  "fcp": false,
   "stageDuration": {
-    "proposed": 1771,
+    "proposed": 1772,
     "exploring": null,
     "accepted": null,
     "release": null,

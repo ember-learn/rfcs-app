@@ -23,11 +23,11 @@
       "label": "T-templates"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "accepted",
   "labels": [],
-  "fcp": true,
+  "fcp": false,
   "stageDuration": {
-    "proposed": 1950,
+    "proposed": 1951,
     "exploring": null,
     "accepted": null,
     "release": null,

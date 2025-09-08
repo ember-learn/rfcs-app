@@ -68,7 +68,7 @@
       "label": "Final Comment Period"
     }
   ],
-  "currentStage": "exploring",
+  "currentStage": "accepted",
   "labels": [
     {
       "event": "labeled",
@@ -79,8 +79,8 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 9,
-    "exploring": 178,
-    "accepted": null,
+    "exploring": 8,
+    "accepted": 178,
     "release": null,
     "released": null
   },

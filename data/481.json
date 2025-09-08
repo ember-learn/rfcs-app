@@ -37,11 +37,11 @@
       "label": "T-Tooling"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "accepted",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2330,
+    "proposed": 2331,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -38,15 +38,15 @@
       "label": "S-Proposed"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "recommended",
   "labels": [],
-  "fcp": true,
+  "fcp": false,
   "stageDuration": {
-    "proposed": 28,
+    "proposed": 1035,
     "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "accepted": 182,
+    "release": 8,
+    "released": 28
   },
   "connected": [
     {

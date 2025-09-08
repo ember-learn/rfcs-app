@@ -50,7 +50,7 @@
       "label": "S-Exploring"
     }
   ],
-  "currentStage": "exploring",
+  "currentStage": "recommended",
   "labels": [
     {
       "event": "labeled",
@@ -58,13 +58,13 @@
       "label": "S-Exploring"
     }
   ],
-  "fcp": true,
+  "fcp": false,
   "stageDuration": {
     "proposed": 248,
-    "exploring": 421,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "exploring": 11,
+    "accepted": 207,
+    "release": 28,
+    "released": 421
   },
   "connected": [
     {

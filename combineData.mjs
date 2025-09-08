@@ -20,7 +20,7 @@ function getDays(date1, date2) {
 }
 
 function findFirstStage(rfc) {
-  if (rfc.merged) {
+  if (rfc.mergedAt) {
     return 'accepted';
   } else if (!rfc.closed) {
     if (
@@ -37,18 +37,22 @@ function findFirstStage(rfc) {
 }
 
 function isFCP(rfc) {
-  return rfc.timelineItems.filter(
-      (item) => item.label == 'Final Comment Period',
-    ).length % 2 == 1
+  if (rfc.mergedAt !== null) {
+    return false;
+  } else {
+    return rfc.timelineItems.filter(
+        (item) => item.label == 'Final Comment Period',
+      ).length % 2 == 1
+  }
 }
 
 function getFirstStagesDuration(rfc) {
-  if (!rfc.closed || rfc.merged) {
+  if (!rfc.closed || rfc.mergedAt) {
     let exploringLabels = rfc.timelineItems.filter(
       (item) => item.label == 'S-Exploring',
     );
     if (exploringLabels.length > 0) {
-      if (rfc.merged) {
+      if (rfc.mergedAt) {
         return {
           proposed: getDays(exploringLabels[0].createdAt, rfc.createdAt),
           exploring: getDays(rfc.mergedAt, exploringLabels[0].createdAt),
@@ -83,7 +87,9 @@ function getFirstStagesDuration(rfc) {
 
 for (let file of rfcsFiles) {
   const rfc = JSON.parse(await readFile(join('data/raw', file), 'utf8'));
-
+  if (rfc.timelineItems.length == 0 && rfc.labels.length == 0) {
+    console.log(rfc.number, rfc.title);
+  }
   if (rfc.title.includes('Advance RFC')) {
     let advanceRFC = rfc.title.match(/[0-9]+/);
     let num = parseInt(advanceRFC, 10);
@@ -92,7 +98,7 @@ for (let file of rfcsFiles) {
       rfc.mergedAt,
       rfc.createdAt,
     );
-    if (rfc.merged) {
+    if (rfc.mergedAt) {
       rfcMap[num].currentStage = stage;
     }
     if (rfc.assignees.length > 0) {

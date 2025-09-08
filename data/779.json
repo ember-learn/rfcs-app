@@ -16,15 +16,15 @@
     }
   ],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "released",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 269,
+    "proposed": 1375,
     "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "accepted": 709,
+    "release": 43,
+    "released": 269
   },
   "connected": [
     {

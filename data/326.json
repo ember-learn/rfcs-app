@@ -18,11 +18,11 @@
       "label": "T-ember-data"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "accepted",
   "labels": [],
-  "fcp": true,
+  "fcp": false,
   "stageDuration": {
-    "proposed": 2699,
+    "proposed": 2700,
     "exploring": null,
     "accepted": null,
     "release": null,

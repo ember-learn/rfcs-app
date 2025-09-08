@@ -18,11 +18,11 @@
       "label": "Octane"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "accepted",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2378,
+    "proposed": 2379,
     "exploring": null,
     "accepted": null,
     "release": null,

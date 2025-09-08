@@ -33,7 +33,7 @@
       "label": "S-Exploring"
     }
   ],
-  "currentStage": "exploring",
+  "currentStage": "accepted",
   "labels": [
     {
       "event": "labeled",
@@ -41,10 +41,10 @@
       "label": "S-Exploring"
     }
   ],
-  "fcp": true,
+  "fcp": false,
   "stageDuration": {
     "proposed": 318,
-    "exploring": 1000,
+    "exploring": 1,
     "accepted": null,
     "release": null,
     "released": null

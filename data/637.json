@@ -40,13 +40,13 @@
       "label": "Final Comment Period"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "recommended",
   "labels": [],
-  "fcp": true,
+  "fcp": false,
   "stageDuration": {
-    "proposed": 303,
+    "proposed": 1921,
     "exploring": null,
-    "accepted": null,
+    "accepted": 303,
     "release": null,
     "released": null
   },

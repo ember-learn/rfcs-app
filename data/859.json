@@ -7,11 +7,11 @@
   "mergedAt": "2022-11-09T00:33:43Z",
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "accepted",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1034,
+    "proposed": 1035,
     "exploring": null,
     "accepted": null,
     "release": null,
