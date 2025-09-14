@@ -14,14 +14,6 @@ import EsSidebar from 'ember-styleguide/components/es-sidebar';
       <ul class="table-of-contents">
         <li class="toc-item">
           <LinkTo @route="index">Welcome</LinkTo>
-          <ul class="table-of-contents sub-table-of-contents">
-            <li class="toc-item">
-              <LinkTo @route="rfcs-input">RFCs that need your input</LinkTo>
-            </li>
-            <li class="toc-item">
-              <LinkTo @route="rfcs-help">RFCs that need your help</LinkTo>
-            </li>
-          </ul>
         </li>
 
         <li class="toc-heading">RFC process</li>

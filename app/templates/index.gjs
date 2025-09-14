@@ -1,4 +1,9 @@
-import RfcCard from '../components/rfc-card';
+import { LinkTo } from '@ember/routing';
+
+function daysUntilFriday() {
+  let today = new Date().getDay();
+  return (12 - today)%7; //It's 12 because Friday is the fifth day, and we wan't to %7 so we added 7
+}
 
 <template>
   <div>
@@ -6,19 +11,11 @@ import RfcCard from '../components/rfc-card';
     <p>This is the place to find what is currently cooking within Ember.js.
       Check out the documentation on our RFC process and what RFCs need your
       input!</p>
-    <h2>RFC's that can use your input</h2>
-    <div class="rfc-grid">
-      <RfcCard @compact={{true}} @title="0127-make-sure-the-times-is-on-time" />
-      <RfcCard @compact={{true}} @title="0128-make-sure-the-times-is-on-time" />
-      <RfcCard @compact={{true}} @title="0129-make-sure-the-times-is-on-time" />
+    <h2>These RFCs are in their Final Comment Period and will move to their next stage in {{daysUntilFriday}} days</h2>
+    <div>
+      {{#each @model as |rfc|}}
+        <LinkTo class="fcp-item" @route="rfc" @model={{rfc.rfcFile}}>#{{rfc.number}} {{rfc.title}}</LinkTo>
+      {{/each}}
     </div>
-    <a href="/rfcs-input">See all</a>
-    <h2>RFC's that need you help</h2>
-    <div class="rfc-grid">
-      <RfcCard @compact={{true}} @title="0117-make-sure-the-times-is-on-time" />
-      <RfcCard @compact={{true}} @title="0137-make-sure-the-times-is-on-time" />
-      <RfcCard @compact={{true}} @title="0147-make-sure-the-times-is-on-time" />
-    </div>
-    <a href="/rfcs-help">See all</a>
   </div>
 </template>

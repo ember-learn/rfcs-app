@@ -88,3 +88,18 @@
   }
 
 }
+
+.fcp-item {
+  display: block;
+  width: fit-content;
+  margin-bottom: var(--spacing-1);
+}
+
+.fcp-item h3 {
+  width: max-content;
+}
+
+.github-url {
+  position: absolute;
+  right: var(--spacing-5);
+}

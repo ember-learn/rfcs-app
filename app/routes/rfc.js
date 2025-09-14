@@ -14,9 +14,12 @@ export default class RfcsRoute extends Route {
 
     const rfc = (await rfcs[rormalisedRFCId]()).default;
 
+    const number = Number(params.id.split('-')[0]);
+
     return {
       ...rfc,
       id: params.id,
+      url: `https://github.com/emberjs/rfcs/pull/${number}`,
     };
   }
 }
