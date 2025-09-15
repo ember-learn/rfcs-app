@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/150",
   "title": "`factoryFor` as a public API replacing `_lookupFactory`",
   "createdAt": "2016-07-01T20:30:37Z",
+  "closed": true,
   "closedAt": "2016-10-07T19:07:47Z",
   "merged": true,
   "mergedAt": "2016-10-07T19:07:47Z",
@@ -23,7 +24,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3356,
+    "proposed": 3364,
     "exploring": null,
     "accepted": null,
     "release": null,

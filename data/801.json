@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/801",
   "title": "Deprecate `blacklist` and `whitelist` build options",
   "createdAt": "2022-02-25T16:55:13Z",
+  "closed": true,
   "closedAt": "2022-03-16T17:07:50Z",
   "merged": true,
   "mergedAt": "2022-03-16T17:07:50Z",
@@ -28,7 +29,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1292,
+    "proposed": 1299,
     "exploring": null,
     "accepted": null,
     "release": null,

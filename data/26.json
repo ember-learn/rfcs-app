@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/26",
   "title": "RFC: toggle-visibility",
   "createdAt": "2014-12-24T21:58:59Z",
+  "closed": true,
   "closedAt": "2015-06-07T18:39:14Z",
   "merged": false,
   "mergedAt": null,
@@ -14,15 +15,11 @@
       "label": "Needs Response"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3911,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 165
   },
   "connected": []
 }

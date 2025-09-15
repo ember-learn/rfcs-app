@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/364",
   "title": "RFC: Ember 2018 Roadmap",
   "createdAt": "2018-08-24T17:00:06Z",
+  "closed": true,
   "closedAt": "2018-11-01T23:18:55Z",
   "merged": true,
   "mergedAt": "2018-11-01T23:18:55Z",
@@ -23,7 +24,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2573,
+    "proposed": 2580,
     "exploring": null,
     "accepted": null,
     "release": null,

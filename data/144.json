@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/144",
   "title": "Add Ember issue to 0136-contains-to-includes.md",
   "createdAt": "2016-05-25T11:18:05Z",
+  "closed": true,
   "closedAt": "2016-05-25T11:42:44Z",
   "merged": true,
   "mergedAt": "2016-05-25T11:42:44Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3394,
+    "proposed": 3401,
     "exploring": null,
     "accepted": null,
     "release": null,

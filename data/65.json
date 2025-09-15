@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/65",
   "title": "Deprecation warning handlers",
   "createdAt": "2015-06-14T21:16:54Z",
+  "closed": true,
   "closedAt": "2015-07-08T01:27:09Z",
   "merged": true,
   "mergedAt": "2015-07-08T01:27:09Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3739,
+    "proposed": 3747,
     "exploring": null,
     "accepted": null,
     "release": null,

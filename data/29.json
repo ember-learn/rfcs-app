@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/29",
   "title": "HTMLBars Component Attribute Types",
   "createdAt": "2015-01-18T14:12:47Z",
+  "closed": true,
   "closedAt": "2015-04-21T22:21:49Z",
   "merged": false,
   "mergedAt": null,
@@ -19,15 +20,11 @@
       "label": "Needs Implementer"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3887,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 94
   },
   "connected": []
 }

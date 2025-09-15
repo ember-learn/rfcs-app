@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/46",
   "title": "Registry / Container reform",
   "createdAt": "2015-04-09T14:17:23Z",
+  "closed": true,
   "closedAt": "2015-07-23T15:36:54Z",
   "merged": true,
   "mergedAt": "2015-07-23T15:36:54Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3806,
+    "proposed": 3813,
     "exploring": null,
     "accepted": null,
     "release": null,

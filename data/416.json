@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/416",
   "title": "Glimmer Components",
   "createdAt": "2018-12-14T02:10:06Z",
+  "closed": true,
   "closedAt": "2019-01-22T16:22:04Z",
   "merged": true,
   "mergedAt": "2019-01-22T16:22:04Z",
@@ -37,7 +38,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2461,
+    "proposed": 2468,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1027",
   "title": "EmberData | SchemaService",
   "createdAt": "2024-05-11T10:05:52Z",
+  "closed": true,
   "closedAt": "2024-06-07T17:09:39Z",
   "merged": true,
   "mergedAt": "2024-06-07T17:09:39Z",
@@ -62,7 +63,7 @@
     "exploring": 21,
     "accepted": 351,
     "release": 21,
-    "released": 88
+    "released": 95
   },
   "connected": [
     {
@@ -70,6 +71,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1030",
       "title": "Advance RFC #1027 `\"EmberData | SchemaService\"` to Stage Ready for Release",
       "createdAt": "2024-06-07T17:10:19Z",
+      "closed": true,
       "closedAt": "2025-05-23T18:38:10Z",
       "merged": true,
       "mergedAt": "2025-05-23T18:38:10Z",
@@ -102,6 +104,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1106",
       "title": "Advance RFC #1027 `\"EmberData | SchemaService\"` to Stage Released",
       "createdAt": "2025-05-23T18:38:54Z",
+      "closed": true,
       "closedAt": "2025-06-13T18:17:50Z",
       "merged": true,
       "mergedAt": "2025-06-13T18:17:50Z",
@@ -129,6 +132,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1109",
       "title": "Advance RFC #1027 `\"EmberData | SchemaService\"` to Stage Recommended",
       "createdAt": "2025-06-13T18:18:36Z",
+      "closed": false,
       "closedAt": null,
       "merged": false,
       "mergedAt": null,

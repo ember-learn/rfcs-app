@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/478",
   "title": "Tracked Properties Updates",
   "createdAt": "2019-04-18T05:50:35Z",
+  "closed": true,
   "closedAt": "2019-05-06T13:00:36Z",
   "merged": true,
   "mergedAt": "2019-05-06T13:00:36Z",
@@ -23,7 +24,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2336,
+    "proposed": 2343,
     "exploring": null,
     "accepted": null,
     "release": null,

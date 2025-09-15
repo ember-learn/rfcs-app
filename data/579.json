@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/579",
   "title": "Add fastboot to the default package.json",
   "createdAt": "2020-01-10T23:00:34Z",
+  "closed": true,
   "closedAt": "2023-11-03T07:30:54Z",
   "merged": false,
   "mergedAt": null,
@@ -14,15 +15,11 @@
       "label": "S-Proposed"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2068,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 1393
   },
   "connected": []
 }

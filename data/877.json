@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/877",
   "title": "Bump rfcs-tooling to fix ' null' replacement issue when opening advan…",
   "createdAt": "2022-11-30T17:59:04Z",
+  "closed": true,
   "closedAt": "2022-11-30T18:27:06Z",
   "merged": true,
   "mergedAt": "2022-11-30T18:27:06Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1014,
+    "proposed": 1021,
     "exploring": null,
     "accepted": null,
     "release": null,

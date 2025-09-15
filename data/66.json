@@ -3,20 +3,17 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/66",
   "title": "Outlet Focusing",
   "createdAt": "2015-06-14T23:40:15Z",
+  "closed": true,
   "closedAt": "2016-02-28T18:15:30Z",
   "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3739,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 259
   },
   "connected": []
 }

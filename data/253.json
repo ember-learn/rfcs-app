@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/253",
   "title": "Update 0252-browser-support-changes.md",
   "createdAt": "2017-09-25T16:20:24Z",
+  "closed": true,
   "closedAt": "2017-09-25T16:40:51Z",
   "merged": true,
   "mergedAt": "2017-09-25T16:40:51Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2906,
+    "proposed": 2913,
     "exploring": null,
     "accepted": null,
     "release": null,

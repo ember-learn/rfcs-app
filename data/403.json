@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/403",
   "title": "[DATA] Identifiers ",
   "createdAt": "2018-11-26T04:38:38Z",
+  "closed": true,
   "closedAt": "2019-04-04T20:08:34Z",
   "merged": true,
   "mergedAt": "2019-04-04T20:08:34Z",
@@ -28,7 +29,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2479,
+    "proposed": 2486,
     "exploring": null,
     "accepted": null,
     "release": null,

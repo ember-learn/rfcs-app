@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/276",
   "title": "Named Arguments Syntax (`{{@foo}}`)",
   "createdAt": "2017-12-10T16:42:36Z",
+  "closed": true,
   "closedAt": "2018-01-03T18:06:48Z",
   "merged": true,
   "mergedAt": "2018-01-03T18:06:48Z",
@@ -28,7 +29,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2830,
+    "proposed": 2837,
     "exploring": null,
     "accepted": null,
     "release": null,

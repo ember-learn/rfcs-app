@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/851",
   "title": "Fix frontmatter for two RFCs",
   "createdAt": "2022-09-01T17:05:19Z",
+  "closed": true,
   "closedAt": "2022-09-01T21:06:45Z",
   "merged": true,
   "mergedAt": "2022-09-01T21:06:45Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1104,
+    "proposed": 1111,
     "exploring": null,
     "accepted": null,
     "release": null,

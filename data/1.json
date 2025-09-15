@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1",
   "title": "RFC: Pass through attribute meta data to related Transform",
   "createdAt": "2014-08-14T18:00:42Z",
+  "closed": true,
   "closedAt": "2016-01-27T18:18:58Z",
   "merged": false,
   "mergedAt": null,
@@ -29,15 +30,11 @@
       "label": "Needs Response"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 4044,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 532
   },
   "connected": []
 }

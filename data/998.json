@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/998",
   "title": "Make fn built-in in strict-mode",
   "createdAt": "2023-12-22T19:02:22Z",
+  "closed": true,
   "closedAt": "2024-06-12T14:20:19Z",
   "merged": true,
   "mergedAt": "2024-06-12T14:20:19Z",
@@ -41,7 +42,7 @@
   "stageDuration": {
     "proposed": 29,
     "exploring": 145,
-    "accepted": 454,
+    "accepted": 461,
     "release": null,
     "released": null
   },
@@ -51,6 +52,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1032",
       "title": "Advance RFC #0998 `\"Make (fn) a built in helper\"` to Stage Ready for Release",
       "createdAt": "2024-06-12T14:21:12Z",
+      "closed": false,
       "closedAt": null,
       "merged": false,
       "mergedAt": null,

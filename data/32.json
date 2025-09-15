@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/32",
   "title": "Ember-Data and non-CRUD endpoints",
   "createdAt": "2015-02-05T03:33:27Z",
+  "closed": true,
   "closedAt": "2016-04-15T14:48:49Z",
   "merged": false,
   "mergedAt": null,
@@ -19,15 +20,11 @@
       "label": "Needs Response"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3869,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 436
   },
   "connected": []
 }

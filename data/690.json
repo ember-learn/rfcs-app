@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/690",
   "title": "Deprecate `{{attrs}}` in templates",
   "createdAt": "2020-12-23T03:13:24Z",
+  "closed": true,
   "closedAt": "2021-01-15T19:15:21Z",
   "merged": true,
   "mergedAt": "2021-01-15T19:15:21Z",
@@ -23,7 +24,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1721,
+    "proposed": 1728,
     "exploring": null,
     "accepted": null,
     "release": null,

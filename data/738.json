@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/738",
   "title": "rfc: ember-data | deprecate-model-reopen",
   "createdAt": "2021-04-24T04:33:55Z",
+  "closed": true,
   "closedAt": "2021-05-06T00:52:05Z",
   "merged": true,
   "mergedAt": "2021-05-06T00:52:05Z",
@@ -28,7 +29,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1599,
+    "proposed": 1606,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/669",
   "title": "Tracked Storage Primitives",
   "createdAt": "2020-09-30T21:45:05Z",
+  "closed": true,
   "closedAt": "2021-02-12T18:55:12Z",
   "merged": true,
   "mergedAt": "2021-02-12T18:55:12Z",
@@ -18,7 +19,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1804,
+    "proposed": 1812,
     "exploring": null,
     "accepted": null,
     "release": null,

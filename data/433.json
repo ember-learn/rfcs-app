@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/433",
   "title": "Accessible Routing ",
   "createdAt": "2019-01-18T17:16:07Z",
+  "closed": true,
   "closedAt": "2022-12-02T20:18:38Z",
   "merged": false,
   "mergedAt": null,
@@ -29,15 +30,11 @@
       "label": "T-routing"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2426,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 1415
   },
   "connected": []
 }

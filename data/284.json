@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/284",
   "title": "Splitting Ember into packages",
   "createdAt": "2017-12-13T18:39:23Z",
+  "closed": true,
   "closedAt": "2022-12-07T18:56:00Z",
   "merged": false,
   "mergedAt": null,
@@ -34,15 +35,11 @@
       "label": "S-Proposed"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2827,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 1821
   },
   "connected": []
 }

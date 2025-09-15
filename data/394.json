@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/394",
   "title": "Route actions",
   "createdAt": "2018-10-29T08:25:20Z",
+  "closed": true,
   "closedAt": "2019-01-04T20:45:44Z",
   "merged": false,
   "mergedAt": null,
@@ -29,15 +30,11 @@
       "label": "T-routing"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2507,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 68
   },
   "connected": []
 }

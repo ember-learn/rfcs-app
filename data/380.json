@@ -3,20 +3,17 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/380",
   "title": "Add queryParams to the router service",
   "createdAt": "2018-09-22T00:55:00Z",
+  "closed": true,
   "closedAt": "2021-03-14T16:36:57Z",
   "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2544,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 905
   },
   "connected": []
 }

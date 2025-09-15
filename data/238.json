@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/238",
   "title": "Ember Data JavaScript Modules API",
   "createdAt": "2017-07-25T13:34:56Z",
+  "closed": true,
   "closedAt": "2018-02-15T00:09:53Z",
   "merged": false,
   "mergedAt": null,
@@ -14,15 +15,11 @@
       "label": "T-ember-data"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2968,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 205
   },
   "connected": []
 }

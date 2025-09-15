@@ -3,20 +3,17 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/630",
   "title": "New browser support policy",
   "createdAt": "2020-05-22T09:43:37Z",
+  "closed": true,
   "closedAt": "2020-10-21T19:54:12Z",
   "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1936,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 153
   },
   "connected": []
 }

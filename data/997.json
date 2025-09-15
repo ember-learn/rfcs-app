@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/997",
   "title": "Make the `on` modifier built-in in strict-mode",
   "createdAt": "2023-12-22T19:01:32Z",
+  "closed": true,
   "closedAt": "2024-06-12T14:27:11Z",
   "merged": true,
   "mergedAt": "2024-06-12T14:27:11Z",
@@ -41,7 +42,7 @@
   "stageDuration": {
     "proposed": 29,
     "exploring": 145,
-    "accepted": 454,
+    "accepted": 461,
     "release": null,
     "released": null
   },
@@ -51,6 +52,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1033",
       "title": "Advance RFC #0997 `\"Make {{on}} a built in modifier\"` to Stage Ready for Release",
       "createdAt": "2024-06-12T14:28:03Z",
+      "closed": false,
       "closedAt": null,
       "merged": false,
       "mergedAt": null,

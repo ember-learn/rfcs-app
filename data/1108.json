@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1108",
   "title": "fix invalid date",
   "createdAt": "2025-06-10T14:20:29Z",
+  "closed": true,
   "closedAt": "2025-06-10T15:59:05Z",
   "merged": true,
   "mergedAt": "2025-06-10T15:59:05Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 91,
+    "proposed": 98,
     "exploring": null,
     "accepted": null,
     "release": null,

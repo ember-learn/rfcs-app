@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/461",
   "title": "[DATA] Singleton RecordData",
   "createdAt": "2019-03-07T04:06:27Z",
+  "closed": true,
   "closedAt": "2019-06-26T21:56:54Z",
   "merged": true,
   "mergedAt": "2019-06-26T21:56:54Z",
@@ -28,7 +29,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2378,
+    "proposed": 2385,
     "exploring": null,
     "accepted": null,
     "release": null,

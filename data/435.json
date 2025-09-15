@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/435",
   "title": "Forwarding Element Modifiers with \"Splattributes\"",
   "createdAt": "2019-01-19T06:31:13Z",
+  "closed": true,
   "closedAt": "2019-01-28T21:05:37Z",
   "merged": true,
   "mergedAt": "2019-01-28T21:05:37Z",
@@ -27,7 +28,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2425,
+    "proposed": 2432,
     "exploring": null,
     "accepted": null,
     "release": null,

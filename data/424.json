@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/424",
   "title": "fix: typo",
   "createdAt": "2018-12-21T20:41:25Z",
+  "closed": true,
   "closedAt": "2018-12-21T21:20:53Z",
   "merged": true,
   "mergedAt": "2018-12-21T21:20:53Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2453,
+    "proposed": 2461,
     "exploring": null,
     "accepted": null,
     "release": null,

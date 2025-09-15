@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/432",
   "title": "Contextual Helpers and Modifiers (a.k.a. \"first-class helpers/modifiers\")",
   "createdAt": "2019-01-14T22:57:20Z",
+  "closed": true,
   "closedAt": "2019-02-05T13:22:14Z",
   "merged": true,
   "mergedAt": "2019-02-05T13:22:14Z",
@@ -28,7 +29,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2429,
+    "proposed": 2436,
     "exploring": null,
     "accepted": null,
     "release": null,

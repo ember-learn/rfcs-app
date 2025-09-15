@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/214",
   "title": "Cleanup",
   "createdAt": "2017-03-14T14:55:35Z",
+  "closed": true,
   "closedAt": "2017-03-14T15:00:21Z",
   "merged": true,
   "mergedAt": "2017-03-14T15:00:21Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3101,
+    "proposed": 3108,
     "exploring": null,
     "accepted": null,
     "release": null,

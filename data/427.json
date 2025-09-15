@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/427",
   "title": "Add once-for-observer RFC",
   "createdAt": "2018-12-28T22:49:54Z",
+  "closed": true,
   "closedAt": "2019-02-11T22:20:21Z",
   "merged": false,
   "mergedAt": null,
@@ -19,15 +20,11 @@
       "label": "FCP to close"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2446,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 45
   },
   "connected": []
 }

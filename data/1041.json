@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1041",
   "title": "Deprecate target action support.",
   "createdAt": "2024-08-07T18:50:49Z",
+  "closed": true,
   "closedAt": "2025-07-25T18:16:38Z",
   "merged": true,
   "mergedAt": "2025-07-25T18:16:38Z",
@@ -41,7 +42,7 @@
   "stageDuration": {
     "proposed": 2,
     "exploring": 350,
-    "accepted": 46,
+    "accepted": 53,
     "release": null,
     "released": null
   },
@@ -51,6 +52,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1126",
       "title": "Advance RFC #1041 `\"Deprecate TargetActionSupport\"` to Stage Ready for Release",
       "createdAt": "2025-07-25T18:17:28Z",
+      "closed": false,
       "closedAt": null,
       "merged": false,
       "mergedAt": null,

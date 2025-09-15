@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/649",
   "title": "Deprecation Staging",
   "createdAt": "2020-07-24T02:15:34Z",
+  "closed": true,
   "closedAt": "2020-08-14T20:03:33Z",
   "merged": true,
   "mergedAt": "2020-08-14T20:03:33Z",
@@ -36,9 +37,9 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1873,
+    "proposed": 1880,
     "exploring": null,
-    "accepted": 970,
+    "accepted": 978,
     "release": null,
     "released": null
   },
@@ -48,6 +49,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/896",
       "title": "Advance RFC #0649 \"Deprecation Staging\" to Stage Ready for Release",
       "createdAt": "2023-01-12T21:16:31Z",
+      "closed": false,
       "closedAt": null,
       "merged": false,
       "mergedAt": null,

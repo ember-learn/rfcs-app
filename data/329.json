@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/329",
   "title": "Start RFC to deprecate the use of Ember Evented in Ember Data",
   "createdAt": "2018-05-01T13:06:43Z",
+  "closed": true,
   "closedAt": "2018-09-26T21:52:23Z",
   "merged": true,
   "mergedAt": "2018-09-26T21:52:23Z",
@@ -33,7 +34,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2688,
+    "proposed": 2695,
     "exploring": null,
     "accepted": null,
     "release": null,

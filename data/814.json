@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/814",
   "title": "Add Stylelint To Ember Blueprints",
   "createdAt": "2022-04-20T00:42:57Z",
+  "closed": true,
   "closedAt": "2022-10-20T15:49:17Z",
   "merged": true,
   "mergedAt": "2022-10-20T15:49:17Z",
@@ -23,7 +24,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1238,
+    "proposed": 1245,
     "exploring": null,
     "accepted": null,
     "release": null,

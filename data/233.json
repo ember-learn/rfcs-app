@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/233",
   "title": "Replace `any` in favour of `some` to align with regular JS",
   "createdAt": "2017-06-29T17:03:14Z",
+  "closed": true,
   "closedAt": "2020-01-18T12:53:00Z",
   "merged": false,
   "mergedAt": null,
@@ -24,15 +25,11 @@
       "label": "Needs Champion"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2994,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 933
   },
   "connected": []
 }

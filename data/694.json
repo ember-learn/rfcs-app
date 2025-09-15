@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/694",
   "title": "Argument Validation Primitives",
   "createdAt": "2020-12-26T20:08:59Z",
+  "closed": true,
   "closedAt": "2024-12-20T19:29:06Z",
   "merged": false,
   "mergedAt": null,
@@ -19,15 +20,11 @@
       "label": "FCP to close"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1717,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 1455
   },
   "connected": []
 }

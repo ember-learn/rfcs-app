@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/674",
   "title": "Deprecate transition methods of Controller and Route",
   "createdAt": "2020-10-12T19:15:11Z",
+  "closed": true,
   "closedAt": "2020-11-07T00:30:04Z",
   "merged": true,
   "mergedAt": "2020-11-07T00:30:04Z",
@@ -33,7 +34,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1793,
+    "proposed": 1800,
     "exploring": null,
     "accepted": null,
     "release": null,

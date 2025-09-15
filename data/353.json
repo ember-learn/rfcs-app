@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/353",
   "title": "Modifiers",
   "createdAt": "2018-08-16T23:50:17Z",
+  "closed": true,
   "closedAt": "2022-07-24T00:38:06Z",
   "merged": false,
   "mergedAt": null,
@@ -24,15 +25,11 @@
       "label": "T-framework"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2580,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 1438
   },
   "connected": []
 }

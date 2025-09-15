@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/966",
   "title": "Remove ember-cli-dependency-checker",
   "createdAt": "2023-09-22T16:16:55Z",
+  "closed": true,
   "closedAt": "2025-05-23T18:56:02Z",
   "merged": false,
   "mergedAt": null,
@@ -14,15 +15,11 @@
       "label": "S-Proposed"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 718,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 610
   },
   "connected": []
 }

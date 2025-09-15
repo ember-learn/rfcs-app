@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/443",
   "title": "`trustedHtml` and `trusted-html`",
   "createdAt": "2019-02-09T11:10:14Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,
@@ -50,7 +51,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 1393,
-    "exploring": 1011,
+    "exploring": 1019,
     "accepted": null,
     "release": null,
     "released": null

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/692",
   "title": "Deprecate Array Observers",
   "createdAt": "2020-12-23T20:43:49Z",
+  "closed": true,
   "closedAt": "2021-01-15T19:12:49Z",
   "merged": true,
   "mergedAt": "2021-01-15T19:12:49Z",
@@ -18,7 +19,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1720,
+    "proposed": 1728,
     "exploring": null,
     "accepted": null,
     "release": null,

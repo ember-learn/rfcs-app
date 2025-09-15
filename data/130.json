@@ -3,20 +3,17 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/130",
   "title": "RFC doc for adding uniqBy to enumerable",
   "createdAt": "2016-04-03T18:51:31Z",
+  "closed": true,
   "closedAt": "2016-04-15T19:08:55Z",
   "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3446,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 13
   },
   "connected": []
 }

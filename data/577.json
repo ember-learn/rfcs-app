@@ -3,20 +3,17 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/577",
   "title": "Tracked Maps and Sets",
   "createdAt": "2020-01-10T21:57:33Z",
+  "closed": true,
   "closedAt": "2022-07-23T23:51:16Z",
   "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2068,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 926
   },
   "connected": []
 }

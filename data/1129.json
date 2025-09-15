@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1129",
   "title": "Deprecate Computed",
   "createdAt": "2025-08-12T17:21:20Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,
@@ -35,7 +36,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 4,
-    "exploring": 25,
+    "exploring": 32,
     "accepted": null,
     "release": null,
     "released": null

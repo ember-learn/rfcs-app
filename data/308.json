@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/308",
   "title": "Transition Away From Property Fallback Behavior",
   "createdAt": "2018-02-16T20:18:55Z",
+  "closed": true,
   "closedAt": "2018-06-22T19:00:56Z",
   "merged": true,
   "mergedAt": "2018-06-22T19:00:56Z",
@@ -23,7 +24,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2761,
+    "proposed": 2769,
     "exploring": null,
     "accepted": null,
     "release": null,

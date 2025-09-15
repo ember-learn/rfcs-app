@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/491",
   "title": "Deprecate disconnectOutlet",
   "createdAt": "2019-05-20T13:54:26Z",
+  "closed": true,
   "closedAt": "2019-06-03T14:40:51Z",
   "merged": true,
   "mergedAt": "2019-06-03T14:40:51Z",
@@ -18,7 +19,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2304,
+    "proposed": 2311,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/153",
   "title": "RFC: Asset Manifest",
   "createdAt": "2016-07-17T22:45:10Z",
+  "closed": true,
   "closedAt": "2018-03-09T22:20:10Z",
   "merged": false,
   "mergedAt": null,
@@ -14,15 +15,11 @@
       "label": "Final Comment Period"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": true,
   "stageDuration": {
-    "proposed": 3340,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 600
   },
   "connected": []
 }

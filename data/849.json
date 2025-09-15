@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/849",
   "title": "data: updates to the polymorphic relationships rfc",
   "createdAt": "2022-08-30T23:31:52Z",
+  "closed": true,
   "closedAt": "2022-09-13T00:17:51Z",
   "merged": true,
   "mergedAt": "2022-09-13T00:17:51Z",
@@ -23,7 +24,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1105,
+    "proposed": 1112,
     "exploring": null,
     "accepted": null,
     "release": null,

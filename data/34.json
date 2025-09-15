@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/34",
   "title": "RFC: Default Container Values",
   "createdAt": "2015-02-15T23:59:50Z",
+  "closed": true,
   "closedAt": "2015-05-28T02:20:31Z",
   "merged": false,
   "mergedAt": null,
@@ -14,15 +15,11 @@
       "label": "Needs Response"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3858,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 102
   },
   "connected": []
 }

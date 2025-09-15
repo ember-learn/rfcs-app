@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/328",
   "title": "Include `ember-cli-build-notifications` by default",
   "createdAt": "2018-04-27T20:46:07Z",
+  "closed": true,
   "closedAt": "2020-11-20T19:41:36Z",
   "merged": false,
   "mergedAt": null,
@@ -14,15 +15,11 @@
       "label": "FCP to close"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2691,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 938
   },
   "connected": []
 }

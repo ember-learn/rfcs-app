@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/957",
   "title": "Render Aware Scheduler Interface",
   "createdAt": "2023-09-09T21:32:21Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,
@@ -110,7 +111,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 1,
-    "exploring": 730,
+    "exploring": 738,
     "accepted": null,
     "release": null,
     "released": null

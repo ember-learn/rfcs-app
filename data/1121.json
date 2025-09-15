@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1121",
   "title": "Strip <template> indentation by default",
   "createdAt": "2025-07-09T14:21:50Z",
+  "closed": true,
   "closedAt": "2025-08-08T18:11:52Z",
   "merged": true,
   "mergedAt": "2025-08-08T18:11:52Z",
@@ -41,7 +42,7 @@
   "stageDuration": {
     "proposed": 17,
     "exploring": 14,
-    "accepted": 32,
+    "accepted": 39,
     "release": null,
     "released": null
   },
@@ -51,6 +52,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1127",
       "title": "Advance RFC #1121 `\"Default Template invisible character Minification\"` to Stage Ready for Release",
       "createdAt": "2025-08-08T18:12:34Z",
+      "closed": false,
       "closedAt": null,
       "merged": false,
       "mergedAt": null,

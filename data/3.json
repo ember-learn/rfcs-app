@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/3",
   "title": "RFC: Block params",
   "createdAt": "2014-08-18T17:39:26Z",
+  "closed": true,
   "closedAt": "2014-11-20T14:51:27Z",
   "merged": true,
   "mergedAt": "2014-11-20T14:51:27Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 4040,
+    "proposed": 4047,
     "exploring": null,
     "accepted": null,
     "release": null,

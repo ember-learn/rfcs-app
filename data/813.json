@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/813",
   "title": "<template> layering proposal",
   "createdAt": "2022-04-16T22:00:45Z",
+  "closed": true,
   "closedAt": "2023-06-30T18:23:34Z",
   "merged": false,
   "mergedAt": null,
@@ -59,7 +60,7 @@
       "label": "FCP to close"
     }
   ],
-  "currentStage": "exploring",
+  "currentStage": "closed",
   "labels": [
     {
       "event": "labeled",
@@ -69,11 +70,7 @@
   ],
   "fcp": false,
   "stageDuration": {
-    "proposed": 286,
-    "exploring": 955,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 440
   },
   "connected": []
 }

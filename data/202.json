@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/202",
   "title": "Allow the `with` helper accept named arguments",
   "createdAt": "2017-01-17T12:53:47Z",
+  "closed": true,
   "closedAt": "2020-11-03T18:44:05Z",
   "merged": false,
   "mergedAt": null,
@@ -24,15 +25,11 @@
       "label": "Needs Champion"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3157,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 1387
   },
   "connected": []
 }

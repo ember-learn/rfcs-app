@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/487",
   "title": "Custom Model Classes",
   "createdAt": "2019-05-09T18:30:34Z",
+  "closed": true,
   "closedAt": "2019-06-29T04:04:07Z",
   "merged": true,
   "mergedAt": "2019-06-29T04:04:07Z",
@@ -23,7 +24,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2315,
+    "proposed": 2322,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/415",
   "title": "Render Element Modifiers",
   "createdAt": "2018-12-14T00:20:23Z",
+  "closed": true,
   "closedAt": "2019-01-22T16:26:03Z",
   "merged": true,
   "mergedAt": "2019-01-22T16:26:03Z",
@@ -37,7 +38,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2461,
+    "proposed": 2468,
     "exploring": null,
     "accepted": null,
     "release": null,

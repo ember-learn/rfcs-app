@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/621",
   "title": "Introduce array and object literal syntax in templates",
   "createdAt": "2020-05-01T23:44:17Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,
@@ -23,7 +24,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1956,
+    "proposed": 1963,
     "exploring": null,
     "accepted": null,
     "release": null,

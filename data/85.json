@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/85",
   "title": "Heavy petting for the contextual component RFC",
   "createdAt": "2015-08-15T04:09:55Z",
+  "closed": true,
   "closedAt": "2015-08-15T17:42:03Z",
   "merged": true,
   "mergedAt": "2015-08-15T17:42:03Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3678,
+    "proposed": 3685,
     "exploring": null,
     "accepted": null,
     "release": null,

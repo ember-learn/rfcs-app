@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/593",
   "title": "Spreadable Arguments",
   "createdAt": "2020-02-12T13:04:43Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,
@@ -40,7 +41,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 1081,
-    "exploring": 955,
+    "exploring": 963,
     "accepted": null,
     "release": null,
     "released": null

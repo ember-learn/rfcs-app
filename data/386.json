@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/386",
   "title": "Remove jQuery by default",
   "createdAt": "2018-10-07T13:27:28Z",
+  "closed": true,
   "closedAt": "2019-01-11T20:53:14Z",
   "merged": true,
   "mergedAt": "2019-01-11T20:53:14Z",
@@ -28,7 +29,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2529,
+    "proposed": 2536,
     "exploring": null,
     "accepted": null,
     "release": null,

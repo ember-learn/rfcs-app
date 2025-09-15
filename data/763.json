@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/763",
   "title": "Asset Import Spec",
   "createdAt": "2021-08-13T20:23:58Z",
+  "closed": true,
   "closedAt": "2023-10-27T18:16:12Z",
   "merged": true,
   "mergedAt": "2023-10-27T18:16:12Z",
@@ -44,7 +45,7 @@
   "stageDuration": {
     "proposed": 475,
     "exploring": 331,
-    "accepted": 683,
+    "accepted": 690,
     "release": null,
     "released": null
   },
@@ -54,6 +55,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/983",
       "title": "Advance RFC #0763 `\"Asset Import Spec\"` to Stage Ready for Release",
       "createdAt": "2023-10-27T18:17:07Z",
+      "closed": false,
       "closedAt": null,
       "merged": false,
       "mergedAt": null,

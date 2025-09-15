@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/620",
   "title": "Revise RFC #389 with details about its argument",
   "createdAt": "2020-04-29T21:14:09Z",
+  "closed": true,
   "closedAt": "2020-05-01T19:32:02Z",
   "merged": true,
   "mergedAt": "2020-05-01T19:32:02Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1958,
+    "proposed": 1966,
     "exploring": null,
     "accepted": null,
     "release": null,

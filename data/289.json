@@ -3,20 +3,17 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/289",
   "title": "Consume node_modules with Ember-CLI",
   "createdAt": "2017-12-28T01:43:45Z",
+  "closed": true,
   "closedAt": "2017-12-30T01:37:55Z",
   "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2812,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 2
   },
   "connected": []
 }

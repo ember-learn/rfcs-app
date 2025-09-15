@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/784",
   "title": "Introduce `no-globals` optional feature",
   "createdAt": "2022-01-07T11:48:41Z",
+  "closed": true,
   "closedAt": "2023-07-29T10:07:47Z",
   "merged": false,
   "mergedAt": null,
@@ -54,7 +55,7 @@
       "label": "S-Exploring"
     }
   ],
-  "currentStage": "exploring",
+  "currentStage": "closed",
   "labels": [
     {
       "event": "labeled",
@@ -64,11 +65,7 @@
   ],
   "fcp": false,
   "stageDuration": {
-    "proposed": 386,
-    "exploring": 955,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 568
   },
   "connected": []
 }

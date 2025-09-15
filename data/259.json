@@ -3,20 +3,17 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/259",
   "title": "Marketing Releases",
   "createdAt": "2017-10-11T23:00:05Z",
+  "closed": true,
   "closedAt": "2018-09-07T20:03:20Z",
   "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2889,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 331
   },
   "connected": []
 }

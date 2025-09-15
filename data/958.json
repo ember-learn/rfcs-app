@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/958",
   "title": "Update automation to fix spurious \"more than one RFC added or modified\"",
   "createdAt": "2023-09-13T21:42:21Z",
+  "closed": true,
   "closedAt": "2023-09-14T03:14:01Z",
   "merged": true,
   "mergedAt": "2023-09-14T03:14:01Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 726,
+    "proposed": 734,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/717",
   "title": "Swap get-changed-files action for another ",
   "createdAt": "2021-02-03T04:54:51Z",
+  "closed": true,
   "closedAt": "2021-02-03T14:31:09Z",
   "merged": true,
   "mergedAt": "2021-02-03T14:31:09Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1679,
+    "proposed": 1686,
     "exploring": null,
     "accepted": null,
     "release": null,

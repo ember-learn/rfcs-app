@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/975",
   "title": "Add context API",
   "createdAt": "2023-09-28T09:14:10Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,
@@ -55,7 +56,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 170,
-    "exploring": 543,
+    "exploring": 550,
     "accepted": null,
     "release": null,
     "released": null

@@ -3,20 +3,17 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/549",
   "title": "Ember dev for other platforms",
   "createdAt": "2019-10-22T23:57:01Z",
+  "closed": true,
   "closedAt": "2022-07-24T00:07:25Z",
   "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2148,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 1006
   },
   "connected": []
 }

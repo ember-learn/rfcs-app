@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/467",
   "title": "Injection Hook Normalization",
   "createdAt": "2019-03-15T05:27:54Z",
+  "closed": true,
   "closedAt": "2020-06-10T03:21:00Z",
   "merged": false,
   "mergedAt": null,
@@ -24,15 +25,11 @@
       "label": "Final Comment Period"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2370,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 453
   },
   "connected": []
 }

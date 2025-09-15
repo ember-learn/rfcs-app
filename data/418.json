@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/418",
   "title": "Deprecate Route Render APIs",
   "createdAt": "2018-12-19T19:09:14Z",
+  "closed": true,
   "closedAt": "2019-02-15T20:20:46Z",
   "merged": true,
   "mergedAt": "2019-02-15T20:20:46Z",
@@ -28,7 +29,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2456,
+    "proposed": 2463,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/340",
   "title": "Deprecate Ember.merge",
   "createdAt": "2018-06-19T18:32:38Z",
+  "closed": true,
   "closedAt": "2018-08-31T21:02:09Z",
   "merged": true,
   "mergedAt": "2018-08-31T21:02:09Z",
@@ -23,7 +24,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2639,
+    "proposed": 2646,
     "exploring": null,
     "accepted": null,
     "release": null,

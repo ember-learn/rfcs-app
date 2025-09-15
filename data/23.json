@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/23",
   "title": "Ember Data Filter Objects",
   "createdAt": "2014-11-17T22:51:55Z",
+  "closed": true,
   "closedAt": "2018-02-28T19:54:52Z",
   "merged": false,
   "mergedAt": null,
@@ -19,15 +20,11 @@
       "label": "Needs Response"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3948,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 1199
   },
   "connected": []
 }

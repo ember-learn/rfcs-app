@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1003",
   "title": "Deprecate `import Ember from 'ember'`",
   "createdAt": "2024-01-22T19:56:02Z",
+  "closed": true,
   "closedAt": "2024-03-22T18:12:08Z",
   "merged": true,
   "mergedAt": "2024-03-22T18:12:08Z",
@@ -43,7 +44,7 @@
     "exploring": 35,
     "accepted": 330,
     "release": 91,
-    "released": 88
+    "released": 95
   },
   "connected": [
     {
@@ -51,6 +52,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1015",
       "title": "Advance RFC #1003 `\"Deprecate `import Ember from 'ember';\"` to Stage Ready for Release",
       "createdAt": "2024-03-22T18:12:58Z",
+      "closed": true,
       "closedAt": "2025-02-14T19:27:48Z",
       "merged": true,
       "mergedAt": "2025-02-14T19:27:48Z",
@@ -88,6 +90,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1084",
       "title": "Advance RFC #1003 `\"Deprecate `import Ember from 'ember';\"` to Stage Released",
       "createdAt": "2025-03-14T18:53:05Z",
+      "closed": true,
       "closedAt": "2025-06-13T18:19:03Z",
       "merged": true,
       "mergedAt": "2025-06-13T18:19:03Z",
@@ -110,6 +113,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1110",
       "title": "Advance RFC #1003 `\"Deprecate `import Ember from 'ember';\"` to Stage Recommended",
       "createdAt": "2025-06-13T18:19:57Z",
+      "closed": false,
       "closedAt": null,
       "merged": false,
       "mergedAt": null,

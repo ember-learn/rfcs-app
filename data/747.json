@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/747",
   "title": "Standardize on @ember/legacy-built-in-components in the RFC",
   "createdAt": "2021-05-11T20:00:45Z",
+  "closed": true,
   "closedAt": "2021-05-12T08:04:19Z",
   "merged": true,
   "mergedAt": "2021-05-12T08:04:19Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1581,
+    "proposed": 1589,
     "exploring": null,
     "accepted": null,
     "release": null,

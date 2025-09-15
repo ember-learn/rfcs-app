@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1077",
   "title": "Update 1046-template-tag-in-routes.md",
   "createdAt": "2025-03-03T16:43:41Z",
+  "closed": true,
   "closedAt": "2025-03-03T16:49:43Z",
   "merged": true,
   "mergedAt": "2025-03-03T16:49:43Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 190,
+    "proposed": 197,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1099",
   "title": " renderComponent()",
   "createdAt": "2025-05-01T22:01:17Z",
+  "closed": true,
   "closedAt": "2025-08-08T18:14:43Z",
   "merged": true,
   "mergedAt": "2025-08-08T18:14:43Z",
@@ -29,7 +30,7 @@
       "label": "Final Comment Period"
     }
   ],
-  "currentStage": "accepted",
+  "currentStage": "release",
   "labels": [
     {
       "event": "labeled",
@@ -37,12 +38,12 @@
       "label": "S-Exploring"
     }
   ],
-  "fcp": true,
+  "fcp": false,
   "stageDuration": {
     "proposed": 1,
     "exploring": 98,
-    "accepted": 32,
-    "release": null,
+    "accepted": 35,
+    "release": 4,
     "released": null
   },
   "connected": [
@@ -51,9 +52,10 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1128",
       "title": "Advance RFC #1099 `\"renderComponent\"` to Stage Ready for Release",
       "createdAt": "2025-08-08T18:15:29Z",
-      "closedAt": null,
-      "merged": false,
-      "mergedAt": null,
+      "closed": true,
+      "closedAt": "2025-09-12T18:11:57Z",
+      "merged": true,
+      "mergedAt": "2025-09-12T18:11:57Z",
       "assignees": [],
       "timelineItems": [
         {
@@ -70,6 +72,29 @@
           "event": "labeled",
           "createdAt": "2025-09-05T18:23:34Z",
           "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 1144,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1144",
+      "title": "Advance RFC #1099 `\"renderComponent\"` to Stage Released",
+      "createdAt": "2025-09-12T18:12:42Z",
+      "closed": false,
+      "closedAt": null,
+      "merged": false,
+      "mergedAt": null,
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-09-12T18:12:42Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-09-12T18:12:43Z",
+          "label": "S-Released"
         }
       ]
     }

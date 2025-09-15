@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/963",
   "title": "Docs fix - Update README.md with info about the app",
   "createdAt": "2023-09-18T15:58:20Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 722,
+    "proposed": 729,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/5",
   "title": "RFC: JSON Patch support for Ember Data",
   "createdAt": "2014-08-23T00:32:07Z",
+  "closed": true,
   "closedAt": "2016-01-09T00:03:24Z",
   "merged": false,
   "mergedAt": null,
@@ -19,15 +20,11 @@
       "label": "Needs Response"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 4035,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 504
   },
   "connected": []
 }

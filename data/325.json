@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/325",
   "title": "Fixed spelling mistake :)",
   "createdAt": "2018-04-10T06:43:24Z",
+  "closed": true,
   "closedAt": "2018-04-10T06:44:56Z",
   "merged": true,
   "mergedAt": "2018-04-10T06:44:56Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2709,
+    "proposed": 2716,
     "exploring": null,
     "accepted": null,
     "release": null,

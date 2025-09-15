@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/21",
   "title": "Provide a way to mark a model as dirty when relationships or related model properties change.",
   "createdAt": "2014-11-13T23:49:03Z",
+  "closed": true,
   "closedAt": "2021-04-28T21:26:26Z",
   "merged": false,
   "mergedAt": null,
@@ -29,15 +30,11 @@
       "label": "FCP to close"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3952,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 2358
   },
   "connected": []
 }

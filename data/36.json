@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/36",
   "title": "RFC: Optional Segments in Routing",
   "createdAt": "2015-02-24T01:39:22Z",
+  "closed": true,
   "closedAt": "2022-07-23T18:08:39Z",
   "merged": false,
   "mergedAt": null,
@@ -29,15 +30,11 @@
       "label": "T-routing"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3850,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 2707
   },
   "connected": []
 }

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/67",
   "title": "Better record polymorphism",
   "createdAt": "2015-06-19T17:08:35Z",
+  "closed": true,
   "closedAt": "2022-07-25T18:13:25Z",
   "merged": false,
   "mergedAt": null,
@@ -19,15 +20,11 @@
       "label": "T-ember-data"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3735,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 2594
   },
   "connected": []
 }

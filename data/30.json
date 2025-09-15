@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/30",
   "title": "Don't update query params if there was no transition",
   "createdAt": "2015-01-23T23:35:18Z",
+  "closed": true,
   "closedAt": "2015-06-07T18:43:35Z",
   "merged": false,
   "mergedAt": null,
@@ -14,15 +15,11 @@
       "label": "Needs Response"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3881,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 135
   },
   "connected": []
 }

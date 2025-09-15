@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/642",
   "title": "Simplifying Schema Definition Service type signatures",
   "createdAt": "2020-06-24T20:46:25Z",
+  "closed": true,
   "closedAt": "2022-02-12T22:05:24Z",
   "merged": false,
   "mergedAt": null,
@@ -19,15 +20,11 @@
       "label": "Final Comment Period"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": true,
   "stageDuration": {
-    "proposed": 1902,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 599
   },
   "connected": []
 }

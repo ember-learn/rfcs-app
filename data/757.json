@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/757",
   "title": "Default Modifier Manager",
   "createdAt": "2021-07-21T22:14:52Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,
@@ -40,7 +41,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 498,
-    "exploring": 1013,
+    "exploring": 1020,
     "accepted": null,
     "release": null,
     "released": null

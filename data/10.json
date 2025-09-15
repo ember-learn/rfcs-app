@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/10",
   "title": "RFC: Engines",
   "createdAt": "2014-10-25T00:32:05Z",
+  "closed": true,
   "closedAt": "2016-04-11T14:40:10Z",
   "merged": true,
   "mergedAt": "2016-04-11T14:40:10Z",
@@ -23,7 +24,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3972,
+    "proposed": 3979,
     "exploring": null,
     "accepted": null,
     "release": null,

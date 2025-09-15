@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/701",
   "title": "Update frontmatter format for RFC #680",
   "createdAt": "2021-01-08T19:23:06Z",
+  "closed": true,
   "closedAt": "2021-01-08T20:39:12Z",
   "merged": true,
   "mergedAt": "2021-01-08T20:39:12Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1704,
+    "proposed": 1712,
     "exploring": null,
     "accepted": null,
     "release": null,

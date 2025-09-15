@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/481",
   "title": "Component Templates Co-location",
   "createdAt": "2019-04-23T06:39:33Z",
+  "closed": true,
   "closedAt": "2019-05-31T20:32:15Z",
   "merged": true,
   "mergedAt": "2019-05-31T20:32:15Z",
@@ -52,7 +53,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2331,
+    "proposed": 2338,
     "exploring": null,
     "accepted": null,
     "release": null,

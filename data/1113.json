@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1113",
   "title": "Deprecate Comparable",
   "createdAt": "2025-06-13T19:54:42Z",
+  "closed": true,
   "closedAt": "2025-06-20T20:34:56Z",
   "merged": false,
   "mergedAt": null,
@@ -24,7 +25,7 @@
       "label": "S-Proposed"
     }
   ],
-  "currentStage": "exploring",
+  "currentStage": "closed",
   "labels": [
     {
       "event": "labeled",
@@ -34,11 +35,7 @@
   ],
   "fcp": false,
   "stageDuration": {
-    "proposed": 7,
-    "exploring": 81,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 8
   },
   "connected": []
 }

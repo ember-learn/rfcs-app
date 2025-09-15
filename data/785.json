@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/785",
   "title": " Introduce new test helpers for rendering (and re-rendering) that obviate the need for `get` and `set`",
   "createdAt": "2022-01-07T19:42:46Z",
+  "closed": true,
   "closedAt": "2022-04-15T18:24:23Z",
   "merged": true,
   "mergedAt": "2022-04-15T18:24:23Z",
@@ -43,9 +44,9 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1340,
+    "proposed": 1348,
     "exploring": null,
-    "accepted": 649,
+    "accepted": 657,
     "release": null,
     "released": null
   },
@@ -55,6 +56,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/991",
       "title": "Advance RFC #0785 `\"Introduce new test helpers for rendering (and re-rendering) that obviate the need for get and set\"` to Stage Recommended",
       "createdAt": "2023-11-29T19:55:37Z",
+      "closed": false,
       "closedAt": null,
       "merged": false,
       "mergedAt": null,

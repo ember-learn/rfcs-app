@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/594",
   "title": "set helper",
   "createdAt": "2020-02-20T19:24:16Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,
@@ -23,7 +24,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2027,
+    "proposed": 2035,
     "exploring": null,
     "accepted": null,
     "release": null,

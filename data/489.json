@@ -3,20 +3,17 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/489",
   "title": "Use Empress to render the Ember RFCs",
   "createdAt": "2019-05-16T11:01:45Z",
+  "closed": true,
   "closedAt": "2022-07-24T13:26:52Z",
   "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2308,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 1166
   },
   "connected": []
 }

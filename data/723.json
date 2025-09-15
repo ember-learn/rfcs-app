@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/723",
   "title": "Update 0460-yieldable-named-blocks.md",
   "createdAt": "2021-02-26T18:01:07Z",
+  "closed": true,
   "closedAt": "2021-02-27T01:50:55Z",
   "merged": true,
   "mergedAt": "2021-02-27T01:50:55Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1656,
+    "proposed": 1663,
     "exploring": null,
     "accepted": null,
     "release": null,

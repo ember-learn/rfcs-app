@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/986",
   "title": "Unify ember and glimmer(vm) repos",
   "createdAt": "2023-11-07T15:06:29Z",
+  "closed": true,
   "closedAt": "2023-12-27T16:08:20Z",
   "merged": false,
   "mergedAt": null,
@@ -14,15 +15,11 @@
       "label": "S-Proposed"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 672,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 51
   },
   "connected": []
 }

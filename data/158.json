@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/158",
   "title": "RFC: Asset Loader Service",
   "createdAt": "2016-07-22T17:01:58Z",
+  "closed": true,
   "closedAt": "2018-03-09T22:19:29Z",
   "merged": false,
   "mergedAt": null,
@@ -19,15 +20,11 @@
       "label": "Final Comment Period"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3336,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 596
   },
   "connected": []
 }

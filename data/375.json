@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/375",
   "title": "Deprecate Computed `.property()` Modifier",
   "createdAt": "2018-09-14T17:49:00Z",
+  "closed": true,
   "closedAt": "2018-10-26T15:38:47Z",
   "merged": true,
   "mergedAt": "2018-10-26T15:38:46Z",
@@ -28,7 +29,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2552,
+    "proposed": 2559,
     "exploring": null,
     "accepted": null,
     "release": null,

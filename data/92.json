@@ -3,20 +3,17 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/92",
   "title": "`url-for` helper",
   "createdAt": "2015-09-13T13:46:40Z",
+  "closed": true,
   "closedAt": "2016-10-14T19:25:52Z",
   "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3649,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 398
   },
   "connected": []
 }

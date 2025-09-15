@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1112",
   "title": "Deprecate Ember Proxies",
   "createdAt": "2025-06-13T19:45:33Z",
+  "closed": true,
   "closedAt": "2025-08-15T18:55:24Z",
   "merged": true,
   "mergedAt": "2025-08-15T18:55:24Z",
@@ -41,7 +42,7 @@
   "stageDuration": {
     "proposed": 7,
     "exploring": 57,
-    "accepted": 25,
+    "accepted": 32,
     "release": null,
     "released": null
   },
@@ -51,6 +52,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1135",
       "title": "Advance RFC #1112 `\"Deprecating Ember Proxies\"` to Stage Ready for Release",
       "createdAt": "2025-08-15T18:56:03Z",
+      "closed": false,
       "closedAt": null,
       "merged": false,
       "mergedAt": null,

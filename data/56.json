@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/56",
   "title": "Release cycle improvements",
   "createdAt": "2015-05-22T05:32:15Z",
+  "closed": true,
   "closedAt": "2015-10-02T18:51:04Z",
   "merged": true,
   "mergedAt": "2015-10-02T18:51:04Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3763,
+    "proposed": 3770,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/818",
   "title": "Fix stage for accepted RFCs",
   "createdAt": "2022-05-09T16:22:21Z",
+  "closed": true,
   "closedAt": "2022-05-28T07:50:19Z",
   "merged": true,
   "mergedAt": "2022-05-28T07:50:19Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1219,
+    "proposed": 1226,
     "exploring": null,
     "accepted": null,
     "release": null,

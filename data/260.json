@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/260",
   "title": "Serializer Test Helpers",
   "createdAt": "2017-10-18T22:11:53Z",
+  "closed": true,
   "closedAt": "2019-04-24T21:41:35Z",
   "merged": false,
   "mergedAt": null,
@@ -19,15 +20,11 @@
       "label": "FCP to close"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2882,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 553
   },
   "connected": []
 }

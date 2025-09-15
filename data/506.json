@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/506",
   "title": "Support Populating head tags in Routes",
   "createdAt": "2019-06-21T20:03:41Z",
+  "closed": true,
   "closedAt": "2022-09-30T18:13:57Z",
   "merged": false,
   "mergedAt": null,
@@ -14,15 +15,11 @@
       "label": "FCP to close"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2271,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 1197
   },
   "connected": []
 }

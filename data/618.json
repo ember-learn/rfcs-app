@@ -3,20 +3,17 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/618",
   "title": "Update 0000-template.md",
   "createdAt": "2020-04-22T18:11:19Z",
+  "closed": true,
   "closedAt": "2020-04-22T18:16:47Z",
   "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1966,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 1
   },
   "connected": []
 }

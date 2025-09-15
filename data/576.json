@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/576",
   "title": "Move HTTP Mock to addon",
   "createdAt": "2020-01-10T02:00:36Z",
+  "closed": true,
   "closedAt": "2023-10-20T21:09:37Z",
   "merged": false,
   "mergedAt": null,
@@ -34,7 +35,7 @@
       "label": "FCP to close"
     }
   ],
-  "currentStage": "exploring",
+  "currentStage": "closed",
   "labels": [
     {
       "event": "labeled",
@@ -44,11 +45,7 @@
   ],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1063,
-    "exploring": 1007,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 1380
   },
   "connected": []
 }

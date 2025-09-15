@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/968",
   "title": "Fix title of RFC",
   "createdAt": "2023-09-22T18:26:10Z",
+  "closed": true,
   "closedAt": "2023-09-23T01:39:07Z",
   "merged": true,
   "mergedAt": "2023-09-23T01:39:07Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 718,
+    "proposed": 725,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -3,20 +3,17 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/6",
   "title": "first draft of namespaced resolver proposal",
   "createdAt": "2014-08-29T18:08:58Z",
+  "closed": true,
   "closedAt": "2014-08-30T09:01:23Z",
   "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 4029,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 1
   },
   "connected": []
 }

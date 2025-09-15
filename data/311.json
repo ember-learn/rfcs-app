@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/311",
   "title": "Introduce `<AngleBracketInvocationSyntax />`",
   "createdAt": "2018-03-11T04:35:51Z",
+  "closed": true,
   "closedAt": "2018-05-04T18:15:31Z",
   "merged": true,
   "mergedAt": "2018-05-04T18:15:31Z",
@@ -23,7 +24,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2739,
+    "proposed": 2746,
     "exploring": null,
     "accepted": null,
     "release": null,

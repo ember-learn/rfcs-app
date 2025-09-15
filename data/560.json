@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/560",
   "title": "Adding Equality Operators to Templates",
   "createdAt": "2019-12-08T20:45:34Z",
+  "closed": true,
   "closedAt": "2021-01-29T19:17:29Z",
   "merged": true,
   "mergedAt": "2021-01-29T19:17:29Z",
@@ -33,7 +34,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2101,
+    "proposed": 2109,
     "exploring": null,
     "accepted": null,
     "release": null,

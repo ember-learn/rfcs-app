@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1014",
   "title": "Introduce \"Ember Language Tooling Roadmap\" RFC",
   "createdAt": "2024-03-17T01:26:28Z",
+  "closed": true,
   "closedAt": "2024-12-13T19:36:06Z",
   "merged": false,
   "mergedAt": null,
@@ -24,7 +25,7 @@
       "label": "S-Exploring"
     }
   ],
-  "currentStage": "exploring",
+  "currentStage": "closed",
   "labels": [
     {
       "event": "labeled",
@@ -34,11 +35,7 @@
   ],
   "fcp": false,
   "stageDuration": {
-    "proposed": 6,
-    "exploring": 536,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 272
   },
   "connected": []
 }

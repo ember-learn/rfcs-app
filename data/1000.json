@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1000",
   "title": "Make array built-in in strict-mode",
   "createdAt": "2023-12-22T19:04:19Z",
+  "closed": true,
   "closedAt": "2024-06-12T14:36:10Z",
   "merged": true,
   "mergedAt": "2024-06-12T14:36:10Z",
@@ -41,7 +42,7 @@
   "stageDuration": {
     "proposed": 29,
     "exploring": 145,
-    "accepted": 454,
+    "accepted": 461,
     "release": null,
     "released": null
   },
@@ -51,6 +52,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1034",
       "title": "Advance RFC #1000 `\"Make (array) a built in helper\"` to Stage Ready for Release",
       "createdAt": "2024-06-12T14:37:25Z",
+      "closed": false,
       "closedAt": null,
       "merged": false,
       "mergedAt": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/322",
   "title": "Deprecation of copy and Copyable",
   "createdAt": "2018-03-24T21:45:27Z",
+  "closed": true,
   "closedAt": "2018-04-27T18:07:58Z",
   "merged": true,
   "mergedAt": "2018-04-27T18:07:58Z",
@@ -23,7 +24,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2725,
+    "proposed": 2733,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/617",
   "title": "RFC Stages",
   "createdAt": "2020-04-22T17:49:02Z",
+  "closed": true,
   "closedAt": "2020-09-18T19:08:36Z",
   "merged": true,
   "mergedAt": "2020-09-18T19:08:36Z",
@@ -23,11 +24,11 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1966,
+    "proposed": 1973,
     "exploring": null,
     "accepted": 111,
     "release": 1,
-    "released": 1021
+    "released": 1029
   },
   "connected": [
     {
@@ -35,6 +36,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/836",
       "title": "Advance RFC #0617 to Stage Ready for Release",
       "createdAt": "2022-08-03T21:29:11Z",
+      "closed": true,
       "closedAt": "2022-11-22T19:24:27Z",
       "merged": true,
       "mergedAt": "2022-11-22T19:24:27Z",
@@ -57,6 +59,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/862",
       "title": "Advance RFC #0617 to Stage Released",
       "createdAt": "2022-11-22T19:25:18Z",
+      "closed": true,
       "closedAt": "2022-11-22T19:47:10Z",
       "merged": true,
       "mergedAt": "2022-11-22T19:47:10Z",
@@ -79,6 +82,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/863",
       "title": "Advance RFC #0617 \"RFC Stages\" to Stage Recommended",
       "createdAt": "2022-11-22T19:47:54Z",
+      "closed": false,
       "closedAt": null,
       "merged": false,
       "mergedAt": null,

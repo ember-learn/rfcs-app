@@ -3,20 +3,17 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/155",
   "title": "RFC: Ancillary Package Module Standardization",
   "createdAt": "2016-07-19T15:56:31Z",
+  "closed": true,
   "closedAt": "2018-01-24T17:31:10Z",
   "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3339,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 555
   },
   "connected": []
 }

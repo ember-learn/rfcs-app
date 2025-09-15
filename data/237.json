@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/237",
   "title": "Remove Ember.Map, Ember.MapWithDefault and Ember.OrderedSet",
   "createdAt": "2017-07-20T11:00:38Z",
+  "closed": true,
   "closedAt": "2018-04-06T19:00:47Z",
   "merged": true,
   "mergedAt": "2018-04-06T19:00:47Z",
@@ -28,7 +29,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2973,
+    "proposed": 2980,
     "exploring": null,
     "accepted": null,
     "release": null,

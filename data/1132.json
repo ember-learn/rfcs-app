@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1132",
   "title": "Strict resolver",
   "createdAt": "2025-08-13T22:45:18Z",
+  "closed": true,
   "closedAt": "2025-09-05T18:08:38Z",
   "merged": true,
   "mergedAt": "2025-09-05T18:08:38Z",
@@ -41,7 +42,7 @@
   "stageDuration": {
     "proposed": 9,
     "exploring": 14,
-    "accepted": 4,
+    "accepted": 11,
     "release": null,
     "released": null
   },
@@ -51,6 +52,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1142",
       "title": "Advance RFC #1132 `\"Default Strict Resolver\"` to Stage Ready for Release",
       "createdAt": "2025-09-05T18:09:24Z",
+      "closed": false,
       "closedAt": null,
       "merged": false,
       "mergedAt": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/417",
   "title": "Extensible inspector",
   "createdAt": "2018-12-18T18:07:16Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,
@@ -45,7 +46,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 1446,
-    "exploring": 1011,
+    "exploring": 1019,
     "accepted": null,
     "release": null,
     "released": null

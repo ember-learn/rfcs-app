@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/922",
   "title": "RFC to allow setting dynamic query params in Controllers",
   "createdAt": "2023-04-01T01:02:59Z",
+  "closed": true,
   "closedAt": "2023-09-08T18:03:50Z",
   "merged": false,
   "mergedAt": null,
@@ -19,15 +20,11 @@
       "label": "FCP to close"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 892,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 161
   },
   "connected": []
 }

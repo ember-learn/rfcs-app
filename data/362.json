@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/362",
   "title": "Ember Data: Return Promise from DS.Model.save()",
   "createdAt": "2018-08-22T21:05:34Z",
+  "closed": true,
   "closedAt": "2022-02-14T03:37:09Z",
   "merged": false,
   "mergedAt": null,
@@ -24,15 +25,11 @@
       "label": "Final Comment Period"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": true,
   "stageDuration": {
-    "proposed": 2574,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 1272
   },
   "connected": []
 }

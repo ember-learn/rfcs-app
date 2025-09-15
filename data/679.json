@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/679",
   "title": "Add Github Workflows",
   "createdAt": "2020-10-30T05:56:49Z",
+  "closed": true,
   "closedAt": "2020-10-30T21:37:00Z",
   "merged": true,
   "mergedAt": "2020-10-30T21:37:00Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1775,
+    "proposed": 1782,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/463",
   "title": "Record Data State",
   "createdAt": "2019-03-13T21:07:50Z",
+  "closed": true,
   "closedAt": "2019-05-22T02:41:49Z",
   "merged": true,
   "mergedAt": "2019-05-22T02:41:49Z",
@@ -23,7 +24,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2371,
+    "proposed": 2379,
     "exploring": null,
     "accepted": null,
     "release": null,

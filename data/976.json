@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/976",
   "title": "Enable Glint by Default",
   "createdAt": "2023-09-29T17:34:19Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,
@@ -44,7 +45,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 29,
-    "exploring": 683,
+    "exploring": 690,
     "accepted": null,
     "release": null,
     "released": null

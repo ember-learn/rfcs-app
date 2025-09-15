@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1120",
   "title": "Deprecate initializers and instance initializers",
   "createdAt": "2025-07-03T03:52:58Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,
@@ -18,7 +19,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 68,
+    "proposed": 75,
     "exploring": null,
     "accepted": null,
     "release": null,

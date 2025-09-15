@@ -3,20 +3,17 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/351",
   "title": "Component Manager Bounds",
   "createdAt": "2018-08-01T16:01:04Z",
+  "closed": true,
   "closedAt": "2018-08-25T15:07:45Z",
   "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2596,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 24
   },
   "connected": []
 }

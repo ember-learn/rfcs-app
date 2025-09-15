@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1136",
   "title": "lowLevel.subtle.sync",
   "createdAt": "2025-08-15T23:06:09Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,
@@ -18,7 +19,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 24,
+    "proposed": 31,
     "exploring": null,
     "accepted": null,
     "release": null,

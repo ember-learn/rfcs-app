@@ -3,20 +3,17 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/192",
   "title": "Query-Params Lifecycle",
   "createdAt": "2016-12-14T23:44:31Z",
+  "closed": true,
   "closedAt": "2017-01-04T18:30:04Z",
   "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3190,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 21
   },
   "connected": []
 }

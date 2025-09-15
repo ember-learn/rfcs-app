@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/294",
   "title": "Make jQuery optional",
   "createdAt": "2018-01-12T21:14:35Z",
+  "closed": true,
   "closedAt": "2018-02-04T21:19:44Z",
   "merged": true,
   "mergedAt": "2018-02-04T21:19:44Z",
@@ -32,7 +33,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2796,
+    "proposed": 2804,
     "exploring": null,
     "accepted": null,
     "release": null,

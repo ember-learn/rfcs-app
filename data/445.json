@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/445",
   "title": "Deprecate {{with}}",
   "createdAt": "2019-02-13T14:47:52Z",
+  "closed": true,
   "closedAt": "2019-03-16T22:57:16Z",
   "merged": true,
   "mergedAt": "2019-03-16T22:57:16Z",
@@ -33,7 +34,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2400,
+    "proposed": 2407,
     "exploring": null,
     "accepted": null,
     "release": null,

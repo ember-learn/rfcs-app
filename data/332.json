@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/332",
   "title": "[EMBER DATA] record links & meta",
   "createdAt": "2018-05-11T00:37:19Z",
+  "closed": true,
   "closedAt": "2018-10-19T02:23:14Z",
   "merged": true,
   "mergedAt": "2018-10-19T02:23:13Z",
@@ -28,7 +29,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2678,
+    "proposed": 2685,
     "exploring": null,
     "accepted": null,
     "release": null,

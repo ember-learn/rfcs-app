@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1075",
   "title": "WarpDrive Package Unification",
   "createdAt": "2025-02-13T12:02:58Z",
+  "closed": true,
   "closedAt": "2025-02-28T19:55:42Z",
   "merged": true,
   "mergedAt": "2025-02-28T19:55:41Z",
@@ -81,7 +82,7 @@
   "stageDuration": {
     "proposed": 9,
     "exploring": 8,
-    "accepted": 179,
+    "accepted": 186,
     "release": null,
     "released": null
   },
@@ -91,6 +92,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1082",
       "title": "Advance RFC #1075 `\"WarpDrive Package Unification\"` to Stage Ready for Release",
       "createdAt": "2025-03-14T18:50:23Z",
+      "closed": false,
       "closedAt": null,
       "merged": false,
       "mergedAt": null,

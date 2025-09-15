@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/160",
   "title": "Links and meta improvements",
   "createdAt": "2016-07-29T14:53:23Z",
+  "closed": true,
   "closedAt": "2018-10-12T14:42:50Z",
   "merged": false,
   "mergedAt": null,
@@ -14,15 +15,11 @@
       "label": "T-ember-data"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3329,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 805
   },
   "connected": []
 }

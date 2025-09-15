@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/317",
   "title": "Named block syntax",
   "createdAt": "2018-03-23T23:26:25Z",
+  "closed": true,
   "closedAt": "2019-06-28T17:48:09Z",
   "merged": false,
   "mergedAt": null,
@@ -14,15 +15,11 @@
       "label": "T-templates"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2726,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 462
   },
   "connected": []
 }

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1010",
   "title": "Update 0774-implicit-record-route-loading to include optional feature",
   "createdAt": "2024-02-28T15:20:31Z",
+  "closed": true,
   "closedAt": "2024-02-28T15:21:46Z",
   "merged": true,
   "mergedAt": "2024-02-28T15:21:46Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 559,
+    "proposed": 566,
     "exploring": null,
     "accepted": null,
     "release": null,

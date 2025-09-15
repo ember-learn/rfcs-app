@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/748",
   "title": "RFC: Glimmer component `Signature` type",
   "createdAt": "2021-05-13T13:32:02Z",
+  "closed": true,
   "closedAt": "2022-03-25T18:26:15Z",
   "merged": true,
   "mergedAt": "2022-03-25T18:26:15Z",
@@ -28,7 +29,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1580,
+    "proposed": 1587,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/384",
   "title": "[DEPRECATION RFC ember-data] deprecate errors changing record state",
   "createdAt": "2018-10-04T21:02:46Z",
+  "closed": true,
   "closedAt": "2019-01-04T23:12:43Z",
   "merged": false,
   "mergedAt": null,
@@ -34,15 +35,11 @@
       "label": "FCP to close"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2531,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 93
   },
   "connected": []
 }

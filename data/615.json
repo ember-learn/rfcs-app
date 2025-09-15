@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/615",
   "title": "Autotracking Memoization",
   "createdAt": "2020-04-18T00:22:24Z",
+  "closed": true,
   "closedAt": "2020-05-08T19:32:35Z",
   "merged": true,
   "mergedAt": "2020-05-08T19:32:35Z",
@@ -18,7 +19,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1970,
+    "proposed": 1977,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/806",
   "title": "Engine Router Helpers",
   "createdAt": "2022-03-11T17:42:29Z",
+  "closed": true,
   "closedAt": "2022-03-17T19:41:29Z",
   "merged": false,
   "mergedAt": null,
@@ -24,15 +25,11 @@
       "label": "T-framework"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1278,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 7
   },
   "connected": []
 }

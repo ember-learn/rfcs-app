@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/95",
   "title": "Create Router Service",
   "createdAt": "2015-09-24T22:35:33Z",
+  "closed": true,
   "closedAt": "2016-10-27T02:20:54Z",
   "merged": true,
   "mergedAt": "2016-10-27T02:20:54Z",
@@ -18,7 +19,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3637,
+    "proposed": 3644,
     "exploring": null,
     "accepted": null,
     "release": null,

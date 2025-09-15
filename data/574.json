@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/574",
   "title": "Controller Injection Deprecation",
   "createdAt": "2020-01-10T01:48:34Z",
+  "closed": true,
   "closedAt": "2020-02-08T00:15:16Z",
   "merged": false,
   "mergedAt": null,
@@ -19,15 +20,11 @@
       "label": "FCP to close"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2069,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 29
   },
   "connected": []
 }

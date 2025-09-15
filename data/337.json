@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/337",
   "title": "Native Class Constructor Update",
   "createdAt": "2018-06-15T06:04:42Z",
+  "closed": true,
   "closedAt": "2018-09-07T19:06:36Z",
   "merged": true,
   "mergedAt": "2018-09-07T19:06:36Z",
@@ -28,7 +29,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2643,
+    "proposed": 2650,
     "exploring": null,
     "accepted": null,
     "release": null,

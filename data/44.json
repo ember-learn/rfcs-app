@@ -3,20 +3,17 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/44",
   "title": "Route driven pod structure",
   "createdAt": "2015-04-03T17:08:17Z",
+  "closed": true,
   "closedAt": "2015-06-07T21:51:54Z",
   "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3812,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 66
   },
   "connected": []
 }

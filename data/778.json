@@ -3,20 +3,17 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/778",
   "title": "Instrumentation using Debug-Render-Tree",
   "createdAt": "2021-12-03T09:02:42Z",
+  "closed": true,
   "closedAt": "2022-08-24T06:09:11Z",
   "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1376,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 264
   },
   "connected": []
 }

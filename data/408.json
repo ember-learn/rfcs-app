@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/408",
   "title": "Decorators",
   "createdAt": "2018-12-04T02:18:42Z",
+  "closed": true,
   "closedAt": "2019-01-11T20:54:50Z",
   "merged": true,
   "mergedAt": "2019-01-11T20:54:50Z",
@@ -33,7 +34,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2471,
+    "proposed": 2478,
     "exploring": null,
     "accepted": null,
     "release": null,

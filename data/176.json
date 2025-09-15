@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/176",
   "title": "RFC: JavaScript Modules API",
   "createdAt": "2016-11-06T01:55:03Z",
+  "closed": true,
   "closedAt": "2017-01-13T22:40:32Z",
   "merged": true,
   "mergedAt": "2017-01-13T22:40:32Z",
@@ -23,7 +24,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3229,
+    "proposed": 3236,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/344",
   "title": "Spelling correction",
   "createdAt": "2018-07-06T11:53:05Z",
+  "closed": true,
   "closedAt": "2018-07-09T11:24:16Z",
   "merged": true,
   "mergedAt": "2018-07-09T11:24:16Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2622,
+    "proposed": 2629,
     "exploring": null,
     "accepted": null,
     "release": null,

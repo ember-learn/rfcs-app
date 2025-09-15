@@ -3,20 +3,17 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/88",
   "title": "Addon Version Compatibility",
   "createdAt": "2015-09-05T03:54:35Z",
+  "closed": true,
   "closedAt": "2020-04-16T20:04:37Z",
   "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3657,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 1686
   },
   "connected": []
 }

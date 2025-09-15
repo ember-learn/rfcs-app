@@ -3,20 +3,17 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/528",
   "title": "Deprecate Events",
   "createdAt": "2019-08-15T13:10:23Z",
+  "closed": true,
   "closedAt": "2022-07-29T23:12:24Z",
   "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2217,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 1080
   },
   "connected": []
 }

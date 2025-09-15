@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1133",
   "title": "Introduce Template-only Class Components",
   "createdAt": "2025-08-14T16:37:26Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,
@@ -18,7 +19,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 26,
+    "proposed": 33,
     "exploring": null,
     "accepted": null,
     "release": null,

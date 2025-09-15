@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/221",
   "title": "RFC to deprecate `resetNamespace`",
   "createdAt": "2017-04-18T13:37:26Z",
+  "closed": true,
   "closedAt": "2018-01-22T15:29:56Z",
   "merged": false,
   "mergedAt": null,
@@ -19,15 +20,11 @@
       "label": "T-deprecation"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3066,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 280
   },
   "connected": []
 }

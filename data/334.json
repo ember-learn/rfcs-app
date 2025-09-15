@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/334",
   "title": "Deprecate Ember Utils",
   "createdAt": "2018-05-25T14:40:20Z",
+  "closed": true,
   "closedAt": "2022-07-08T18:42:12Z",
   "merged": true,
   "mergedAt": "2022-07-08T18:42:12Z",
@@ -38,9 +39,9 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2664,
+    "proposed": 2671,
     "exploring": null,
-    "accepted": 279,
+    "accepted": 286,
     "release": null,
     "released": null
   },
@@ -50,6 +51,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1056",
       "title": "Advance RFC #0334 `\"Deprecate Ember Utils & dependent Computed Properties\"` to Stage Ready for Release",
       "createdAt": "2024-12-04T18:46:50Z",
+      "closed": false,
       "closedAt": null,
       "merged": false,
       "mergedAt": null,

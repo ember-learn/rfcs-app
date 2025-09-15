@@ -3,20 +3,17 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/569",
   "title": "TrackedList",
   "createdAt": "2020-01-03T18:07:19Z",
+  "closed": true,
   "closedAt": "2022-07-23T17:51:42Z",
   "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2076,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 932
   },
   "connected": []
 }

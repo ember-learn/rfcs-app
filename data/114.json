@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/114",
   "title": "Complete infos about RFCs",
   "createdAt": "2016-01-27T19:05:44Z",
+  "closed": true,
   "closedAt": "2016-02-08T02:29:00Z",
   "merged": true,
   "mergedAt": "2016-02-08T02:29:00Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3513,
+    "proposed": 3520,
     "exploring": null,
     "accepted": null,
     "release": null,

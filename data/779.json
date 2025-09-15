@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/779",
   "title": "First-Class Component Templates",
   "createdAt": "2021-12-03T17:54:56Z",
+  "closed": true,
   "closedAt": "2022-03-04T19:10:36Z",
   "merged": true,
   "mergedAt": "2022-03-04T19:10:35Z",
@@ -37,11 +38,11 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1376,
+    "proposed": 1383,
     "exploring": null,
     "accepted": 709,
     "release": 43,
-    "released": 269
+    "released": 277
   },
   "connected": [
     {
@@ -49,6 +50,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/871",
       "title": "Advance RFC #0779 \"First-Class Component Templates\" to Stage Ready for Release",
       "createdAt": "2022-11-23T21:15:23Z",
+      "closed": true,
       "closedAt": "2024-11-01T18:07:52Z",
       "merged": true,
       "mergedAt": "2024-11-01T18:07:52Z",
@@ -90,6 +92,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1050",
       "title": "Advance RFC #0779 `\"First-Class Component Templates\"` to Stage Released",
       "createdAt": "2024-11-01T18:08:44Z",
+      "closed": true,
       "closedAt": "2024-12-13T19:17:26Z",
       "merged": true,
       "mergedAt": "2024-12-13T19:17:26Z",
@@ -112,6 +115,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1059",
       "title": "Advance RFC #0779 `\"First-Class Component Templates\"` to Stage Recommended",
       "createdAt": "2024-12-13T19:18:28Z",
+      "closed": false,
       "closedAt": null,
       "merged": false,
       "mergedAt": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/226",
   "title": "Named Blocks",
   "createdAt": "2017-05-05T18:41:13Z",
+  "closed": true,
   "closedAt": "2017-07-28T23:03:08Z",
   "merged": true,
   "mergedAt": "2017-07-28T23:03:08Z",
@@ -18,7 +19,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3049,
+    "proposed": 3056,
     "exploring": null,
     "accepted": null,
     "release": null,

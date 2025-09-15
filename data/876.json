@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/876",
   "title": "RFC: Support for ES `accessor` Decorators",
   "createdAt": "2022-11-29T16:47:34Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,
@@ -45,7 +46,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 2,
-    "exploring": 1013,
+    "exploring": 1020,
     "accepted": null,
     "release": null,
     "released": null

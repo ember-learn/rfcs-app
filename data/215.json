@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/215",
   "title": "Fix destructure syntax",
   "createdAt": "2017-03-14T15:15:46Z",
+  "closed": true,
   "closedAt": "2017-03-15T17:33:57Z",
   "merged": true,
   "mergedAt": "2017-03-15T17:33:57Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3101,
+    "proposed": 3108,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/373",
   "title": "Modifier managers",
   "createdAt": "2018-09-10T19:02:33Z",
+  "closed": true,
   "closedAt": "2018-10-19T18:21:35Z",
   "merged": true,
   "mergedAt": "2018-10-19T18:21:35Z",
@@ -38,7 +39,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2556,
+    "proposed": 2563,
     "exploring": null,
     "accepted": null,
     "release": null,

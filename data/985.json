@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/985",
   "title": "v2 addon by default",
   "createdAt": "2023-11-02T20:05:06Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,
@@ -35,7 +36,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 162,
-    "exploring": 515,
+    "exploring": 522,
     "accepted": null,
     "release": null,
     "released": null

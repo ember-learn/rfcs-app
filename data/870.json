@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/870",
   "title": "Always run new RFC checks so CI can pass",
   "createdAt": "2022-11-23T19:57:44Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1020,
+    "proposed": 1028,
     "exploring": null,
     "accepted": null,
     "release": null,

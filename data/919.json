@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/919",
   "title": "EmberData | updates to rfc#860 - request service",
   "createdAt": "2023-03-27T07:22:06Z",
+  "closed": true,
   "closedAt": "2023-04-05T03:41:24Z",
   "merged": true,
   "mergedAt": "2023-04-05T03:41:23Z",
@@ -23,7 +24,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 897,
+    "proposed": 904,
     "exploring": null,
     "accepted": null,
     "release": null,

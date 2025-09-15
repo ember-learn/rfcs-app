@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/392",
   "title": "Deprecate setupComponentManager String Lookup",
   "createdAt": "2018-10-23T14:32:16Z",
+  "closed": true,
   "closedAt": "2018-11-02T18:43:35Z",
   "merged": true,
   "mergedAt": "2018-11-02T18:43:35Z",
@@ -38,7 +39,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2513,
+    "proposed": 2520,
     "exploring": null,
     "accepted": null,
     "release": null,

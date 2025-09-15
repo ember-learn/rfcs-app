@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1114",
   "title": "Deprecate Ember Array",
   "createdAt": "2025-06-13T20:09:01Z",
+  "closed": true,
   "closedAt": "2025-08-29T18:12:00Z",
   "merged": true,
   "mergedAt": "2025-08-29T18:12:00Z",
@@ -41,7 +42,7 @@
   "stageDuration": {
     "proposed": 7,
     "exploring": 70,
-    "accepted": 11,
+    "accepted": 18,
     "release": null,
     "released": null
   },
@@ -51,6 +52,7 @@
       "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1140",
       "title": "Advance RFC #1114 `\"Deprecating Ember Array\"` to Stage Ready for Release",
       "createdAt": "2025-08-29T18:12:38Z",
+      "closed": false,
       "closedAt": null,
       "merged": false,
       "mergedAt": null,

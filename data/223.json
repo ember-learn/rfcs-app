@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/223",
   "title": "Add `isEqual` named export to`@ember/utils`",
   "createdAt": "2017-04-21T01:39:08Z",
+  "closed": true,
   "closedAt": "2017-06-12T17:49:13Z",
   "merged": true,
   "mergedAt": "2017-06-12T17:49:13Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3063,
+    "proposed": 3070,
     "exploring": null,
     "accepted": null,
     "release": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/440",
   "title": " Decorator Support RFC",
   "createdAt": "2019-02-07T15:48:50Z",
+  "closed": true,
   "closedAt": "2019-03-15T23:46:27Z",
   "merged": true,
   "mergedAt": "2019-03-15T23:46:27Z",
@@ -28,7 +29,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2406,
+    "proposed": 2413,
     "exploring": null,
     "accepted": null,
     "release": null,

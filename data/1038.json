@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1038",
   "title": "Deprecate Windows support",
   "createdAt": "2024-07-09T21:59:49Z",
+  "closed": true,
   "closedAt": "2024-07-10T17:54:09Z",
   "merged": false,
   "mergedAt": null,
@@ -14,15 +15,11 @@
       "label": "S-Proposed"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 426,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 1
   },
   "connected": []
 }

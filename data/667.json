@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/667",
   "title": "Fix example in invokeHelper summary",
   "createdAt": "2020-09-29T00:54:52Z",
+  "closed": true,
   "closedAt": "2020-10-02T17:58:02Z",
   "merged": true,
   "mergedAt": "2020-10-02T17:58:02Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1806,
+    "proposed": 1813,
     "exploring": null,
     "accepted": null,
     "release": null,

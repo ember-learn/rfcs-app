@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/147",
   "title": "Tweak weakmap template.",
   "createdAt": "2016-06-16T18:18:48Z",
+  "closed": true,
   "closedAt": "2016-06-16T18:18:59Z",
   "merged": true,
   "mergedAt": "2016-06-16T18:18:59Z",
@@ -12,7 +13,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 3372,
+    "proposed": 3379,
     "exploring": null,
     "accepted": null,
     "release": null,

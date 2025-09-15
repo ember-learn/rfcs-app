@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/462",
   "title": "Configuring addon modules in Module Unification layout",
   "createdAt": "2019-03-10T07:04:10Z",
+  "closed": true,
   "closedAt": "2020-11-20T19:41:33Z",
   "merged": false,
   "mergedAt": null,
@@ -14,15 +15,11 @@
       "label": "FCP to close"
     }
   ],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2375,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 622
   },
   "connected": []
 }

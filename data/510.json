@@ -3,20 +3,17 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/510",
   "title": "Add `load` hook to Route",
   "createdAt": "2019-07-01T15:08:56Z",
+  "closed": true,
   "closedAt": "2022-07-23T02:01:30Z",
   "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2262,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 1118
   },
   "connected": []
 }

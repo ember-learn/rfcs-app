@@ -3,20 +3,17 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/348",
   "title": "Restructure and refresh the Ember CLI Guides",
   "createdAt": "2018-07-30T03:44:42Z",
+  "closed": true,
   "closedAt": "2018-07-30T04:01:30Z",
   "merged": false,
   "mergedAt": null,
   "assignees": [],
   "timelineItems": [],
-  "currentStage": "proposed",
+  "currentStage": "closed",
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2598,
-    "exploring": null,
-    "accepted": null,
-    "release": null,
-    "released": null
+    "closed": 1
   },
   "connected": []
 }

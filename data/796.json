@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/796",
   "title": "RFC: ember data deprecate RSVP.Promise for native Promises",
   "createdAt": "2022-02-20T15:49:41Z",
+  "closed": true,
   "closedAt": "2022-03-31T15:17:08Z",
   "merged": true,
   "mergedAt": "2022-03-31T15:17:08Z",
@@ -23,7 +24,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1297,
+    "proposed": 1304,
     "exploring": null,
     "accepted": null,
     "release": null,
