@@ -70,7 +70,7 @@ for await (const { data: pulls } of iterator) {
           url: pull.url,
           title: pull.title,
           createdAt: pull.created_at,
-          closed: pull.closed,
+          closed: Boolean(pull.closed_at),
           closedAt: pull.closed_at,
           merged: Boolean(pull.merged_at),
           mergedAt: pull.merged_at,
