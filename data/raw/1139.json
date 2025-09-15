@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1139",
   "title": "Advance RFC #1111 `\"Deprecating Ember.Evented and @ember/object/events\"` to Stage Ready for Release",
   "createdAt": "2025-08-22T18:14:26Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,

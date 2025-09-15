@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/181",
   "title": "Add RFC for deprecation Ember Data initializers",
   "createdAt": "2016-11-22T21:46:46Z",
+  "closed": true,
   "closedAt": "2017-01-25T19:32:54Z",
   "merged": true,
   "mergedAt": "2017-01-25T19:32:54Z",

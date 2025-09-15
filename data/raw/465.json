@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/465",
   "title": "Record Data Errors RFC",
   "createdAt": "2019-03-14T23:18:20Z",
+  "closed": true,
   "closedAt": "2019-05-15T15:36:58Z",
   "merged": true,
   "mergedAt": "2019-05-15T15:36:57Z",

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/659",
   "title": "unique-id helper",
   "createdAt": "2020-08-25T20:41:39Z",
+  "closed": true,
   "closedAt": "2020-10-16T19:32:23Z",
   "merged": true,
   "mergedAt": "2020-10-16T19:32:23Z",

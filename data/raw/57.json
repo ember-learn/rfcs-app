@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/57",
   "title": "RFC for reference unification",
   "createdAt": "2015-05-23T01:10:45Z",
+  "closed": true,
   "closedAt": "2016-01-11T18:22:49Z",
   "merged": false,
   "mergedAt": null,

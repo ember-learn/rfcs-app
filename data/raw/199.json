@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/199",
   "title": "Local template blocks (as a precursor to block slot syntax)",
   "createdAt": "2017-01-14T20:39:41Z",
+  "closed": true,
   "closedAt": "2017-01-18T18:51:10Z",
   "merged": false,
   "mergedAt": null,

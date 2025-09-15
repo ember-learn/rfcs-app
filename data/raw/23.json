@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/23",
   "title": "Ember Data Filter Objects",
   "createdAt": "2014-11-17T22:51:55Z",
+  "closed": true,
   "closedAt": "2018-02-28T19:54:52Z",
   "merged": false,
   "mergedAt": null,

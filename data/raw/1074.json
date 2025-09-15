@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1074",
   "title": "Deprecate `--yarn` support for `ember new`",
   "createdAt": "2025-01-30T22:20:38Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,

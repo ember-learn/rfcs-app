@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/17",
   "title": "ember data testing helpers",
   "createdAt": "2014-11-04T03:20:57Z",
+  "closed": true,
   "closedAt": "2016-11-08T14:43:27Z",
   "merged": false,
   "mergedAt": null,

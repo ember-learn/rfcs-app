@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1061",
   "title": "Advance RFC #1001 `\"Deprecate named inject export from @ember/service\"` to Stage Released",
   "createdAt": "2024-12-20T19:11:32Z",
+  "closed": true,
   "closedAt": "2025-03-21T18:23:05Z",
   "merged": true,
   "mergedAt": "2025-03-21T18:23:05Z",

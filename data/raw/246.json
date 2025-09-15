@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/246",
   "title": "Array#findIndex and Array#findIndexBy",
   "createdAt": "2017-08-25T12:11:22Z",
+  "closed": true,
   "closedAt": "2018-03-01T23:53:39Z",
   "merged": false,
   "mergedAt": null,

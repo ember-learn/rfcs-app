@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1092",
   "title": "Advance RFC #0964 `\"EmberData | Deprecate Legacy Request Support\"` to Stage Ready for Release",
   "createdAt": "2025-03-28T18:14:38Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,

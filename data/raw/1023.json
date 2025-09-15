@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1023",
   "title": "Advance RFC #0995 `\"Deprecate non-co-located components.\"` to Stage Released",
   "createdAt": "2024-05-03T18:05:43Z",
+  "closed": true,
   "closedAt": "2024-07-12T18:19:47Z",
   "merged": true,
   "mergedAt": "2024-07-12T18:19:47Z",

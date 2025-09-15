@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/580",
   "title": "Destroyables",
   "createdAt": "2020-01-11T00:26:29Z",
+  "closed": true,
   "closedAt": "2020-04-21T18:48:04Z",
   "merged": true,
   "mergedAt": "2020-04-21T18:48:04Z",

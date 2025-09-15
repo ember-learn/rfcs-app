@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/298",
   "title": "Lint Component Lifecycle Events",
   "createdAt": "2018-01-19T14:02:00Z",
+  "closed": true,
   "closedAt": "2019-08-16T14:32:24Z",
   "merged": false,
   "mergedAt": null,

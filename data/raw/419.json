@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/419",
   "title": "Update deprecation-template.md",
   "createdAt": "2018-12-19T19:38:00Z",
+  "closed": true,
   "closedAt": "2018-12-19T21:04:28Z",
   "merged": true,
   "mergedAt": "2018-12-19T21:04:28Z",

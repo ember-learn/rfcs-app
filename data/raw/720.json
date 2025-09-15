@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/720",
   "title": "Amend RFC #671",
   "createdAt": "2021-02-09T01:45:18Z",
+  "closed": true,
   "closedAt": "2021-02-09T12:30:41Z",
   "merged": true,
   "mergedAt": "2021-02-09T12:30:41Z",

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1106",
   "title": "Advance RFC #1027 `\"EmberData | SchemaService\"` to Stage Released",
   "createdAt": "2025-05-23T18:38:54Z",
+  "closed": true,
   "closedAt": "2025-06-13T18:17:50Z",
   "merged": true,
   "mergedAt": "2025-06-13T18:17:50Z",

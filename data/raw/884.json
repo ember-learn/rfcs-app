@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/884",
   "title": "Advance RFC #0821 to Stage Released",
   "createdAt": "2022-12-13T00:36:25Z",
+  "closed": true,
   "closedAt": "2023-01-06T20:21:40Z",
   "merged": true,
   "mergedAt": "2023-01-06T20:21:40Z",

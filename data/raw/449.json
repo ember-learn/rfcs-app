@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/449",
   "title": "Deprecate {{partial}}",
   "createdAt": "2019-02-17T21:28:55Z",
+  "closed": true,
   "closedAt": "2019-03-16T22:56:51Z",
   "merged": true,
   "mergedAt": "2019-03-16T22:56:51Z",

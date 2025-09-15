@@ -3,9 +3,10 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1128",
   "title": "Advance RFC #1099 `\"renderComponent\"` to Stage Ready for Release",
   "createdAt": "2025-08-08T18:15:29Z",
-  "closedAt": null,
-  "merged": false,
-  "mergedAt": null,
+  "closed": true,
+  "closedAt": "2025-09-12T18:11:57Z",
+  "merged": true,
+  "mergedAt": "2025-09-12T18:11:57Z",
   "assignees": [],
   "timelineItems": [
     {

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/671",
   "title": "Stop Leaking Implementation Details of Built-in Components",
   "createdAt": "2020-10-02T20:12:05Z",
+  "closed": true,
   "closedAt": "2020-10-17T14:07:11Z",
   "merged": true,
   "mergedAt": "2020-10-17T14:07:11Z",

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/113",
   "title": "Expose query param defaults",
   "createdAt": "2016-01-27T14:37:21Z",
+  "closed": true,
   "closedAt": "2022-12-16T19:36:00Z",
   "merged": false,
   "mergedAt": null,

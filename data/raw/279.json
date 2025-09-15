@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/279",
   "title": "Fixed typos/grammar in RFC 278",
   "createdAt": "2017-12-11T19:20:03Z",
+  "closed": true,
   "closedAt": "2017-12-11T20:49:28Z",
   "merged": true,
   "mergedAt": "2017-12-11T20:49:28Z",

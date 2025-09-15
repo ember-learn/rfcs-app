@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/319",
   "title": "`html-safe` helper",
   "createdAt": "2018-03-24T04:49:52Z",
+  "closed": true,
   "closedAt": "2019-02-19T15:47:24Z",
   "merged": false,
   "mergedAt": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/338",
   "title": "Native Class Roadmap",
   "createdAt": "2018-06-15T06:10:10Z",
+  "closed": true,
   "closedAt": "2019-01-26T21:18:11Z",
   "merged": false,
   "mergedAt": null,

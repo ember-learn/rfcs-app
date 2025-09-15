@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/314",
   "title": "HTML Attribute and Property Rationalization",
   "createdAt": "2018-03-22T00:28:02Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,

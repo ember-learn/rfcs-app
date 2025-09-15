@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/387",
   "title": "[Ember Data] Improve findHasMany/findBelongsTo decision making",
   "createdAt": "2018-10-08T10:02:43Z",
+  "closed": true,
   "closedAt": "2018-10-31T21:09:56Z",
   "merged": false,
   "mergedAt": null,

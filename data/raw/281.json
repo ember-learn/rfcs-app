@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/281",
   "title": "ES5 Getters",
   "createdAt": "2017-12-12T16:36:29Z",
+  "closed": true,
   "closedAt": "2018-01-03T18:08:16Z",
   "merged": true,
   "mergedAt": "2018-01-03T18:08:16Z",

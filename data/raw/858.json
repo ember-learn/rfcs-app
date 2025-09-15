@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/858",
   "title": "Deprecate `ember-mocha`",
   "createdAt": "2022-11-08T19:27:18Z",
+  "closed": true,
   "closedAt": "2023-03-10T19:53:37Z",
   "merged": true,
   "mergedAt": "2023-03-10T19:53:37Z",

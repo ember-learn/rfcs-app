@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/893",
   "title": "Advance RFC #0821 \"RFC: public types for Owner, Transition, RouteInfo\" to Stage Recommended",
   "createdAt": "2023-01-06T20:22:40Z",
+  "closed": true,
   "closedAt": "2023-03-03T19:17:15Z",
   "merged": true,
   "mergedAt": "2023-03-03T19:17:15Z",

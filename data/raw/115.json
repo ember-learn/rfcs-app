@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/115",
   "title": "Add Ember.run.callback()",
   "createdAt": "2016-01-29T05:32:45Z",
+  "closed": true,
   "closedAt": "2022-07-23T17:47:39Z",
   "merged": false,
   "mergedAt": null,

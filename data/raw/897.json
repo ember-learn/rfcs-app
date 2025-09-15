@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/897",
   "title": "Advance RFC #0236 to Stage Released",
   "createdAt": "2023-01-13T19:32:41Z",
+  "closed": true,
   "closedAt": "2023-01-14T00:01:54Z",
   "merged": true,
   "mergedAt": "2023-01-14T00:01:54Z",

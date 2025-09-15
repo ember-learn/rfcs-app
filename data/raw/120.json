@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/120",
   "title": "Introduce Route Serializers",
   "createdAt": "2016-02-11T20:50:13Z",
+  "closed": true,
   "closedAt": "2016-03-18T22:49:20Z",
   "merged": true,
   "mergedAt": "2016-03-18T22:49:20Z",

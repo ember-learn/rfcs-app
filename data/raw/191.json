@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/191",
   "title": "Deprecate component lifecycle hook arguments.",
   "createdAt": "2016-12-14T17:02:24Z",
+  "closed": true,
   "closedAt": "2017-01-02T01:12:40Z",
   "merged": true,
   "mergedAt": "2017-01-02T01:12:40Z",

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/149",
   "title": "Introduce \"final comment period\" into process description",
   "createdAt": "2016-06-23T20:07:24Z",
+  "closed": true,
   "closedAt": "2016-06-29T15:08:24Z",
   "merged": true,
   "mergedAt": "2016-06-29T15:08:24Z",

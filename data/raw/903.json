@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/903",
   "title": "Add title of RFC to advancement PR titles",
   "createdAt": "2023-02-07T21:35:10Z",
+  "closed": true,
   "closedAt": "2023-02-08T18:19:33Z",
   "merged": true,
   "mergedAt": "2023-02-08T18:19:33Z",

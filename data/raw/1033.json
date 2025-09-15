@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1033",
   "title": "Advance RFC #0997 `\"Make {{on}} a built in modifier\"` to Stage Ready for Release",
   "createdAt": "2024-06-12T14:28:03Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,

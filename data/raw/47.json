@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/47",
   "title": "Named Template Blocks",
   "createdAt": "2015-04-13T04:31:52Z",
+  "closed": true,
   "closedAt": "2015-06-07T22:20:42Z",
   "merged": false,
   "mergedAt": null,

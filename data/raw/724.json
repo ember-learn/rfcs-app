@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/724",
   "title": "RFC: Official TypeScript support",
   "createdAt": "2021-03-11T20:50:43Z",
+  "closed": true,
   "closedAt": "2022-03-04T19:11:16Z",
   "merged": true,
   "mergedAt": "2022-03-04T19:11:16Z",

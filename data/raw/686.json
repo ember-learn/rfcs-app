@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/686",
   "title": "Deprecate old manager capabilities versions",
   "createdAt": "2020-11-28T21:37:23Z",
+  "closed": true,
   "closedAt": "2020-12-13T22:20:47Z",
   "merged": true,
   "mergedAt": "2020-12-13T22:20:47Z",

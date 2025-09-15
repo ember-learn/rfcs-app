@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/785",
   "title": " Introduce new test helpers for rendering (and re-rendering) that obviate the need for `get` and `set`",
   "createdAt": "2022-01-07T19:42:46Z",
+  "closed": true,
   "closedAt": "2022-04-15T18:24:23Z",
   "merged": true,
   "mergedAt": "2022-04-15T18:24:23Z",

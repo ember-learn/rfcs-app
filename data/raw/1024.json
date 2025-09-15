@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1024",
   "title": "Advance RFC #0496 `\"Handlebars Strict Mode\"` to Stage Recommended",
   "createdAt": "2024-05-08T14:41:49Z",
+  "closed": true,
   "closedAt": "2024-05-17T18:08:17Z",
   "merged": true,
   "mergedAt": "2024-05-17T18:08:17Z",

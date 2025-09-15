@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1067",
   "title": "Propose `link` from `@ember/lifetime` to remove the boilerplate of setOwner + associateDestroyableChild",
   "createdAt": "2025-01-11T16:32:37Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,

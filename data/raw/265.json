@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/265",
   "title": "Fix typos",
   "createdAt": "2017-10-28T12:28:39Z",
+  "closed": true,
   "closedAt": "2017-10-28T13:17:16Z",
   "merged": true,
   "mergedAt": "2017-10-28T13:17:16Z",

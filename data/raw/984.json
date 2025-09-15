@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/984",
   "title": "Amend browser support policy for Safari",
   "createdAt": "2023-11-02T19:39:32Z",
+  "closed": true,
   "closedAt": "2024-02-07T15:16:23Z",
   "merged": true,
   "mergedAt": "2024-02-07T15:16:23Z",

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/967",
   "title": "Advance RFC #0740 `\"EmberData | Deprecate Non Strict Types\"` to Stage Released",
   "createdAt": "2023-09-22T18:20:32Z",
+  "closed": true,
   "closedAt": "2023-09-24T10:19:45Z",
   "merged": true,
   "mergedAt": "2023-09-24T10:19:45Z",

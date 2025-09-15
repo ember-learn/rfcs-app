@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/502",
   "title": "Explicit Service Injection",
   "createdAt": "2019-06-15T01:52:50Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,

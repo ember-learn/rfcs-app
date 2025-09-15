@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/888",
   "title": "Advance RFC #0637 \"Facilitate customization of setupTest* functions\" to Stage Recommended",
   "createdAt": "2022-12-14T23:01:04Z",
+  "closed": true,
   "closedAt": "2023-10-13T18:06:33Z",
   "merged": true,
   "mergedAt": "2023-10-13T18:06:33Z",

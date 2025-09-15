@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1029",
   "title": "Deprecate app-prefix et al",
   "createdAt": "2024-05-20T13:00:41Z",
+  "closed": true,
   "closedAt": "2024-08-30T18:08:00Z",
   "merged": true,
   "mergedAt": "2024-08-30T18:08:00Z",

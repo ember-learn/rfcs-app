@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/909",
   "title": "Advance RFC #0739 `\"EmberData | Deprecate Non Strict Relationships\"` to Stage Ready for Release",
   "createdAt": "2023-03-13T16:31:51Z",
+  "closed": true,
   "closedAt": "2023-04-05T04:24:17Z",
   "merged": true,
   "mergedAt": "2023-04-05T04:24:17Z",

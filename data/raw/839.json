@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/839",
   "title": "Update deprecation template frontmatter",
   "createdAt": "2022-08-08T21:24:30Z",
+  "closed": true,
   "closedAt": "2022-08-08T21:27:07Z",
   "merged": true,
   "mergedAt": "2022-08-08T21:27:07Z",

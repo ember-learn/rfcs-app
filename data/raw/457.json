@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/457",
   "title": "Nested Invocations in Angle Bracket Syntax",
   "createdAt": "2019-03-05T23:59:59Z",
+  "closed": true,
   "closedAt": "2019-03-15T23:49:07Z",
   "merged": true,
   "mergedAt": "2019-03-15T23:49:07Z",

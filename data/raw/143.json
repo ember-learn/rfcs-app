@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/143",
   "title": "Module Unification",
   "createdAt": "2016-05-09T18:11:26Z",
+  "closed": true,
   "closedAt": "2016-10-18T15:06:41Z",
   "merged": true,
   "mergedAt": "2016-10-18T15:06:41Z",

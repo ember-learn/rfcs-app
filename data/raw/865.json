@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/865",
   "title": "Advance RFC #0659 \"unique-id helper\" to Stage Recommended",
   "createdAt": "2022-11-23T17:09:48Z",
+  "closed": true,
   "closedAt": "2023-12-15T19:09:46Z",
   "merged": true,
   "mergedAt": "2023-12-15T19:09:46Z",

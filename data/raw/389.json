@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/389",
   "title": "Dynamic tags in glimmer templates",
   "createdAt": "2018-10-14T11:53:02Z",
+  "closed": true,
   "closedAt": "2019-04-12T18:43:16Z",
   "merged": true,
   "mergedAt": "2019-04-12T18:43:16Z",

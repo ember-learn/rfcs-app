@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/811",
   "title": "Element Modifiers",
   "createdAt": "2022-03-29T20:17:58Z",
+  "closed": true,
   "closedAt": "2022-12-13T00:37:00Z",
   "merged": true,
   "mergedAt": "2022-12-13T00:37:00Z",

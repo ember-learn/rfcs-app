@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/951",
   "title": "Advance RFC #0730 `\"Semantic Versioning for TypeScript Types\"` to Stage Recommended",
   "createdAt": "2023-08-24T18:06:09Z",
+  "closed": true,
   "closedAt": "2023-09-15T19:02:00Z",
   "merged": true,
   "mergedAt": "2023-09-15T19:02:00Z",

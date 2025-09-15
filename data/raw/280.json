@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/280",
   "title": "Remove Application wrapper div",
   "createdAt": "2017-12-11T22:39:26Z",
+  "closed": true,
   "closedAt": "2018-01-03T18:07:48Z",
   "merged": true,
   "mergedAt": "2018-01-03T18:07:48Z",

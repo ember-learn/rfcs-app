@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/318",
   "title": "`array` helper",
   "createdAt": "2018-03-24T04:17:18Z",
+  "closed": true,
   "closedAt": "2018-04-06T18:17:24Z",
   "merged": true,
   "mergedAt": "2018-04-06T18:17:24Z",

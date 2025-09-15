@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/831",
   "title": "Standardize use of scripts in package.json for common tasks",
   "createdAt": "2022-07-22T13:30:12Z",
+  "closed": true,
   "closedAt": "2023-09-15T18:57:17Z",
   "merged": true,
   "mergedAt": "2023-09-15T18:57:17Z",

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/236",
   "title": "Ember.String deprecation RFC",
   "createdAt": "2017-07-19T21:07:40Z",
+  "closed": true,
   "closedAt": "2017-09-26T08:21:15Z",
   "merged": true,
   "mergedAt": "2017-09-26T08:21:15Z",

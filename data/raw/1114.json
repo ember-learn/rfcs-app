@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1114",
   "title": "Deprecate Ember Array",
   "createdAt": "2025-06-13T20:09:01Z",
+  "closed": true,
   "closedAt": "2025-08-29T18:12:00Z",
   "merged": true,
   "mergedAt": "2025-08-29T18:12:00Z",

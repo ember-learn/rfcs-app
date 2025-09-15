@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/743",
   "title": "rfc: ember-data | Deprecate Legacy Imports",
   "createdAt": "2021-04-24T06:55:16Z",
+  "closed": true,
   "closedAt": "2022-08-31T22:30:20Z",
   "merged": true,
   "mergedAt": "2022-08-31T22:30:20Z",

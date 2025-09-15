@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/272",
   "title": "Deprecate Function.prototype.on, Function.prototype.property, Function.prototype.observes",
   "createdAt": "2017-11-20T13:51:54Z",
+  "closed": true,
   "closedAt": "2019-01-11T22:19:33Z",
   "merged": true,
   "mergedAt": "2019-01-11T22:19:33Z",

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1011",
   "title": "Advance RFC #1006 `\"Deprecate (action) template helper and {{action}} modifier.\"` to Stage Ready for Release",
   "createdAt": "2024-03-08T20:03:52Z",
+  "closed": true,
   "closedAt": "2024-04-26T18:18:43Z",
   "merged": true,
   "mergedAt": "2024-04-26T18:18:43Z",

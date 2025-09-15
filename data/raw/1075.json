@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1075",
   "title": "WarpDrive Package Unification",
   "createdAt": "2025-02-13T12:02:58Z",
+  "closed": true,
   "closedAt": "2025-02-28T19:55:42Z",
   "merged": true,
   "mergedAt": "2025-02-28T19:55:41Z",

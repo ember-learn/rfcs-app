@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/977",
   "title": "V2 App",
   "createdAt": "2023-10-06T17:12:27Z",
+  "closed": true,
   "closedAt": "2024-12-20T19:11:55Z",
   "merged": true,
   "mergedAt": "2024-12-20T19:11:55Z",

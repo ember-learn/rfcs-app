@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1060",
   "title": "Built in tracking utilities for promises",
   "createdAt": "2024-12-20T04:00:50Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,

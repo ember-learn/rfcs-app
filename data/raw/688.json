@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/688",
   "title": "Correctly point to the added RFCs when linting",
   "createdAt": "2020-12-11T20:58:15Z",
+  "closed": true,
   "closedAt": "2020-12-12T15:46:52Z",
   "merged": true,
   "mergedAt": "2020-12-12T15:46:52Z",

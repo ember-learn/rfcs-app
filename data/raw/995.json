@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/995",
   "title": "Deprecate non-colocated components.",
   "createdAt": "2023-12-15T19:38:46Z",
+  "closed": true,
   "closedAt": "2024-03-08T20:05:24Z",
   "merged": true,
   "mergedAt": "2024-03-08T20:05:24Z",

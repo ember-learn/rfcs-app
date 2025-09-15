@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/726",
   "title": "DOM Element descriptor interface for test helpers",
   "createdAt": "2021-03-15T18:47:15Z",
+  "closed": true,
   "closedAt": "2023-12-01T19:29:12Z",
   "merged": true,
   "mergedAt": "2023-12-01T19:29:12Z",

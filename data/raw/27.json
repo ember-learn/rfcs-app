@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/27",
   "title": "ember data loading methods",
   "createdAt": "2014-12-31T08:47:45Z",
+  "closed": true,
   "closedAt": "2019-06-05T21:33:28Z",
   "merged": false,
   "mergedAt": null,

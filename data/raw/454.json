@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/454",
   "title": "SFC & Template Import Primitives",
   "createdAt": "2019-02-23T04:56:28Z",
+  "closed": true,
   "closedAt": "2022-02-09T15:45:04Z",
   "merged": false,
   "mergedAt": null,

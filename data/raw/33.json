@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/33",
   "title": "Remove records from record arrays only in deleted.saved state",
   "createdAt": "2015-02-13T22:26:24Z",
+  "closed": true,
   "closedAt": "2018-06-22T00:10:15Z",
   "merged": false,
   "mergedAt": null,

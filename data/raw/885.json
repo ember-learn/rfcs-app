@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/885",
   "title": "Advance RFC #0811 \"Element Modifiers\" to Stage Ready for Release",
   "createdAt": "2022-12-13T00:38:17Z",
+  "closed": true,
   "closedAt": "2023-04-07T18:47:41Z",
   "merged": true,
   "mergedAt": "2023-04-07T18:47:41Z",

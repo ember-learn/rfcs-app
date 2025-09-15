@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/178",
   "title": "Deprecate Ember.K",
   "createdAt": "2016-11-18T20:02:47Z",
+  "closed": true,
   "closedAt": "2016-12-21T01:57:16Z",
   "merged": false,
   "mergedAt": null,

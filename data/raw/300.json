@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/300",
   "title": "RFC Process Update",
   "createdAt": "2018-02-04T17:23:10Z",
+  "closed": true,
   "closedAt": "2018-11-30T20:33:06Z",
   "merged": true,
   "mergedAt": "2018-11-30T20:33:06Z",

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/268",
   "title": "Rethink Acceptance Testing",
   "createdAt": "2017-11-06T00:26:06Z",
+  "closed": true,
   "closedAt": "2017-12-01T20:11:28Z",
   "merged": true,
   "mergedAt": "2017-12-01T20:11:28Z",

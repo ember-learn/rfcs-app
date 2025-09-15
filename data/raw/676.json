@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/676",
   "title": "Return noop function from {{fn}} helper if invoked without arguments",
   "createdAt": "2020-10-20T21:23:32Z",
+  "closed": true,
   "closedAt": "2022-07-23T23:00:47Z",
   "merged": false,
   "mergedAt": null,

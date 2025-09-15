@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/755",
   "title": "Correct 0669 `isEqual` arguments",
   "createdAt": "2021-06-30T22:59:40Z",
+  "closed": true,
   "closedAt": "2021-06-30T23:36:46Z",
   "merged": true,
   "mergedAt": "2021-06-30T23:36:46Z",

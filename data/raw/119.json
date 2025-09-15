@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/119",
   "title": "Grand Testing Unification",
   "createdAt": "2016-02-08T19:47:04Z",
+  "closed": true,
   "closedAt": "2020-05-22T20:45:33Z",
   "merged": false,
   "mergedAt": null,

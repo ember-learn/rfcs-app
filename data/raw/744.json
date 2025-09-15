@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/744",
   "title": "RFC 0418 - Fix value of key `into`",
   "createdAt": "2021-05-04T06:49:20Z",
+  "closed": true,
   "closedAt": "2021-10-15T18:46:47Z",
   "merged": true,
   "mergedAt": "2021-10-15T18:46:47Z",

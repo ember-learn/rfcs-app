@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/914",
   "title": "Advance RFC #0566 `\"@cached\"` to Stage Recommended",
   "createdAt": "2023-03-13T21:21:29Z",
+  "closed": true,
   "closedAt": "2023-10-06T14:09:48Z",
   "merged": true,
   "mergedAt": "2023-10-06T14:09:48Z",

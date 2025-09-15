@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/148",
   "title": "Update and rename 0000-isHtmlSafe.md to 0139-isHtmlSafe.md",
   "createdAt": "2016-06-19T15:43:06Z",
+  "closed": true,
   "closedAt": "2016-06-19T15:43:10Z",
   "merged": true,
   "mergedAt": "2016-06-19T15:43:10Z",

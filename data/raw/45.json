@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/45",
   "title": "Solicit feedback about IE8 and IE9 support in Ember 2.x",
   "createdAt": "2015-04-04T02:14:50Z",
+  "closed": true,
   "closedAt": "2015-06-07T19:01:10Z",
   "merged": true,
   "mergedAt": "2015-06-07T19:01:09Z",

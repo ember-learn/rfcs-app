@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/323",
   "title": "Array functions",
   "createdAt": "2018-03-25T05:23:14Z",
+  "closed": true,
   "closedAt": "2022-01-31T15:40:04Z",
   "merged": false,
   "mergedAt": null,

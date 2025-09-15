@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/31",
   "title": "Ember data partial record loading",
   "createdAt": "2015-01-26T17:19:41Z",
+  "closed": true,
   "closedAt": "2015-05-24T23:49:49Z",
   "merged": false,
   "mergedAt": null,

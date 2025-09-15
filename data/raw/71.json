@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/71",
   "title": "Actions (aka Rails Service Objects)",
   "createdAt": "2015-06-29T16:00:18Z",
+  "closed": true,
   "closedAt": "2015-09-29T03:40:02Z",
   "merged": false,
   "mergedAt": null,

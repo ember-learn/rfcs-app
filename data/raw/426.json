@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/426",
   "title": "Build-in Ember-Exam",
   "createdAt": "2018-12-24T10:19:10Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/585",
   "title": "Registry APIs: deprecate micro-syntax; introduce replacement API",
   "createdAt": "2020-01-27T16:13:35Z",
+  "closed": true,
   "closedAt": "2020-02-21T19:58:22Z",
   "merged": true,
   "mergedAt": "2020-02-21T19:58:22Z",

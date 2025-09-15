@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/52",
   "title": "Expression RFC",
   "createdAt": "2015-05-17T19:03:07Z",
+  "closed": true,
   "closedAt": "2015-05-18T02:29:51Z",
   "merged": false,
   "mergedAt": null,

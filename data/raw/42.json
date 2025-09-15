@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/42",
   "title": "Global Action Bubbling for Components",
   "createdAt": "2015-03-30T19:19:58Z",
+  "closed": true,
   "closedAt": "2015-05-11T15:24:12Z",
   "merged": false,
   "mergedAt": null,

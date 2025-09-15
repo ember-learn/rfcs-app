@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/145",
   "title": "typo",
   "createdAt": "2016-05-30T15:42:05Z",
+  "closed": true,
   "closedAt": "2016-05-30T15:45:15Z",
   "merged": true,
   "mergedAt": "2016-05-30T15:45:15Z",

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/731",
   "title": "Add setRouteComponent API",
   "createdAt": "2021-03-26T15:11:59Z",
+  "closed": true,
   "closedAt": "2023-10-20T14:10:34Z",
   "merged": false,
   "mergedAt": null,

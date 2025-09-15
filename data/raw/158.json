@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/158",
   "title": "RFC: Asset Loader Service",
   "createdAt": "2016-07-22T17:01:58Z",
+  "closed": true,
   "closedAt": "2018-03-09T22:19:29Z",
   "merged": false,
   "mergedAt": null,

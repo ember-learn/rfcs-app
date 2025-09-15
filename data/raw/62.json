@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/62",
   "title": "Redirects",
   "createdAt": "2015-06-06T23:43:42Z",
+  "closed": true,
   "closedAt": "2022-07-20T18:56:53Z",
   "merged": false,
   "mergedAt": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1004",
   "title": "Advance RFC #0726 `\"DOM Element descriptor interface for test helpers\"` to Stage Released",
   "createdAt": "2024-01-26T15:12:05Z",
+  "closed": true,
   "closedAt": "2024-07-12T18:15:58Z",
   "merged": true,
   "mergedAt": "2024-07-12T18:15:58Z",

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/460",
   "title": "Yieldable named blocks",
   "createdAt": "2019-03-07T00:46:36Z",
+  "closed": true,
   "closedAt": "2019-04-23T22:36:39Z",
   "merged": true,
   "mergedAt": "2019-04-23T22:36:39Z",

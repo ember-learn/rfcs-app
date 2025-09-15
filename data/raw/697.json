@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/697",
   "title": "Readme wording and text",
   "createdAt": "2021-01-05T16:12:11Z",
+  "closed": true,
   "closedAt": "2021-01-11T15:15:41Z",
   "merged": true,
   "mergedAt": "2021-01-11T15:15:41Z",

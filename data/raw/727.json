@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/727",
   "title": "Deprecate `{{unbound}}` helper",
   "createdAt": "2021-03-16T17:57:59Z",
+  "closed": true,
   "closedAt": "2022-03-30T09:06:53Z",
   "merged": false,
   "mergedAt": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1065",
   "title": "Deprecate ember-fetch",
   "createdAt": "2025-01-11T01:39:34Z",
+  "closed": true,
   "closedAt": "2025-02-28T20:00:28Z",
   "merged": true,
   "mergedAt": "2025-02-28T20:00:28Z",

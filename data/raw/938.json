@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/938",
   "title": "Strict ES Module Support",
   "createdAt": "2023-07-26T23:02:09Z",
+  "closed": true,
   "closedAt": "2025-04-01T21:54:18Z",
   "merged": false,
   "mergedAt": null,

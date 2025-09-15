@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/746",
   "title": "Enable Embroider",
   "createdAt": "2021-05-07T19:21:01Z",
+  "closed": true,
   "closedAt": "2024-12-13T19:39:16Z",
   "merged": false,
   "mergedAt": null,

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/24",
   "title": "HTMLBars Bound Attributes",
   "createdAt": "2014-11-27T15:10:19Z",
+  "closed": true,
   "closedAt": "2015-05-07T00:14:16Z",
   "merged": true,
   "mergedAt": "2015-05-07T00:14:16Z",

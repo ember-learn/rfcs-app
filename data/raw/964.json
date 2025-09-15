@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/964",
   "title": "EmberData | deprecate legacy finder support",
   "createdAt": "2023-09-19T05:14:28Z",
+  "closed": true,
   "closedAt": "2025-03-28T18:13:52Z",
   "merged": true,
   "mergedAt": "2025-03-28T18:13:52Z",

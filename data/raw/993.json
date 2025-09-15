@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/993",
   "title": "Let the app define Testem middleware in testem.js rather than implicitly import middleware only from v1 addons",
   "createdAt": "2023-12-06T11:13:37Z",
+  "closed": true,
   "closedAt": "2025-05-30T18:23:28Z",
   "merged": false,
   "mergedAt": null,

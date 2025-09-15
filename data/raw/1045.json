@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1045",
   "title": "Recommend regular methods instead of the `@action` decorator",
   "createdAt": "2024-09-23T15:51:45Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,

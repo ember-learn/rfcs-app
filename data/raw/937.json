@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/937",
   "title": "Advance RFC #0812 `\"Add tracked-built-ins\"` to Stage Released",
   "createdAt": "2023-07-07T18:14:17Z",
+  "closed": true,
   "closedAt": "2023-08-04T15:08:37Z",
   "merged": true,
   "mergedAt": "2023-08-04T15:08:37Z",

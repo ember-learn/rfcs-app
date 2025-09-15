@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1015",
   "title": "Advance RFC #1003 `\"Deprecate `import Ember from 'ember';\"` to Stage Ready for Release",
   "createdAt": "2024-03-22T18:12:58Z",
+  "closed": true,
   "closedAt": "2025-02-14T19:27:48Z",
   "merged": true,
   "mergedAt": "2025-02-14T19:27:48Z",

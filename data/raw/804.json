@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/804",
   "title": "Add release versions for RFCs released between 3.25 and 4.1",
   "createdAt": "2022-03-06T02:13:23Z",
+  "closed": true,
   "closedAt": "2022-08-04T17:51:56Z",
   "merged": false,
   "mergedAt": null,

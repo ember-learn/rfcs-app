@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/711",
   "title": "Deprecate Auto Location",
   "createdAt": "2021-01-23T08:41:00Z",
+  "closed": true,
   "closedAt": "2021-02-26T18:58:22Z",
   "merged": true,
   "mergedAt": "2021-02-26T18:58:22Z",

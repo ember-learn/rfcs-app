@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/15",
   "title": "The Road to Ember 2.0 RFC",
   "createdAt": "2014-11-03T17:03:17Z",
+  "closed": true,
   "closedAt": "2015-06-07T18:47:10Z",
   "merged": true,
   "mergedAt": "2015-06-07T18:47:10Z",

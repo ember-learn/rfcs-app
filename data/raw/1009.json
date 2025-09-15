@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1009",
   "title": "Make deprecation workflow built in",
   "createdAt": "2024-02-22T17:46:40Z",
+  "closed": true,
   "closedAt": "2024-10-18T18:04:40Z",
   "merged": true,
   "mergedAt": "2024-10-18T18:04:40Z",

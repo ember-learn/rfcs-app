@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/296",
   "title": "fix syntax error on is-active helper",
   "createdAt": "2018-01-16T16:53:37Z",
+  "closed": true,
   "closedAt": "2018-01-17T01:36:41Z",
   "merged": true,
   "mergedAt": "2018-01-17T01:36:41Z",

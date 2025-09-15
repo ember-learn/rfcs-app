@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/50",
   "title": "Add improved actions RFC",
   "createdAt": "2015-05-07T00:27:38Z",
+  "closed": true,
   "closedAt": "2015-05-11T18:19:22Z",
   "merged": true,
   "mergedAt": "2015-05-11T18:19:22Z",

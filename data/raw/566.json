@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/566",
   "title": "@cached",
   "createdAt": "2019-12-23T03:20:00Z",
+  "closed": true,
   "closedAt": "2021-02-26T19:15:22Z",
   "merged": true,
   "mergedAt": "2021-02-26T19:15:22Z",

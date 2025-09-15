@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/431",
   "title": "Restructuring the Guides Table of Contents",
   "createdAt": "2019-01-13T17:23:25Z",
+  "closed": true,
   "closedAt": "2019-02-16T04:43:54Z",
   "merged": true,
   "mergedAt": "2019-02-16T04:43:54Z",

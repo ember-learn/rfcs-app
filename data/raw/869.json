@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/869",
   "title": "Advance RFC #0724 \"Official TypeScript support\" to Stage Ready for Release",
   "createdAt": "2022-11-23T18:33:31Z",
+  "closed": true,
   "closedAt": "2023-08-24T17:46:31Z",
   "merged": true,
   "mergedAt": "2023-08-24T17:46:31Z",

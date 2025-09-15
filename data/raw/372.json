@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/372",
   "title": "[RFC ember-data] modelFactoryFor",
   "createdAt": "2018-09-07T02:09:50Z",
+  "closed": true,
   "closedAt": "2018-10-24T21:18:05Z",
   "merged": true,
   "mergedAt": "2018-10-24T21:18:05Z",

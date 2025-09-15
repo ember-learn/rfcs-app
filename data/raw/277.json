@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/277",
   "title": "Fixed typos in RFC 276",
   "createdAt": "2017-12-11T06:03:42Z",
+  "closed": true,
   "closedAt": "2017-12-11T09:26:23Z",
   "merged": true,
   "mergedAt": "2017-12-11T09:26:23Z",

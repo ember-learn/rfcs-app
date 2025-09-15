@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/776",
   "title": "Author Built-In Blueprints in TypeScript",
   "createdAt": "2021-11-16T22:21:23Z",
+  "closed": true,
   "closedAt": "2022-01-05T18:13:41Z",
   "merged": true,
   "mergedAt": "2022-01-05T18:13:41Z",

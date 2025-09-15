@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/267",
   "title": "Deprecate `disabledWhen` of link-to component  ",
   "createdAt": "2017-11-03T15:42:11Z",
+  "closed": true,
   "closedAt": "2021-10-13T12:47:24Z",
   "merged": false,
   "mergedAt": null,

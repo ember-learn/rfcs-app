@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/278",
   "title": "Template-only Components",
   "createdAt": "2017-12-11T14:53:03Z",
+  "closed": true,
   "closedAt": "2018-01-03T18:07:16Z",
   "merged": true,
   "mergedAt": "2018-01-03T18:07:16Z",

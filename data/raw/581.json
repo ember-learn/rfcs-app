@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/581",
   "title": "New Test Waiters",
   "createdAt": "2020-01-14T17:15:17Z",
+  "closed": true,
   "closedAt": "2020-02-21T22:05:15Z",
   "merged": true,
   "mergedAt": "2020-02-21T22:05:15Z",

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/763",
   "title": "Asset Import Spec",
   "createdAt": "2021-08-13T20:23:58Z",
+  "closed": true,
   "closedAt": "2023-10-27T18:16:12Z",
   "merged": true,
   "mergedAt": "2023-10-27T18:16:12Z",

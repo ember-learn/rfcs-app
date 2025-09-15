@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/39",
   "title": "Changing top level dynamic segments while preserving others",
   "createdAt": "2015-03-10T02:58:02Z",
+  "closed": true,
   "closedAt": "2022-07-23T17:26:28Z",
   "merged": false,
   "mergedAt": null,

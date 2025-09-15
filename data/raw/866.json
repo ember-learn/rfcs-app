@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/866",
   "title": "Advance RFC #0756 to Stage Recommended",
   "createdAt": "2022-11-23T17:10:08Z",
+  "closed": true,
   "closedAt": "2023-02-03T19:13:51Z",
   "merged": true,
   "mergedAt": "2023-02-03T19:13:51Z",

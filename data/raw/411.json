@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/411",
   "title": "Add Ember.js PR link for emberjs#337",
   "createdAt": "2018-12-08T03:58:26Z",
+  "closed": true,
   "closedAt": "2018-12-08T04:22:29Z",
   "merged": true,
   "mergedAt": "2018-12-08T04:22:29Z",

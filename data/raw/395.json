@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/395",
   "title": "@ember-data packages",
   "createdAt": "2018-11-01T01:41:52Z",
+  "closed": true,
   "closedAt": "2019-01-16T22:23:50Z",
   "merged": true,
   "mergedAt": "2019-01-16T22:23:50Z",

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/790",
   "title": "Deprecate ajax in favor of fetch in ember-data",
   "createdAt": "2022-01-29T16:52:51Z",
+  "closed": true,
   "closedAt": "2022-12-13T00:44:46Z",
   "merged": true,
   "mergedAt": "2022-12-13T00:44:46Z",

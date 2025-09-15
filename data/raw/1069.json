@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1069",
   "title": "Advance RFC #1046 `\"Use Template Tag in Routes\"` to Stage Released",
   "createdAt": "2025-01-17T19:07:32Z",
+  "closed": true,
   "closedAt": "2025-03-21T18:24:03Z",
   "merged": true,
   "mergedAt": "2025-03-21T18:24:03Z",

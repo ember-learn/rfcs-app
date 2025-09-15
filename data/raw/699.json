@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/699",
   "title": "Add additional info in blueprint lifecycle hooks to support 3rd-party addons to provide a way to codemod blueprints to reduce copy-pasta",
   "createdAt": "2021-01-06T20:43:03Z",
+  "closed": true,
   "closedAt": "2023-08-11T19:43:43Z",
   "merged": false,
   "mergedAt": null,

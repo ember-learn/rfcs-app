@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1141",
   "title": "Advance RFC #1117 `\"Deprecate Classic Classes\"` to Stage Ready for Release",
   "createdAt": "2025-08-29T18:15:01Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,

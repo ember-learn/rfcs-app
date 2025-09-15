@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/860",
   "title": "EmberData | Request Service",
   "createdAt": "2022-11-11T02:06:40Z",
+  "closed": true,
   "closedAt": "2022-12-02T20:39:32Z",
   "merged": true,
   "mergedAt": "2022-12-02T20:39:32Z",

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1031",
   "title": "Advance RFC #0999 `\"Make (hash) a built in helper\"` to Stage Ready for Release",
   "createdAt": "2024-06-12T14:19:45Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,

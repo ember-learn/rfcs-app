@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/808",
   "title": "Amend RFC 0724 to include template type checking",
   "createdAt": "2022-03-24T00:13:30Z",
+  "closed": true,
   "closedAt": "2022-04-15T18:27:31Z",
   "merged": true,
   "mergedAt": "2022-04-15T18:27:31Z",

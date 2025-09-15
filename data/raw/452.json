@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/452",
   "title": "[Data] Medium Term Plan",
   "createdAt": "2019-02-21T02:18:27Z",
+  "closed": true,
   "closedAt": "2019-06-26T21:08:22Z",
   "merged": true,
   "mergedAt": "2019-06-26T21:08:22Z",

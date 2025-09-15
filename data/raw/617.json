@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/617",
   "title": "RFC Stages",
   "createdAt": "2020-04-22T17:49:02Z",
+  "closed": true,
   "closedAt": "2020-09-18T19:08:36Z",
   "merged": true,
   "mergedAt": "2020-09-18T19:08:36Z",

@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/841",
   "title": "update rfc-tooling to allow null for release-date",
   "createdAt": "2022-08-09T15:56:53Z",
+  "closed": true,
   "closedAt": "2022-08-09T16:18:26Z",
   "merged": true,
   "mergedAt": "2022-08-09T16:18:26Z",

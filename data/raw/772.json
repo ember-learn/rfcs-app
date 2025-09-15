@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/772",
   "title": "Deprecate Bower Support",
   "createdAt": "2021-11-10T15:52:50Z",
+  "closed": true,
   "closedAt": "2021-12-08T18:11:09Z",
   "merged": true,
   "mergedAt": "2021-12-08T18:11:08Z",

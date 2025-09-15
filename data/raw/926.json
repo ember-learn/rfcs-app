@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/926",
   "title": "Advance RFC #0854 `\"EmberData Cache V2.1\"` to Stage Recommended",
   "createdAt": "2023-04-05T04:36:44Z",
+  "closed": true,
   "closedAt": "2023-07-28T18:21:17Z",
   "merged": true,
   "mergedAt": "2023-07-28T18:21:17Z",

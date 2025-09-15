@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1001",
   "title": "Deprecate named `inject` export from `@ember/service`",
   "createdAt": "2023-12-26T18:17:20Z",
+  "closed": true,
   "closedAt": "2024-03-08T20:06:28Z",
   "merged": true,
   "mergedAt": "2024-03-08T20:06:28Z",

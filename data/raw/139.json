@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/139",
   "title": "Ember.String.isHtmlSafe RFC",
   "createdAt": "2016-04-18T14:47:14Z",
+  "closed": true,
   "closedAt": "2016-06-12T23:37:14Z",
   "merged": true,
   "mergedAt": "2016-06-12T23:37:14Z",

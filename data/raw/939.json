@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/939",
   "title": "Introduce import.meta.glob",
   "createdAt": "2023-07-26T23:03:04Z",
+  "closed": true,
   "closedAt": "2023-11-10T15:10:13Z",
   "merged": true,
   "mergedAt": "2023-11-10T15:10:12Z",

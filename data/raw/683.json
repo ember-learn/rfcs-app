@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/683",
   "title": "Deprecate Fallback Lookup Paths in ember-resolver",
   "createdAt": "2020-11-23T21:38:44Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,

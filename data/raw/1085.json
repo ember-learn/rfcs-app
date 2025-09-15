@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1085",
   "title": "Advance RFC #0931 `\"JS Representation of Template Tag\"` to Stage Released",
   "createdAt": "2025-03-14T18:53:49Z",
+  "closed": true,
   "closedAt": "2025-05-23T18:35:42Z",
   "merged": true,
   "mergedAt": "2025-05-23T18:35:42Z",

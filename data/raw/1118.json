@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1118",
   "title": "Make @service able to be used in templates",
   "createdAt": "2025-06-23T19:18:29Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,

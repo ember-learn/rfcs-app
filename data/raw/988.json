@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/988",
   "title": "Advance RFC #0939 `\"Introduce a Wildcard Module Import API\"` to Stage Ready for Release",
   "createdAt": "2023-11-10T15:11:09Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,

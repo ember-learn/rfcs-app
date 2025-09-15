@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1101",
   "title": "Deprecate Ember Vendor Bundles",
   "createdAt": "2025-05-13T18:58:19Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,

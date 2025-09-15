@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/458",
   "title": "[DATA] RecordData Operations",
   "createdAt": "2019-03-06T19:45:09Z",
+  "closed": true,
   "closedAt": "2019-04-24T21:39:52Z",
   "merged": false,
   "mergedAt": null,

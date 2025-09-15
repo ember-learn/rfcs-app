@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/823",
   "title": "Update ember to ember-addon in v2 package spec rfc",
   "createdAt": "2022-06-06T21:17:47Z",
+  "closed": true,
   "closedAt": "2022-07-01T18:15:06Z",
   "merged": false,
   "mergedAt": null,

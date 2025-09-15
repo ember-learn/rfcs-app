@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/753",
   "title": "Adds Logging and Debugging Context API",
   "createdAt": "2021-06-15T23:42:35Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,

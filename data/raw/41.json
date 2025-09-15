@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/41",
   "title": "Add glossary section of detailed",
   "createdAt": "2015-03-18T23:31:17Z",
+  "closed": true,
   "closedAt": "2015-03-27T19:20:50Z",
   "merged": false,
   "mergedAt": null,

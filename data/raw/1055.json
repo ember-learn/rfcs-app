@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1055",
   "title": "Vanilla Prettier Setup in Blueprints",
   "createdAt": "2024-12-03T15:56:57Z",
+  "closed": true,
   "closedAt": "2024-12-20T19:12:57Z",
   "merged": true,
   "mergedAt": "2024-12-20T19:12:57Z",

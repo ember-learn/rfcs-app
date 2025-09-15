@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1063",
   "title": "Advance RFC #1055 `\"Vanilla Prettier Setup in Blueprints\"` to Stage Ready for Release",
   "createdAt": "2024-12-20T19:13:40Z",
+  "closed": true,
   "closedAt": "2025-01-24T19:12:35Z",
   "merged": true,
   "mergedAt": "2025-01-24T19:12:35Z",

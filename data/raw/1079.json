@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1079",
   "title": "Propose new reactivity utility: `reactive` from `@ember/reactive`",
   "createdAt": "2025-03-06T21:09:08Z",
+  "closed": false,
   "closedAt": null,
   "merged": false,
   "mergedAt": null,

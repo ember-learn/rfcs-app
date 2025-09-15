@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/800",
   "title": "RFC: TypeScript Adoption Plan",
   "createdAt": "2022-02-24T23:35:06Z",
+  "closed": true,
   "closedAt": "2022-04-15T18:27:13Z",
   "merged": true,
   "mergedAt": "2022-04-15T18:27:12Z",

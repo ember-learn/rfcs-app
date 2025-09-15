@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/656",
   "title": "@cacheFor decorator to read last-cached value on a @cached decorator - RFC",
   "createdAt": "2020-08-18T17:43:03Z",
+  "closed": true,
   "closedAt": "2025-06-20T18:54:48Z",
   "merged": false,
   "mergedAt": null,

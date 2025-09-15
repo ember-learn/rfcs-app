@@ -3,6 +3,7 @@
   "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1081",
   "title": "Advance RFC #1065 `\"Deprecate and Remove ember-fetch\"` to Stage Ready for Release",
   "createdAt": "2025-03-14T18:46:08Z",
+  "closed": true,
   "closedAt": "2025-05-23T18:27:36Z",
   "merged": true,
   "mergedAt": "2025-05-23T18:27:36Z",
