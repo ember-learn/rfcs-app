@@ -80,7 +80,7 @@ function getFirstStagesDuration(rfc) {
     }
   } else {
     return {
-      closed: this.getDays(rfc.closedAt, rfc.createdAt),
+      closed: getDays(rfc.closedAt, rfc.createdAt),
     };
   }
 }
