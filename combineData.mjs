@@ -103,7 +103,7 @@ for (let file of rfcsFiles) {
     }
     rfcMap[num].fcp = isFCP(rfc);
     rfcMap[num].connected.push(rfc);
-  } else {
+  } else if (rfc.timelineItems.length){
     rfcMap[rfc.number] = {
       ...rfc,
       currentStage: findFirstStage(rfc),

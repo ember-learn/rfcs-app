@@ -4,7 +4,7 @@ import { LinkTo } from '@ember/routing';
 export default class RfcCard extends Component {
   <template>
     <div class="rfc-card">
-      <LinkTo class="card-number" @route="rfc" @model={{@rfc.rfcFile}}><h2>#{{@rfc.number}}</h2></LinkTo>
+      <span class="card-number"><h2>#{{@rfc.number}}</h2></span>
       <LinkTo class="card-title" @route="rfc" @model={{@rfc.rfcFile}}><h2>{{@rfc.title}}</h2></LinkTo>
       <p class="card-summary">{{@rfc.summary}}</p>
       {{#unless @compact}}

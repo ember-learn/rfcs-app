@@ -5,10 +5,7 @@ import EsSidebar from 'ember-styleguide/components/es-sidebar';
 
 <template>
   {{pageTitle "Ember.js RFCs"}}
-  <EsHeader><input
-      aria-label="RFCs Search Input"
-      placeholder="Search all RFCS"
-    /></EsHeader>
+  <EsHeader></EsHeader>
   <main class="sidebar-container sidebar-container--full-width">
     <EsSidebar>
       <ul class="table-of-contents">

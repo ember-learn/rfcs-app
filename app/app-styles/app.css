@@ -71,7 +71,7 @@
 
 @media screen and (width <= 1024px) {
   .rfc-card {
-    grid-template-columns: 100px 1fr;
+    grid-template-columns: 75px 1fr;
     grid-template-rows: min-content 1fr min-content;
     grid-gap: 0;
     width: 100%;
@@ -95,8 +95,8 @@
   margin-bottom: var(--spacing-1);
 }
 
-.fcp-item h3 {
-  width: max-content;
+.fcp-item a {
+  margin-left: var(--spacing-1);
 }
 
 .github-url {
