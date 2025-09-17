@@ -27,14 +27,6 @@
     {
       "login": "gitKrystan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14152574?v=4"
-    },
-    {
-      "login": "wagenet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
-    },
-    {
-      "login": "gitKrystan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14152574?v=4"
     }
   ],
   "timelineItems": [
@@ -58,7 +50,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1650,
+    "proposed": 1651,
     "exploring": null,
     "accepted": 274,
     "release": 1,

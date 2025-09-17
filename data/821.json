@@ -11,10 +11,6 @@
     {
       "login": "chriskrycho",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
-    },
-    {
-      "login": "chriskrycho",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
     }
   ],
   "timelineItems": [
@@ -43,7 +39,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1212,
+    "proposed": 1213,
     "exploring": null,
     "accepted": 14,
     "release": 25,

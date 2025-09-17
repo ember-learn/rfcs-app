@@ -31,7 +31,7 @@
   "fcp": false,
   "stageDuration": {
     "proposed": 10,
-    "exploring": 1001,
+    "exploring": 1002,
     "accepted": null,
     "release": null,
     "released": null

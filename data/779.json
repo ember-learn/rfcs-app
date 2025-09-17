@@ -38,11 +38,11 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1383,
+    "proposed": 1384,
     "exploring": null,
     "accepted": 709,
     "release": 43,
-    "released": 277
+    "released": 278
   },
   "connected": [
     {

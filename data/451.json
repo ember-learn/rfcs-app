@@ -43,7 +43,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 2400,
+    "proposed": 2401,
     "exploring": null,
     "accepted": null,
     "release": null,

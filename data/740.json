@@ -11,14 +11,6 @@
     {
       "login": "runspired",
       "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
-    },
-    {
-      "login": "runspired",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
-    },
-    {
-      "login": "runspired",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
     }
   ],
   "timelineItems": [
@@ -42,7 +34,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1607,
+    "proposed": 1608,
     "exploring": null,
     "accepted": 194,
     "release": 2,

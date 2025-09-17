@@ -17,18 +17,6 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
     },
     {
-      "login": "chriskrycho",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
-    },
-    {
-      "login": "gitKrystan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14152574?v=4"
-    },
-    {
-      "login": "wagenet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
-    },
-    {
       "login": "gitKrystan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14152574?v=4"
     }
@@ -44,7 +32,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1638,
+    "proposed": 1639,
     "exploring": null,
     "accepted": 269,
     "release": 1,

@@ -15,10 +15,6 @@
     {
       "login": "kategengler",
       "avatarUrl": "https://avatars.githubusercontent.com/u/444218?v=4"
-    },
-    {
-      "login": "ef4",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/319282?v=4"
     }
   ],
   "timelineItems": [
@@ -45,7 +41,7 @@
   "stageDuration": {
     "proposed": 475,
     "exploring": 331,
-    "accepted": 690,
+    "accepted": 691,
     "release": null,
     "released": null
   },

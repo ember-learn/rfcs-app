@@ -24,11 +24,11 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1973,
+    "proposed": 1974,
     "exploring": null,
     "accepted": 111,
     "release": 1,
-    "released": 1029
+    "released": 1030
   },
   "connected": [
     {

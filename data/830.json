@@ -43,11 +43,11 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1162,
+    "proposed": 1163,
     "exploring": null,
     "accepted": 737,
     "release": 1,
-    "released": 284
+    "released": 285
   },
   "connected": [
     {

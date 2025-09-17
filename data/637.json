@@ -17,10 +17,6 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/444218?v=4"
     },
     {
-      "login": "kategengler",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/444218?v=4"
-    },
-    {
       "login": "mansona",
       "avatarUrl": "https://avatars.githubusercontent.com/u/594890?v=4"
     }
@@ -46,7 +42,7 @@
   "labels": [],
   "fcp": false,
   "stageDuration": {
-    "proposed": 1929,
+    "proposed": 1930,
     "exploring": null,
     "accepted": 303,
     "release": null,
