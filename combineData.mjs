@@ -98,9 +98,18 @@ for (let file of rfcsFiles) {
     if (rfc.merged) {
       rfcMap[num].currentStage = stage;
     }
-    if (rfc.assignees.length > 0) {
-      rfcMap[num].assignees.push(...rfc.assignees);
+
+    for (let assignee of rfc.assignees) {
+      /**
+       * only add the assignee if it doesn't already exist
+       * TODO we should probably update the assignees to be only the latest advance PR
+       * because maybe the assignees might change between the proposed stage and the release stage?
+       */
+      if(!rfcMap[num].assignees.some(a => a.login === assignee.login)) {
+        rfcMap[num].assignees.push(assignee);
+      }
     }
+
     rfcMap[num].fcp = isFCP(rfc);
     rfcMap[num].connected.push(rfc);
   } else if (rfc.timelineItems.length){
