@@ -72,26 +72,26 @@ stage: approved
 
     expect(code).toMatchInlineSnapshot(`
       "var links = [
-      	"0001-transform",
-      	"0002-attribute",
+      	"0011-parameter",
       	"0005-meta",
-      	"0011-parameter"
+      	"0002-attribute",
+      	"0001-transform"
       ];
       var stages = [
-      	"accepted",
+      	"approved",
       	"rejected",
-      	"approved"
+      	"accepted"
       ];
       var stageLinks = {
-      	accepted: [
-      		"0001-transform",
-      		"0002-attribute"
+      	approved: [
+      		"0011-parameter"
       	],
       	rejected: [
       		"0005-meta"
       	],
-      	approved: [
-      		"0011-parameter"
+      	accepted: [
+      		"0002-attribute",
+      		"0001-transform"
       	]
       };
       var rfcsAppTocBuilder_toc = {
