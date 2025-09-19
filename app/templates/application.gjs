@@ -2,10 +2,13 @@ import { pageTitle } from 'ember-page-title';
 import { LinkTo } from '@ember/routing';
 import EsHeader from 'ember-styleguide/components/es-header';
 import EsSidebar from 'ember-styleguide/components/es-sidebar';
+import { NavigationNarrator } from 'ember-a11y-refocus';
 
 <template>
   {{pageTitle "Ember.js RFCs"}}
-  <EsHeader />
+  <EsHeader>
+    <NavigationNarrator />
+  </EsHeader>
   <main class="sidebar-container sidebar-container--full-width">
     <EsSidebar>
       <ul class="table-of-contents">
