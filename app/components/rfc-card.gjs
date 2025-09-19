@@ -5,9 +5,21 @@ export default class RfcCard extends Component {
   <template>
     <div class="rfc-card">
       <span class="card-number"><h2>#{{@rfc.number}}</h2></span>
-      <LinkTo class="card-title" @route="rfc" @model={{@rfc.rfcFile}}>
-        <h2>{{@rfc.title}}</h2>
-      </LinkTo>
+
+      {{#if @rfc.rfcFile}}
+        <LinkTo class="card-title" @route="rfc" @model={{@rfc.rfcFile}}>
+          <h2>{{@rfc.title}}</h2>
+        </LinkTo>
+      {{else}}
+        <a
+          href="https://github.com/emberjs/rfcs/pull/{{@rfc.number}}"
+          class="card-title"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h2>{{@rfc.title}}</h2>
+        </a>
+      {{/if}}
       <p class="card-summary">{{@rfc.summary}}</p>
       {{#unless @compact}}
         <ul title="RFC Champions" class="card-champion rfc-champions">
