@@ -47,20 +47,23 @@ await mkdir('data/raw', { recursive: true });
 for await (const { data: pulls } of iterator) {
   for (const pull of pulls) {
     const data = await octokit.graphql(query, {
-      owner: "emberjs",
-      repo: "rfcs",
+      owner: 'emberjs',
+      repo: 'rfcs',
       number: pull.number,
     });
 
-    const timeLineEvents = data.repository.pullRequest.timelineItems.nodes.map((n) => ({
-      event: n.__typename === "LabeledEvent"
-      ? "labeled"
-      : n.__typename === "UnlabeledEvent"
-      ? "unlabeled"
-      : null,
-      createdAt: n.createdAt,
-      label: n.label?.name ?? null,
-    }));
+    const timeLineEvents = data.repository.pullRequest.timelineItems.nodes.map(
+      (n) => ({
+        event:
+          n.__typename === 'LabeledEvent'
+            ? 'labeled'
+            : n.__typename === 'UnlabeledEvent'
+              ? 'unlabeled'
+              : null,
+        createdAt: n.createdAt,
+        label: n.label?.name ?? null,
+      }),
+    );
 
     await writeFile(
       join('data/raw', `${pull.number}.json`),

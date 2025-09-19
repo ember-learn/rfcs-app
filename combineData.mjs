@@ -40,9 +40,12 @@ function isFCP(rfc) {
   if (rfc.merged) {
     return false;
   } else {
-    return rfc.timelineItems.filter(
-        (item) => item.label == 'Final Comment Period',
-      ).length % 2 == 1
+    return (
+      rfc.timelineItems.filter((item) => item.label == 'Final Comment Period')
+        .length %
+        2 ==
+      1
+    );
   }
 }
 
@@ -105,14 +108,14 @@ for (let file of rfcsFiles) {
        * TODO we should probably update the assignees to be only the latest advance PR
        * because maybe the assignees might change between the proposed stage and the release stage?
        */
-      if(!rfcMap[num].assignees.some(a => a.login === assignee.login)) {
+      if (!rfcMap[num].assignees.some((a) => a.login === assignee.login)) {
         rfcMap[num].assignees.push(assignee);
       }
     }
 
     rfcMap[num].fcp = isFCP(rfc);
     rfcMap[num].connected.push(rfc);
-  } else if (rfc.timelineItems.length){
+  } else if (rfc.timelineItems.length) {
     rfcMap[rfc.number] = {
       ...rfc,
       currentStage: findFirstStage(rfc),

@@ -5,7 +5,7 @@ import EsSidebar from 'ember-styleguide/components/es-sidebar';
 
 <template>
   {{pageTitle "Ember.js RFCs"}}
-  <EsHeader></EsHeader>
+  <EsHeader />
   <main class="sidebar-container sidebar-container--full-width">
     <EsSidebar>
       <ul class="table-of-contents">

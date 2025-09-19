@@ -5,7 +5,9 @@ export default class RfcCard extends Component {
   <template>
     <div class="rfc-card">
       <span class="card-number"><h2>#{{@rfc.number}}</h2></span>
-      <LinkTo class="card-title" @route="rfc" @model={{@rfc.rfcFile}}><h2>{{@rfc.title}}</h2></LinkTo>
+      <LinkTo class="card-title" @route="rfc" @model={{@rfc.rfcFile}}>
+        <h2>{{@rfc.title}}</h2>
+      </LinkTo>
       <p class="card-summary">{{@rfc.summary}}</p>
       {{#unless @compact}}
         <ul title="RFC Champions" class="card-champion rfc-champions">
