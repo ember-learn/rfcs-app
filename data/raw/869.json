@@ -1,0 +1,46 @@
+{
+  "number": 869,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/869",
+  "title": "Advance RFC #0724 \"Official TypeScript support\" to Stage Ready for Release",
+  "createdAt": "2022-11-23T18:33:31Z",
+  "closed": true,
+  "closedAt": "2023-08-24T17:46:31Z",
+  "merged": true,
+  "mergedAt": "2023-08-24T17:46:31Z",
+  "assignees": [
+    {
+      "login": "wagenet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
+    },
+    {
+      "login": "chriskrycho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+    },
+    {
+      "login": "gitKrystan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14152574?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-23T18:33:32Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-23T18:33:32Z",
+      "label": "S-Ready for Release"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-23T18:46:02Z",
+      "label": "E-Polaris"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-18T18:34:26Z",
+      "label": "T-TypeScript"
+    }
+  ]
+}

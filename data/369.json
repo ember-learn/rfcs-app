@@ -1,0 +1,39 @@
+{
+  "number": 369,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/369",
+  "title": "Deprecate Computed Overridability and `.readOnly()`",
+  "createdAt": "2018-08-31T18:16:08Z",
+  "closed": true,
+  "closedAt": "2018-10-26T15:37:44Z",
+  "merged": true,
+  "mergedAt": "2018-10-26T15:37:44Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-10-05T21:05:56Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-10-06T13:44:48Z",
+      "label": "T-framework"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 2574,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

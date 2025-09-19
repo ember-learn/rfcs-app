@@ -1,0 +1,12 @@
+{
+  "number": 825,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/825",
+  "title": "Add redirects for all the github.io links to the new RFCs app",
+  "createdAt": "2022-06-16T16:52:45Z",
+  "closed": true,
+  "closedAt": "2022-06-30T16:47:49Z",
+  "merged": true,
+  "mergedAt": "2022-06-30T16:47:49Z",
+  "assignees": [],
+  "timelineItems": []
+}

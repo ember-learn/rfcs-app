@@ -1,0 +1,18 @@
+{
+  "number": 1136,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1136",
+  "title": "lowLevel.subtle.sync",
+  "createdAt": "2025-08-15T23:06:09Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-15T23:06:21Z",
+      "label": "S-Proposed"
+    }
+  ]
+}

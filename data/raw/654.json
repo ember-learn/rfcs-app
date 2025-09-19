@@ -1,0 +1,12 @@
+{
+  "number": 654,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/654",
+  "title": "RFC 566: rename `@memo` -> `@cached`",
+  "createdAt": "2020-08-11T09:10:11Z",
+  "closed": true,
+  "closedAt": "2020-08-11T13:00:56Z",
+  "merged": true,
+  "mergedAt": "2020-08-11T13:00:55Z",
+  "assignees": [],
+  "timelineItems": []
+}

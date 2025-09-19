@@ -1,0 +1,44 @@
+{
+  "number": 645,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/645",
+  "title": "Add ember-page-title to app default blueprint",
+  "createdAt": "2020-07-03T12:41:16Z",
+  "closed": true,
+  "closedAt": "2020-10-16T19:21:26Z",
+  "merged": true,
+  "mergedAt": "2020-10-16T19:21:26Z",
+  "assignees": [
+    {
+      "login": "MelSumner",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4587451?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2020-10-09T18:43:39Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2020-10-09T18:43:39Z",
+      "label": "T-ember-cli"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2020-10-09T18:43:39Z",
+      "label": "T-learning"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 1902,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

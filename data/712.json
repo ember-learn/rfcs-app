@@ -1,0 +1,45 @@
+{
+  "number": 712,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/712",
+  "title": "Query Params as derived data",
+  "createdAt": "2021-01-26T19:33:49Z",
+  "closed": true,
+  "closedAt": "2022-12-16T19:35:57Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-02-22T13:49:39Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2021-04-06T08:44:41Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-01T15:14:58Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:37:47Z",
+      "label": "T-routing"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-06T23:45:45Z",
+      "label": "FCP to close"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 690
+  },
+  "connected": []
+}

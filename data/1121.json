@@ -1,0 +1,79 @@
+{
+  "number": 1121,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1121",
+  "title": "Strip <template> indentation by default",
+  "createdAt": "2025-07-09T14:21:50Z",
+  "closed": true,
+  "closedAt": "2025-08-08T18:11:52Z",
+  "merged": true,
+  "mergedAt": "2025-08-08T18:11:52Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-07-09T14:22:07Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-07-25T18:29:38Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-07-25T18:29:47Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-07-25T18:34:31Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-07-25T18:29:38Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 17,
+    "exploring": 14,
+    "accepted": 40,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 1127,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1127",
+      "title": "Advance RFC #1121 `\"Default Template invisible character Minification\"` to Stage Ready for Release",
+      "createdAt": "2025-08-08T18:12:34Z",
+      "closed": false,
+      "closedAt": null,
+      "merged": false,
+      "mergedAt": null,
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-08-08T18:12:35Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-08-08T18:12:35Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-08-08T18:12:35Z",
+          "label": "RFC Advancement"
+        }
+      ]
+    }
+  ]
+}

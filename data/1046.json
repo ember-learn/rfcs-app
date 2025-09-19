@@ -1,0 +1,125 @@
+{
+  "number": 1046,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1046",
+  "title": "Template Tag In Routes",
+  "createdAt": "2024-10-04T16:51:20Z",
+  "closed": true,
+  "closedAt": "2024-11-22T19:53:25Z",
+  "merged": true,
+  "mergedAt": "2024-11-22T19:53:24Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-10-04T16:51:35Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-10-04T18:05:40Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-10-18T18:33:18Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-11-08T19:21:35Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "released",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-10-04T18:05:40Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 1,
+    "exploring": 50,
+    "accepted": 56,
+    "release": 63,
+    "released": 180
+  },
+  "connected": [
+    {
+      "number": 1053,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1053",
+      "title": "Advance RFC #1046 `\"Allow Use of Template Tag in Routes\"` to Stage Ready for Release",
+      "createdAt": "2024-11-22T19:55:05Z",
+      "closed": true,
+      "closedAt": "2025-01-17T19:06:44Z",
+      "merged": true,
+      "mergedAt": "2025-01-17T19:06:44Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-11-22T19:55:06Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-11-22T19:55:06Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-01-10T20:04:47Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 1069,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1069",
+      "title": "Advance RFC #1046 `\"Use Template Tag in Routes\"` to Stage Released",
+      "createdAt": "2025-01-17T19:07:32Z",
+      "closed": true,
+      "closedAt": "2025-03-21T18:24:03Z",
+      "merged": true,
+      "mergedAt": "2025-03-21T18:24:03Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-01-17T19:07:34Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-01-17T19:07:34Z",
+          "label": "S-Released"
+        }
+      ]
+    },
+    {
+      "number": 1090,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1090",
+      "title": "Advance RFC #1046 `\"Use Template Tag in Routes\"` to Stage Recommended",
+      "createdAt": "2025-03-21T18:24:52Z",
+      "closed": false,
+      "closedAt": null,
+      "merged": false,
+      "mergedAt": null,
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-03-21T18:24:53Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-03-21T18:24:53Z",
+          "label": "S-Recommended"
+        }
+      ]
+    }
+  ]
+}

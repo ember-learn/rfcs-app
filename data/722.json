@@ -1,0 +1,45 @@
+{
+  "number": 722,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/722",
+  "title": "Align the mount and route APIs",
+  "createdAt": "2021-02-12T08:27:20Z",
+  "closed": true,
+  "closedAt": "2023-09-29T18:06:40Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "ef4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/319282?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-02-12T13:11:33Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-02-12T13:11:33Z",
+      "label": "T-routing"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:34:25Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-22T18:55:42Z",
+      "label": "FCP to close"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 960
+  },
+  "connected": []
+}

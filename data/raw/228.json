@@ -1,0 +1,18 @@
+{
+  "number": 228,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/228",
+  "title": "Single File Components RFC",
+  "createdAt": "2017-05-22T16:57:19Z",
+  "closed": true,
+  "closedAt": "2018-08-08T05:14:09Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-08-01T03:18:36Z",
+      "label": "T-components"
+    }
+  ]
+}

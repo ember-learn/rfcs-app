@@ -1,0 +1,39 @@
+{
+  "number": 585,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/585",
+  "title": "Registry APIs: deprecate micro-syntax; introduce replacement API",
+  "createdAt": "2020-01-27T16:13:35Z",
+  "closed": true,
+  "closedAt": "2020-02-21T19:58:22Z",
+  "merged": true,
+  "mergedAt": "2020-02-21T19:58:22Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2020-01-27T16:56:24Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2020-02-07T20:35:05Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 2060,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

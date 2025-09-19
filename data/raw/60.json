@@ -1,0 +1,12 @@
+{
+  "number": 60,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/60",
+  "title": "Component Unification (angle brackets)",
+  "createdAt": "2015-05-25T00:42:24Z",
+  "closed": true,
+  "closedAt": "2016-04-15T21:05:19Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": []
+}

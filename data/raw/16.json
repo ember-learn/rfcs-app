@@ -1,0 +1,12 @@
+{
+  "number": 16,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/16",
+  "title": "Embedded handlebars draft 1",
+  "createdAt": "2014-11-03T17:23:07Z",
+  "closed": true,
+  "closedAt": "2014-11-04T14:53:14Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": []
+}

@@ -1,0 +1,34 @@
+{
+  "number": 213,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/213",
+  "title": "Custom Components API",
+  "createdAt": "2017-03-13T23:02:46Z",
+  "closed": true,
+  "closedAt": "2018-03-21T15:34:46Z",
+  "merged": true,
+  "mergedAt": "2018-03-21T15:34:46Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-08-01T03:22:10Z",
+      "label": "T-components"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-03-09T22:12:54Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 3110,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

@@ -1,0 +1,130 @@
+{
+  "number": 1070,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1070",
+  "title": "Default globals for strict mode",
+  "createdAt": "2025-01-18T17:05:07Z",
+  "closed": true,
+  "closedAt": "2025-02-28T19:57:40Z",
+  "merged": true,
+  "mergedAt": "2025-02-28T19:57:40Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-01-18T17:05:25Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-01-24T19:31:31Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-01-24T19:31:36Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-02-21T19:15:30Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "recommended",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-01-24T19:31:31Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 7,
+    "exploring": 36,
+    "accepted": 21,
+    "release": 1,
+    "released": 49
+  },
+  "connected": [
+    {
+      "number": 1083,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1083",
+      "title": "Advance RFC #1070 `\"Default globals for strict mode\"` to Stage Ready for Release",
+      "createdAt": "2025-03-14T18:51:01Z",
+      "closed": true,
+      "closedAt": "2025-04-04T18:09:22Z",
+      "merged": true,
+      "mergedAt": "2025-04-04T18:09:22Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-03-14T18:51:02Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-03-14T18:51:02Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-03-28T18:41:03Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 1095,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1095",
+      "title": "Advance RFC #1070 `\"Default globals for strict mode\"` to Stage Released",
+      "createdAt": "2025-04-04T18:10:12Z",
+      "closed": true,
+      "closedAt": "2025-04-04T18:41:35Z",
+      "merged": true,
+      "mergedAt": "2025-04-04T18:41:35Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-04-04T18:10:13Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-04-04T18:10:13Z",
+          "label": "S-Released"
+        }
+      ]
+    },
+    {
+      "number": 1096,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1096",
+      "title": "Advance RFC #1070 `\"Default globals for strict mode\"` to Stage Recommended",
+      "createdAt": "2025-04-04T18:42:27Z",
+      "closed": true,
+      "closedAt": "2025-05-23T18:28:15Z",
+      "merged": true,
+      "mergedAt": "2025-05-23T18:28:15Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-04-04T18:42:28Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-04-04T18:42:28Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-05-16T18:13:20Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    }
+  ]
+}

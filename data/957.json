@@ -1,0 +1,120 @@
+{
+  "number": 957,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/957",
+  "title": "Render Aware Scheduler Interface",
+  "createdAt": "2023-09-09T21:32:21Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-09T21:32:21Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-09T21:32:21Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-09T21:32:21Z",
+      "label": "T-routing"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-09T21:32:21Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-09T21:32:21Z",
+      "label": "T-testing"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-09T21:32:22Z",
+      "label": "T-fastboot"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-09T21:32:22Z",
+      "label": "T-learning"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-09T21:32:22Z",
+      "label": "T-ember-cli"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-09T21:32:22Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-09T21:32:39Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-09-09T21:38:09Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-09-10T15:07:17Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-10T15:12:44Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-09-22T18:45:04Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-22T18:45:04Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-09T21:32:22Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-09-10T15:07:17Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-22T18:45:04Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 1,
+    "exploring": 739,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

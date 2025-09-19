@@ -1,0 +1,74 @@
+{
+  "number": 1132,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1132",
+  "title": "Strict resolver",
+  "createdAt": "2025-08-13T22:45:18Z",
+  "closed": true,
+  "closedAt": "2025-09-05T18:08:38Z",
+  "merged": true,
+  "mergedAt": "2025-09-05T18:08:38Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-13T22:45:34Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-22T19:04:19Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-08-22T19:04:22Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-29T18:58:09Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-22T19:04:19Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 9,
+    "exploring": 14,
+    "accepted": 12,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 1142,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1142",
+      "title": "Advance RFC #1132 `\"Default Strict Resolver\"` to Stage Ready for Release",
+      "createdAt": "2025-09-05T18:09:24Z",
+      "closed": false,
+      "closedAt": null,
+      "merged": false,
+      "mergedAt": null,
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-09-05T18:09:24Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-09-05T18:09:24Z",
+          "label": "S-Ready for Release"
+        }
+      ]
+    }
+  ]
+}

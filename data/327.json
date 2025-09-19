@@ -1,0 +1,30 @@
+{
+  "number": 327,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/327",
+  "title": "Semantic Test Selectors",
+  "createdAt": "2018-04-19T14:39:05Z",
+  "closed": true,
+  "closedAt": "2020-11-04T09:37:50Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "MelSumner",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4587451?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-02-14T19:27:00Z",
+      "label": "T-testing"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 930
+  },
+  "connected": []
+}

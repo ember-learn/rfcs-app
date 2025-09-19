@@ -1,0 +1,45 @@
+{
+  "number": 1101,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1101",
+  "title": "Deprecate Ember Vendor Bundles",
+  "createdAt": "2025-05-13T18:58:19Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-05-13T18:58:34Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-05-23T18:53:57Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-05-23T18:53:57Z",
+      "label": "S-Proposed"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-05-23T18:53:57Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 10,
+    "exploring": 117,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

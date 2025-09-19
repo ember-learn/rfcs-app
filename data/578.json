@@ -1,0 +1,25 @@
+{
+  "number": 578,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/578",
+  "title": "Ember CLI build pipeline",
+  "createdAt": "2020-01-10T22:09:51Z",
+  "closed": true,
+  "closedAt": "2022-02-16T18:24:47Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2020-06-08T19:14:22Z",
+      "label": "T-ember-cli"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 768
+  },
+  "connected": []
+}

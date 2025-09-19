@@ -1,0 +1,12 @@
+{
+  "number": 20,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/20",
+  "title": "Add Ember issue to 0001-improved-cp-syntax.md",
+  "createdAt": "2014-11-13T04:22:50Z",
+  "closed": true,
+  "closedAt": "2015-02-05T08:10:43Z",
+  "merged": true,
+  "mergedAt": "2015-02-05T08:10:43Z",
+  "assignees": [],
+  "timelineItems": []
+}

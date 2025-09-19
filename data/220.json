@@ -1,0 +1,25 @@
+{
+  "number": 220,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/220",
+  "title": "Introduce external redirects",
+  "createdAt": "2017-04-10T16:03:59Z",
+  "closed": true,
+  "closedAt": "2022-07-23T17:52:15Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-08-01T03:24:11Z",
+      "label": "T-routing"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 1931
+  },
+  "connected": []
+}

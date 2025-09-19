@@ -1,0 +1,39 @@
+{
+  "number": 440,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/440",
+  "title": " Decorator Support RFC",
+  "createdAt": "2019-02-07T15:48:50Z",
+  "closed": true,
+  "closedAt": "2019-03-15T23:46:27Z",
+  "merged": true,
+  "mergedAt": "2019-03-15T23:46:27Z",
+  "assignees": [
+    {
+      "login": "pzuraq",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/685518?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-02-14T19:25:45Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-03-08T20:35:36Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 2414,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

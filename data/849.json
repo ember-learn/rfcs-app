@@ -1,0 +1,34 @@
+{
+  "number": 849,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/849",
+  "title": "data: updates to the polymorphic relationships rfc",
+  "createdAt": "2022-08-30T23:31:52Z",
+  "closed": true,
+  "closedAt": "2022-09-13T00:17:51Z",
+  "merged": true,
+  "mergedAt": "2022-09-13T00:17:51Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-08-30T23:31:52Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-08-30T23:31:52Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 1114,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

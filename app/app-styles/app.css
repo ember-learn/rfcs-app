@@ -1,0 +1,123 @@
+.rfc-card {
+  display: grid;
+  grid-template-columns: 100px 1fr 200px;
+  grid-template-rows: min-content 1fr;
+  grid-gap: 0;
+  width: 100%;
+  margin-bottom: var(--spacing-2);
+}
+
+.card-number {
+  grid-area: 1 / 1 / 2 / 2;
+}
+
+.card-title {
+  grid-area: 1 / 2 / 2 / 3;
+}
+
+.card-summary {
+  grid-area: 2 / 2 / 3 / 3;
+}
+
+.card-champion {
+  grid-area: 1 / 3 / 3 / 4;
+}
+
+.card-champion li {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-1);
+  margin-top: var(--spacing-1);
+}
+
+.card-fcp {
+  width: 160px;
+  height: 20px;
+  border-radius: 24px;
+  color: var(--color-white);
+  background-color: var(--color-brand-hc-dark);
+  display: block;
+  font-size: 12px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.rfc-card img {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+}
+
+.table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 2px solid var(--color-brand);
+  border-radius: var(--radius);
+}
+
+.table th,
+.table td {
+  padding: var(--spacing-1);
+  text-align: left;
+  border-left: none;
+  border-right: none;
+}
+
+/* Row borders */
+.table tr + tr td {
+  border-top: 1px solid var(--color-card-border);
+}
+
+/* Optional: top border for the header row */
+.table thead tr th {
+  background-color: var(--color-brand);
+  border-bottom: 1px solid var(--color-card-border);
+  color: var(--color-white);
+}
+
+/* Optional: remove the last row bottom border if needed */
+.table tr:last-child td {
+  border-bottom: none;
+}
+
+@media screen and (width <= 1024px) {
+  .rfc-card {
+    grid-template-columns: 75px 1fr;
+    grid-template-rows: min-content 1fr min-content;
+    grid-gap: 0;
+    width: 100%;
+    margin-bottom: var(--spacing-2);
+  }
+
+  .card-number {
+    grid-area: 1 / 1 / 2 / 2;
+  }
+
+  .card-title {
+    grid-area: 1 / 2 / 2 / 4;
+  }
+
+  .card-summary {
+    grid-area: 2 / 1 / 2 / 4;
+  }
+
+  .card-champion {
+    grid-area: 3 / 1 / 3 / 4;
+    padding-left: 0;
+  }
+}
+
+.fcp-item {
+  display: block;
+  width: fit-content;
+  margin-bottom: var(--spacing-1);
+}
+
+.fcp-item a {
+  margin-left: var(--spacing-1);
+}
+
+.github-url {
+  position: absolute;
+  right: var(--spacing-5);
+}

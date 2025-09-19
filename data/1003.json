@@ -1,0 +1,135 @@
+{
+  "number": 1003,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1003",
+  "title": "Deprecate `import Ember from 'ember'`",
+  "createdAt": "2024-01-22T19:56:02Z",
+  "closed": true,
+  "closedAt": "2024-03-22T18:12:08Z",
+  "merged": true,
+  "mergedAt": "2024-03-22T18:12:08Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-01-22T19:56:18Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-02-16T19:55:05Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-02-16T19:55:05Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-03-08T19:54:36Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "released",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-02-16T19:55:05Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 25,
+    "exploring": 35,
+    "accepted": 330,
+    "release": 91,
+    "released": 96
+  },
+  "connected": [
+    {
+      "number": 1015,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1015",
+      "title": "Advance RFC #1003 `\"Deprecate `import Ember from 'ember';\"` to Stage Ready for Release",
+      "createdAt": "2024-03-22T18:12:58Z",
+      "closed": true,
+      "closedAt": "2025-02-14T19:27:48Z",
+      "merged": true,
+      "mergedAt": "2025-02-14T19:27:48Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-03-22T18:12:58Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-03-22T18:12:58Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-05-17T18:20:00Z",
+          "label": "Final Comment Period"
+        },
+        {
+          "event": "unlabeled",
+          "createdAt": "2024-06-04T18:16:09Z",
+          "label": "Final Comment Period"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-02-07T19:40:40Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 1084,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1084",
+      "title": "Advance RFC #1003 `\"Deprecate `import Ember from 'ember';\"` to Stage Released",
+      "createdAt": "2025-03-14T18:53:05Z",
+      "closed": true,
+      "closedAt": "2025-06-13T18:19:03Z",
+      "merged": true,
+      "mergedAt": "2025-06-13T18:19:03Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-03-14T18:53:06Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-03-14T18:53:06Z",
+          "label": "S-Released"
+        }
+      ]
+    },
+    {
+      "number": 1110,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1110",
+      "title": "Advance RFC #1003 `\"Deprecate `import Ember from 'ember';\"` to Stage Recommended",
+      "createdAt": "2025-06-13T18:19:57Z",
+      "closed": false,
+      "closedAt": null,
+      "merged": false,
+      "mergedAt": null,
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2025-06-13T18:19:58Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2025-06-13T18:19:58Z",
+          "label": "S-Recommended"
+        }
+      ]
+    }
+  ]
+}

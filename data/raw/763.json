@@ -1,0 +1,32 @@
+{
+  "number": 763,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/763",
+  "title": "Asset Import Spec",
+  "createdAt": "2021-08-13T20:23:58Z",
+  "closed": true,
+  "closedAt": "2023-10-27T18:16:12Z",
+  "merged": true,
+  "mergedAt": "2023-10-27T18:16:12Z",
+  "assignees": [
+    {
+      "login": "ef4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/319282?v=4"
+    },
+    {
+      "login": "kategengler",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/444218?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-01T14:51:24Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-10-20T14:47:24Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": 159,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/159",
+  "title": "Add base model",
+  "createdAt": "2016-07-26T20:23:01Z",
+  "closed": true,
+  "closedAt": "2019-06-05T21:19:38Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2016-07-26T20:23:01Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-04-24T21:47:57Z",
+      "label": "FCP to close"
+    }
+  ]
+}

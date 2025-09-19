@@ -1,0 +1,39 @@
+{
+  "number": 742,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/742",
+  "title": "rfc: ember-data | Deprecate Helper Functions",
+  "createdAt": "2021-04-24T06:42:45Z",
+  "closed": true,
+  "closedAt": "2022-04-13T23:03:43Z",
+  "merged": true,
+  "mergedAt": "2022-04-13T23:03:43Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-04-24T06:42:45Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-04-24T06:42:45Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-05-06T00:50:31Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 1608,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

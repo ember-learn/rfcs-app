@@ -1,0 +1,12 @@
+{
+  "number": 838,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/838",
+  "title": "Move stage to top of frontmatter",
+  "createdAt": "2022-08-08T21:22:30Z",
+  "closed": true,
+  "closedAt": "2022-08-08T21:25:27Z",
+  "merged": true,
+  "mergedAt": "2022-08-08T21:25:27Z",
+  "assignees": [],
+  "timelineItems": []
+}

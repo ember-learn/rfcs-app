@@ -1,0 +1,35 @@
+{
+  "number": 283,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/283",
+  "title": "Always run model hook",
+  "createdAt": "2017-12-13T03:19:27Z",
+  "closed": true,
+  "closedAt": "2023-08-18T14:04:38Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-12-13T18:38:48Z",
+      "label": "T-routing"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:35:47Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-11T14:53:11Z",
+      "label": "FCP to close"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 2075
+  },
+  "connected": []
+}

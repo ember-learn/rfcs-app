@@ -1,0 +1,43 @@
+{
+  "number": 932,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/932",
+  "title": "Advance RFC #0907 `\"pnpm support\"` to Stage Ready for Release",
+  "createdAt": "2023-06-02T18:53:51Z",
+  "closed": true,
+  "closedAt": "2023-08-11T14:28:05Z",
+  "merged": true,
+  "mergedAt": "2023-08-11T14:28:05Z",
+  "assignees": [
+    {
+      "login": "kategengler",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/444218?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-06-02T18:53:52Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-06-02T18:53:53Z",
+      "label": "S-Ready for Release"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-06-09T18:55:52Z",
+      "label": "Needs Champion"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-06-11T18:46:31Z",
+      "label": "Needs Champion"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-04T14:57:42Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

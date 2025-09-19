@@ -1,0 +1,28 @@
+{
+  "number": 1020,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1020",
+  "title": "Advance RFC #0848 `\"Deprecate array prototype extensions\"` to Stage Ready for Release",
+  "createdAt": "2024-04-24T15:46:49Z",
+  "closed": true,
+  "closedAt": "2024-08-09T18:07:04Z",
+  "merged": true,
+  "mergedAt": "2024-08-09T18:07:04Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-04-24T15:46:49Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-04-24T15:46:49Z",
+      "label": "S-Ready for Release"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-08-02T18:36:30Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

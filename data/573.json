@@ -1,0 +1,25 @@
+{
+  "number": 573,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/573",
+  "title": "App Boot Hooks",
+  "createdAt": "2020-01-10T01:40:38Z",
+  "closed": true,
+  "closedAt": "2023-11-03T07:31:25Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:34:19Z",
+      "label": "S-Proposed"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 1394
+  },
+  "connected": []
+}

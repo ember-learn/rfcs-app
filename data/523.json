@@ -1,0 +1,39 @@
+{
+  "number": 523,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/523",
+  "title": "@model for route templates",
+  "createdAt": "2019-08-05T22:33:02Z",
+  "closed": true,
+  "closedAt": "2019-08-30T18:36:50Z",
+  "merged": true,
+  "mergedAt": "2019-08-30T18:36:50Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-08-05T23:31:27Z",
+      "label": "T-routing"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-08-05T23:31:27Z",
+      "label": "T-templates"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-08-23T19:42:48Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 2235,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

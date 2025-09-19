@@ -1,0 +1,23 @@
+{
+  "number": 1021,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1021",
+  "title": "Advance RFC #0984 `\"Treat Safari as an Evergreen Browser\"` to Stage Released",
+  "createdAt": "2024-04-26T18:12:30Z",
+  "closed": true,
+  "closedAt": "2024-05-10T18:40:20Z",
+  "merged": true,
+  "mergedAt": "2024-05-10T18:40:20Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-04-26T18:12:31Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-04-26T18:12:31Z",
+      "label": "S-Released"
+    }
+  ]
+}

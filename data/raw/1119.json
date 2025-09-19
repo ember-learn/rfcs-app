@@ -1,0 +1,18 @@
+{
+  "number": 1119,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1119",
+  "title": "Ember API to enable Vite support in Ember Inspector",
+  "createdAt": "2025-06-27T13:50:37Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-27T13:50:54Z",
+      "label": "S-Proposed"
+    }
+  ]
+}

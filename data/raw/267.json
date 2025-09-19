@@ -1,0 +1,23 @@
+{
+  "number": 267,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/267",
+  "title": "Deprecate `disabledWhen` of link-to component  ",
+  "createdAt": "2017-11-03T15:42:11Z",
+  "closed": true,
+  "closedAt": "2021-10-13T12:47:24Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-09-18T15:43:28Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-09-18T15:43:28Z",
+      "label": "T-framework"
+    }
+  ]
+}

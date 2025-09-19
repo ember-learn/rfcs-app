@@ -1,0 +1,47 @@
+{
+  "number": 914,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/914",
+  "title": "Advance RFC #0566 `\"@cached\"` to Stage Recommended",
+  "createdAt": "2023-03-13T21:21:29Z",
+  "closed": true,
+  "closedAt": "2023-10-06T14:09:48Z",
+  "merged": true,
+  "mergedAt": "2023-10-06T14:09:48Z",
+  "assignees": [
+    {
+      "login": "wycats",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4?v=4"
+    },
+    {
+      "login": "mixonic",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8752?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-13T21:21:30Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-13T21:21:30Z",
+      "label": "S-Recommended"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-06-23T18:35:30Z",
+      "label": "Needs Implementer"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-06-23T18:35:30Z",
+      "label": "T-learning"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-29T18:24:09Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

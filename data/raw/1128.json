@@ -1,0 +1,28 @@
+{
+  "number": 1128,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1128",
+  "title": "Advance RFC #1099 `\"renderComponent\"` to Stage Ready for Release",
+  "createdAt": "2025-08-08T18:15:29Z",
+  "closed": true,
+  "closedAt": "2025-09-12T18:11:57Z",
+  "merged": true,
+  "mergedAt": "2025-09-12T18:11:57Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-08T18:15:30Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-08T18:15:30Z",
+      "label": "S-Ready for Release"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-09-05T18:23:34Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 297,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/297",
+  "title": "Deprecating Ember.Logger",
+  "createdAt": "2018-01-19T01:32:34Z",
+  "closed": true,
+  "closedAt": "2018-03-02T14:52:21Z",
+  "merged": true,
+  "mergedAt": "2018-03-02T14:52:21Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-01-19T19:40:03Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-02-09T21:14:59Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 2799,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

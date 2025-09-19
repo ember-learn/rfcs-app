@@ -1,0 +1,28 @@
+{
+  "number": 353,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/353",
+  "title": "Modifiers",
+  "createdAt": "2018-08-16T23:50:17Z",
+  "closed": true,
+  "closedAt": "2022-07-24T00:38:06Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "chadhietala",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/183799?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-10-24T21:26:19Z",
+      "label": "T-templates"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-10-24T21:26:19Z",
+      "label": "T-framework"
+    }
+  ]
+}

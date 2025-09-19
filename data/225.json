@@ -1,0 +1,34 @@
+{
+  "number": 225,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/225",
+  "title": "Allow {{mount}} syntax to accept parameters",
+  "createdAt": "2017-04-26T16:56:29Z",
+  "closed": true,
+  "closedAt": "2017-05-06T15:39:32Z",
+  "merged": true,
+  "mergedAt": "2017-05-06T15:39:32Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-04-28T18:56:21Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2017-05-06T15:39:38Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 3066,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

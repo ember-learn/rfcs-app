@@ -1,0 +1,172 @@
+{
+  "number": 812,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/812",
+  "title": "Add `tracked-built-ins` dependency",
+  "createdAt": "2022-03-29T20:53:51Z",
+  "closed": true,
+  "closedAt": "2022-12-13T00:39:00Z",
+  "merged": true,
+  "mergedAt": "2022-12-13T00:39:00Z",
+  "assignees": [
+    {
+      "login": "chriskrycho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+    },
+    {
+      "login": "locks",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32344?v=4"
+    },
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-03-31T14:09:50Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:31:26Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2022-12-02T19:10:49Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T19:10:49Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T19:10:49Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "currentStage": "recommended",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T19:10:49Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 248,
+    "exploring": 11,
+    "accepted": 207,
+    "release": 28,
+    "released": 421
+  },
+  "connected": [
+    {
+      "number": 886,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/886",
+      "title": "Advance RFC #0812 \"Add tracked-built-ins dependency\" to Stage Ready for Release",
+      "createdAt": "2022-12-13T00:40:00Z",
+      "closed": true,
+      "closedAt": "2023-07-07T18:13:22Z",
+      "merged": true,
+      "mergedAt": "2023-07-07T18:13:21Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2022-12-13T00:40:03Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2022-12-13T00:40:03Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-03-23T20:11:27Z",
+          "label": "E-Polaris"
+        }
+      ]
+    },
+    {
+      "number": 937,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/937",
+      "title": "Advance RFC #0812 `\"Add tracked-built-ins\"` to Stage Released",
+      "createdAt": "2023-07-07T18:14:17Z",
+      "closed": true,
+      "closedAt": "2023-08-04T15:08:37Z",
+      "merged": true,
+      "mergedAt": "2023-08-04T15:08:37Z",
+      "assignees": [
+        {
+          "login": "locks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/32344?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-07-07T18:14:18Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-07-07T18:14:18Z",
+          "label": "S-Released"
+        }
+      ]
+    },
+    {
+      "number": 943,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/943",
+      "title": "Advance RFC #0812 `\"Add tracked-built-ins\"` to Stage Recommended",
+      "createdAt": "2023-08-04T15:09:32Z",
+      "closed": true,
+      "closedAt": "2024-09-27T18:10:39Z",
+      "merged": true,
+      "mergedAt": "2024-09-27T18:10:39Z",
+      "assignees": [
+        {
+          "login": "locks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/32344?v=4"
+        },
+        {
+          "login": "runspired",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-08-04T15:09:33Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-08-04T15:09:33Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-29T18:24:55Z",
+          "label": "Needs Champion"
+        },
+        {
+          "event": "unlabeled",
+          "createdAt": "2023-10-20T18:09:22Z",
+          "label": "Needs Champion"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-09-20T18:11:19Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    }
+  ]
+}

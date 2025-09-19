@@ -1,0 +1,23 @@
+{
+  "number": 322,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/322",
+  "title": "Deprecation of copy and Copyable",
+  "createdAt": "2018-03-24T21:45:27Z",
+  "closed": true,
+  "closedAt": "2018-04-27T18:07:58Z",
+  "merged": true,
+  "mergedAt": "2018-04-27T18:07:58Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-04-06T19:21:26Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

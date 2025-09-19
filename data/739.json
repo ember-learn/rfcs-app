@@ -1,0 +1,111 @@
+{
+  "number": 739,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/739",
+  "title": "rfc: ember-data | deprecate-non-strict-relationships",
+  "createdAt": "2021-04-24T05:10:14Z",
+  "closed": true,
+  "closedAt": "2022-04-13T23:06:49Z",
+  "merged": true,
+  "mergedAt": "2022-04-13T23:06:49Z",
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-04-24T05:10:57Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-04-24T05:10:57Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-05-06T00:51:01Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "released",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 1608,
+    "exploring": null,
+    "accepted": 23,
+    "release": 115,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 909,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/909",
+      "title": "Advance RFC #0739 `\"EmberData | Deprecate Non Strict Relationships\"` to Stage Ready for Release",
+      "createdAt": "2023-03-13T16:31:51Z",
+      "closed": true,
+      "closedAt": "2023-04-05T04:24:17Z",
+      "merged": true,
+      "mergedAt": "2023-04-05T04:24:17Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-03-13T16:31:52Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-03-13T16:31:53Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-03-14T07:07:51Z",
+          "label": "T-ember-data"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-04-05T03:48:39Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 924,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/924",
+      "title": "Advance RFC #0739 `\"EmberData | Deprecate Non Strict Relationships\"` to Stage Released",
+      "createdAt": "2023-04-05T04:25:14Z",
+      "closed": true,
+      "closedAt": "2023-07-28T18:01:04Z",
+      "merged": true,
+      "mergedAt": "2023-07-28T18:01:04Z",
+      "assignees": [
+        {
+          "login": "runspired",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-04-05T04:25:15Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-04-05T04:25:15Z",
+          "label": "S-Released"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-04-05T04:34:30Z",
+          "label": "T-ember-data"
+        }
+      ]
+    }
+  ]
+}

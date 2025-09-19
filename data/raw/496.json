@@ -1,0 +1,33 @@
+{
+  "number": 496,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/496",
+  "title": "Strict mode templates",
+  "createdAt": "2019-06-02T04:42:15Z",
+  "closed": true,
+  "closedAt": "2020-04-24T22:09:45Z",
+  "merged": true,
+  "mergedAt": "2020-04-24T22:09:45Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-06-02T04:42:15Z",
+      "label": "T-templates"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-06-02T04:42:15Z",
+      "label": "work in progress"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2020-04-10T18:07:49Z",
+      "label": "work in progress"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2020-04-17T18:50:36Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

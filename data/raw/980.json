@@ -1,0 +1,18 @@
+{
+  "number": 980,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/980",
+  "title": " deprecate controller mixin",
+  "createdAt": "2023-10-17T13:04:07Z",
+  "closed": true,
+  "closedAt": "2023-11-03T14:48:54Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-10-17T13:04:30Z",
+      "label": "S-Proposed"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "number": 907,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/907",
+  "title": "Propose pnpm support",
+  "createdAt": "2023-03-06T19:58:21Z",
+  "closed": true,
+  "closedAt": "2023-06-02T18:53:00Z",
+  "merged": true,
+  "mergedAt": "2023-06-02T18:53:00Z",
+  "assignees": [
+    {
+      "login": "kategengler",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/444218?v=4"
+    },
+    {
+      "login": "NullVoxPopuli",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/199018?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-06T19:58:41Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-13T18:40:52Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-03-13T18:41:01Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-05-22T15:54:29Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "recommended",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-13T18:40:52Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 7,
+    "exploring": 82,
+    "accepted": 70,
+    "release": 43,
+    "released": 14
+  },
+  "connected": [
+    {
+      "number": 932,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/932",
+      "title": "Advance RFC #0907 `\"pnpm support\"` to Stage Ready for Release",
+      "createdAt": "2023-06-02T18:53:51Z",
+      "closed": true,
+      "closedAt": "2023-08-11T14:28:05Z",
+      "merged": true,
+      "mergedAt": "2023-08-11T14:28:05Z",
+      "assignees": [
+        {
+          "login": "kategengler",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/444218?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-06-02T18:53:52Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-06-02T18:53:53Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-06-09T18:55:52Z",
+          "label": "Needs Champion"
+        },
+        {
+          "event": "unlabeled",
+          "createdAt": "2023-06-11T18:46:31Z",
+          "label": "Needs Champion"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-08-04T14:57:42Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 944,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/944",
+      "title": "Advance RFC #0907 `\"pnpm support\"` to Stage Released",
+      "createdAt": "2023-08-11T14:28:53Z",
+      "closed": true,
+      "closedAt": "2023-09-22T19:58:09Z",
+      "merged": true,
+      "mergedAt": "2023-09-22T19:58:09Z",
+      "assignees": [
+        {
+          "login": "NullVoxPopuli",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/199018?v=4"
+        },
+        {
+          "login": "kategengler",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/444218?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-08-11T14:28:54Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-08-11T14:28:54Z",
+          "label": "S-Released"
+        }
+      ]
+    },
+    {
+      "number": 971,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/971",
+      "title": "Advance RFC #0907 `\"pnpm support\"` to Stage Recommended",
+      "createdAt": "2023-09-22T19:59:09Z",
+      "closed": true,
+      "closedAt": "2023-10-06T14:10:51Z",
+      "merged": true,
+      "mergedAt": "2023-10-06T14:10:51Z",
+      "assignees": [
+        {
+          "login": "NullVoxPopuli",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/199018?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-22T19:59:10Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-22T19:59:10Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-29T18:13:34Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "number": 522,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/522",
+  "title": "RFC - deprecate default serializers and adapters",
+  "createdAt": "2019-07-30T02:12:25Z",
+  "closed": true,
+  "closedAt": "2019-08-22T00:00:36Z",
+  "merged": true,
+  "mergedAt": "2019-08-22T00:00:36Z",
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-07-31T16:04:19Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-07-31T16:04:19Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-08-14T21:53:43Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

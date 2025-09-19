@@ -1,0 +1,28 @@
+{
+  "number": 1104,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1104",
+  "title": "Advance RFC #1065 `\"Deprecate and Remove ember-fetch\"` to Stage Released",
+  "createdAt": "2025-05-23T18:28:19Z",
+  "closed": true,
+  "closedAt": "2025-07-11T18:16:35Z",
+  "merged": true,
+  "mergedAt": "2025-07-11T18:16:35Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-05-23T18:28:19Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-05-23T18:28:20Z",
+      "label": "S-Released"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-05-23T18:28:20Z",
+      "label": "RFC Advancement"
+    }
+  ]
+}

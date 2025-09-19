@@ -1,0 +1,28 @@
+{
+  "number": 1083,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1083",
+  "title": "Advance RFC #1070 `\"Default globals for strict mode\"` to Stage Ready for Release",
+  "createdAt": "2025-03-14T18:51:01Z",
+  "closed": true,
+  "closedAt": "2025-04-04T18:09:22Z",
+  "merged": true,
+  "mergedAt": "2025-04-04T18:09:22Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-03-14T18:51:02Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-03-14T18:51:02Z",
+      "label": "S-Ready for Release"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-03-28T18:41:03Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": 33,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/33",
+  "title": "Remove records from record arrays only in deleted.saved state",
+  "createdAt": "2015-02-13T22:26:24Z",
+  "closed": true,
+  "closedAt": "2018-06-22T00:10:15Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2015-02-23T05:14:57Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2015-03-27T18:53:37Z",
+      "label": "Needs Champion"
+    }
+  ]
+}

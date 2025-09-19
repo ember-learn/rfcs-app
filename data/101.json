@@ -1,0 +1,25 @@
+{
+  "number": 101,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/101",
+  "title": "Friendly Errors",
+  "createdAt": "2015-10-23T14:58:37Z",
+  "closed": true,
+  "closedAt": "2016-01-06T00:45:21Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2015-10-23T20:17:45Z",
+      "label": "T-ember-data"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 75
+  },
+  "connected": []
+}

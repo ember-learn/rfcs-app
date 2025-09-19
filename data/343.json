@@ -1,0 +1,25 @@
+{
+  "number": 343,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/343",
+  "title": "Ember Data Deprecate Transforms",
+  "createdAt": "2018-06-26T06:57:03Z",
+  "closed": true,
+  "closedAt": "2018-06-27T23:40:06Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-06-26T16:43:12Z",
+      "label": "T-ember-data"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 2
+  },
+  "connected": []
+}

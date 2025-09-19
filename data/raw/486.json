@@ -1,0 +1,23 @@
+{
+  "number": 486,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/486",
+  "title": "Deprecate mouseEnter/Leave/Move Ember events",
+  "createdAt": "2019-04-27T23:48:02Z",
+  "closed": true,
+  "closedAt": "2019-07-19T18:52:20Z",
+  "merged": true,
+  "mergedAt": "2019-07-19T18:52:20Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-07-12T19:01:07Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

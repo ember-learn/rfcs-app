@@ -1,0 +1,40 @@
+{
+  "number": 433,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/433",
+  "title": "Accessible Routing ",
+  "createdAt": "2019-01-18T17:16:07Z",
+  "closed": true,
+  "closedAt": "2022-12-02T20:18:38Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "MelSumner",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4587451?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-19T15:43:45Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:35:52Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:36:40Z",
+      "label": "T-routing"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 1415
+  },
+  "connected": []
+}

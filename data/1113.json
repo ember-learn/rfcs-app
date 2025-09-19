@@ -1,0 +1,41 @@
+{
+  "number": 1113,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1113",
+  "title": "Deprecate Comparable",
+  "createdAt": "2025-06-13T19:54:42Z",
+  "closed": true,
+  "closedAt": "2025-06-20T20:34:56Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-13T19:54:54Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-20T18:45:05Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-06-20T18:45:14Z",
+      "label": "S-Proposed"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-20T18:45:05Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 8
+  },
+  "connected": []
+}

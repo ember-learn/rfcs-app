@@ -1,0 +1,23 @@
+{
+  "number": 1140,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1140",
+  "title": "Advance RFC #1114 `\"Deprecating Ember Array\"` to Stage Ready for Release",
+  "createdAt": "2025-08-29T18:12:38Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-29T18:12:39Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-29T18:12:39Z",
+      "label": "S-Ready for Release"
+    }
+  ]
+}

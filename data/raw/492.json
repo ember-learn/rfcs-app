@@ -1,0 +1,12 @@
+{
+  "number": 492,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/492",
+  "title": "Fix a typo and list formatting in 0369-deprecate-computed-clobberability.md",
+  "createdAt": "2019-05-21T15:53:22Z",
+  "closed": true,
+  "closedAt": "2019-05-21T16:12:42Z",
+  "merged": true,
+  "mergedAt": "2019-05-21T16:12:42Z",
+  "assignees": [],
+  "timelineItems": []
+}

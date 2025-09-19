@@ -1,0 +1,130 @@
+{
+  "number": 1006,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1006",
+  "title": "Deprecate the (action) template helper and modifier",
+  "createdAt": "2024-02-13T20:42:58Z",
+  "closed": true,
+  "closedAt": "2024-03-08T20:03:07Z",
+  "merged": true,
+  "mergedAt": "2024-03-08T20:03:07Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-02-13T20:43:16Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-02-23T19:46:57Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-02-23T19:47:32Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-02-23T19:51:22Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "recommended",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-02-23T19:46:57Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 10,
+    "exploring": 15,
+    "accepted": 49,
+    "release": 50,
+    "released": 77
+  },
+  "connected": [
+    {
+      "number": 1011,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1011",
+      "title": "Advance RFC #1006 `\"Deprecate (action) template helper and {{action}} modifier.\"` to Stage Ready for Release",
+      "createdAt": "2024-03-08T20:03:52Z",
+      "closed": true,
+      "closedAt": "2024-04-26T18:18:43Z",
+      "merged": true,
+      "mergedAt": "2024-04-26T18:18:43Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-03-08T20:03:53Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-03-08T20:03:53Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-04-17T14:29:51Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 1022,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1022",
+      "title": "Advance RFC #1006 `\"Deprecate (action) template helper and {{action}} modifier.\"` to Stage Released",
+      "createdAt": "2024-04-26T18:19:36Z",
+      "closed": true,
+      "closedAt": "2024-06-14T18:31:45Z",
+      "merged": true,
+      "mergedAt": "2024-06-14T18:31:45Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-04-26T18:19:37Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-04-26T18:19:37Z",
+          "label": "S-Released"
+        }
+      ]
+    },
+    {
+      "number": 1036,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1036",
+      "title": "Advance RFC #1006 `\"Deprecate (action) template helper and {{action}} modifier.\"` to Stage Recommended",
+      "createdAt": "2024-06-14T18:32:27Z",
+      "closed": true,
+      "closedAt": "2024-08-30T18:12:39Z",
+      "merged": true,
+      "mergedAt": "2024-08-30T18:12:38Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-06-14T18:32:27Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-06-14T18:32:27Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-08-23T18:16:32Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    }
+  ]
+}

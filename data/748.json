@@ -1,0 +1,39 @@
+{
+  "number": 748,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/748",
+  "title": "RFC: Glimmer component `Signature` type",
+  "createdAt": "2021-05-13T13:32:02Z",
+  "closed": true,
+  "closedAt": "2022-03-25T18:26:15Z",
+  "merged": true,
+  "mergedAt": "2022-03-25T18:26:15Z",
+  "assignees": [
+    {
+      "login": "chriskrycho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-02-26T22:41:12Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-03-18T18:42:43Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 1588,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

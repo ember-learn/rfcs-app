@@ -1,0 +1,18 @@
+{
+  "number": 856,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/856",
+  "title": "Default workspace settings of code editors",
+  "createdAt": "2022-10-08T10:39:56Z",
+  "closed": true,
+  "closedAt": "2022-10-10T17:47:39Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-10-09T06:11:30Z",
+      "label": "T-ember-cli"
+    }
+  ]
+}

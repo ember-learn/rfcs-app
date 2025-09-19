@@ -1,0 +1,29 @@
+{
+  "number": 946,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/946",
+  "title": "Simplified imports",
+  "createdAt": "2023-08-18T15:00:52Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-18T15:01:13Z",
+      "label": "S-Proposed"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 761,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

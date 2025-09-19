@@ -1,0 +1,38 @@
+{
+  "number": 426,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/426",
+  "title": "Build-in Ember-Exam",
+  "createdAt": "2018-12-24T10:19:10Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-25T03:04:45Z",
+      "label": "Needs Champion"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:35:51Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:36:19Z",
+      "label": "T-ember-cli"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T20:12:31Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2022-12-02T20:12:35Z",
+      "label": "S-Proposed"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "number": 371,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/371",
+  "title": "Editions",
+  "createdAt": "2018-09-04T14:59:13Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "tomdale",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/90888?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:35:50Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T20:15:43Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2022-12-02T20:15:46Z",
+      "label": "S-Proposed"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T20:15:43Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 1551,
+    "exploring": 1020,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

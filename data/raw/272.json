@@ -1,0 +1,47 @@
+{
+  "number": 272,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/272",
+  "title": "Deprecate Function.prototype.on, Function.prototype.property, Function.prototype.observes",
+  "createdAt": "2017-11-20T13:51:54Z",
+  "closed": true,
+  "closedAt": "2019-01-11T22:19:33Z",
+  "merged": true,
+  "mergedAt": "2019-01-11T22:19:33Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    },
+    {
+      "login": "locks",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32344?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-11-20T15:33:42Z",
+      "label": "work in progress"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2018-02-12T22:52:31Z",
+      "label": "work in progress"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-09-18T15:43:21Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-09-18T15:43:22Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-12-21T19:18:27Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

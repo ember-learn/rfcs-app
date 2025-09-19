@@ -1,0 +1,174 @@
+{
+  "number": 726,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/726",
+  "title": "DOM Element descriptor interface for test helpers",
+  "createdAt": "2021-03-15T18:47:15Z",
+  "closed": true,
+  "closedAt": "2023-12-01T19:29:12Z",
+  "merged": true,
+  "mergedAt": "2023-12-01T19:29:12Z",
+  "assignees": [
+    {
+      "login": "wagenet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
+    },
+    {
+      "login": "bendemboski",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/559001?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-03-15T22:09:00Z",
+      "label": "T-infrastructure"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-03-15T22:09:00Z",
+      "label": "T-testing"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:34:26Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-01-13T21:19:10Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-13T21:19:10Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-11-17T19:41:38Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-11-17T19:41:38Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-01T19:11:23Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "currentStage": "recommended",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-13T21:19:10Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-11-17T19:41:38Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-01T19:11:23Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 670,
+    "exploring": 322,
+    "accepted": 56,
+    "release": 169,
+    "released": 28
+  },
+  "connected": [
+    {
+      "number": 992,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/992",
+      "title": "Advance RFC #0726 `\"DOM Element descriptor interface for test helpers\"` to Stage Ready for Release",
+      "createdAt": "2023-12-01T19:29:56Z",
+      "closed": true,
+      "closedAt": "2024-01-26T15:11:19Z",
+      "merged": true,
+      "mergedAt": "2024-01-26T15:11:19Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-12-01T19:29:56Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-12-01T19:29:57Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-01-19T19:38:58Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 1004,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1004",
+      "title": "Advance RFC #0726 `\"DOM Element descriptor interface for test helpers\"` to Stage Released",
+      "createdAt": "2024-01-26T15:12:05Z",
+      "closed": true,
+      "closedAt": "2024-07-12T18:15:58Z",
+      "merged": true,
+      "mergedAt": "2024-07-12T18:15:58Z",
+      "assignees": [
+        {
+          "login": "bendemboski",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/559001?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-01-26T15:12:06Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-01-26T15:12:06Z",
+          "label": "S-Released"
+        }
+      ]
+    },
+    {
+      "number": 1039,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1039",
+      "title": "Advance RFC #0726 `\"DOM Element descriptor interface for test helpers\"` to Stage Recommended",
+      "createdAt": "2024-07-12T18:16:49Z",
+      "closed": true,
+      "closedAt": "2024-08-09T18:11:21Z",
+      "merged": true,
+      "mergedAt": "2024-08-09T18:11:21Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-07-12T18:16:50Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-07-12T18:16:50Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-08-02T18:18:07Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "number": 784,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/784",
+  "title": "Introduce `no-globals` optional feature",
+  "createdAt": "2022-01-07T11:48:41Z",
+  "closed": true,
+  "closedAt": "2023-07-29T10:07:47Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-02-15T17:15:07Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-04-25T17:13:47Z",
+      "label": "T-infrastructure"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-04-25T17:13:47Z",
+      "label": "T-Tooling"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-04-25T17:13:47Z",
+      "label": "T-ember-cli"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-04-25T17:13:47Z",
+      "label": "T-ember-engines"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:31:23Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-01-27T20:00:28Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-27T20:00:29Z",
+      "label": "S-Exploring"
+    }
+  ]
+}

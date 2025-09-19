@@ -1,0 +1,41 @@
+{
+  "number": 746,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/746",
+  "title": "Enable Embroider",
+  "createdAt": "2021-05-07T19:21:01Z",
+  "closed": true,
+  "closedAt": "2024-12-13T19:39:16Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "ef4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/319282?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-01T14:51:40Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-23T18:50:23Z",
+      "label": "E-Polaris"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-01T14:51:40Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 1317
+  },
+  "connected": []
+}

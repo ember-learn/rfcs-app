@@ -1,0 +1,28 @@
+{
+  "number": 992,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/992",
+  "title": "Advance RFC #0726 `\"DOM Element descriptor interface for test helpers\"` to Stage Ready for Release",
+  "createdAt": "2023-12-01T19:29:56Z",
+  "closed": true,
+  "closedAt": "2024-01-26T15:11:19Z",
+  "merged": true,
+  "mergedAt": "2024-01-26T15:11:19Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-01T19:29:56Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-01T19:29:57Z",
+      "label": "S-Ready for Release"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-01-19T19:38:58Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

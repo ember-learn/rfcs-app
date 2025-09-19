@@ -1,0 +1,39 @@
+{
+  "number": 795,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/795",
+  "title": "ember-data: Return a Promise from Model.save()",
+  "createdAt": "2022-02-14T03:36:41Z",
+  "closed": true,
+  "closedAt": "2022-03-10T03:16:36Z",
+  "merged": true,
+  "mergedAt": "2022-03-10T03:16:36Z",
+  "assignees": [
+    {
+      "login": "snewcomer",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7374640?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-02-14T03:36:41Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-02-20T20:49:48Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 1312,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

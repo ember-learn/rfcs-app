@@ -1,0 +1,43 @@
+{
+  "number": 1111,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1111",
+  "title": "Deprecate Events System",
+  "createdAt": "2025-06-13T19:00:25Z",
+  "closed": true,
+  "closedAt": "2025-08-22T18:13:46Z",
+  "merged": true,
+  "mergedAt": "2025-08-22T18:13:46Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-13T19:00:39Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-20T18:45:55Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-06-20T18:45:58Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-08T18:44:41Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-08-08T18:45:39Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-15T18:52:08Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

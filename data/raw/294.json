@@ -1,0 +1,32 @@
+{
+  "number": 294,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/294",
+  "title": "Make jQuery optional",
+  "createdAt": "2018-01-12T21:14:35Z",
+  "closed": true,
+  "closedAt": "2018-02-04T21:19:44Z",
+  "merged": true,
+  "mergedAt": "2018-02-04T21:19:44Z",
+  "assignees": [
+    {
+      "login": "wycats",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4?v=4"
+    },
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-01-22T15:31:20Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-02-04T16:38:10Z",
+      "label": "T-framework"
+    }
+  ]
+}

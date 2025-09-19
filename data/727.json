@@ -1,0 +1,35 @@
+{
+  "number": 727,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/727",
+  "title": "Deprecate `{{unbound}}` helper",
+  "createdAt": "2021-03-16T17:57:59Z",
+  "closed": true,
+  "closedAt": "2022-03-30T09:06:53Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "locks",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32344?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-02-15T17:21:58Z",
+      "label": "T-templates"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-03-03T21:09:38Z",
+      "label": "T-deprecation"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 379
+  },
+  "connected": []
+}

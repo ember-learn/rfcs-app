@@ -1,0 +1,25 @@
+{
+  "number": 205,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/205",
+  "title": "Allow for specifying epsilon segments in routes",
+  "createdAt": "2017-01-26T18:53:59Z",
+  "closed": true,
+  "closedAt": "2022-07-23T17:28:06Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-08-01T03:24:11Z",
+      "label": "T-routing"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 2004
+  },
+  "connected": []
+}

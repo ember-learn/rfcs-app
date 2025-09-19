@@ -1,0 +1,33 @@
+{
+  "number": 329,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/329",
+  "title": "Start RFC to deprecate the use of Ember Evented in Ember Data",
+  "createdAt": "2018-05-01T13:06:43Z",
+  "closed": true,
+  "closedAt": "2018-09-26T21:52:23Z",
+  "merged": true,
+  "mergedAt": "2018-09-26T21:52:23Z",
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-05-01T13:06:52Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-08-17T01:04:37Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-09-18T15:43:04Z",
+      "label": "T-deprecation"
+    }
+  ]
+}

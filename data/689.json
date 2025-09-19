@@ -1,0 +1,39 @@
+{
+  "number": 689,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/689",
+  "title": "Deprecate {{hasBlock}} and {{hasBlockParams}} in templates",
+  "createdAt": "2020-12-23T01:54:30Z",
+  "closed": true,
+  "closedAt": "2021-01-22T19:32:06Z",
+  "merged": true,
+  "mergedAt": "2021-01-22T19:32:06Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-01-15T19:27:24Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-01-15T20:55:09Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-01-15T20:55:14Z",
+      "label": "T-templates"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 1730,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

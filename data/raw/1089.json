@@ -1,0 +1,28 @@
+{
+  "number": 1089,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1089",
+  "title": "Advance RFC #1001 `\"Deprecate named inject export from @ember/service\"` to Stage Recommended",
+  "createdAt": "2025-03-21T18:23:54Z",
+  "closed": true,
+  "closedAt": "2025-04-04T18:17:44Z",
+  "merged": true,
+  "mergedAt": "2025-04-04T18:17:44Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-03-21T18:23:55Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-03-21T18:23:55Z",
+      "label": "S-Recommended"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-03-28T18:16:27Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

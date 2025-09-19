@@ -1,0 +1,33 @@
+{
+  "number": 1046,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1046",
+  "title": "Template Tag In Routes",
+  "createdAt": "2024-10-04T16:51:20Z",
+  "closed": true,
+  "closedAt": "2024-11-22T19:53:25Z",
+  "merged": true,
+  "mergedAt": "2024-11-22T19:53:24Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-10-04T16:51:35Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-10-04T18:05:40Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-10-18T18:33:18Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-11-08T19:21:35Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "number": 521,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/521",
+  "title": "[DATA] findRecord/peekRecord via Identifier",
+  "createdAt": "2019-07-29T20:49:10Z",
+  "closed": true,
+  "closedAt": "2019-08-22T00:02:00Z",
+  "merged": true,
+  "mergedAt": "2019-08-22T00:02:00Z",
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-07-31T16:05:53Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-07-31T16:05:53Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-08-14T21:50:46Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

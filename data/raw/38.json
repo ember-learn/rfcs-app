@@ -1,0 +1,23 @@
+{
+  "number": 38,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/38",
+  "title": "Routable Components RFC",
+  "createdAt": "2015-02-27T20:32:33Z",
+  "closed": true,
+  "closedAt": "2018-01-07T05:25:17Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2015-03-27T19:05:45Z",
+      "label": "Needs Champion"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2015-03-27T19:05:45Z",
+      "label": "Needs Implementer"
+    }
+  ]
+}

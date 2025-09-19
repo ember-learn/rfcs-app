@@ -1,0 +1,23 @@
+{
+  "number": 706,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/706",
+  "title": "Deprecate the Ember Global",
+  "createdAt": "2021-01-14T23:46:42Z",
+  "closed": true,
+  "closedAt": "2021-01-22T19:14:21Z",
+  "merged": true,
+  "mergedAt": "2021-01-22T19:14:21Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-01-15T20:51:53Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-01-15T20:55:23Z",
+      "label": "T-framework"
+    }
+  ]
+}

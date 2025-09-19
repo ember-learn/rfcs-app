@@ -1,0 +1,28 @@
+{
+  "number": 276,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/276",
+  "title": "Named Arguments Syntax (`{{@foo}}`)",
+  "createdAt": "2017-12-10T16:42:36Z",
+  "closed": true,
+  "closedAt": "2018-01-03T18:06:48Z",
+  "merged": true,
+  "mergedAt": "2018-01-03T18:06:48Z",
+  "assignees": [
+    {
+      "login": "chancancode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55829?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-12-10T17:09:26Z",
+      "label": "T-components"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2017-12-20T17:36:58Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

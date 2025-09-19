@@ -1,0 +1,32 @@
+{
+  "number": 580,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/580",
+  "title": "Destroyables",
+  "createdAt": "2020-01-11T00:26:29Z",
+  "closed": true,
+  "closedAt": "2020-04-21T18:48:04Z",
+  "merged": true,
+  "mergedAt": "2020-04-21T18:48:04Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    },
+    {
+      "login": "pzuraq",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/685518?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2020-03-04T21:30:24Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2020-04-10T18:38:11Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

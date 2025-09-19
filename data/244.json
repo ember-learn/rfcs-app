@@ -1,0 +1,30 @@
+{
+  "number": 244,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/244",
+  "title": "Update 0000-find-polymorphism.md",
+  "createdAt": "2017-08-16T10:13:36Z",
+  "closed": true,
+  "closedAt": "2023-03-27T05:44:15Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-09-01T14:33:32Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:35:47Z",
+      "label": "S-Proposed"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 2049
+  },
+  "connected": []
+}

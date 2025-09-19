@@ -1,0 +1,18 @@
+{
+  "number": 1120,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1120",
+  "title": "Deprecate initializers and instance initializers",
+  "createdAt": "2025-07-03T03:52:58Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-07-03T03:53:13Z",
+      "label": "S-Proposed"
+    }
+  ]
+}

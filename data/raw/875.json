@@ -1,0 +1,46 @@
+{
+  "number": 875,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/875",
+  "title": "Advance RFC #0730 \"Semantic Versioning for TypeScript Types\" to Stage Ready for Release",
+  "createdAt": "2022-11-29T01:50:56Z",
+  "closed": true,
+  "closedAt": "2023-08-24T18:00:19Z",
+  "merged": true,
+  "mergedAt": "2023-08-24T18:00:19Z",
+  "assignees": [
+    {
+      "login": "wagenet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
+    },
+    {
+      "login": "chriskrycho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+    },
+    {
+      "login": "gitKrystan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14152574?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-29T01:50:57Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-29T01:50:57Z",
+      "label": "S-Ready for Release"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-23T18:46:04Z",
+      "label": "E-Polaris"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-18T18:34:16Z",
+      "label": "T-TypeScript"
+    }
+  ]
+}

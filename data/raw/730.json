@@ -1,0 +1,23 @@
+{
+  "number": 730,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/730",
+  "title": "RFC: Semantic Versioning for TypeScript Types",
+  "createdAt": "2021-03-23T19:42:16Z",
+  "closed": true,
+  "closedAt": "2022-04-19T01:35:30Z",
+  "merged": true,
+  "mergedAt": "2022-04-19T01:35:30Z",
+  "assignees": [
+    {
+      "login": "chriskrycho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-04-08T18:09:01Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "number": 1045,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1045",
+  "title": "Recommend regular methods instead of the `@action` decorator",
+  "createdAt": "2024-09-23T15:51:45Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-09-23T15:52:04Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-11-08T19:29:15Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-11-08T19:30:33Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-12-06T19:07:18Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-11-08T19:29:15Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 47,
+    "exploring": 313,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

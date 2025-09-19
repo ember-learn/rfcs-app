@@ -1,0 +1,34 @@
+{
+  "number": 561,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/561",
+  "title": "Adding Numeric Comparison Operators to Templates",
+  "createdAt": "2019-12-08T21:00:24Z",
+  "closed": true,
+  "closedAt": "2021-02-05T21:43:57Z",
+  "merged": true,
+  "mergedAt": "2021-02-05T21:43:57Z",
+  "assignees": [
+    {
+      "login": "locks",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32344?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-01-29T19:58:05Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 2110,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

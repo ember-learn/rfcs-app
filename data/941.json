@@ -1,0 +1,25 @@
+{
+  "number": 941,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/941",
+  "title": "Update Stage for RFC 739 to Recommended",
+  "createdAt": "2023-07-28T17:45:39Z",
+  "closed": true,
+  "closedAt": "2023-07-28T17:54:08Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-07-28T17:45:51Z",
+      "label": "T-ember-data"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 1
+  },
+  "connected": []
+}

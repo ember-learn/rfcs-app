@@ -1,0 +1,44 @@
+{
+  "number": 460,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/460",
+  "title": "Yieldable named blocks",
+  "createdAt": "2019-03-07T00:46:36Z",
+  "closed": true,
+  "closedAt": "2019-04-23T22:36:39Z",
+  "merged": true,
+  "mergedAt": "2019-04-23T22:36:39Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-04-02T15:08:32Z",
+      "label": "T-templates"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-04-02T15:08:32Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-04-12T18:27:09Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 2387,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

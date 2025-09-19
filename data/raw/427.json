@@ -1,0 +1,23 @@
+{
+  "number": 427,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/427",
+  "title": "Add once-for-observer RFC",
+  "createdAt": "2018-12-28T22:49:54Z",
+  "closed": true,
+  "closedAt": "2019-02-11T22:20:21Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-04T20:48:05Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-04T20:48:05Z",
+      "label": "FCP to close"
+    }
+  ]
+}

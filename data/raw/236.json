@@ -1,0 +1,28 @@
+{
+  "number": 236,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/236",
+  "title": "Ember.String deprecation RFC",
+  "createdAt": "2017-07-19T21:07:40Z",
+  "closed": true,
+  "closedAt": "2017-09-26T08:21:15Z",
+  "merged": true,
+  "mergedAt": "2017-09-26T08:21:15Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-08-01T03:14:55Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2017-08-01T03:19:07Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2017-09-01T23:40:22Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "number": 656,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/656",
+  "title": "@cacheFor decorator to read last-cached value on a @cached decorator - RFC",
+  "createdAt": "2020-08-18T17:43:03Z",
+  "closed": true,
+  "closedAt": "2025-06-20T18:54:48Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:34:24Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-06-20T18:50:47Z",
+      "label": "FCP to close"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 1768
+  },
+  "connected": []
+}

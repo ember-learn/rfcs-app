@@ -1,0 +1,33 @@
+{
+  "number": 894,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/894",
+  "title": "Add eslint-plugin-import to ember-cli blueprint",
+  "createdAt": "2023-01-07T18:58:55Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-07T18:59:14Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-05-26T18:51:17Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-05-26T18:51:17Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-18T14:25:27Z",
+      "label": "Needs Champion"
+    }
+  ]
+}

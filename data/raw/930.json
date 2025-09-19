@@ -1,0 +1,12 @@
+{
+  "number": 930,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/930",
+  "title": "Fix code examples & add ember-cli release version in emberjs/rfcs#637",
+  "createdAt": "2023-04-24T20:26:37Z",
+  "closed": true,
+  "closedAt": "2023-04-25T21:10:04Z",
+  "merged": true,
+  "mergedAt": "2023-04-25T21:10:04Z",
+  "assignees": [],
+  "timelineItems": []
+}

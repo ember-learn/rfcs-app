@@ -1,0 +1,52 @@
+{
+  "number": 481,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/481",
+  "title": "Component Templates Co-location",
+  "createdAt": "2019-04-23T06:39:33Z",
+  "closed": true,
+  "closedAt": "2019-05-31T20:32:15Z",
+  "merged": true,
+  "mergedAt": "2019-05-31T20:32:15Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    },
+    {
+      "login": "chancancode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55829?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-04-23T06:47:15Z",
+      "label": "Octane"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-04-23T06:47:15Z",
+      "label": "T-components"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-04-23T06:47:15Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-04-23T06:47:16Z",
+      "label": "T-Tooling"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-05-06T12:48:52Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2019-05-08T15:16:01Z",
+      "label": "Octane"
+    }
+  ]
+}

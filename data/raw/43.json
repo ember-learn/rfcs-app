@@ -1,0 +1,12 @@
+{
+  "number": 43,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/43",
+  "title": "Multiple yields",
+  "createdAt": "2015-04-02T05:21:13Z",
+  "closed": true,
+  "closedAt": "2015-06-07T21:48:37Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": []
+}

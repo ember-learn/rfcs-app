@@ -1,0 +1,39 @@
+{
+  "number": 457,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/457",
+  "title": "Nested Invocations in Angle Bracket Syntax",
+  "createdAt": "2019-03-05T23:59:59Z",
+  "closed": true,
+  "closedAt": "2019-03-15T23:49:07Z",
+  "merged": true,
+  "mergedAt": "2019-03-15T23:49:07Z",
+  "assignees": [
+    {
+      "login": "wycats",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-03-07T20:14:31Z",
+      "label": "Octane"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-03-09T01:38:16Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 2388,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

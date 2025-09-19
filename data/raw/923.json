@@ -1,0 +1,33 @@
+{
+  "number": 923,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/923",
+  "title": "Advance RFC #0854 `\"EmberData Cache V2.1\"` to Stage Ready for Release",
+  "createdAt": "2023-04-05T04:13:37Z",
+  "closed": true,
+  "closedAt": "2023-04-05T04:35:48Z",
+  "merged": true,
+  "mergedAt": "2023-04-05T04:35:48Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-04-05T04:13:38Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-04-05T04:13:38Z",
+      "label": "S-Ready for Release"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-04-05T04:30:20Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-04-05T04:34:15Z",
+      "label": "T-ember-data"
+    }
+  ]
+}

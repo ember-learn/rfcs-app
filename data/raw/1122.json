@@ -1,0 +1,18 @@
+{
+  "number": 1122,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1122",
+  "title": "Resources",
+  "createdAt": "2025-07-11T17:55:06Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-07-11T17:55:22Z",
+      "label": "S-Proposed"
+    }
+  ]
+}

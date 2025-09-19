@@ -1,0 +1,39 @@
+{
+  "number": 581,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/581",
+  "title": "New Test Waiters",
+  "createdAt": "2020-01-14T17:15:17Z",
+  "closed": true,
+  "closedAt": "2020-02-21T22:05:15Z",
+  "merged": true,
+  "mergedAt": "2020-02-21T22:05:15Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2020-02-07T20:34:25Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2020-02-07T20:36:34Z",
+      "label": "T-testing"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 2073,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

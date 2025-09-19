@@ -1,0 +1,33 @@
+{
+  "number": 1132,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1132",
+  "title": "Strict resolver",
+  "createdAt": "2025-08-13T22:45:18Z",
+  "closed": true,
+  "closedAt": "2025-09-05T18:08:38Z",
+  "merged": true,
+  "mergedAt": "2025-09-05T18:08:38Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-13T22:45:34Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-22T19:04:19Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2025-08-22T19:04:22Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-29T18:58:09Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

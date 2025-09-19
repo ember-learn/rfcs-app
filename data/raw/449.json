@@ -1,0 +1,33 @@
+{
+  "number": 449,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/449",
+  "title": "Deprecate {{partial}}",
+  "createdAt": "2019-02-17T21:28:55Z",
+  "closed": true,
+  "closedAt": "2019-03-16T22:56:51Z",
+  "merged": true,
+  "mergedAt": "2019-03-16T22:56:51Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-02-20T20:48:44Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-02-20T20:48:49Z",
+      "label": "T-templates"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-03-08T20:41:29Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

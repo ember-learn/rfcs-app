@@ -1,0 +1,18 @@
+{
+  "number": 1133,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1133",
+  "title": "Introduce Template-only Class Components",
+  "createdAt": "2025-08-14T16:37:26Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-14T16:37:39Z",
+      "label": "S-Proposed"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 415,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/415",
+  "title": "Render Element Modifiers",
+  "createdAt": "2018-12-14T00:20:23Z",
+  "closed": true,
+  "closedAt": "2019-01-22T16:26:03Z",
+  "merged": true,
+  "mergedAt": "2019-01-22T16:26:03Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    },
+    {
+      "login": "tomdale",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/90888?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-12-15T01:17:42Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-12-15T01:17:42Z",
+      "label": "Octane"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-11T20:55:33Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "number": 266,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/266",
+  "title": "[Ember Data] load relationships without data or links",
+  "createdAt": "2017-10-31T00:23:42Z",
+  "closed": true,
+  "closedAt": "2018-08-17T00:20:44Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-02-28T02:36:36Z",
+      "label": "T-ember-data"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 290
+  },
+  "connected": []
+}

@@ -1,0 +1,78 @@
+{
+  "number": 785,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/785",
+  "title": " Introduce new test helpers for rendering (and re-rendering) that obviate the need for `get` and `set`",
+  "createdAt": "2022-01-07T19:42:46Z",
+  "closed": true,
+  "closedAt": "2022-04-15T18:24:23Z",
+  "merged": true,
+  "mergedAt": "2022-04-15T18:24:23Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-02-15T17:13:42Z",
+      "label": "T-ember-cli"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-02-15T17:13:42Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-02-15T17:13:42Z",
+      "label": "T-testing"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-04-08T18:09:36Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-04-08T18:09:51Z",
+      "label": "T-TypeScript"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 1349,
+    "exploring": null,
+    "accepted": 658,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 991,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/991",
+      "title": "Advance RFC #0785 `\"Introduce new test helpers for rendering (and re-rendering) that obviate the need for get and set\"` to Stage Recommended",
+      "createdAt": "2023-11-29T19:55:37Z",
+      "closed": false,
+      "closedAt": null,
+      "merged": false,
+      "mergedAt": null,
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-11-29T19:55:38Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-11-29T19:55:38Z",
+          "label": "S-Recommended"
+        }
+      ]
+    }
+  ]
+}

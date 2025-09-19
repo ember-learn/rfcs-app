@@ -1,0 +1,29 @@
+{
+  "number": 961,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/961",
+  "title": "Bugfix - date format on RFC 831",
+  "createdAt": "2023-09-18T14:25:07Z",
+  "closed": true,
+  "closedAt": "2023-09-18T14:54:53Z",
+  "merged": true,
+  "mergedAt": "2023-09-18T14:54:53Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-18T14:25:07Z",
+      "label": "bug"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 730,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

@@ -1,0 +1,23 @@
+{
+  "number": 35,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/35",
+  "title": "RFC: Create attrTypes to describe the interface of a component",
+  "createdAt": "2015-02-21T02:32:04Z",
+  "closed": true,
+  "closedAt": "2015-06-07T18:52:37Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "mmun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1151810?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2015-03-27T19:06:23Z",
+      "label": "Needs Response"
+    }
+  ]
+}

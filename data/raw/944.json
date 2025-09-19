@@ -1,0 +1,32 @@
+{
+  "number": 944,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/944",
+  "title": "Advance RFC #0907 `\"pnpm support\"` to Stage Released",
+  "createdAt": "2023-08-11T14:28:53Z",
+  "closed": true,
+  "closedAt": "2023-09-22T19:58:09Z",
+  "merged": true,
+  "mergedAt": "2023-09-22T19:58:09Z",
+  "assignees": [
+    {
+      "login": "NullVoxPopuli",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/199018?v=4"
+    },
+    {
+      "login": "kategengler",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/444218?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-11T14:28:54Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-11T14:28:54Z",
+      "label": "S-Released"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "number": 200,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/200",
+  "title": "`let` it be: bind names to values in templates",
+  "createdAt": "2017-01-15T00:53:12Z",
+  "closed": true,
+  "closedAt": "2018-09-18T15:19:57Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-08-01T03:23:51Z",
+      "label": "T-templates"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "number": 681,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/681",
+  "title": "Convert RFC metadata to real frontmatter",
+  "createdAt": "2020-11-02T06:37:52Z",
+  "closed": true,
+  "closedAt": "2020-11-02T16:38:49Z",
+  "merged": true,
+  "mergedAt": "2020-11-02T16:38:48Z",
+  "assignees": [],
+  "timelineItems": []
+}

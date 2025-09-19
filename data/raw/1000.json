@@ -1,0 +1,33 @@
+{
+  "number": 1000,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1000",
+  "title": "Make array built-in in strict-mode",
+  "createdAt": "2023-12-22T19:04:19Z",
+  "closed": true,
+  "closedAt": "2024-06-12T14:36:10Z",
+  "merged": true,
+  "mergedAt": "2024-06-12T14:36:10Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-22T19:04:34Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-01-19T19:59:09Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-02-09T20:03:47Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-17T18:41:01Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "number": 507,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/507",
+  "title": "v2 Addon Format (Embroider compatibility)",
+  "createdAt": "2019-06-22T21:41:18Z",
+  "closed": true,
+  "closedAt": "2020-05-15T20:03:06Z",
+  "merged": true,
+  "mergedAt": "2020-05-15T20:03:06Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2020-05-01T20:50:52Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 2279,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

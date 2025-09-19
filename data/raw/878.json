@@ -1,0 +1,37 @@
+{
+  "number": 878,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/878",
+  "title": "Advance RFC #0830 \"Evolving Ember's Major Version Process\" to Stage Ready for Release",
+  "createdAt": "2022-12-01T15:03:26Z",
+  "closed": true,
+  "closedAt": "2024-12-06T19:06:27Z",
+  "merged": true,
+  "mergedAt": "2024-12-06T19:06:27Z",
+  "assignees": [
+    {
+      "login": "kategengler",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/444218?v=4"
+    },
+    {
+      "login": "chriskrycho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-01T15:03:27Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-01T15:03:27Z",
+      "label": "S-Ready for Release"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-11-22T20:13:38Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

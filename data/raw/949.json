@@ -1,0 +1,23 @@
+{
+  "number": 949,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/949",
+  "title": "Advance RFC #0730 `\"Semantic Versioning for TypeScript Types\"` to Stage Released",
+  "createdAt": "2023-08-24T18:01:16Z",
+  "closed": true,
+  "closedAt": "2023-08-24T18:05:14Z",
+  "merged": true,
+  "mergedAt": "2023-08-24T18:05:14Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-24T18:01:16Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-24T18:01:16Z",
+      "label": "S-Released"
+    }
+  ]
+}

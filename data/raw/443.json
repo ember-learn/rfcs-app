@@ -1,0 +1,43 @@
+{
+  "number": 443,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/443",
+  "title": "`trustedHtml` and `trusted-html`",
+  "createdAt": "2019-02-09T11:10:14Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "wagenet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-02-14T19:19:09Z",
+      "label": "T-templates"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-02-14T19:19:09Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:35:52Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2022-12-02T20:14:36Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T20:14:42Z",
+      "label": "S-Exploring"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "number": 753,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/753",
+  "title": "Adds Logging and Debugging Context API",
+  "createdAt": "2021-06-15T23:42:35Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "wycats",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-01T14:51:23Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-01T14:51:23Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 534,
+    "exploring": 1021,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

@@ -1,0 +1,39 @@
+{
+  "number": 421,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/421",
+  "title": "Deprecate Application Controller Router Properties",
+  "createdAt": "2018-12-19T19:51:09Z",
+  "closed": true,
+  "closedAt": "2019-02-05T13:24:42Z",
+  "merged": true,
+  "mergedAt": "2019-02-05T13:24:41Z",
+  "assignees": [
+    {
+      "login": "chadhietala",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/183799?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-25T03:03:09Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-25T22:00:23Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 2464,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

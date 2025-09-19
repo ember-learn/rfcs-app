@@ -1,0 +1,139 @@
+{
+  "number": 995,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/995",
+  "title": "Deprecate non-colocated components.",
+  "createdAt": "2023-12-15T19:38:46Z",
+  "closed": true,
+  "closedAt": "2024-03-08T20:05:24Z",
+  "merged": true,
+  "mergedAt": "2024-03-08T20:05:24Z",
+  "assignees": [
+    {
+      "login": "NullVoxPopuli",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/199018?v=4"
+    },
+    {
+      "login": "mansona",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/594890?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-15T19:39:10Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-02-23T19:46:23Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-02-23T19:47:21Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-03-01T19:17:19Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "recommended",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-02-23T19:46:23Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 71,
+    "exploring": 15,
+    "accepted": 56,
+    "release": 71,
+    "released": 105
+  },
+  "connected": [
+    {
+      "number": 1012,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1012",
+      "title": "Advance RFC #0995 `\"Deprecate non-co-located components.\"` to Stage Ready for Release",
+      "createdAt": "2024-03-08T20:06:04Z",
+      "closed": true,
+      "closedAt": "2024-05-03T18:04:54Z",
+      "merged": true,
+      "mergedAt": "2024-05-03T18:04:54Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-03-08T20:06:05Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-03-08T20:06:05Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-04-26T18:33:21Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 1023,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1023",
+      "title": "Advance RFC #0995 `\"Deprecate non-co-located components.\"` to Stage Released",
+      "createdAt": "2024-05-03T18:05:43Z",
+      "closed": true,
+      "closedAt": "2024-07-12T18:19:47Z",
+      "merged": true,
+      "mergedAt": "2024-07-12T18:19:47Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-05-03T18:05:43Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-05-03T18:05:43Z",
+          "label": "S-Released"
+        }
+      ]
+    },
+    {
+      "number": 1040,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1040",
+      "title": "Advance RFC #0995 `\"Deprecate non-co-located components.\"` to Stage Recommended",
+      "createdAt": "2024-07-12T18:20:28Z",
+      "closed": true,
+      "closedAt": "2024-10-25T18:04:41Z",
+      "merged": true,
+      "mergedAt": "2024-10-25T18:04:41Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-07-12T18:20:29Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-07-12T18:20:29Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-10-18T18:11:01Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    }
+  ]
+}

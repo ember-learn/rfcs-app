@@ -1,0 +1,34 @@
+{
+  "number": 594,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/594",
+  "title": "set helper",
+  "createdAt": "2020-02-20T19:24:16Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:34:21Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:49:22Z",
+      "label": "T-templates"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 2036,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

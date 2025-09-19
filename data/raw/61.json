@@ -1,0 +1,18 @@
+{
+  "number": 61,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/61",
+  "title": "Ember Data background fetch RFC",
+  "createdAt": "2015-06-03T22:41:16Z",
+  "closed": true,
+  "closedAt": "2016-01-06T00:49:45Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2015-06-07T22:21:31Z",
+      "label": "T-ember-data"
+    }
+  ]
+}

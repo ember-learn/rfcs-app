@@ -1,0 +1,33 @@
+{
+  "number": 1006,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1006",
+  "title": "Deprecate the (action) template helper and modifier",
+  "createdAt": "2024-02-13T20:42:58Z",
+  "closed": true,
+  "closedAt": "2024-03-08T20:03:07Z",
+  "merged": true,
+  "mergedAt": "2024-03-08T20:03:07Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-02-13T20:43:16Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-02-23T19:46:57Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-02-23T19:47:32Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-02-23T19:51:22Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

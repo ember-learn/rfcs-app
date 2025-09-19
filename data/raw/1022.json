@@ -1,0 +1,23 @@
+{
+  "number": 1022,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1022",
+  "title": "Advance RFC #1006 `\"Deprecate (action) template helper and {{action}} modifier.\"` to Stage Released",
+  "createdAt": "2024-04-26T18:19:36Z",
+  "closed": true,
+  "closedAt": "2024-06-14T18:31:45Z",
+  "merged": true,
+  "mergedAt": "2024-06-14T18:31:45Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-04-26T18:19:37Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-04-26T18:19:37Z",
+      "label": "S-Released"
+    }
+  ]
+}

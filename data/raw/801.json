@@ -1,0 +1,28 @@
+{
+  "number": 801,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/801",
+  "title": "Deprecate `blacklist` and `whitelist` build options",
+  "createdAt": "2022-02-25T16:55:13Z",
+  "closed": true,
+  "closedAt": "2022-03-16T17:07:50Z",
+  "merged": true,
+  "mergedAt": "2022-03-16T17:07:50Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-03-03T19:39:04Z",
+      "label": "T-ember-cli"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-03-03T21:09:41Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-03-09T18:09:58Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

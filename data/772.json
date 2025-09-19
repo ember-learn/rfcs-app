@@ -1,0 +1,34 @@
+{
+  "number": 772,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/772",
+  "title": "Deprecate Bower Support",
+  "createdAt": "2021-11-10T15:52:50Z",
+  "closed": true,
+  "closedAt": "2021-12-08T18:11:09Z",
+  "merged": true,
+  "mergedAt": "2021-12-08T18:11:08Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-11-19T18:24:36Z",
+      "label": "T-ember-cli"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-12-01T18:34:57Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 1407,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

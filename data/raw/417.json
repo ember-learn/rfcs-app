@@ -1,0 +1,38 @@
+{
+  "number": 417,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/417",
+  "title": "Extensible inspector",
+  "createdAt": "2018-12-18T18:07:16Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-12-19T20:40:11Z",
+      "label": "T-Tooling"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:35:50Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T20:15:01Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2022-12-02T20:15:05Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-13T20:57:40Z",
+      "label": "Needs Champion"
+    }
+  ]
+}

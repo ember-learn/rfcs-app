@@ -1,0 +1,49 @@
+{
+  "number": 470,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/470",
+  "title": "`{{fn}}` Helper",
+  "createdAt": "2019-03-21T01:11:06Z",
+  "closed": true,
+  "closedAt": "2019-04-12T18:54:08Z",
+  "merged": true,
+  "mergedAt": "2019-04-12T18:54:08Z",
+  "assignees": [
+    {
+      "login": "pzuraq",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/685518?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-04-02T15:08:21Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-04-02T15:08:52Z",
+      "label": "T-templates"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2019-04-02T15:08:56Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-04-05T20:57:53Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 2373,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

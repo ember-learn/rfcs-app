@@ -1,0 +1,74 @@
+{
+  "number": 999,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/999",
+  "title": "Make hash built-in in strict-mode",
+  "createdAt": "2023-12-22T19:03:34Z",
+  "closed": true,
+  "closedAt": "2024-06-12T14:18:46Z",
+  "merged": true,
+  "mergedAt": "2024-06-12T14:18:45Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-22T19:03:57Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-01-19T19:59:02Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-02-09T20:03:46Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-17T18:42:24Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-01-19T19:59:02Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 29,
+    "exploring": 145,
+    "accepted": 462,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 1031,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1031",
+      "title": "Advance RFC #0999 `\"Make (hash) a built in helper\"` to Stage Ready for Release",
+      "createdAt": "2024-06-12T14:19:45Z",
+      "closed": false,
+      "closedAt": null,
+      "merged": false,
+      "mergedAt": null,
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-06-12T14:19:46Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-06-12T14:19:46Z",
+          "label": "S-Ready for Release"
+        }
+      ]
+    }
+  ]
+}

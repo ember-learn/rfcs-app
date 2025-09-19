@@ -1,0 +1,38 @@
+{
+  "number": 790,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/790",
+  "title": "Deprecate ajax in favor of fetch in ember-data",
+  "createdAt": "2022-01-29T16:52:51Z",
+  "closed": true,
+  "closedAt": "2022-12-13T00:44:46Z",
+  "merged": true,
+  "mergedAt": "2022-12-13T00:44:46Z",
+  "assignees": [
+    {
+      "login": "snewcomer",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7374640?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-01-29T16:52:51Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-03-03T21:09:40Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-04-13T23:01:20Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-13T00:42:59Z",
+      "label": "S-Exploring"
+    }
+  ]
+}

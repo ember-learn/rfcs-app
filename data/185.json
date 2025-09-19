@@ -1,0 +1,25 @@
+{
+  "number": 185,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/185",
+  "title": "RFC: POST to Fastboot",
+  "createdAt": "2016-12-05T00:02:22Z",
+  "closed": true,
+  "closedAt": "2019-01-18T18:36:28Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-08-01T03:33:01Z",
+      "label": "T-fastboot"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 775
+  },
+  "connected": []
+}

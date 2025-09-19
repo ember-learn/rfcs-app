@@ -1,0 +1,63 @@
+{
+  "number": 858,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/858",
+  "title": "Deprecate `ember-mocha`",
+  "createdAt": "2022-11-08T19:27:18Z",
+  "closed": true,
+  "closedAt": "2023-03-10T19:53:37Z",
+  "merged": true,
+  "mergedAt": "2023-03-10T19:53:37Z",
+  "assignees": [
+    {
+      "login": "bertdeblock",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7403183?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-08T19:27:37Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-08T19:27:37Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-08T19:27:37Z",
+      "label": "T-learning"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:31:29Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-01-27T19:45:34Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-27T19:45:34Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-27T19:45:34Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-01-27T19:46:32Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-03T19:05:17Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "number": 731,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/731",
+  "title": "Add setRouteComponent API",
+  "createdAt": "2021-03-26T15:11:59Z",
+  "closed": true,
+  "closedAt": "2023-10-20T14:10:34Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "ef4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/319282?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-01T14:51:39Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:37:19Z",
+      "label": "T-routing"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:37:19Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-10-13T18:44:45Z",
+      "label": "FCP to close"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-01T14:51:39Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 938
+  },
+  "connected": []
+}

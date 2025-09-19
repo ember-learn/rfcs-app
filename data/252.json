@@ -1,0 +1,29 @@
+{
+  "number": 252,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/252",
+  "title": "Browser Support Changes",
+  "createdAt": "2017-09-25T15:45:17Z",
+  "closed": true,
+  "closedAt": "2017-10-13T18:41:35Z",
+  "merged": true,
+  "mergedAt": "2017-10-13T18:41:35Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-10-01T15:41:35Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 2914,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

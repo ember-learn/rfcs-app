@@ -1,0 +1,39 @@
+{
+  "number": 395,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/395",
+  "title": "@ember-data packages",
+  "createdAt": "2018-11-01T01:41:52Z",
+  "closed": true,
+  "closedAt": "2019-01-16T22:23:50Z",
+  "merged": true,
+  "mergedAt": "2019-01-16T22:23:50Z",
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-11-14T22:02:58Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-12-19T22:50:26Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 2513,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

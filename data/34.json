@@ -1,0 +1,25 @@
+{
+  "number": 34,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/34",
+  "title": "RFC: Default Container Values",
+  "createdAt": "2015-02-15T23:59:50Z",
+  "closed": true,
+  "closedAt": "2015-05-28T02:20:31Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2015-03-27T18:56:20Z",
+      "label": "Needs Response"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 102
+  },
+  "connected": []
+}

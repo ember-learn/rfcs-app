@@ -1,0 +1,42 @@
+{
+  "number": 951,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/951",
+  "title": "Advance RFC #0730 `\"Semantic Versioning for TypeScript Types\"` to Stage Recommended",
+  "createdAt": "2023-08-24T18:06:09Z",
+  "closed": true,
+  "closedAt": "2023-09-15T19:02:00Z",
+  "merged": true,
+  "mergedAt": "2023-09-15T19:02:00Z",
+  "assignees": [
+    {
+      "login": "wagenet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
+    },
+    {
+      "login": "gitKrystan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14152574?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-24T18:06:10Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-24T18:06:10Z",
+      "label": "S-Recommended"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-24T18:20:35Z",
+      "label": "T-TypeScript"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-07T16:22:30Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

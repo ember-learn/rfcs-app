@@ -1,0 +1,28 @@
+{
+  "number": 779,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/779",
+  "title": "First-Class Component Templates",
+  "createdAt": "2021-12-03T17:54:56Z",
+  "closed": true,
+  "closedAt": "2022-03-04T19:10:36Z",
+  "merged": true,
+  "mergedAt": "2022-03-04T19:10:35Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-02-15T17:15:28Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-02-15T17:15:28Z",
+      "label": "T-templates"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-02-15T18:13:13Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

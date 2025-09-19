@@ -1,0 +1,54 @@
+{
+  "number": 459,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/459",
+  "title": "Angle Bracket Invocations For Built-in Components",
+  "createdAt": "2019-03-06T20:35:59Z",
+  "closed": true,
+  "closedAt": "2019-03-15T23:49:26Z",
+  "merged": true,
+  "mergedAt": "2019-03-15T23:49:26Z",
+  "assignees": [
+    {
+      "login": "chancancode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55829?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-03-06T21:18:24Z",
+      "label": "T-templates"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-03-06T21:18:24Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-03-06T21:18:24Z",
+      "label": "T-components"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-03-06T21:18:25Z",
+      "label": "Octane"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-03-09T00:35:43Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 2387,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

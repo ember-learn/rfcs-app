@@ -1,0 +1,23 @@
+{
+  "number": 519,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/519",
+  "title": "Ember 2020 Roadmap RFC",
+  "createdAt": "2019-07-29T18:29:49Z",
+  "closed": true,
+  "closedAt": "2020-05-01T18:57:15Z",
+  "merged": true,
+  "mergedAt": "2020-05-01T18:57:15Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2020-04-03T16:40:37Z",
+      "label": "T-steering"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2020-04-17T17:39:11Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

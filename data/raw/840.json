@@ -1,0 +1,12 @@
+{
+  "number": 840,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/840",
+  "title": "fix invalid data issues with FIXMEs",
+  "createdAt": "2022-08-09T11:55:58Z",
+  "closed": true,
+  "closedAt": "2022-08-09T14:07:23Z",
+  "merged": true,
+  "mergedAt": "2022-08-09T14:07:23Z",
+  "assignees": [],
+  "timelineItems": []
+}

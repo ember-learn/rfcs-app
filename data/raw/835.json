@@ -1,0 +1,12 @@
+{
+  "number": 835,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/835",
+  "title": "Add missing frontmatter, including stages",
+  "createdAt": "2022-08-03T19:04:50Z",
+  "closed": true,
+  "closedAt": "2022-08-09T04:03:53Z",
+  "merged": true,
+  "mergedAt": "2022-08-09T04:03:53Z",
+  "assignees": [],
+  "timelineItems": []
+}

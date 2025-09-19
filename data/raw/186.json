@@ -1,0 +1,18 @@
+{
+  "number": 186,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/186",
+  "title": "RFC: Track unique history location state",
+  "createdAt": "2016-12-05T14:20:45Z",
+  "closed": true,
+  "closedAt": "2017-01-20T19:42:57Z",
+  "merged": true,
+  "mergedAt": "2017-01-20T19:42:57Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-01-17T01:59:07Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

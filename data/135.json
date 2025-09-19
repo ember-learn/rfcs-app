@@ -1,0 +1,25 @@
+{
+  "number": 135,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/135",
+  "title": "buildQuery RFC",
+  "createdAt": "2016-04-15T17:32:33Z",
+  "closed": true,
+  "closedAt": "2018-11-13T16:05:09Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2016-04-15T17:41:15Z",
+      "label": "T-ember-data"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 942
+  },
+  "connected": []
+}

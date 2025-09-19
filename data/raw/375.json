@@ -1,0 +1,28 @@
+{
+  "number": 375,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/375",
+  "title": "Deprecate Computed `.property()` Modifier",
+  "createdAt": "2018-09-14T17:49:00Z",
+  "closed": true,
+  "closedAt": "2018-10-26T15:38:47Z",
+  "merged": true,
+  "mergedAt": "2018-10-26T15:38:46Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2018-10-06T13:42:45Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2018-10-06T13:46:07Z",
+      "label": "T-framework"
+    }
+  ]
+}

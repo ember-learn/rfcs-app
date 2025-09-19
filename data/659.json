@@ -1,0 +1,81 @@
+{
+  "number": 659,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/659",
+  "title": "unique-id helper",
+  "createdAt": "2020-08-25T20:41:39Z",
+  "closed": true,
+  "closedAt": "2020-10-16T19:32:23Z",
+  "merged": true,
+  "mergedAt": "2020-10-16T19:32:23Z",
+  "assignees": [
+    {
+      "login": "mansona",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/594890?v=4"
+    },
+    {
+      "login": "MelSumner",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4587451?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2020-10-09T18:44:14Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "recommended",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 1849,
+    "exploring": null,
+    "accepted": 388,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 865,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/865",
+      "title": "Advance RFC #0659 \"unique-id helper\" to Stage Recommended",
+      "createdAt": "2022-11-23T17:09:48Z",
+      "closed": true,
+      "closedAt": "2023-12-15T19:09:46Z",
+      "merged": true,
+      "mergedAt": "2023-12-15T19:09:46Z",
+      "assignees": [
+        {
+          "login": "mansona",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/594890?v=4"
+        },
+        {
+          "login": "MelSumner",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/4587451?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2022-11-23T17:09:50Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2022-11-23T17:09:50Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-08-04T14:42:55Z",
+          "label": "Needs Champion"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-12-08T15:15:17Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    }
+  ]
+}

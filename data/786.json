@@ -1,0 +1,29 @@
+{
+  "number": 786,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/786",
+  "title": "rfc: Ember Learn | Add Ember cookbook ",
+  "createdAt": "2022-01-11T07:03:13Z",
+  "closed": true,
+  "closedAt": "2022-03-16T03:22:02Z",
+  "merged": true,
+  "mergedAt": "2022-03-16T03:22:02Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-02-15T17:13:24Z",
+      "label": "T-learning"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 1346,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

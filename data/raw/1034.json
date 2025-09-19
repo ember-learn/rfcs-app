@@ -1,0 +1,23 @@
+{
+  "number": 1034,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1034",
+  "title": "Advance RFC #1000 `\"Make (array) a built in helper\"` to Stage Ready for Release",
+  "createdAt": "2024-06-12T14:37:25Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-06-12T14:37:27Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-06-12T14:37:27Z",
+      "label": "S-Ready for Release"
+    }
+  ]
+}

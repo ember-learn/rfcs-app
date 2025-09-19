@@ -1,0 +1,34 @@
+{
+  "number": 452,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/452",
+  "title": "[Data] Medium Term Plan",
+  "createdAt": "2019-02-21T02:18:27Z",
+  "closed": true,
+  "closedAt": "2019-06-26T21:08:22Z",
+  "merged": true,
+  "mergedAt": "2019-06-26T21:08:22Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-02-22T22:08:25Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-03-17T01:18:11Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 2401,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

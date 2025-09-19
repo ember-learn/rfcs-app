@@ -1,0 +1,165 @@
+{
+  "number": 858,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/858",
+  "title": "Deprecate `ember-mocha`",
+  "createdAt": "2022-11-08T19:27:18Z",
+  "closed": true,
+  "closedAt": "2023-03-10T19:53:37Z",
+  "merged": true,
+  "mergedAt": "2023-03-10T19:53:37Z",
+  "assignees": [
+    {
+      "login": "bertdeblock",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7403183?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-08T19:27:37Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-08T19:27:37Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-11-08T19:27:37Z",
+      "label": "T-learning"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:31:29Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-01-27T19:45:34Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-27T19:45:34Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-27T19:45:34Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-01-27T19:46:32Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-03T19:05:17Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "recommended",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-27T19:45:34Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 81,
+    "exploring": 43,
+    "accepted": 182,
+    "release": 8,
+    "released": 28
+  },
+  "connected": [
+    {
+      "number": 908,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/908",
+      "title": "Advance RFC #0858 `\"Deprecate ember-mocha\"` to Stage Ready for Release",
+      "createdAt": "2023-03-10T19:54:33Z",
+      "closed": true,
+      "closedAt": "2023-09-08T18:32:37Z",
+      "merged": true,
+      "mergedAt": "2023-09-08T18:32:37Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-03-10T19:54:34Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-03-10T19:54:34Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-08-18T14:21:09Z",
+          "label": "Needs Champion"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-01T18:21:39Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 956,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/956",
+      "title": "Advance RFC #0858 `\"Deprecate ember-mocha\"` to Stage Released",
+      "createdAt": "2023-09-08T18:33:29Z",
+      "closed": true,
+      "closedAt": "2023-09-15T19:08:43Z",
+      "merged": true,
+      "mergedAt": "2023-09-15T19:08:43Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-08T18:33:30Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-08T18:33:30Z",
+          "label": "S-Released"
+        }
+      ]
+    },
+    {
+      "number": 960,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/960",
+      "title": "Advance RFC #0858 `\"Deprecate ember-mocha\"` to Stage Recommended",
+      "createdAt": "2023-09-15T19:09:29Z",
+      "closed": true,
+      "closedAt": "2023-10-13T18:05:51Z",
+      "merged": true,
+      "mergedAt": "2023-10-13T18:05:51Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-15T19:09:29Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-15T19:09:30Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-10-06T14:23:25Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    }
+  ]
+}

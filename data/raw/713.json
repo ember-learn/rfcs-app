@@ -1,0 +1,12 @@
+{
+  "number": 713,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/713",
+  "title": "Convert Travis CI configuration into a GitHub Action",
+  "createdAt": "2021-01-28T11:18:54Z",
+  "closed": true,
+  "closedAt": "2022-01-06T19:09:04Z",
+  "merged": true,
+  "mergedAt": "2022-01-06T19:09:04Z",
+  "assignees": [],
+  "timelineItems": []
+}

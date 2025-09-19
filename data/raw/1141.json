@@ -1,0 +1,28 @@
+{
+  "number": 1141,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1141",
+  "title": "Advance RFC #1117 `\"Deprecate Classic Classes\"` to Stage Ready for Release",
+  "createdAt": "2025-08-29T18:15:01Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-29T18:15:02Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-29T18:15:02Z",
+      "label": "S-Ready for Release"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-08-29T18:15:03Z",
+      "label": "RFC Advancement"
+    }
+  ]
+}

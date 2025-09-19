@@ -1,0 +1,34 @@
+{
+  "number": 788,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/788",
+  "title": "in-implementation updates to the default helper manager RFC, 756",
+  "createdAt": "2022-01-13T23:54:32Z",
+  "closed": true,
+  "closedAt": "2023-06-08T17:42:32Z",
+  "merged": true,
+  "mergedAt": "2023-06-08T17:42:32Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:31:24Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-01-27T20:01:15Z",
+      "label": "S-Proposed"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 1343,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

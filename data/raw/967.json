@@ -1,0 +1,28 @@
+{
+  "number": 967,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/967",
+  "title": "Advance RFC #0740 `\"EmberData | Deprecate Non Strict Types\"` to Stage Released",
+  "createdAt": "2023-09-22T18:20:32Z",
+  "closed": true,
+  "closedAt": "2023-09-24T10:19:45Z",
+  "merged": true,
+  "mergedAt": "2023-09-24T10:19:45Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-22T18:20:33Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-22T18:20:33Z",
+      "label": "S-Released"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-22T18:42:47Z",
+      "label": "T-ember-data"
+    }
+  ]
+}

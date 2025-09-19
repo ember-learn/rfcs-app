@@ -1,0 +1,33 @@
+{
+  "number": 908,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/908",
+  "title": "Advance RFC #0858 `\"Deprecate ember-mocha\"` to Stage Ready for Release",
+  "createdAt": "2023-03-10T19:54:33Z",
+  "closed": true,
+  "closedAt": "2023-09-08T18:32:37Z",
+  "merged": true,
+  "mergedAt": "2023-09-08T18:32:37Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-10T19:54:34Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-10T19:54:34Z",
+      "label": "S-Ready for Release"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-18T14:21:09Z",
+      "label": "Needs Champion"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-01T18:21:39Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

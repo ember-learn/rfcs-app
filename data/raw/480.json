@@ -1,0 +1,12 @@
+{
+  "number": 480,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/480",
+  "title": "Update Merged RFCs to point to tracking issues",
+  "createdAt": "2019-04-19T18:57:41Z",
+  "closed": true,
+  "closedAt": "2019-04-19T19:14:40Z",
+  "merged": true,
+  "mergedAt": "2019-04-19T19:14:40Z",
+  "assignees": [],
+  "timelineItems": []
+}

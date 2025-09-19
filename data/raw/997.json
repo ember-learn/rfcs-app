@@ -1,0 +1,33 @@
+{
+  "number": 997,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/997",
+  "title": "Make the `on` modifier built-in in strict-mode",
+  "createdAt": "2023-12-22T19:01:32Z",
+  "closed": true,
+  "closedAt": "2024-06-12T14:27:11Z",
+  "merged": true,
+  "mergedAt": "2024-06-12T14:27:11Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-12-22T19:01:46Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-01-19T19:58:56Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-02-09T20:03:45Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-17T18:37:59Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

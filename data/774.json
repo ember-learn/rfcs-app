@@ -1,0 +1,165 @@
+{
+  "number": 774,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/774",
+  "title": "Deprecate implicit record loading in Ember Route",
+  "createdAt": "2021-11-14T13:31:13Z",
+  "closed": true,
+  "closedAt": "2023-02-03T19:24:49Z",
+  "merged": true,
+  "mergedAt": "2023-02-03T19:24:48Z",
+  "assignees": [
+    {
+      "login": "wagenet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-11-14T13:31:13Z",
+      "label": "T-routing"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-03-03T21:09:39Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:34:27Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-13T21:16:01Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-01-13T21:16:05Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-27T19:37:31Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "recommended",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-13T21:16:01Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 426,
+    "exploring": 21,
+    "accepted": 210,
+    "release": 22,
+    "released": 196
+  },
+  "connected": [
+    {
+      "number": 900,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/900",
+      "title": "Advance RFC #0774 \"Deprecate implicit record loading in Ember Route\" to Stage Ready for Release",
+      "createdAt": "2023-02-03T19:25:43Z",
+      "closed": true,
+      "closedAt": "2023-09-01T14:08:03Z",
+      "merged": true,
+      "mergedAt": "2023-09-01T14:08:03Z",
+      "assignees": [
+        {
+          "login": "wagenet",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-02-03T19:25:44Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-02-03T19:25:44Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-08-18T18:26:01Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 955,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/955",
+      "title": "Advance RFC #0774 `\"Deprecate Implicit Record Loading in Routes\"` to Stage Released",
+      "createdAt": "2023-09-01T14:09:03Z",
+      "closed": true,
+      "closedAt": "2023-09-22T19:15:17Z",
+      "merged": true,
+      "mergedAt": "2023-09-22T19:15:17Z",
+      "assignees": [
+        {
+          "login": "wagenet",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-01T14:09:04Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-01T14:09:04Z",
+          "label": "S-Released"
+        }
+      ]
+    },
+    {
+      "number": 970,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/970",
+      "title": "Advance RFC #0774 `\"Deprecate Implicit Record Loading in Routes\"` to Stage Recommended",
+      "createdAt": "2023-09-22T19:16:12Z",
+      "closed": true,
+      "closedAt": "2024-04-05T18:21:06Z",
+      "merged": true,
+      "mergedAt": "2024-04-05T18:21:06Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-22T19:16:13Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-22T19:16:13Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-29T18:10:51Z",
+          "label": "Final Comment Period"
+        },
+        {
+          "event": "unlabeled",
+          "createdAt": "2023-10-06T18:25:41Z",
+          "label": "Final Comment Period"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-03-29T18:11:15Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    }
+  ]
+}

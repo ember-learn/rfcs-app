@@ -1,0 +1,18 @@
+{
+  "number": 208,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/208",
+  "title": "Contextual helpers",
+  "createdAt": "2017-02-07T22:40:00Z",
+  "closed": true,
+  "closedAt": "2019-01-17T19:50:48Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-08-01T03:22:03Z",
+      "label": "T-templates"
+    }
+  ]
+}

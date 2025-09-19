@@ -1,0 +1,148 @@
+{
+  "number": 776,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/776",
+  "title": "Author Built-In Blueprints in TypeScript",
+  "createdAt": "2021-11-16T22:21:23Z",
+  "closed": true,
+  "closedAt": "2022-01-05T18:13:41Z",
+  "merged": true,
+  "mergedAt": "2022-01-05T18:13:41Z",
+  "assignees": [
+    {
+      "login": "chriskrycho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+    },
+    {
+      "login": "gitKrystan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14152574?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2021-11-16T22:27:31Z",
+      "label": "T-ember-cli"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2021-12-17T18:28:27Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "recommended",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 1401,
+    "exploring": null,
+    "accepted": 105,
+    "release": 1,
+    "released": 277
+  },
+  "connected": [
+    {
+      "number": 873,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/873",
+      "title": "Advance RFC #0776 \"Author built-in blueprints in Typescript\" to Stage Ready for Release",
+      "createdAt": "2022-11-28T22:18:37Z",
+      "closed": true,
+      "closedAt": "2023-03-13T19:43:43Z",
+      "merged": true,
+      "mergedAt": "2023-03-13T19:43:43Z",
+      "assignees": [
+        {
+          "login": "chriskrycho",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2022-11-28T22:18:38Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2022-11-28T22:18:38Z",
+          "label": "S-Ready for Release"
+        }
+      ]
+    },
+    {
+      "number": 911,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/911",
+      "title": "Advance RFC #0776 `\"Author Built-In Blueprints in TypeScript\"` to Stage Released",
+      "createdAt": "2023-03-13T19:44:39Z",
+      "closed": true,
+      "closedAt": "2023-03-13T19:54:08Z",
+      "merged": true,
+      "mergedAt": "2023-03-13T19:54:08Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-03-13T19:44:40Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-03-13T19:44:40Z",
+          "label": "S-Released"
+        }
+      ]
+    },
+    {
+      "number": 912,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/912",
+      "title": "Advance RFC #0776 `\"Author Built-In Blueprints in TypeScript\"` to Stage Recommended",
+      "createdAt": "2023-03-13T19:55:08Z",
+      "closed": true,
+      "closedAt": "2023-12-15T19:08:35Z",
+      "merged": true,
+      "mergedAt": "2023-12-15T19:08:35Z",
+      "assignees": [
+        {
+          "login": "gitKrystan",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/14152574?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-03-13T19:55:10Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-03-13T19:55:10Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-03-23T18:46:05Z",
+          "label": "E-Polaris"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-06-23T18:25:14Z",
+          "label": "Needs Champion"
+        },
+        {
+          "event": "unlabeled",
+          "createdAt": "2023-08-11T18:10:00Z",
+          "label": "Needs Champion"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-08-18T18:34:45Z",
+          "label": "T-TypeScript"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-12-08T15:53:29Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    }
+  ]
+}

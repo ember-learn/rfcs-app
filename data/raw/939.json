@@ -1,0 +1,33 @@
+{
+  "number": 939,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/939",
+  "title": "Introduce import.meta.glob",
+  "createdAt": "2023-07-26T23:03:04Z",
+  "closed": true,
+  "closedAt": "2023-11-10T15:10:13Z",
+  "merged": true,
+  "mergedAt": "2023-11-10T15:10:12Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-07-26T23:03:24Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-04T15:02:39Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-08-04T15:02:45Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-11-03T18:33:47Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

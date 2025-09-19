@@ -1,0 +1,23 @@
+{
+  "number": 221,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/221",
+  "title": "RFC to deprecate `resetNamespace`",
+  "createdAt": "2017-04-18T13:37:26Z",
+  "closed": true,
+  "closedAt": "2018-01-22T15:29:56Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-08-01T03:19:42Z",
+      "label": "T-routing"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2017-08-01T03:19:53Z",
+      "label": "T-deprecation"
+    }
+  ]
+}

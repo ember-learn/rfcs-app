@@ -1,0 +1,28 @@
+{
+  "number": 1054,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1054",
+  "title": "External default blueprints in ember-cli",
+  "createdAt": "2024-12-01T04:17:06Z",
+  "closed": true,
+  "closedAt": "2024-12-16T16:58:11Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-12-01T04:17:23Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-12-06T19:40:54Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-12-06T19:41:00Z",
+      "label": "S-Proposed"
+    }
+  ]
+}

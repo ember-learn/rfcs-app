@@ -1,0 +1,48 @@
+{
+  "number": 1027,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1027",
+  "title": "EmberData | SchemaService",
+  "createdAt": "2024-05-11T10:05:52Z",
+  "closed": true,
+  "closedAt": "2024-06-07T17:09:39Z",
+  "merged": true,
+  "mergedAt": "2024-06-07T17:09:39Z",
+  "assignees": [
+    {
+      "login": "runspired",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/650309?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-11T10:05:52Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-11T10:05:52Z",
+      "label": "T-deprecation"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-11T10:06:08Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-05-17T17:39:19Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-17T17:39:19Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-05-23T23:55:24Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

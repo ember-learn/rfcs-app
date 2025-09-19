@@ -1,0 +1,35 @@
+{
+  "number": 113,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/113",
+  "title": "Expose query param defaults",
+  "createdAt": "2016-01-27T14:37:21Z",
+  "closed": true,
+  "closedAt": "2022-12-16T19:36:00Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:35:46Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:36:39Z",
+      "label": "T-routing"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-06T23:46:53Z",
+      "label": "FCP to close"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 2516
+  },
+  "connected": []
+}

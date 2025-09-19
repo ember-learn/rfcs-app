@@ -1,0 +1,35 @@
+{
+  "number": 202,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/202",
+  "title": "Allow the `with` helper accept named arguments",
+  "createdAt": "2017-01-17T12:53:47Z",
+  "closed": true,
+  "closedAt": "2020-11-03T18:44:05Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "locks",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32344?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2017-08-01T03:23:51Z",
+      "label": "T-templates"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-01-25T03:18:55Z",
+      "label": "Needs Champion"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 1387
+  },
+  "connected": []
+}

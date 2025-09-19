@@ -1,0 +1,23 @@
+{
+  "number": 991,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/991",
+  "title": "Advance RFC #0785 `\"Introduce new test helpers for rendering (and re-rendering) that obviate the need for get and set\"` to Stage Recommended",
+  "createdAt": "2023-11-29T19:55:37Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-11-29T19:55:38Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-11-29T19:55:38Z",
+      "label": "S-Recommended"
+    }
+  ]
+}

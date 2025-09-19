@@ -1,0 +1,39 @@
+{
+  "number": 143,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/143",
+  "title": "Module Unification",
+  "createdAt": "2016-05-09T18:11:26Z",
+  "closed": true,
+  "closedAt": "2016-10-18T15:06:41Z",
+  "merged": true,
+  "mergedAt": "2016-10-18T15:06:41Z",
+  "assignees": [
+    {
+      "login": "mixonic",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8752?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2016-06-29T20:05:41Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2016-10-18T16:48:51Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 3418,
+    "exploring": null,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

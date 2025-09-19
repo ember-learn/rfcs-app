@@ -1,0 +1,28 @@
+{
+  "number": 896,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/896",
+  "title": "Advance RFC #0649 \"Deprecation Staging\" to Stage Ready for Release",
+  "createdAt": "2023-01-12T21:16:31Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "wagenet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-12T21:16:33Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-12T21:16:33Z",
+      "label": "S-Ready for Release"
+    }
+  ]
+}

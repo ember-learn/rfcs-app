@@ -1,0 +1,28 @@
+{
+  "number": 988,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/988",
+  "title": "Advance RFC #0939 `\"Introduce a Wildcard Module Import API\"` to Stage Ready for Release",
+  "createdAt": "2023-11-10T15:11:09Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "NullVoxPopuli",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/199018?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-11-10T15:11:11Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-11-10T15:11:11Z",
+      "label": "S-Ready for Release"
+    }
+  ]
+}

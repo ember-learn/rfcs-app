@@ -1,0 +1,23 @@
+{
+  "number": 1047,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1047",
+  "title": "Advance RFC #1026 `\"EmberData | Deprecate Store extending EmberObject\"` to Stage Released",
+  "createdAt": "2024-10-04T18:23:50Z",
+  "closed": true,
+  "closedAt": "2024-11-08T19:09:12Z",
+  "merged": true,
+  "mergedAt": "2024-11-08T19:09:12Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-10-04T18:23:50Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-10-04T18:23:50Z",
+      "label": "S-Released"
+    }
+  ]
+}

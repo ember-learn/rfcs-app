@@ -1,0 +1,74 @@
+{
+  "number": 977,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/977",
+  "title": "V2 App",
+  "createdAt": "2023-10-06T17:12:27Z",
+  "closed": true,
+  "closedAt": "2024-12-20T19:11:55Z",
+  "merged": true,
+  "mergedAt": "2024-12-20T19:11:55Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-10-06T17:12:49Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2024-04-12T18:28:38Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-04-12T18:28:38Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2024-12-13T19:28:44Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "accepted",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-04-12T18:28:38Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 190,
+    "exploring": 253,
+    "accepted": 271,
+    "release": null,
+    "released": null
+  },
+  "connected": [
+    {
+      "number": 1062,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1062",
+      "title": "Advance RFC #0977 `\"v2 App Format\"` to Stage Ready for Release",
+      "createdAt": "2024-12-20T19:12:43Z",
+      "closed": false,
+      "closedAt": null,
+      "merged": false,
+      "mergedAt": null,
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2024-12-20T19:12:44Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2024-12-20T19:12:44Z",
+          "label": "S-Ready for Release"
+        }
+      ]
+    }
+  ]
+}

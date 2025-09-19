@@ -1,0 +1,23 @@
+{
+  "number": 1088,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1088",
+  "title": "Advance RFC #1068 `\"Built in tracking utilities for common collections\"` (tracked-built-ins, built-in) to Stage Ready for Release",
+  "createdAt": "2025-03-21T18:22:51Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2025-03-21T18:22:52Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-03-21T18:22:52Z",
+      "label": "S-Ready for Release"
+    }
+  ]
+}

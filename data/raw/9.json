@@ -1,0 +1,12 @@
+{
+  "number": 9,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/9",
+  "title": "Computed properties change gate",
+  "createdAt": "2014-10-02T17:31:09Z",
+  "closed": true,
+  "closedAt": "2014-10-10T18:50:20Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": []
+}

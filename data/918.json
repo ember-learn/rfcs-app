@@ -1,0 +1,158 @@
+{
+  "number": 918,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/918",
+  "title": "Deprecate Support for Travis CI",
+  "createdAt": "2023-03-25T10:04:50Z",
+  "closed": true,
+  "closedAt": "2023-09-01T14:05:40Z",
+  "merged": true,
+  "mergedAt": "2023-09-01T14:05:40Z",
+  "assignees": [
+    {
+      "login": "locks",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32344?v=4"
+    },
+    {
+      "login": "bertdeblock",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7403183?v=4"
+    },
+    {
+      "login": "kategengler",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/444218?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-25T10:04:50Z",
+      "label": "T-learning"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-25T10:04:50Z",
+      "label": "T-ember-cli"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-25T10:05:09Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-04-07T18:59:11Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-04-07T18:59:11Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-18T18:46:10Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "recommended",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-04-07T18:59:11Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 14,
+    "exploring": 147,
+    "accepted": 43,
+    "release": 64,
+    "released": 21
+  },
+  "connected": [
+    {
+      "number": 954,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/954",
+      "title": "Advance RFC #0918 `\"Deprecate Support for Travis CI\"` to Stage Ready for Release",
+      "createdAt": "2023-09-01T14:06:46Z",
+      "closed": true,
+      "closedAt": "2023-10-13T18:04:46Z",
+      "merged": true,
+      "mergedAt": "2023-10-13T18:04:46Z",
+      "assignees": [
+        {
+          "login": "kategengler",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/444218?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-01T14:06:47Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-09-01T14:06:47Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-10-06T14:34:33Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 978,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/978",
+      "title": "Advance RFC #0918 `\"Deprecate Support for Travis CI\"` to Stage Released",
+      "createdAt": "2023-10-13T18:05:38Z",
+      "closed": true,
+      "closedAt": "2023-12-15T19:20:29Z",
+      "merged": true,
+      "mergedAt": "2023-12-15T19:20:29Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-10-13T18:05:39Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-10-13T18:05:39Z",
+          "label": "S-Released"
+        }
+      ]
+    },
+    {
+      "number": 994,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/994",
+      "title": "Advance RFC #0918 `\"Deprecate Support for Travis CI\"` to Stage Recommended",
+      "createdAt": "2023-12-15T19:21:13Z",
+      "closed": true,
+      "closedAt": "2024-01-05T19:07:30Z",
+      "merged": true,
+      "mergedAt": "2024-01-05T19:07:30Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-12-15T19:21:14Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-12-15T19:21:14Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-12-15T19:22:41Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    }
+  ]
+}

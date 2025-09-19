@@ -1,0 +1,43 @@
+{
+  "number": 812,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/812",
+  "title": "Add `tracked-built-ins` dependency",
+  "createdAt": "2022-03-29T20:53:51Z",
+  "closed": true,
+  "closedAt": "2022-12-13T00:39:00Z",
+  "merged": true,
+  "mergedAt": "2022-12-13T00:39:00Z",
+  "assignees": [
+    {
+      "login": "chriskrycho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-03-31T14:09:50Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:31:26Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2022-12-02T19:10:49Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T19:10:49Z",
+      "label": "Final Comment Period"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T19:10:49Z",
+      "label": "S-Exploring"
+    }
+  ]
+}

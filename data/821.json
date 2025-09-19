@@ -1,0 +1,139 @@
+{
+  "number": 821,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/821",
+  "title": "RFC: public types for Owner, Transition, RouteInfo",
+  "createdAt": "2022-05-24T03:02:48Z",
+  "closed": true,
+  "closedAt": "2022-07-29T18:14:54Z",
+  "merged": true,
+  "mergedAt": "2022-07-29T18:14:54Z",
+  "assignees": [
+    {
+      "login": "chriskrycho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-05-24T19:20:41Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-05-24T19:20:41Z",
+      "label": "T-learning"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-05-24T19:20:41Z",
+      "label": "T-TypeScript"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-07-23T01:36:48Z",
+      "label": "Final Comment Period"
+    }
+  ],
+  "currentStage": "recommended",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 1213,
+    "exploring": null,
+    "accepted": 14,
+    "release": 25,
+    "released": 56
+  },
+  "connected": [
+    {
+      "number": 874,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/874",
+      "title": "Advance RFC #0821 to Stage Ready for Release",
+      "createdAt": "2022-11-29T01:43:49Z",
+      "closed": true,
+      "closedAt": "2022-12-13T00:35:30Z",
+      "merged": true,
+      "mergedAt": "2022-12-13T00:35:30Z",
+      "assignees": [
+        {
+          "login": "chriskrycho",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2022-11-29T01:43:50Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2022-11-29T01:43:50Z",
+          "label": "S-Ready for Release"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2022-12-02T19:48:46Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    },
+    {
+      "number": 884,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/884",
+      "title": "Advance RFC #0821 to Stage Released",
+      "createdAt": "2022-12-13T00:36:25Z",
+      "closed": true,
+      "closedAt": "2023-01-06T20:21:40Z",
+      "merged": true,
+      "mergedAt": "2023-01-06T20:21:40Z",
+      "assignees": [],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2022-12-13T00:36:26Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2022-12-13T00:36:26Z",
+          "label": "S-Released"
+        }
+      ]
+    },
+    {
+      "number": 893,
+      "url": "https://api.github.com/repos/emberjs/rfcs/pulls/893",
+      "title": "Advance RFC #0821 \"RFC: public types for Owner, Transition, RouteInfo\" to Stage Recommended",
+      "createdAt": "2023-01-06T20:22:40Z",
+      "closed": true,
+      "closedAt": "2023-03-03T19:17:15Z",
+      "merged": true,
+      "mergedAt": "2023-03-03T19:17:15Z",
+      "assignees": [
+        {
+          "login": "chriskrycho",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2403023?v=4"
+        }
+      ],
+      "timelineItems": [
+        {
+          "event": "labeled",
+          "createdAt": "2023-01-06T20:22:41Z",
+          "label": "RFC Advancement"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-01-06T20:22:41Z",
+          "label": "S-Recommended"
+        },
+        {
+          "event": "labeled",
+          "createdAt": "2023-02-17T20:15:58Z",
+          "label": "Final Comment Period"
+        }
+      ]
+    }
+  ]
+}

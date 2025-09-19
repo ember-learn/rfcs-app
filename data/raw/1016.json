@@ -1,0 +1,18 @@
+{
+  "number": 1016,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/1016",
+  "title": "Remove support for this.attrs",
+  "createdAt": "2024-03-27T21:32:56Z",
+  "closed": true,
+  "closedAt": "2024-03-29T22:55:13Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2024-03-27T21:33:10Z",
+      "label": "S-Proposed"
+    }
+  ]
+}

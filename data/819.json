@@ -1,0 +1,75 @@
+{
+  "number": 819,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/819",
+  "title": "Public router service",
+  "createdAt": "2022-05-12T20:00:08Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-05-12T20:06:09Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-05-12T20:06:09Z",
+      "label": "T-ember-engines"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:31:28Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-09-22T18:59:06Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-22T18:59:06Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-09-22T19:04:01Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-22T19:04:01Z",
+      "label": "S-Proposed"
+    }
+  ],
+  "currentStage": "proposed",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-09-22T18:59:06Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-09-22T19:04:01Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 498,
+    "exploring": 726,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

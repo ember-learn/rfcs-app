@@ -1,0 +1,43 @@
+{
+  "number": 558,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/558",
+  "title": "Specifying and detecting an applications edition.",
+  "createdAt": "2019-12-05T22:12:58Z",
+  "closed": true,
+  "closedAt": "2019-12-13T20:11:32Z",
+  "merged": true,
+  "mergedAt": "2019-12-13T20:11:31Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-12-05T22:12:58Z",
+      "label": "T-ember-data"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-12-05T22:12:58Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-12-05T22:12:58Z",
+      "label": "Octane"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-12-05T22:12:58Z",
+      "label": "T-Tooling"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-12-06T20:25:11Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

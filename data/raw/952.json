@@ -1,0 +1,42 @@
+{
+  "number": 952,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/952",
+  "title": "Advance RFC #0724 `\"Official TypeScript Support\"` to Stage Recommended",
+  "createdAt": "2023-08-24T18:20:49Z",
+  "closed": true,
+  "closedAt": "2025-02-21T19:11:12Z",
+  "merged": true,
+  "mergedAt": "2025-02-21T19:11:12Z",
+  "assignees": [
+    {
+      "login": "wagenet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
+    },
+    {
+      "login": "gitKrystan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14152574?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-24T18:20:50Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-24T18:20:50Z",
+      "label": "S-Recommended"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-08-24T18:21:28Z",
+      "label": "T-TypeScript"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2025-02-14T20:05:39Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

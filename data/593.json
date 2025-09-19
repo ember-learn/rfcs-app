@@ -1,0 +1,50 @@
+{
+  "number": 593,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/593",
+  "title": "Spreadable Arguments",
+  "createdAt": "2020-02-12T13:04:43Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "wycats",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2022-12-02T15:34:21Z",
+      "label": "S-Proposed"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-27T19:58:21Z",
+      "label": "S-Exploring"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2023-01-27T19:58:24Z",
+      "label": "S-Proposed"
+    }
+  ],
+  "currentStage": "exploring",
+  "labels": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-01-27T19:58:21Z",
+      "label": "S-Exploring"
+    }
+  ],
+  "fcp": false,
+  "stageDuration": {
+    "proposed": 1081,
+    "exploring": 964,
+    "accepted": null,
+    "release": null,
+    "released": null
+  },
+  "connected": []
+}

@@ -1,0 +1,18 @@
+{
+  "number": 62,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/62",
+  "title": "Redirects",
+  "createdAt": "2015-06-06T23:43:42Z",
+  "closed": true,
+  "closedAt": "2022-07-20T18:56:53Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2020-11-03T19:10:39Z",
+      "label": "T-routing"
+    }
+  ]
+}

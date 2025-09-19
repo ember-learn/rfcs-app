@@ -1,0 +1,28 @@
+{
+  "number": 983,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/983",
+  "title": "Advance RFC #0763 `\"Asset Import Spec\"` to Stage Ready for Release",
+  "createdAt": "2023-10-27T18:17:07Z",
+  "closed": false,
+  "closedAt": null,
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "ef4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/319282?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-10-27T18:17:08Z",
+      "label": "RFC Advancement"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-10-27T18:17:08Z",
+      "label": "S-Ready for Release"
+    }
+  ]
+}

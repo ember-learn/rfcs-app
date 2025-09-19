@@ -1,0 +1,55 @@
+{
+  "number": 37,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/37",
+  "title": "Element and Fragment RFC",
+  "createdAt": "2015-02-27T20:31:56Z",
+  "closed": true,
+  "closedAt": "2015-06-07T18:48:26Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [
+    {
+      "login": "ebryn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3018?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2015-03-27T19:05:55Z",
+      "label": "Needs Champion"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2015-03-27T19:05:55Z",
+      "label": "Needs Implementer"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2015-04-03T16:16:21Z",
+      "label": "Needs Champion"
+    },
+    {
+      "event": "unlabeled",
+      "createdAt": "2015-04-03T16:16:21Z",
+      "label": "Needs Implementer"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2015-04-06T01:05:08Z",
+      "label": "Needs Champion"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2015-04-06T01:05:08Z",
+      "label": "Needs Implementer"
+    }
+  ],
+  "currentStage": "closed",
+  "labels": [],
+  "fcp": false,
+  "stageDuration": {
+    "closed": 100
+  },
+  "connected": []
+}

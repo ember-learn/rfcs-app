@@ -1,0 +1,18 @@
+{
+  "number": 8,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/8",
+  "title": "RFC: ES6 container",
+  "createdAt": "2014-09-22T12:18:09Z",
+  "closed": true,
+  "closedAt": "2015-06-07T18:25:12Z",
+  "merged": false,
+  "mergedAt": null,
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2015-03-27T18:43:46Z",
+      "label": "Needs Champion"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": 468,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/468",
+  "title": "`@classic` Decorator",
+  "createdAt": "2019-03-15T05:31:57Z",
+  "closed": true,
+  "closedAt": "2019-07-19T18:46:03Z",
+  "merged": true,
+  "mergedAt": "2019-07-19T18:46:02Z",
+  "assignees": [],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2019-04-02T15:36:29Z",
+      "label": "T-framework"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2019-07-12T18:47:49Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}

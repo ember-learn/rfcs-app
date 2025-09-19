@@ -1,0 +1,37 @@
+{
+  "number": 902,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/902",
+  "title": "Revise RFC 0800 with learnings from implementation",
+  "createdAt": "2023-02-07T14:31:51Z",
+  "closed": true,
+  "closedAt": "2023-09-07T16:27:42Z",
+  "merged": true,
+  "mergedAt": "2023-09-07T16:27:42Z",
+  "assignees": [
+    {
+      "login": "wagenet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9835?v=4"
+    },
+    {
+      "login": "gitKrystan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14152574?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2023-02-07T14:31:51Z",
+      "label": "T-ember-cli"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-02-07T14:31:51Z",
+      "label": "T-TypeScript"
+    },
+    {
+      "event": "labeled",
+      "createdAt": "2023-03-23T18:49:00Z",
+      "label": "E-Polaris"
+    }
+  ]
+}

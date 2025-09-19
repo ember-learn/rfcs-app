@@ -1,0 +1,23 @@
+{
+  "number": 631,
+  "url": "https://api.github.com/repos/emberjs/rfcs/pulls/631",
+  "title": "add refresh method to router service",
+  "createdAt": "2020-05-23T17:49:14Z",
+  "closed": true,
+  "closedAt": "2020-10-09T13:46:18Z",
+  "merged": true,
+  "mergedAt": "2020-10-09T13:46:18Z",
+  "assignees": [
+    {
+      "login": "rwjblue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12637?v=4"
+    }
+  ],
+  "timelineItems": [
+    {
+      "event": "labeled",
+      "createdAt": "2020-09-18T19:12:50Z",
+      "label": "Final Comment Period"
+    }
+  ]
+}
