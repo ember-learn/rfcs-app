@@ -49,7 +49,7 @@ import { NavigationNarrator } from 'ember-a11y-refocus';
               <LinkTo @route="stages.released">Released</LinkTo>
             </li>
             <li class="toc-item">
-              <LinkTo @route="stages.recommended">Recommenend</LinkTo>
+              <LinkTo @route="stages.recommended">Recommended</LinkTo>
             </li>
             <li class="toc-item">
               <LinkTo @route="stages.discontinued">Discontinued</LinkTo>
