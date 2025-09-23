@@ -39,7 +39,7 @@ import { pageTitle } from 'ember-page-title';
       <tr>
         <th>Core Team</th>
         <th>Project/Topics</th>
-        <th>Github Team</th>
+        <th>GitHub Team</th>
       </tr>
     </thead>
     <tbody>

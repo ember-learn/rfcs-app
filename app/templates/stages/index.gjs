@@ -11,7 +11,7 @@ import { pageTitle } from 'ember-page-title';
         and changes to enter the framework. RFCs can be created by
         <strong>any member</strong>
         of the community.</p>
-      <p>When an RFC is created and implemented it goes through six stages,
+      <p>When an RFC is created and implemented, it goes through six stages,
         proposed, exploring, accepted, ready-for-release, released and
         recommended. There are two statuses for when RFCs don't move forward,
         discontinued and closed.
@@ -80,15 +80,15 @@ import { pageTitle } from 'ember-page-title';
       <p>Proposed RFCs are opened as pull requests to the RFC repository.
         Anybody may create an RFC. The format should follow the templates in the
         RFC repository.</p>
-      <p>An RFC's number is the number of it's original proposal PR.</p>
+      <p>An RFC's number is the number of its original proposal PR.</p>
       <p>From "Proposed" an RFC may move to Exploring, or Closed stages. To move
         to Closed an FCP is required as in the existing process. A "Proposed"
         RFC may be moved to "Exploring" by consensus of the relevant team(s)
         without an FCP. See Exploring.</p>
       <h2 id="exploring">Exploring</h2>
 
-      <p>An Exploring RFC is one the Ember team believes should be pursued, but
-        the RFC may still need some more work, discussion, answers to open
+      <p>An Exploring RFC is one that the Ember team believes should be pursued,
+        but the RFC may still need some more work, discussion, answers to open
         questions, and/or a champion before it can move to the next stage.</p>
 
       <p>An RFC is moved into Exploring with consensus of the relevant teams.
@@ -150,7 +150,7 @@ import { pageTitle } from 'ember-page-title';
         about code. Some examples include Roadmap RFCs, changes to the RFC
         process itself, and changes to learning resources. When such an RFC is a
         candidate for Released, the work should be shipped as described, and the
-        result should presented to the team with the intent of gathering
+        result should be presented to the team with the intent of gathering
         feedback about whether anything is missing. If there is agreement that
         the work is complete, the RFC may be marked "Released" and a date is
         provided instead of a version.</p>
