@@ -2,6 +2,12 @@
   min-height: calc(100dvh - 90px);
 }
 
+@media screen and (width <= 1024px) {
+  .sidebar-container--full-width {
+    min-height: calc(100dvh - 56px);
+  }  
+}
+
 .rfc-card {
   display: grid;
   grid-template-columns: 100px 1fr 200px;
