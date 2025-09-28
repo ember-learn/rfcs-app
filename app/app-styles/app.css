@@ -1,8 +1,10 @@
+/* stylelint-disable-next-line selector-class-pattern */
 .sidebar-container--full-width {
   min-height: calc(100dvh - 90px);
 }
 
 @media screen and (width <= 1024px) {
+  /* stylelint-disable-next-line selector-class-pattern */
   .sidebar-container--full-width {
     min-height: calc(100dvh - 56px);
   }  
