@@ -30,7 +30,7 @@ import { NavigationNarrator } from 'ember-a11y-refocus';
             </li>
           </ul>
         </li>
-        <li class="toc-heading">RFC library</li>
+        <li class="toc-heading"><LinkTo @route="stages.library">RFC library</LinkTo></li>
         <li class="toc-item">
           <ul class="table-of-contents sub-table-of-contents">
             <li class="toc-item">
