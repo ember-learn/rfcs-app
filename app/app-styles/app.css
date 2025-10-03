@@ -7,7 +7,7 @@
   /* stylelint-disable-next-line selector-class-pattern */
   .sidebar-container--full-width {
     min-height: calc(100dvh - 56px);
-  }  
+  }
 }
 
 .rfc-card {
