@@ -41,6 +41,9 @@ importers:
       '@embroider/core':
         specifier: ^4.1.0
         version: 4.1.0
+      '@embroider/legacy-inspector-support':
+        specifier: ^0.1.2
+        version: 0.1.2
       '@embroider/macros':
         specifier: ^1.18.0
         version: 1.18.0
@@ -1022,6 +1025,9 @@ packages:
   '@embroider/core@4.1.0':
     resolution: {integrity: sha512-boX+qHg2O24l9braMOC0RQHCwV+dLoQVqRZcvevKxETAPO9HK8mo2pgR/w7bdB9yfFbBjucxs8x4uEIgfRKWJw==}
     engines: {node: 12.* || 14.* || >= 16}
+
+  '@embroider/legacy-inspector-support@0.1.2':
+    resolution: {integrity: sha512-mKQCEciMtylTnOyBI/B7q5+MFFt6n8RRVXu8sQvAZ05ZRz+MmYEW8nIjV24rRCUAS/irLicjDGrBwNVZFOPCfA==}
 
   '@embroider/macros@1.18.0':
     resolution: {integrity: sha512-KanP80XxNK4bmQ1HKTcUjy/cdCt9n7knPMLK1vzHdOFymACHo+GbhgUjXjYdOCuBTv+ZwcjL2P2XDmBcYS9r8g==}
@@ -9207,6 +9213,12 @@ snapshots:
       - canvas
       - supports-color
       - utf-8-validate
+
+  '@embroider/legacy-inspector-support@0.1.2':
+    dependencies:
+      '@embroider/addon-shim': 1.10.0
+    transitivePeerDependencies:
+      - supports-color
 
   '@embroider/macros@1.18.0':
     dependencies:
