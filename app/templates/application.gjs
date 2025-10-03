@@ -2,6 +2,7 @@ import { pageTitle } from 'ember-page-title';
 import { LinkTo } from '@ember/routing';
 import EsHeader from 'ember-styleguide/components/es-header';
 import EsSidebar from 'ember-styleguide/components/es-sidebar';
+import EsFooter from 'ember-styleguide/components/es-footer';
 import { NavigationNarrator } from 'ember-a11y-refocus';
 
 <template>
@@ -65,4 +66,6 @@ import { NavigationNarrator } from 'ember-a11y-refocus';
       {{outlet}}
     </div>
   </main>
+
+  <EsFooter />
 </template>
