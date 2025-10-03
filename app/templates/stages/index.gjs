@@ -215,7 +215,7 @@ import { pageTitle } from 'ember-page-title';
             <a href="#accepted">Accepted</a>
           </li>
           <li>
-            <a href="#read-for-release">Ready for Release</a>
+            <a href="#ready-for-release">Ready for Release</a>
           </li>
           <li>
             <a href="#released">Released</a>
