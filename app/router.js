@@ -17,6 +17,7 @@ Router.map(function () {
     this.route('discontinued');
     this.route('closed');
     this.route('ready-for-release');
+    this.route('library');
   });
   this.route('create-rfc');
   this.route('role-core-team');
